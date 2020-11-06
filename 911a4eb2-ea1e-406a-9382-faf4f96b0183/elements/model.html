@@ -28,6 +28,7 @@
 				<ul class="nav nav-tabs" role="tablist">
 					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
 					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+						<li role="presentation"><a href="#query" aria-controls="query" role="tab" data-toggle="tab" class="i18n-query"></a></li>
 				</ul>
 
 				<!-- Tab panes -->
@@ -48,6 +49,426 @@
 							</tbody>
 						</table>
 					</div>
+						<div role="tabpanel" class="tab-pane" id="query">
+						<br>
+						<style>
+						#myprompt {
+						    width: 80%;
+						    font-family: Consolas,Monaco, monospace;
+						}
+						</style>
+
+						<div id='myconsole'></div>
+
+						<p>
+							<tt><span id="useid">alasql</span> &gt;</tt> <input id='myprompt' autofocus/> 
+						</p>
+
+						<script src='../../lib/alasql/alasql.min.js'></script>
+
+						<script>
+							function decodeURL(s) {
+								return decodeURIComponent(s.replace(/\+/g, "%20"));
+							}
+
+							var first = decodeURI(location.search.substr(1));
+						 	alasql.options.logtarget = 'myconsole';
+							alasql.prompt('myprompt','useid');
+							alasql.prompt('myprompt','useid', first);
+
+							var dataElements = [ ];	  
+						  	var dataProperties = [ ];
+						 	var dataRelationships = [ ];
+
+										dataElements.push({id:"51ccb514-c8f3-4af8-9321-c0fcc0a15eec", type:"CourseOfAction", name:decodeURL("EST01.+Implementaci%C3%B3n+SPE"), description:decodeURL("La implementaci&#243;n del Sistema de Informaci&#243;n del Servicio P&#250;blico de Empleo el cual automatizar&#225; el Modelo de Inclusi&#243;n Laboral con enfoque de cierre de brechas y permitir&#225; la consolidaci&#243;n de una bolsa &#250;nica de empleo que permita el acceso y gesti&#243;n a todas las vacantes en toda la red de prestadores del Servicio P&#250;blico de Empleo, el fortalecimiento de servicios especializados dirigidos a eliminar las barreras de inclusi&#243;n laboral y facilitar la colocaci&#243;n de la poblaci&#243;n colombiana, bajo est&#225;ndares m&#237;nimos de calidad en la atenci&#243;n en la ruta b&#225;sica de empleo y la definici&#243;n de un nivel de intervenci&#243;n especializado que incluya acciones y/o ajustes a la ruta b&#225;sica. 
+								")});
+										dataElements.push({id:"6529e2b5-81c0-4467-88dd-0a772e76a6fd", type:"CourseOfAction", name:decodeURL("EST02.+Plataforma+Informaci%C3%B3n+para+SNC"), description:decodeURL("La consolidaci&#243;n de una plataforma de informaci&#243;n para el Sistema Nacional de Cualificaciones (SNC), como instrumento que articular&#225; y generar&#225; la interacci&#243;n de informaci&#243;n de demanda laboral (requerimientos y necesidades del sector productivo), oferta laboral (caracter&#237;sticas de quienes ofrecen su fuerza de trabajo) y oferta educativa y formativa (informaci&#243;n cuantitativa y cualitativa sobre los programas educativos y formativos y las instituciones que los ofrecen). 
+								")});
+										dataElements.push({id:"2c2a73fb-0dbc-4745-836f-4de1d7f82078", type:"CourseOfAction", name:decodeURL("EST03.+Sistema+Informaci%C3%B3n+Gesti%C3%B3n+Empleo+y+Productividad"), description:decodeURL("Gesti&#243;n del empleo y la productividad. Herramienta tecnol&#243;gica de informaci&#243;n que permitir&#225; integrar, interoperar, coordinar y focalizar los instrumentos de pol&#237;ticas activas y pasivas de empleo para el seguimiento y an&#225;lisis de las estrategias de inserci&#243;n laboral y la efectividad de los recursos destinados a la pol&#237;tica de empleo, 
+								(Medios)
+								a trav&#233;s la articulaci&#243;n del sistema del Servicio P&#250;blico de Empleo, la planilla integrada de liquidaci&#243;n de aportes (PILA), el sistema de seguimiento del mecanismo de protecci&#243;n al cesante (SIMPC), del sistema nacional de cualificaciones (SNC) y otras fuentes de informaci&#243;n relevantes que puedan aportar en aspectos como la capacitaci&#243;n, incentivos de cesant&#237;as, seguimiento y verificaci&#243;n de requisitos para la oferta laboral colombiana.
+								")});
+										dataElements.push({id:"daddb2b9-47a6-4af7-a355-4d7dd92d4159", type:"CourseOfAction", name:decodeURL("EST04.+Implementaci%C3%B3n+Subsistema+Aseguramiento+Calidad+de+la+Formaci%C3%B3n"), description:decodeURL("El dise&#241;o e implementaci&#243;n del subsistema de aseguramiento de la calidad de la formaci&#243;n para el trabajo a trav&#233;s de la consolidaci&#243;n de un modelo de aseguramiento de calidad de la formaci&#243;n que contempla el desarrollo de est&#225;ndares, metodolog&#237;as, indicadores y su implementaci&#243;n a trav&#233;s de pilotos que permitir&#225;n al fortalecimiento de la capacidad t&#233;cnica de los actores competentes y los prestadores del servicio de aprendizaje con lineamientos que se ajusten peri&#243;dicamente a la demanda del mercado laboral, y la incorporaci&#243;n de estrategias de seguimiento y evaluaci&#243;n que permitan reorientar la oferta de formaci&#243;n para el trabajo.")});
+										dataElements.push({id:"37e20aa4-8850-46cd-a8da-41a1da80dc0f", type:"CourseOfAction", name:decodeURL("EST05.+Consolidaci%C3%B3n+Lineamientos+del+Subsistema+Evaluaci%C3%B3n+y+Certificaci%C3%B3n+Competencias"), description:decodeURL("La consolidaci&#243;n de lineamientos t&#233;cnicos del subsistema de evaluaci&#243;n y certificaci&#243;n de competencias a partir del desarrollo de herramientas para la regulaci&#243;n y el fomento de la evaluaci&#243;n y certificaci&#243;n de competencias en sectores estrat&#233;gicos del pa&#237;s, a trav&#233;s de agentes certificadores que incluye el fortalecimiento de las capacidades del Ministerio del Trabajo, para fomentar, regular y registrar la certificaci&#243;n de competencias. ")});
+
+
+										dataElements.push({id:"62983d23-5b97-4675-9778-1a47ada24357", type:"BusinessService", name:decodeURL("BS01.+SNC"), description:decodeURL("El presente proyecto se traduce en importantes impactos para el sector trabajo en t&#233;rminos de: 
+								la articulaci&#243;n entre la demanda laboral y la oferta laboral y formativa, 
+								el fortalecimiento de la calidad de la oferta formativa y el reconocimiento y valoraci&#243;n de aprendizajes adquiridos a lo largo de la vida, 
+								como elementos contundentes para disminuir los costos de transacci&#243;n entre buscadores de empleo y empleadores, cerrar las brechas de capital humano,
+								facilitar el acceso a mejores oportunidades de trabajo y mejorar la empleabilidad de la poblaci&#243;n que enfrenta mayores barreras para acceder al mercado de trabajo.
+
+								Con el fin de impulsar la calidad y pertinencia de la educaci&#243;n y formaci&#243;n del talento humano, se consolidar&#225; e implementar&#225; el Sistema Nacional de Cualificaciones (SNC), donde, de los 6 (seis) componentes del Sistema, cuatro (4) en cabeza del Ministerio del Trabajo:
+
+								--Subsistema de Evaluaci&#243;n y certificaci&#243;n de competencias
+								--Subsistema de Normalizaci&#243;n de competencias 
+								--Subsistema de Aseguramiento de la calidad de la formaci&#243;n para el trabajo.
+								--Plataforma de informaci&#243;n del Sistema Nacional de Cualificaciones.
+								")});
+										dataElements.push({id:"eeb4a6e0-ffd6-4c4a-b573-dd53b2b75f5e", type:"BusinessFunction", name:decodeURL("MNC+%28Marco+Nacional+Cualificaciones%29"), description:decodeURL(", , , , as&#237; como la ")});
+										dataElements.push({id:"52517982-1111-4bc9-b5de-8e06a4c5b39b", type:"BusinessProcess", name:decodeURL("Business+Process"), description:decodeURL("")});
+										dataElements.push({id:"dd9ae622-e0b0-43be-b178-6923f1e152c0", type:"BusinessFunction", name:decodeURL("Subsistemas+Aseguramiento+Calidad"), description:decodeURL("Subsistemas aseguramiento calidad de la educaci&#243;n y la formaci&#243;n")});
+										dataElements.push({id:"4d2bb23f-9513-4cf6-92d0-b08103dad20d", type:"BusinessFunction", name:decodeURL("Subsistema+Normalizaci%C3%B3n+Competencias"), description:decodeURL("Subsistema de normalizaci&#243;n de competencias y de evaluaci&#243;n y certificaci&#243;n de competencias")});
+										dataElements.push({id:"279534c1-52c4-4972-b7d1-c8c79654d2d9", type:"BusinessFunction", name:decodeURL("Esquema+Movilidad+Educativa+y+Formativa"), description:decodeURL("Esquema de movilidad educativa y formativa")});
+										dataElements.push({id:"22c52872-dc88-4c0d-9296-add8d65b42a8", type:"BusinessFunction", name:decodeURL("Esquema+Movilidad+Educativa+y+Formativa+%28copy%29"), description:decodeURL("Esquema de movilidad educativa y formativa")});
+										dataElements.push({id:"453c204b-a8a6-4089-b65c-a0fe594e9413", type:"Product", name:decodeURL("PD05.+Esquema+Movilidad+Educativa+y+Formativa"), description:decodeURL("Se crea el Esquema de Movilidad Educativa y Formativa, para facilitar la movilidad de las personas entre las diferentes v&#237;as de cualificaci&#243;n que son la educativa, la formaci&#243;n para el trabajo y el reconocimiento de aprendizajes previos para la certificaci&#243;n de competencias, con el fin de promover las rutas de aprendizaje, las relaciones con el sector productivo y el aprendizaje a lo largo de la vida.")});
+										dataElements.push({id:"03b82ef2-a0cc-4e5b-b2be-e31aaeed0688", type:"Product", name:decodeURL("PD04.+Subsistema+Evaluaci%C3%B3n+y+Certificaci%C3%B3n+Competencias"), description:decodeURL("")});
+										dataElements.push({id:"ce236631-fc5e-4589-923b-26b8b120c617", type:"Product", name:decodeURL("PD03.+Subsistema+Normalizaci%C3%B3n+Competencias"), description:decodeURL("")});
+										dataElements.push({id:"91162640-9e76-4c3b-a1d8-feac0978e168", type:"Product", name:decodeURL("PD02.0.+Subsistemas+Formaci%C3%B3n+Trabajo"), description:decodeURL("Se crea el Subsistema de Formaci&#243;n para el Trabajo. Esta formaci&#243;n se estructurar&#225; en diversos niveles de complejidad, desde los iniciales hasta los m&#225;s avanzados, de acuerdo con las necesidades del sector productivo. 
+
+								Sus oferentes son el Servicio Nacional de Aprendizaje (SENA), las Instituciones de Educaci&#243;n para el Trabajo y Desarrollo Humano (ETDH) y las Instituciones de Educaci&#243;n Superior con oferta de formaci&#243;n para el trabajo que formen por competencias y cumplan los requisitos y mecanismos que para tal fin se establezcan.
+								")});
+										dataElements.push({id:"06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1", type:"Product", name:decodeURL("PD01.+MNC+%28Marco+Nacional+Cualificaciones%29"), description:decodeURL("Se crea el Marco Nacional de Cualificaciones (MNC), para clasificar y estructurar las cualificaciones en un esquema de ocho (8) niveles ordenados y expresados en t&#233;rminos de conocimientos, destrezas y aptitudes, de acuerdo con la secuencialidad y complejidad de los aprendizajes que logran las personas en las diferentes v&#237;as de cualificaci&#243;n.")});
+										dataElements.push({id:"fb3c7359-e61b-4244-b482-768a2f4bd575", type:"Product", name:decodeURL("PD06.+Plataforma+de+informaci%C3%B3n+del+SNC"), description:decodeURL("Unificaci&#243;n las clasificaciones de ocupaciones
+								Realizar ajustes normativos a implementar
+								Dise&#241;ar la arquitectura del Sistema de Informaci&#243;n e Implementar la soluci&#243;n tecnol&#243;gica para la integraci&#243;n de las plataformas que soportan las fuentes de informaci&#243;n.")});
+										dataElements.push({id:"858c240e-ab69-47c3-8ebe-7d7d8f2950c8", type:"BusinessProcess", name:decodeURL("Ministerio+de+Trabajo"), description:decodeURL("")});
+										dataElements.push({id:"a5ae5d8d-13ef-49e6-924e-0d82c109430e", type:"BusinessCollaboration", name:decodeURL("PL03.+Anticipar+y+proporcionar+calificaciones"), description:decodeURL("Anticipar y proporcionar calificaciones que ser&#225;n necesarias en el futuro
+								")});
+										dataElements.push({id:"79ce7c3e-3d94-436f-beb6-898e70058543", type:"BusinessCollaboration", name:decodeURL("PL02.+Adaptarse+al+cambio"), description:decodeURL("Ayudar a los trabajadores y a las empresas a adaptarse al cambio")});
+										dataElements.push({id:"ebcc024f-98e9-4e01-b6fb-b69f171e3719", type:"BusinessCollaboration", name:decodeURL("PL01.+Adaptar+la+oferta+demanda+de+calificaciones"), description:decodeURL("Adaptar la oferta a la actual demanda de calificaciones
+
+								")});
+										dataElements.push({id:"630fee3c-afc8-4210-96ab-51f3c8413fee", type:"Product", name:decodeURL("Productos+SNC"), description:decodeURL("")});
+										dataElements.push({id:"a2261efd-b869-4153-904f-aac3a90fdacc", type:"BusinessService", name:decodeURL("BS06.+Servicio+aseguramiento+calidad+formaci%C3%B3n"), description:decodeURL("v) Servicio de aseguramiento de calidad de la formaci&#243;n para el trabajo.")});
+										dataElements.push({id:"a28acf67-2644-42b6-b456-77ff109a1ef6", type:"BusinessService", name:decodeURL("BS05.+Servicio+de+certificaci%C3%B3n+de+competencias"), description:decodeURL("Servicio de certificaci&#243;n de competencias
+								")});
+										dataElements.push({id:"4f0a59a9-8380-4964-a3a7-286f64c24950", type:"BusinessService", name:decodeURL("BS04.+Servicio+Fomento+Oferta+de+Formaci%C3%B3n"), description:decodeURL("iii) Servicio de fomento para la oferta de Formaci&#243;n para el Trabajo
+								")});
+										dataElements.push({id:"1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1", type:"BusinessService", name:decodeURL("BS03.+Documentos+de+lineamientos+t%C3%A9cnicos"), description:decodeURL("Dise&#241;ar el modelo de los Subsistemas de: Formaci&#243;n para el Trabajo y su Aseguramiento de Calidad, Normalizaci&#243;n de Competencias y la Evaluaci&#243;n y Certificaci&#243;n de Competencias
+
+								Socializaci&#243;n de los documentos t&#233;cnicos de los Subsistemas de: Formaci&#243;n para el Trabajo y su Aseguramiento de Calidad, Normalizaci&#243;n de Competencias y la Evaluaci&#243;n y Certificaci&#243;n de Competencias
+								")});
+										dataElements.push({id:"0ec90a5b-d622-49ce-ba6b-25d17acf99aa", type:"BusinessService", name:decodeURL("BS02.+Servicio+de+articulaci%C3%B3n+con+el+sector+productivo"), description:decodeURL("Ejecutar estrategias de vinculaci&#243;n del sector productivo con la Formaci&#243;n para el Trabajo y la evaluaci&#243;n y certificaci&#243;n de competencias
+
+								Ejecutar estrategias con el Sector Productivo para determinar las necesidades y los elementos requeridos en la perspectiva de Formaci&#243;n en alternancia
+								")});
+										dataElements.push({id:"a21d9b6b-1f19-4b51-9d37-ba2a6869d563", type:"BusinessService", name:decodeURL("PD09.+Servicio+de+asistencia+t%C3%A9cnica"), description:decodeURL("Dise&#241;ar lineamientos, herramientas y modelos de Asistencia T&#233;cnica diferencial a Bolsas de Empleo de las IES y otros prestadores autorizados del SPE, en el marco de la pol&#236;tica de Inclusi&#243;n Laboral
+
+								Realizar transferencia metodol&#243;gica para la implementaci&#243;n de los lineamientos, herramientas y modelos de Asistencia T&#233;cnica diferencial a Bolsas de Empleo de las IES y a otros prestadores autorizados del SPE, en el marco de la pol&#237;tica de Inclusi&#243;n Laboral 
+
+								Desarrollar herramientas orientadas al fortalecimiento de los procesos y servicios de gesti&#243;n del talento humano de los prestadores del SPE
+
+								Dise&#241;ar lineamientos para fortalecer las estrategias relacionadas con la Gesti&#243;n Empresarial del SPE
+
+								Implementar los lineamientos y estrategias de Gesti&#243;n Empresarial con participaci&#243;n de prestadores autorizados del SPE y empresarios 
+								")});
+										dataElements.push({id:"98a60a59-5563-4550-a652-3e9ecc674849", type:"BusinessService", name:decodeURL("PD08.+Servicio+de+orientaci%C3%B3n+laboral"), description:decodeURL("Elaborar insumos t&#233;cnicos y de pol&#237;tica p&#250;blica para las herramientas de perfilamiento laboral y ocupacional, en el marco del Sistema Nacional de Cualificaciones 
+
+								Desarrollar herramientas de perfilamiento para la orientaci&#243;n ocupacional a los prestadores autorizados del SPE
+
+								")});
+										dataElements.push({id:"c78dd6d4-e9c6-41ad-8fc5-265ca145a390", type:"BusinessService", name:decodeURL("PD07.+Servicio+de+informaci%C3%B3n"), description:decodeURL("Fortalecer la capacidad tecnol&#243;gica y de gesti&#243;n del empleo por parte del Sector Trabajo, responder a los compromisos sociales con la poblaci&#243;n que enfrenta mayores barreras de acceso y permanencia al mercado laboral formal y, la modernizaci&#243;n y acercamiento del Ministerio del Trabajo al sector productivo, a partir de la consolidaci&#243;n de un (1) sistema de informaci&#243;n que articular&#225; tres (3) servicios de informaci&#243;n que permitir&#225;n 
+
+								--el an&#225;lisis del comportamiento de la oferta laboral, la oferta educativa y la demanda laboral, como ejes principales para mitigar los desequilibrios del mercado laboral colombiano, en t&#233;rminos de las pol&#237;ticas activas y pasivas de empleo. Este producto incluir&#225; tres componentes asociados a los siguientes servicios de informaci&#243;n--
+
+								--Dise&#241;ar la arquitectura tecnol&#243;gica requerida del sistema de informaci&#243;n del Servicio P&#250;blico de Empleo
+
+								--Dise&#241;ar la arquitectura tecnol&#243;gica requerida de la plataforma de informaci&#243;n del Sistema Nacional de Cualificaciones (SNC)
+
+								--Dise&#241;ar la arquitectura tecnol&#243;gica requerida del sistema de informaci&#243;n de gesti&#243;n del empleo para la productividad
+								")});
+										dataElements.push({id:"22660beb-d85c-4eb0-ac04-a5fe2d1555c8", type:"Product", name:decodeURL("PD02.1.+Subsistemas+Aseguramiento+Calidad"), description:decodeURL("Se crea el Subsistema de Formaci&#243;n para el Trabajo. Esta formaci&#243;n se estructurar&#225; en diversos niveles de complejidad, desde los iniciales hasta los m&#225;s avanzados, de acuerdo con las necesidades del sector productivo. 
+
+								Sus oferentes son el Servicio Nacional de Aprendizaje (SENA), las Instituciones de Educaci&#243;n para el Trabajo y Desarrollo Humano (ETDH) y las Instituciones de Educaci&#243;n Superior con oferta de formaci&#243;n para el trabajo que formen por competencias y cumplan los requisitos y mecanismos que para tal fin se establezcan.
+								")});
+
+
+										dataElements.push({id:"7cd68bd9-fe5b-4b89-9553-1794642bafff", type:"ApplicationInteraction", name:decodeURL("Gesti%C3%B3n+Empleo+y+Productividad"), description:decodeURL("")});
+										dataElements.push({id:"64a726f8-5978-412a-8a14-03c1fab76439", type:"ApplicationComponent", name:decodeURL("PILA"), description:decodeURL("")});
+										dataElements.push({id:"02d3473b-1d15-4e15-914c-c203ba1ae6f4", type:"ApplicationComponent", name:decodeURL("APP3.+SNC"), description:decodeURL("")});
+										dataElements.push({id:"40a56c7e-f90a-466c-a97b-b9296cd98cf6", type:"ApplicationComponent", name:decodeURL("APP1.+SPE"), description:decodeURL("Este servicio est&#225; orientado al fortalecimiento tecnol&#243;gico e institucional del SPE a trav&#233;s de una modernizaci&#243;n tecnol&#243;gica que permita aumentar la cobertura y efectividad de las pol&#237;ticas de empleo a partir de soluciones espec&#237;ficas a las falencias de interoperabilidad de informaci&#243;n entre la Red de prestadores del SPE que restringe la efectividad en el emparejamiento, el enganche de buscadores de empleo con vacantes en otras regiones del pa&#237;s y la realizaci&#243;n de procesos de anal&#237;tica de datos para optimizar la b&#250;squeda de empleo y la gesti&#243;n de vacantes desde cualquier punto de atenci&#243;n a nivel nacional. Estar&#225; compuesto por: (a) un portal al que podr&#225;n acceder buscadores, empresas y prestadores y que tendr&#225; un motor de inteligencia artificial para gestionar emparejamientos con an&#225;lisis de ontolog&#237;a, derivaciones a capacitaciones y otras pol&#237;ticas activas, informaci&#243;n sobre el mercado de trabajo (salarios, vacancias m&#225;s solicitadas) y links a tests online; (b) una herramienta de CRM (Customer Relationship Manager) que permita trazar la trayectoria de los postulantes y gestionar la provisi&#243;n de servicios a usuarios de manera personalizada; (c) una herramienta de BPM (Business Process Manager) para dar seguimiento a flujos de procesos que realizan prestadores y UAESPE; (d) sistemas de integraci&#243;n (Middle) que permitan interoperar con bases de datos de terceros de forma directa o a trav&#233;s de programas de interfase (API); (e) aplicaciones m&#243;viles para ciudadanos; (f) servicios de chat y videollamada para gestionar servicios a ciudadanos y empresas; (g) una base de datos &#250;nica, &#237;ntegra, consistente, y de alta disponibilidad en la que se almacene toda la informaci&#243;n de procesos y servicios de la UAPSE; (h) un centro de inteligencia que cuente un Data Warehouse (DWH)  y herramientas de anal&#237;tica o Business Intelligence que permiten centralizar y procesar informaci&#243;n de volumen para generar reportes, an&#225;lisis y visualizaciones que informen la pol&#237;tica de empleo, cuyo dise&#241;o conceptual prioriza los siguientes m&#243;dulos...")});
+										dataElements.push({id:"cab3ccbb-f93d-4eb4-94ff-d439f568e1b3", type:"ApplicationComponent", name:decodeURL("SIMPC"), description:decodeURL("Sistema de seguimiento del mecanismo de protecci&#243;n al cesante")});
+										dataElements.push({id:"802dfc0a-c6b0-470d-8fe1-eea64523e869", type:"ApplicationComponent", name:decodeURL("Otras+fuentes+%28sistemas%29"), description:decodeURL("")});
+										dataElements.push({id:"93ef34ca-4ab3-4d52-90f3-841a15e28af0", type:"ApplicationComponent", name:decodeURL("APP2.+Gesti%C3%B3n"), description:decodeURL("Este servicio est&#225; orientado a brindar soluciones tecnol&#243;gicas para la gesti&#243;n eficiente del empleo, a partir de un seguimiento y monitoreo de resultados de las pol&#237;ticas activas y pasivas que lidera el sector trabajo incluyendo un an&#225;lisis de su intervenci&#243;n institucional y de los lineamientos t&#233;cnicos de pol&#237;tica de empleo relacionados con la oferta laboral, la demanda laboral y la oferta educativa y formativa.
+
+								Este servicio de informaci&#243;n se consolida como el articulador de los otros dos servicios de informaci&#243;n contemplados en el presente proyecto. Recoge y analiza toda la informaci&#243;n de la intermediaci&#243;n laboral que realiza la Red de Prestadores del SPE, y por el otro, la informaci&#243;n sobre la oferta y demanda de cualificaciones.  Asimismo, es un sistema que articula otras fuentes de informaci&#243;n relevantes que puedan aportar en aspectos como la capacitaci&#243;n, incentivos de cesant&#237;as, seguimiento y verificaci&#243;n de requisitos para la oferta laboral colombiana que permita el an&#225;lisis y seguimiento a las pol&#237;ticas de empleo, el fortalecimiento en la gesti&#243;n del empleo y la orientaci&#243;n institucional para la toma de decisiones de pol&#237;tica p&#250;blica de empleo y de formaci&#243;n para el trabajo a nivel nacional.
+
+								Es plataforma tecnol&#243;gica que facilite el seguimiento a los usuarios de los servicios ofrecidos por el Sector Trabajo, junto con la creaci&#243;n de capacidades a los funcionarios involucrados en la administraci&#243;n, soporte y operaci&#243;n de los diferentes sistemas de informaci&#243;n y, la realizaci&#243;n de definiciones en relaci&#243;n con la gobernanza de los datos del sistema, la seguridad y la &#233;tica de acceso y procesamiento de la informaci&#243;n.
+
+								Es un servicio de informaci&#243;n gerencial que permitir&#225; centralizar y procesar gran cantidad de informaci&#243;n administrativa para generar reportes, anal&#237;tica y visualizaciones que informen frente a la pol&#237;tica de empleo y de formaci&#243;n para el trabajo.")});
+										dataElements.push({id:"060d72ba-f77a-408a-8fb0-2c3f156a946e", type:"ApplicationCollaboration", name:decodeURL("Application+Collaboration"), description:decodeURL("")});
+										dataElements.push({id:"1d53e996-5888-48f2-be0f-321f2401ff94", type:"ApplicationService", name:decodeURL("Orientaci%C3%B3n+de+Pol%C3%ADticas+activas+y+pasivas"), description:decodeURL("Plataforma de informaci&#243;n del SNC. Recoger y procesar informaci&#243;n sobre la oferta y demanda de cualificaciones que oriente la pol&#237;tica de empleo y de formaci&#243;n para el trabajo. Se vale del centro de inteligencia (bodega de datos y anal&#237;tica). Estas herramientas deben permitir centralizar y procesar informaci&#243;n de volumen para generar reportes, an&#225;lisis y visualizaciones que informen la pol&#237;tica de empleo y de formaci&#243;n para el trabajo.  
+
+								Adicionalmente, la plataforma permitir&#225; generar indicadores y reportes pertinentes para diferentes tipos de actores, entre los que se destacan, las instituciones del gobierno nacional y gobiernos locales para la formulaci&#243;n y seguimiento de las pol&#237;ticas p&#250;blicas, a las instituciones educativas y de formaci&#243;n para la estructuraci&#243;n y actualizaci&#243;n de mallas curriculares con pertinencia y calidad, a los empresarios y gremios para retroalimentar su conocimiento sobre la estructura ocupacional de su sector y las competencias requeridas, a los estudiantes para tener orientaci&#243;n sobre lo que est&#225; demandando el mercado laboral, las principales brechas que se presentan y alternativas educativas y formativas, a la poblaci&#243;n en general. ")});
+										dataElements.push({id:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1", type:"ApplicationService", name:decodeURL("Seguimiento+Pol%C3%ADticas+P%C3%BAblicas+de+Empleo"), description:decodeURL("")});
+										dataElements.push({id:"e714cb3d-8725-4e00-97d5-21c0934b46d1", type:"ApplicationFunction", name:decodeURL("Reglas+Pol%C3%ADtica+activa"), description:decodeURL("")});
+										dataElements.push({id:"4b29832a-0055-4a5c-b315-2b9a9349ba58", type:"ApplicationFunction", name:decodeURL("Reglas+Pol%C3%ADtica+pasiva"), description:decodeURL("")});
+										dataElements.push({id:"5283ac67-ec41-470d-9016-120c1550b585", type:"ApplicationFunction", name:decodeURL("Reglas+de+Ocupaci%C3%B3n+Laboral"), description:decodeURL("")});
+										dataElements.push({id:"32501d01-10b3-430e-a6b4-380829f7b217", type:"ApplicationService", name:decodeURL("An%C3%A1lisis+de+Intervenci%C3%B3n+y+Cumplimiento+de+Empleo"), description:decodeURL("")});
+										dataElements.push({id:"64ca0e3e-e654-4c48-85dc-15fe44dff6fa", type:"ApplicationFunction", name:decodeURL("Lineamientos+de+Cumplimiento"), description:decodeURL("")});
+										dataElements.push({id:"b2849d99-5b11-444f-9044-e88728f35255", type:"ApplicationService", name:decodeURL("Recolecci%C3%B3n+de+fuentes"), description:decodeURL("")});
+										dataElements.push({id:"bd6a43e4-0415-4bcc-9ef9-5b7333ed5a0f", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Oferta+y+Demanda+%28SNC%29"), description:decodeURL("")});
+										dataElements.push({id:"1962985e-5834-4dc7-99fa-41e4d96e7db2", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Intermediaci%C3%B3n+laboral+%28SPE%29"), description:decodeURL("")});
+										dataElements.push({id:"63a722ea-9785-4e81-95b9-bbd11d833b09", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Capacitaci%C3%B3n"), description:decodeURL("")});
+										dataElements.push({id:"1fe3d17c-39d7-44ce-8200-f830f476fb72", type:"ApplicationFunction", name:decodeURL("Lineamientos+de+Intervenci%C3%B3n+Inst."), description:decodeURL("")});
+										dataElements.push({id:"5de2dca3-0c07-48db-94f4-8708b7ad64aa", type:"ApplicationFunction", name:decodeURL("Lineamientos+de+Oferta+y+Demanda"), description:decodeURL("")});
+										dataElements.push({id:"3728187e-81e9-473a-b914-7c67a97ddb51", type:"ApplicationFunction", name:decodeURL("Reglas+Oferta+y+Demanda+Laboral"), description:decodeURL("")});
+										dataElements.push({id:"f3dc5e03-dc72-4891-9855-89ea4c9650ff", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Pol%C3%ADticas+Act.+y+Pasv."), description:decodeURL("")});
+										dataElements.push({id:"6465dfc5-421d-4d2e-a495-8834b8385995", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Requisitos+Oferta+Laboral"), description:decodeURL("")});
+										dataElements.push({id:"9e3fb03a-d59d-49b4-b939-127c97159b09", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Brechas+Capital+Humano"), description:decodeURL("")});
+										dataElements.push({id:"ea9ee90c-de64-48d0-b126-07e290e9bbe1", type:"ApplicationService", name:decodeURL("Procesamiento+Datos+Empleo+%232"), description:decodeURL("")});
+										dataElements.push({id:"929a66a2-11a3-4883-9ef8-e53b2cf5b94c", type:"ApplicationService", name:decodeURL("Vsualizaci%C3%B3n+Datos+Empleo"), description:decodeURL("")});
+										dataElements.push({id:"6728a6a1-7861-4473-afb5-09c0ddedac2a", type:"ApplicationService", name:decodeURL("Reportes+Datos+Empleo"), description:decodeURL("")});
+										dataElements.push({id:"8f3c3428-62f8-4099-82cd-b0be133c4875", type:"ApplicationService", name:decodeURL("Procesamiento+Datos+Empleo+%231"), description:decodeURL("")});
+										dataElements.push({id:"9b83d9ec-d0fd-447b-8e80-9bf55e685327", type:"ApplicationService", name:decodeURL("Alertas+de+Seguimiento"), description:decodeURL("")});
+										dataElements.push({id:"c1d1b66e-e9ba-4cc4-8597-f37758649fc6", type:"ApplicationFunction", name:decodeURL("Definici%C3%B3n+Alertas"), description:decodeURL("")});
+										dataElements.push({id:"b50d54d8-292d-42fb-83f3-5e3758601416", type:"ApplicationFunction", name:decodeURL("Otros+Lineamientos+de+anal%C3%ADtica"), description:decodeURL("")});
+										dataElements.push({id:"760bd1e4-8654-40a7-9685-65a3d22ad581", type:"ApplicationService", name:decodeURL("Recolecci%C3%B3n+de+fuentes+Oferta+y+Demanda+de+Cualificaciones"), description:decodeURL("")});
+										dataElements.push({id:"0cf75bd3-517b-49ea-85d9-b6bbe4502d4b", type:"ApplicationService", name:decodeURL("Centro+de+Inteligencia+Informaci%C3%B3n+de+Empleo"), description:decodeURL("")});
+										dataElements.push({id:"360850dc-ec0e-4faa-91f1-48a81aed72c8", type:"ApplicationService", name:decodeURL("Visualizaci%C3%B3n+"), description:decodeURL("")});
+										dataElements.push({id:"1c27468b-e913-4ef6-8636-feb7cb7a3869", type:"ApplicationService", name:decodeURL("Alimentaci%C3%B3n+Indicadores"), description:decodeURL("")});
+										dataElements.push({id:"5c91c01e-cb9f-4a8c-b8b9-21987f1a86a3", type:"ApplicationService", name:decodeURL("Informes+de+la+Pol%C3%ADtica+Empleo"), description:decodeURL("")});
+										dataElements.push({id:"64b01880-5a48-400b-ba71-46eff02a7741", type:"ApplicationService", name:decodeURL("Informes+de+la+Formaci%C3%B3n+Trabajo"), description:decodeURL("")});
+										dataElements.push({id:"26c3813e-9c46-4e81-bbd0-0ba6192252c3", type:"ApplicationService", name:decodeURL("Recolecci%C3%B3n+de+fuentes+Pol%C3%ADticas+Empleo"), description:decodeURL("")});
+										dataElements.push({id:"cb96bdab-142a-45aa-b7df-823945e0b43f", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Inventivos+Cesant%C3%ADas"), description:decodeURL("")});
+										dataElements.push({id:"87f8af28-901d-4687-9117-1d86541aa8ab", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Oferta+Laboral+%28SPE%29"), description:decodeURL("Informaci&#243;n de oferta laboral a partir de las hojas de vida registradas en el Servicio P&#250;blico de Empleo, de donde s&#243;lo se extrae informaci&#243;n de experiencia laboral, formaci&#243;n y perfil laboral de la persona.")});
+										dataElements.push({id:"1b735a2a-55d4-4554-92bd-2917dc5c9bc9", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Oferta+Educativa+y+Formativa+%28cuantitativa+y+cualitativa%29"), description:decodeURL("")});
+										dataElements.push({id:"7ee62c57-9d63-48f7-bef2-9179134e3d5e", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Demanda+Laboral"), description:decodeURL("Informaci&#243;n de demanda laboral relacionada con las ocupaciones y sus descriptores, es decir, funciones, conocimientos y destrezas (competencias t&#233;cnicas), competencias transversales y n&#250;mero de vacantes asociadas a cada una de las ocupaciones, informaci&#243;n de nivel educativo requerido y programas educativos y formativos asociados, experiencia laboral requerida, informaci&#243;n de las competencias m&#225;s demandadas, entre otras.  Se publicar&#225;n resultados de an&#225;lisis con datos administrativos (por ejemplo, vacantes del SPE) o procesos consultivos con empresarios (por ejemplo, ejercicios de prospectiva y mesas sectoriales).")});
+										dataElements.push({id:"9ed9b111-0157-4f7f-af00-540cd9ca3a97", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Componente+Evaluaci%C3%B3n+y+Certificaci%C3%B3n+Competencias"), description:decodeURL("")});
+										dataElements.push({id:"a2420a72-ed1b-4b1f-bbb0-9a3f6b0847d6", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Componente+Acreditaci%C3%B3n+y+Calidad+ETDH"), description:decodeURL("")});
+										dataElements.push({id:"489c53f3-3727-431b-a856-bc6ac5423b17", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Componente+Normalizaci%C3%B3n+Competencias"), description:decodeURL("")});
+										dataElements.push({id:"e032d10e-217b-42c7-bcc9-ddecfc6b7e2a", type:"ApplicationFunction", name:decodeURL("Recolecci%C3%B3n+Componente+Marco+Nacional+de+Cualificaciones"), description:decodeURL("")});
+										dataElements.push({id:"261c579d-1bd3-4c89-8811-1694838da783", type:"ApplicationService", name:decodeURL("Publicaci%C3%B3n+informaci%C3%B3n+para+Actores"), description:decodeURL("se podr&#225; identificar las brechas de capital humano existentes en el pa&#237;s, en t&#233;rminos de pertinencia y de calidad de la educaci&#243;n y la formaci&#243;n, y de esta manera, mejorar la alineaci&#243;n de las necesidades del sector productivo y la fuerza laboral colombiana. Asimismo, al ser una plataforma que contemplar&#225; informaci&#243;n sobre demanda de cualificaciones y oferta de formaci&#243;n para el trabajo y que estar&#225; dirigida a ciudadanos, instituciones y hacedores de pol&#237;tica de empleo, se podr&#225; publicar informaci&#243;n &#250;til sobre las vacantes y ocupaciones m&#225;s demandadas y aquellas que perder&#225;n relevancia, procesos consultivos con empresarios (ejercicios de prospectiva y mesas sectoriales), junto con informaci&#243;n de vacantes de dif&#237;cil colocaci&#243;n. Tambi&#233;n informaci&#243;n sobre la oferta de formaci&#243;n para el trabajo, la descripci&#243;n de los contenidos curriculares de programas e instituciones, as&#237; como resultados en empleabilidad y calidad de aprendizaje que podr&#225;n dar soluci&#243;n a la informaci&#243;n incompleta y dispersa de capital humano que actualmente existe en el pa&#237;s y que no se articula entre s&#237;, generando altos costos financieros y operativos a diferentes instituciones.")});
+										dataElements.push({id:"4237549d-bc2e-4d06-a0fe-ecfdee04f8ad", type:"ApplicationService", name:decodeURL("Visor+de+Informaci%C3%B3n+Empleabilidad+y+Formaci%C3%B3n"), description:decodeURL("Informaci&#243;n de vacantes y ocupaciones m&#225;s demandadas y aquellas que perder&#225;n relevancia, procesos consultivos con empresarios (ejercicios de prospectiva y mesas sectoriales), junto con informaci&#243;n de vacantes de dif&#237;cil colocaci&#243;n. Tambi&#233;n informaci&#243;n sobre la oferta de formaci&#243;n para el trabajo, la descripci&#243;n de los contenidos curriculares de programas e instituciones, as&#237; como resultados en empleabilidad y calidad de aprendizaje que podr&#225;n dar soluci&#243;n a ")});
+										dataElements.push({id:"0e6caf76-1aff-40ad-b6be-1d6daeaf06fa", type:"ApplicationFunction", name:decodeURL("Otras+Reglas"), description:decodeURL("")});
+
+
+										dataElements.push({id:"bae1d7be-3836-4431-b161-89da7e5d34ee", type:"Goal", name:decodeURL("GL04.+Plataforma+de+informaci%C3%B3n+del+SNC"), description:decodeURL("Respecto a la &#8220;Plataforma de informaci&#243;n del Sistema Nacional de Cualificaciones&#8221;: Adelantar la unificaci&#243;n de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, dise&#241;ar la arquitectura del Sistema de Informaci&#243;n e implementar la soluci&#243;n tecnol&#243;gica para la integraci&#243;n de las plataformas que soportan las fuentes de informaci&#243;n.")});
+										dataElements.push({id:"d561435d-b28c-4650-958b-4857b022b0a1", type:"Outcome", name:decodeURL("Outcome"), description:decodeURL("Para el cuatrienio 2019-2022 se estableci&#243; una meta de generar 1,6 millones de empleos, seg&#250;n el PND. ")});
+										dataElements.push({id:"ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97", type:"Goal", name:decodeURL("GL03.+Aseguramiento+de+la+Calidad"), description:decodeURL("En cuanto  al modelo de aseguramiento de calidad de la FT privada, a la fecha, s&#243;lo se han desarrollado procesos en las Secretar&#237;as de Educaci&#243;n regionales para el licenciamiento (requerimientos m&#237;nimos de infraestructura, financiamiento y administraci&#243;n) y la acreditaci&#243;n de calidad basada en resultados, que seg&#250;n la norma colombiana est&#225; a cargo del Ministerio del Trabajo, no se ha desarrollado: no hay est&#225;ndares ni reglamentaciones (Fundaci&#243;n Corona, 2018; Gonz&#225;lez-Velosa y Rosas, 2016; Casas et al. 2019). 
+
+								Dise&#241;ar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes normativos, generar escenarios de transici&#243;n para su implementaci&#243;n y, adem&#225;s, apoyar la reestructuraci&#243;n del sistema de informaci&#243;n de la formaci&#243;n para el trabajo.
+
+								")});
+										dataElements.push({id:"47a24a51-c69d-4587-828a-b2f049c52373", type:"Goal", name:decodeURL("GL02.+Normalizaci%C3%B3n+de+competencias"), description:decodeURL("Respecto a &#8220;Normalizaci&#243;n de competencias&#8221;: Dise&#241;ar el subsistema, validarlo con los actores, entidades y grupos de inter&#233;s, as&#237; como reglamentar y generar escenarios de transici&#243;n para su implementaci&#243;n.
+								")});
+										dataElements.push({id:"8476bf70-c6b9-400d-bfc8-9a0d18e7708f", type:"Goal", name:decodeURL("GL01.+Dise%C3%B1ar+Subsistema+Evaluaci%C3%B3n+y+certificaci%C3%B3n+de+competencias"), description:decodeURL("Respecto a &#8220;Evaluaci&#243;n y certificaci&#243;n de competencias&#8221;: Dise&#241;ar el subsistema, validarlo con los actores, entidades y grupos de inter&#233;s, as&#237; como reglamentar y generar escenarios de transici&#243;n para su implementaci&#243;n.
+								")});
+										dataElements.push({id:"f56fb9ce-e2b7-4b1f-ab13-1573b0d8ab7c", type:"Requirement", name:decodeURL("RQ02.+Ajustes+normativos"), description:decodeURL("Realizar ajustes normativos a implementar")});
+										dataElements.push({id:"44a2c1aa-1532-4943-97b9-b2574b5aecf8", type:"Requirement", name:decodeURL("RQ03.+Dise%C3%B1ar+la+arquitectura+del+Sistema+de+Informaci%C3%B3n"), description:decodeURL("Dise&#241;ar la arquitectura del sistema de informaci&#243;n")});
+										dataElements.push({id:"7aa8eecf-748d-42dd-a201-2ef495b0043e", type:"Requirement", name:decodeURL("RQ01.+Unificaci%C3%B3n+las+clasificaciones+de+ocupaciones"), description:decodeURL("Unificaci&#243;n las clasificaciones de ocupaciones")});
+										dataElements.push({id:"5a910722-e88d-4aac-ae11-e6db6f80ac20", type:"Requirement", name:decodeURL("RQ04.+Implementar+la+soluci%C3%B3n+tecnol%C3%B3gica"), description:decodeURL("Implementar la soluci&#243;n tecnol&#243;gica para la integraci&#243;n de las plataformas que soportan las fuentes de informaci&#243;n")});
+										dataElements.push({id:"8a956db3-f948-478a-93e9-8dc1bdd6c238", type:"Driver", name:decodeURL("DR01.+Desempleo%2C+Informalidad%2C+Competencias%2C+Acceso+mercado"), description:decodeURL("Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por:
+								--altos niveles de desempleo (10,5% en 2019) frente otros pa&#237;ses de Latinoam&#233;rica
+								--altas tasas de informalidad laboral (superiores al 60%)
+								--junto con los bajos niveles de acceso y permanencia en el mercado laboral formal, 
+
+								lo cual se refleja en gran medida a las condiciones de empleabilidad de la poblaci&#243;n por la falta de informaci&#243;n de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificaci&#243;n y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
+
+								Esta situaci&#243;n, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacci&#243;n en la b&#250;squeda de empleo y las asimetr&#237;as de informaci&#243;n con estrategias tecnol&#243;gicas robustas que proporcionen informaci&#243;n &#250;til y oportuna y lineamientos t&#233;cnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
+
+								En tal sentido, el presente proyecto de inversi&#243;n busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 &#8220;Pacto por Colombia, Pacto por la Equidad&#8221;, el cual plantea importantes retos para el Sector Trabajo como la reducci&#243;n del desempleo hasta alcanzar niveles del 7,9% y la reducci&#243;n de la pobreza a partir de la generaci&#243;n de ingresos, empleos y autoempleos a partir de facilitar la vinculaci&#243;n al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminaci&#243;n de barreras a toda la poblaci&#243;n que busca emplearse.")});
+										dataElements.push({id:"5a38be74-6b6c-4ccb-ad5d-a9ce098d8b60", type:"Driver", name:decodeURL("DR04.+Asimetr%C3%ADas+de+informaci%C3%B3n"), description:decodeURL("Las asimetr&#237;as de informaci&#243;n con estrategias tecnol&#243;gicas robustas que proporcionen informaci&#243;n &#250;til y oportuna")});
+										dataElements.push({id:"675aa05f-c055-4f82-b43e-e853424903bc", type:"Driver", name:decodeURL("DR03.+Costos+de+transacci%C3%B3n"), description:decodeURL("Los altos costos de transacci&#243;n en la b&#250;squeda de empleo")});
+										dataElements.push({id:"3518f5a6-5a03-4864-8c1d-96c0df060655", type:"Driver", name:decodeURL("DR02.+Competencias%2C+Acceso+mercado"), description:decodeURL("las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos  niveles de desempleo (10,5% en 2019) frente otros pa&#237;ses de Latinoam&#233;rica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal, lo cual se refleja en gran medida a las condiciones de empleabilidad de la poblaci&#243;n por la falta de informaci&#243;n de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificaci&#243;n y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
+
+								Esta situaci&#243;n, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacci&#243;n en la b&#250;squeda de empleo y las asimetr&#237;as de informai&#243;n con estrategias tecnol&#243;gicas robustas que proporcionen informaci&#243;n &#250;til y oportuna y lineamientos t&#233;cnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. 
+								")});
+										dataElements.push({id:"793ae48c-55fb-402c-a73a-2d81b0cffd74", type:"Driver", name:decodeURL("DR05.+Lineamientos+t%C3%A9cnicos"), description:decodeURL("Lineamientos t&#233;cnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad")});
+										dataElements.push({id:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", type:"Goal", name:decodeURL("GLO2.+Fortalecer+calidad+oferta+formativa%2C+reconocimiento%2C+valoraci%C3%B3n+aprendizajes"), description:decodeURL("Fortalecer la calidad y la pertinencia de la formaci&#243;n para el trabajo y sus instituciones, a trav&#233;s de mayor participaci&#243;n y di&#225;logo efectivo entre el sector productivo y el formativo.
+
+								En esto consiste la gesti&#243;n del talento humano que diferencia la educaci&#243;n formal universitaria y la formacion profesional (t&#233;cnica para el trabajo).
+								")});
+										dataElements.push({id:"d1f80a3b-4ecf-4308-a624-43960bac8be0", type:"Goal", name:decodeURL("GLO.+Fortalecer+empleo+y+formaci%C3%B3n+trabajo"), description:decodeURL("Una vez realizado el diagn&#243;stico de la situaci&#243;n actual, se  identificaron como objetivo central el
+
+								Fortalecer la pol&#237;tica de empleo y de formaci&#243;n para el trabajo nacional que permitir&#225; contribuir a la reducci&#243;n de la tasa de desempleo a nivel nacional a partir de la generaci&#243;n de empleo a traves de la implementaci&#243;n de procesos de fortalecimiento de pertinencia en la educaci&#243;n, reducci&#243;n de los costos de transacci&#243;n y duraci&#243;n del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el pa&#237;s requiere.
+								")});
+										dataElements.push({id:"d22a24ab-bf8f-44d8-862d-d9c29482f4b9", type:"Goal", name:decodeURL("GLO1.+Mejorar+Articulaci%C3%B3n+Demanda+Oferta+Laboral"), description:decodeURL("El primer objetivo est&#225; orientado a mitigar los problemas de inserci&#243;n laboral que presenta Colombia relacionado con las asimetr&#237;as de informaci&#243;n y los altos costos de transacci&#243;n que presentan tanto los ciudadanos que buscan (buscadores) empleo como los empleadores. 
+
+								Esta situaci&#243;n, adem&#225;s de limitar el acceso a canales formales de b&#250;squeda, tambi&#233;n disminuye la cobertura del sistema a otros tipos de poblaci&#243;n. En cuanto a los empleadores, esta problem&#225;tica se evidencia en que el 42% de las empresas colombianas manifiestan tener dificultades para encontrar trabajadores con las habilidades requeridas por el sector productivo.
+								")});
+										dataElements.push({id:"a0d8b366-1a15-401b-b4d7-c32afff31f2f", type:"Outcome", name:decodeURL("OUT01.+Disminuir+los+costos+de+transacci%C3%B3n"), description:decodeURL("Disminuir los costos de transacci&#243;n entre buscadores de empleo y empleadores")});
+										dataElements.push({id:"cb506ad7-d6f9-4c47-94c4-613cf1c9e92e", type:"Outcome", name:decodeURL("OUT03.+Cerrar+las+brechas+de+capital+humano"), description:decodeURL("Cerrar las brechas de capital humano")});
+										dataElements.push({id:"104a5a34-7d48-4870-9c24-28e5c5a9fae7", type:"Outcome", name:decodeURL("OUT02.+Facilitar+Acceso+a+Oportunidades"), description:decodeURL("Facilitar el acceso a mejores oportunidades de trabajo")});
+										dataElements.push({id:"84ca47f1-bdbc-4fcd-981a-6a3630e0e2cc", type:"Outcome", name:decodeURL("OUT04.+Mejorar+la+empleabilidad+de+la+poblaci%C3%B3n"), description:decodeURL("Mejorar la empleabilidad de la poblaci&#243;n que enfrenta mayores barreras para acceder al mercado de trabajo")});
+										dataElements.push({id:"945ca454-c9d1-429c-8296-98c15afdb2ec", type:"Driver", name:decodeURL("DR06.+Falta+de+informaci%C3%B3n+pol%C3%ADticas"), description:decodeURL("A la fecha, no existe un sistema integrador de informaci&#243;n de todos los componente de pol&#237;ticas activas y pasivas con las que cuenta el sector trabajo para la gesti&#243;n eficiente del empleo, de tal manera que no se cuenta con la suficiente informaci&#243;n validada y articulada que permita realizar alertas tempranas sobre las necesidades de redireccionamiento de la pol&#237;tica p&#250;blica pasiva y activa.
+
+								As&#237; como contar con los insumos t&#233;cnicos para el dise&#241;o y seguimiento de pol&#237;tica de empleo que permita la consolidaci&#243;n y an&#225;lisis de informaci&#243;n para facilitar el rol del Ministerio del Trabajo en sus funciones de direcci&#243;n y regulaci&#243;n de la gesti&#243;n de empleo, dise&#241;o y seguimiento de lineamientos de pol&#237;tica y operaci&#243;n y prestaci&#243;n de los servicios de inspecci&#243;n, vigilancia y control, a partir de las disposiciones legales vigentes del Gobierno Nacional.
+								")});
+
+
+										dataElements.push({id:"ec3f8784-2ac4-476c-8185-621d8c267693", type:"WorkPackage", name:decodeURL("Programa+para+Fortalecer+Pol%C3%ADticas+de+Empleo+%28CO-L1250%29"), description:decodeURL("Esquema del Proyecto
+								Objetivo/descripci&#243;n del proyecto: El programa tiene como objetivo general aumentar la empleabilidad de la fuerza laboral nacional y migrante. Para lograrlo, apunta a los objetivos espec&#237;ficos: (i) aumentar la cobertura y efectividad de las pol&#237;ticas de empleo; y (ii) fortalecer el sistema que asegura la pertinencia y calidad de la formaci&#243;n para el trabajo (FT) y ampliar el alcance de la certificaci&#243;n basada en competencias.	
+								Condiciones contractuales especiales previas al primer desembolso del financiamiento (3.4): Que se presente evidencia de que el Organismo Ejecutor ha creado la Unidad Coordinadora del Programa y que ha seleccionado el coordinador general del programa, el especialista en adquisiciones y el especialista financiero, de conformidad con los t&#233;rminos de referencia y perfiles acordados previamente con el Banco; que se haya aprobado y entrado en vigor el Reglamento Operativo del Programa (ROP) (EEO#6), de conformidad con los t&#233;rminos previamente acordados con el Banco.	
+								Excepciones a las pol&#237;ticas del Banco: Ninguna.	
+
+								Plazo de amortizaci&#243;n:	25 a&#241;os
+								Organismo Ejecutor	Ministerio de Trabajo	
+								Per&#237;odo de desembolso:	5 a&#241;os
+								Per&#237;odo de gracia:	5,5 a&#241;os (b)
+								Tasa de inter&#233;s:	Basada en LIBOR 
+								Vida Promedio Ponderada (VPP):	15,25 a&#241;os
+
+								Fuente	Total (US$)	
+								BID (Capital Ordinario): 	20.000.000	
+								BID (GRF) (f):	2.625.000	
+								"PSG (Gobierno de Suiza, Secretar&#237;a de Estado para Asuntos Econ&#243;micos (SECO)
+								 (CO-G1018)) (g): "	2.500.000	
+								Comisi&#243;n de administraci&#243;n (g):	125.000
+								Total	25.125.000	
+
+								Comisi&#243;n de administraci&#243;n:	N/A
+								Total disponible para proyecto (f): 	25.000.000	
+								Moneda de aprobaci&#243;n:	D&#243;lar estadounidense (US$)	
+								")});
+
+
+										dataRelationships.push({id:"617b0928-a128-4d83-84af-5a33321e0077", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1", targetid:"62983d23-5b97-4675-9778-1a47ada24357"});
+										dataRelationships.push({id:"057876f5-60cc-4c03-8bd6-0ef90b5949d7", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"91162640-9e76-4c3b-a1d8-feac0978e168", targetid:"62983d23-5b97-4675-9778-1a47ada24357"});
+										dataRelationships.push({id:"77bb74a0-f2f0-4e58-b898-a74d34a0aaf1", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"ce236631-fc5e-4589-923b-26b8b120c617", targetid:"62983d23-5b97-4675-9778-1a47ada24357"});
+										dataRelationships.push({id:"c56ec9ca-8736-460d-ba0b-9c48ce1f927a", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"03b82ef2-a0cc-4e5b-b2be-e31aaeed0688", targetid:"62983d23-5b97-4675-9778-1a47ada24357"});
+										dataRelationships.push({id:"9bed981d-4017-4e68-a48e-4b220a8c87c7", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"453c204b-a8a6-4089-b65c-a0fe594e9413", targetid:"62983d23-5b97-4675-9778-1a47ada24357"});
+										dataRelationships.push({id:"827e40de-cef0-4081-b569-052d8d93eead", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"fb3c7359-e61b-4244-b482-768a2f4bd575", targetid:"62983d23-5b97-4675-9778-1a47ada24357"});
+										dataRelationships.push({id:"9d539f7a-c8a2-4d68-a12f-eca954a3b3e1", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"ce236631-fc5e-4589-923b-26b8b120c617", targetid:"858c240e-ab69-47c3-8ebe-7d7d8f2950c8"});
+										dataRelationships.push({id:"f07068c1-73d4-4551-ad8a-2cb369335b06", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"03b82ef2-a0cc-4e5b-b2be-e31aaeed0688", targetid:"858c240e-ab69-47c3-8ebe-7d7d8f2950c8"});
+										dataRelationships.push({id:"b5e40b4e-cdcc-43e4-b7c9-39929c2dada9", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"fb3c7359-e61b-4244-b482-768a2f4bd575", targetid:"858c240e-ab69-47c3-8ebe-7d7d8f2950c8"});
+										dataRelationships.push({id:"750c475c-fde5-45e5-a7ba-bdc09b5c9c81", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"91162640-9e76-4c3b-a1d8-feac0978e168", targetid:"ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97"});
+										dataRelationships.push({id:"9bd15c5f-4cca-4842-86e5-315f7af78a60", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"ce236631-fc5e-4589-923b-26b8b120c617", targetid:"47a24a51-c69d-4587-828a-b2f049c52373"});
+										dataRelationships.push({id:"79d1ed30-0a0c-4e4b-83c1-bc6befb14817", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"03b82ef2-a0cc-4e5b-b2be-e31aaeed0688", targetid:"8476bf70-c6b9-400d-bfc8-9a0d18e7708f"});
+										dataRelationships.push({id:"e0909c55-0ded-4e6d-bf6c-631c7079e395", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"fb3c7359-e61b-4244-b482-768a2f4bd575", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"dfc798a7-72d6-4e9e-ac01-198c85d6bdb0", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"7aa8eecf-748d-42dd-a201-2ef495b0043e", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"14f2eb59-1cc0-4496-9505-02898b64078c", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"f56fb9ce-e2b7-4b1f-ab13-1573b0d8ab7c", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"c2f49f30-d08f-4f7e-a942-8404ec47b61a", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"5a910722-e88d-4aac-ae11-e6db6f80ac20", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"6675398d-0c9c-4f73-9a00-ec13db910856", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"44a2c1aa-1532-4943-97b9-b2574b5aecf8", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"b253f50c-ba54-4f00-8e38-964220937be2", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"8a956db3-f948-478a-93e9-8dc1bdd6c238", targetid:"47a24a51-c69d-4587-828a-b2f049c52373"});
+										dataRelationships.push({id:"b22a0d9d-bffa-49af-be05-4529b1b61609", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"8a956db3-f948-478a-93e9-8dc1bdd6c238", targetid:"ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97"});
+										dataRelationships.push({id:"c3379a3b-0c47-407b-b0cd-d88e8312fa98", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"8a956db3-f948-478a-93e9-8dc1bdd6c238", targetid:"8476bf70-c6b9-400d-bfc8-9a0d18e7708f"});
+										dataRelationships.push({id:"20e82eb8-d089-43a2-a0a2-12cf4262c19e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"8a956db3-f948-478a-93e9-8dc1bdd6c238", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"bab8b07c-4d77-4f25-8f2b-281c2adac89b", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"6529e2b5-81c0-4467-88dd-0a772e76a6fd", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"d5545d18-31cd-4dca-8151-bb177afc1c54", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"daddb2b9-47a6-4af7-a355-4d7dd92d4159", targetid:"ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97"});
+										dataRelationships.push({id:"35c7dd15-0d0d-4b08-91c6-25671220fc67", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"8476bf70-c6b9-400d-bfc8-9a0d18e7708f"});
+										dataRelationships.push({id:"4680ea38-b375-4d0e-9e62-723c1e0ae626", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"47a24a51-c69d-4587-828a-b2f049c52373"});
+										dataRelationships.push({id:"655fc176-071b-42b0-823a-a8d76fd32673", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97"});
+										dataRelationships.push({id:"3b119dc3-f32f-45f7-86cd-6c11ddce62f3", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"bae1d7be-3836-4431-b161-89da7e5d34ee"});
+										dataRelationships.push({id:"b7233074-ba56-42ae-a385-735a490f90d6", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"d1f80a3b-4ecf-4308-a624-43960bac8be0", targetid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"});
+										dataRelationships.push({id:"8fe10ed9-c237-49aa-b10e-c1efecff7e6d", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"37e20aa4-8850-46cd-a8da-41a1da80dc0f"});
+										dataRelationships.push({id:"c17deaf5-c478-4d67-bf57-42532947f7dd", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"2c2a73fb-0dbc-4745-836f-4de1d7f82078"});
+										dataRelationships.push({id:"86cb0644-8872-4ae9-9765-09c3c661a180", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"d1f80a3b-4ecf-4308-a624-43960bac8be0", targetid:"d22a24ab-bf8f-44d8-862d-d9c29482f4b9"});
+										dataRelationships.push({id:"efe250de-3d73-4140-827b-2dfc07eaa68a", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"a0d8b366-1a15-401b-b4d7-c32afff31f2f"});
+										dataRelationships.push({id:"a0131927-3781-4cea-9a23-4ca2d587e832", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"104a5a34-7d48-4870-9c24-28e5c5a9fae7"});
+										dataRelationships.push({id:"32cc33d7-70d5-4458-b03a-964f1900738e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"cb506ad7-d6f9-4c47-94c4-613cf1c9e92e"});
+										dataRelationships.push({id:"99456e83-3221-4f00-b480-7894eb0b18fe", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b", targetid:"84ca47f1-bdbc-4fcd-981a-6a3630e0e2cc"});
+										dataRelationships.push({id:"8cbd8516-38e8-4bce-8a6e-a698f9f4364d", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"945ca454-c9d1-429c-8296-98c15afdb2ec", targetid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"});
+										dataRelationships.push({id:"3850c1ca-bb58-4bbe-8a84-5861cdb15865", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"675aa05f-c055-4f82-b43e-e853424903bc", targetid:"d22a24ab-bf8f-44d8-862d-d9c29482f4b9"});
+										dataRelationships.push({id:"de7fc4a8-7365-47cc-b254-b5824fabbc4f", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"62983d23-5b97-4675-9778-1a47ada24357", targetid:"ebcc024f-98e9-4e01-b6fb-b69f171e3719"});
+										dataRelationships.push({id:"f641dee2-a3e8-4ca6-b5c4-d0719716bd67", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"62983d23-5b97-4675-9778-1a47ada24357", targetid:"79ce7c3e-3d94-436f-beb6-898e70058543"});
+										dataRelationships.push({id:"5317b524-0e4e-47f7-99d0-1ccc3429334c", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"62983d23-5b97-4675-9778-1a47ada24357", targetid:"a5ae5d8d-13ef-49e6-924e-0d82c109430e"});
+										dataRelationships.push({id:"67b8cef3-435d-41b2-bde8-344f1525e7c3", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"91162640-9e76-4c3b-a1d8-feac0978e168", targetid:"858c240e-ab69-47c3-8ebe-7d7d8f2950c8"});
+										dataRelationships.push({id:"f1a398cb-5a13-420d-ad65-30d71906c38c", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"630fee3c-afc8-4210-96ab-51f3c8413fee", targetid:"91162640-9e76-4c3b-a1d8-feac0978e168"});
+										dataRelationships.push({id:"2356897a-a29a-4242-b93e-04a28814c831", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"630fee3c-afc8-4210-96ab-51f3c8413fee", targetid:"fb3c7359-e61b-4244-b482-768a2f4bd575"});
+										dataRelationships.push({id:"3daeaa33-7a80-4409-84b7-69e1f32422e3", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"630fee3c-afc8-4210-96ab-51f3c8413fee", targetid:"ce236631-fc5e-4589-923b-26b8b120c617"});
+										dataRelationships.push({id:"f75be758-df4b-434e-8253-8081687377eb", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"630fee3c-afc8-4210-96ab-51f3c8413fee", targetid:"03b82ef2-a0cc-4e5b-b2be-e31aaeed0688"});
+										dataRelationships.push({id:"9cdd0bb6-f3a1-4194-9a0c-81400d3f51b4", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"a28acf67-2644-42b6-b456-77ff109a1ef6", targetid:"03b82ef2-a0cc-4e5b-b2be-e31aaeed0688"});
+										dataRelationships.push({id:"83785e02-02fd-46fd-9e51-1c84a43378bd", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0ec90a5b-d622-49ce-ba6b-25d17acf99aa", targetid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"});
+										dataRelationships.push({id:"43e40047-cbfb-4ab0-a7d5-560a3bb92891", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1", targetid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"});
+										dataRelationships.push({id:"eb92d00e-a85a-4a88-9542-ebbadccff5cd", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"4f0a59a9-8380-4964-a3a7-286f64c24950", targetid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"});
+										dataRelationships.push({id:"426238aa-3dea-4882-b810-67f53fc94ec3", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"a28acf67-2644-42b6-b456-77ff109a1ef6", targetid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"});
+										dataRelationships.push({id:"05c782fc-4c3e-434a-9c8d-1f6eec8c5ee7", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"a2261efd-b869-4153-904f-aac3a90fdacc", targetid:"bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"});
+										dataRelationships.push({id:"dbb7b0b8-1b26-4362-ba84-16d1e6535ae3", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"c78dd6d4-e9c6-41ad-8fc5-265ca145a390", targetid:"d22a24ab-bf8f-44d8-862d-d9c29482f4b9"});
+										dataRelationships.push({id:"9719e3fe-2ec2-4ee2-b63d-867d22dad64c", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"98a60a59-5563-4550-a652-3e9ecc674849", targetid:"d22a24ab-bf8f-44d8-862d-d9c29482f4b9"});
+										dataRelationships.push({id:"81dee673-eca6-4801-bca3-ca2e86700e7c", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"a21d9b6b-1f19-4b51-9d37-ba2a6869d563", targetid:"d22a24ab-bf8f-44d8-862d-d9c29482f4b9"});
+										dataRelationships.push({id:"7663dac5-7cdc-494c-b6ca-85b7b474a4a4", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"40a56c7e-f90a-466c-a97b-b9296cd98cf6", targetid:"c78dd6d4-e9c6-41ad-8fc5-265ca145a390"});
+										dataRelationships.push({id:"28093a6f-eec6-4ace-bf2e-896890016d47", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"93ef34ca-4ab3-4d52-90f3-841a15e28af0", targetid:"c78dd6d4-e9c6-41ad-8fc5-265ca145a390"});
+										dataRelationships.push({id:"7ec64719-d7d7-4aec-a82d-fecb1425ac85", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"02d3473b-1d15-4e15-914c-c203ba1ae6f4", targetid:"c78dd6d4-e9c6-41ad-8fc5-265ca145a390"});
+										dataRelationships.push({id:"e3707f70-9675-44bd-9639-938fd3fdf728", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"40a56c7e-f90a-466c-a97b-b9296cd98cf6", targetid:"a21d9b6b-1f19-4b51-9d37-ba2a6869d563"});
+										dataRelationships.push({id:"1310c735-06a7-4ec5-b2e9-b93e56db7746", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"91162640-9e76-4c3b-a1d8-feac0978e168", targetid:"1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1"});
+										dataRelationships.push({id:"e1b5ce7d-79a9-4c8a-96ed-f65dba1d9528", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"40a56c7e-f90a-466c-a97b-b9296cd98cf6", targetid:"0ec90a5b-d622-49ce-ba6b-25d17acf99aa"});
+										dataRelationships.push({id:"b0347496-eb60-4c0d-833b-a70f5cbf6e71", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"91162640-9e76-4c3b-a1d8-feac0978e168", targetid:"4f0a59a9-8380-4964-a3a7-286f64c24950"});
+										dataRelationships.push({id:"f4597ba5-d268-459a-8e52-cb0248903a39", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"22660beb-d85c-4eb0-ac04-a5fe2d1555c8", targetid:"62983d23-5b97-4675-9778-1a47ada24357"});
+										dataRelationships.push({id:"b91fb4a8-bff3-4ed2-98f8-55e417269532", type:"RealizationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"22660beb-d85c-4eb0-ac04-a5fe2d1555c8", targetid:"ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97"});
+										dataRelationships.push({id:"9675a122-a583-4cd8-bd8b-aa9dc4f4a8c5", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"22660beb-d85c-4eb0-ac04-a5fe2d1555c8", targetid:"a2261efd-b869-4153-904f-aac3a90fdacc"});
+										dataRelationships.push({id:"74755237-a3b1-4b4d-8148-a5af3f8502ce", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"060d72ba-f77a-408a-8fb0-2c3f156a946e", targetid:"40a56c7e-f90a-466c-a97b-b9296cd98cf6"});
+										dataRelationships.push({id:"1410e406-8a95-4062-88d0-b03123df715f", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"060d72ba-f77a-408a-8fb0-2c3f156a946e", targetid:"93ef34ca-4ab3-4d52-90f3-841a15e28af0"});
+										dataRelationships.push({id:"f961ade7-4c8c-42b8-9ab1-ad289da62bb6", type:"CompositionRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"060d72ba-f77a-408a-8fb0-2c3f156a946e", targetid:"02d3473b-1d15-4e15-914c-c203ba1ae6f4"});
+										dataRelationships.push({id:"ce4c1c17-8b5b-4405-9b84-9f212c2e8d0e", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"40a56c7e-f90a-466c-a97b-b9296cd98cf6", targetid:"93ef34ca-4ab3-4d52-90f3-841a15e28af0"});
+										dataRelationships.push({id:"4e1aaf81-6a00-438c-8d1c-7251c4fb4f40", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"02d3473b-1d15-4e15-914c-c203ba1ae6f4", targetid:"93ef34ca-4ab3-4d52-90f3-841a15e28af0"});
+										dataRelationships.push({id:"a8d5554c-86bd-4bdf-8026-37f029a8aebc", type:"FlowRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"802dfc0a-c6b0-470d-8fe1-eea64523e869", targetid:"93ef34ca-4ab3-4d52-90f3-841a15e28af0"});
+										dataRelationships.push({id:"20abc122-a20a-4fb2-8946-fa56b3cae30e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"4b29832a-0055-4a5c-b315-2b9a9349ba58", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"926a2051-3824-4b97-a237-0dd157674100", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"e714cb3d-8725-4e00-97d5-21c0934b46d1", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"5fe3371b-a197-4405-bd40-172d4db5a946", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"5283ac67-ec41-470d-9016-120c1550b585", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"d40abd10-ef1d-4c07-a8eb-0aefb5d0b177", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"64ca0e3e-e654-4c48-85dc-15fe44dff6fa", targetid:"32501d01-10b3-430e-a6b4-380829f7b217"});
+										dataRelationships.push({id:"0b4fdc22-1087-4d42-810b-ab05dd85c3db", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"bd6a43e4-0415-4bcc-9ef9-5b7333ed5a0f", targetid:"b2849d99-5b11-444f-9044-e88728f35255"});
+										dataRelationships.push({id:"055161cd-87fa-46b2-bb51-4d2c5e285a8e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"63a722ea-9785-4e81-95b9-bbd11d833b09", targetid:"b2849d99-5b11-444f-9044-e88728f35255"});
+										dataRelationships.push({id:"4eb57d92-b9dd-4d70-b2de-e1b072ad04b2", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1962985e-5834-4dc7-99fa-41e4d96e7db2", targetid:"b2849d99-5b11-444f-9044-e88728f35255"});
+										dataRelationships.push({id:"3b88f1e8-8028-4921-b2a7-1128bf8ba4d3", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"b2849d99-5b11-444f-9044-e88728f35255", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"399cb7f9-ce44-4e7f-a8a6-33607e087683", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1fe3d17c-39d7-44ce-8200-f830f476fb72", targetid:"32501d01-10b3-430e-a6b4-380829f7b217"});
+										dataRelationships.push({id:"c4ede72d-59e7-4beb-87ce-c63ab2c8bbad", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"5de2dca3-0c07-48db-94f4-8708b7ad64aa", targetid:"32501d01-10b3-430e-a6b4-380829f7b217"});
+										dataRelationships.push({id:"544d8bbf-9f83-447e-b42b-7896679eb7c6", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"32501d01-10b3-430e-a6b4-380829f7b217", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"5daba70e-c5b3-4d6f-ab21-3378cb98a7e6", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"b2849d99-5b11-444f-9044-e88728f35255", targetid:"32501d01-10b3-430e-a6b4-380829f7b217"});
+										dataRelationships.push({id:"77326db1-a5a4-4212-ac43-41549498797e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"f3dc5e03-dc72-4891-9855-89ea4c9650ff", targetid:"b2849d99-5b11-444f-9044-e88728f35255"});
+										dataRelationships.push({id:"e086abbc-3652-45d6-9132-ebc3f88144fd", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"6465dfc5-421d-4d2e-a495-8834b8385995", targetid:"b2849d99-5b11-444f-9044-e88728f35255"});
+										dataRelationships.push({id:"108f471f-d82d-4ec4-b5da-328e973468a1", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"9e3fb03a-d59d-49b4-b939-127c97159b09", targetid:"b2849d99-5b11-444f-9044-e88728f35255"});
+										dataRelationships.push({id:"c1d20844-7f95-4b9e-b2a9-5d1a51f8abc4", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"929a66a2-11a3-4883-9ef8-e53b2cf5b94c", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"7f609369-538c-4763-91dd-802ad430ab65", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"ea9ee90c-de64-48d0-b126-07e290e9bbe1", targetid:"b2849d99-5b11-444f-9044-e88728f35255"});
+										dataRelationships.push({id:"9aae638b-807d-4e19-a11d-3648d938273a", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"8f3c3428-62f8-4099-82cd-b0be133c4875", targetid:"32501d01-10b3-430e-a6b4-380829f7b217"});
+										dataRelationships.push({id:"f101de75-5e45-45ff-ac16-1b3e7f5930a6", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"ea9ee90c-de64-48d0-b126-07e290e9bbe1", targetid:"6728a6a1-7861-4473-afb5-09c0ddedac2a"});
+										dataRelationships.push({id:"96494b61-b31f-4399-add1-09d2aa7357d5", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"6728a6a1-7861-4473-afb5-09c0ddedac2a", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"6195952b-5932-48b7-a154-bd46ab84a1b5", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1", targetid:"9b83d9ec-d0fd-447b-8e80-9bf55e685327"});
+										dataRelationships.push({id:"ebb29586-e8a6-4eee-ac40-65a012aece40", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"c1d1b66e-e9ba-4cc4-8597-f37758649fc6", targetid:"9b83d9ec-d0fd-447b-8e80-9bf55e685327"});
+										dataRelationships.push({id:"0f1f078d-42ec-46c2-a022-51eb3a08e223", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"b50d54d8-292d-42fb-83f3-5e3758601416", targetid:"32501d01-10b3-430e-a6b4-380829f7b217"});
+										dataRelationships.push({id:"52d60f41-85af-4c88-82c6-8535fb81e669", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0cf75bd3-517b-49ea-85d9-b6bbe4502d4b", targetid:"f3dc5e03-dc72-4891-9855-89ea4c9650ff"});
+										dataRelationships.push({id:"6aab9077-6572-4dd9-9d2e-c22d182e00ee", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0cf75bd3-517b-49ea-85d9-b6bbe4502d4b", targetid:"63a722ea-9785-4e81-95b9-bbd11d833b09"});
+										dataRelationships.push({id:"26c29641-becb-4d10-9e4b-d6d19fc1691e", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"760bd1e4-8654-40a7-9685-65a3d22ad581", targetid:"1d53e996-5888-48f2-be0f-321f2401ff94"});
+										dataRelationships.push({id:"1e9df92c-85a4-4444-a7d8-6a775196f214", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"760bd1e4-8654-40a7-9685-65a3d22ad581", targetid:"1c27468b-e913-4ef6-8636-feb7cb7a3869"});
+										dataRelationships.push({id:"b8821176-aafb-4a1e-8c0c-32885a76ae72", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1c27468b-e913-4ef6-8636-feb7cb7a3869", targetid:"360850dc-ec0e-4faa-91f1-48a81aed72c8"});
+										dataRelationships.push({id:"a22a67dc-a9f0-4d77-ae1d-d60a2a61cfd4", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1d53e996-5888-48f2-be0f-321f2401ff94", targetid:"5c91c01e-cb9f-4a8c-b8b9-21987f1a86a3"});
+										dataRelationships.push({id:"905d8df2-e6b2-4bdb-85c3-d758913e611e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1962985e-5834-4dc7-99fa-41e4d96e7db2", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"4f8146d8-ec05-45ce-8e50-ca50f3b5d3fa", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"9e3fb03a-d59d-49b4-b939-127c97159b09", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"8f2029cf-02cb-4807-8475-50656c6cb82a", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1d53e996-5888-48f2-be0f-321f2401ff94", targetid:"64b01880-5a48-400b-ba71-46eff02a7741"});
+										dataRelationships.push({id:"b59414d6-cb8d-40e0-b7b0-8f5efbcab50d", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1d53e996-5888-48f2-be0f-321f2401ff94", targetid:"5c91c01e-cb9f-4a8c-b8b9-21987f1a86a3"});
+										dataRelationships.push({id:"be641539-96de-48e5-bd26-25f6c7397dc6", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0cf75bd3-517b-49ea-85d9-b6bbe4502d4b", targetid:"cb96bdab-142a-45aa-b7df-823945e0b43f"});
+										dataRelationships.push({id:"24a26cfb-4924-4db9-bdf3-6b0abfa91918", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"f3dc5e03-dc72-4891-9855-89ea4c9650ff", targetid:"26c3813e-9c46-4e81-bbd0-0ba6192252c3"});
+										dataRelationships.push({id:"a9559980-8a8a-4452-9027-22f6f5dfa0bb", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0cf75bd3-517b-49ea-85d9-b6bbe4502d4b", targetid:"1962985e-5834-4dc7-99fa-41e4d96e7db2"});
+										dataRelationships.push({id:"0e1b7abc-d885-4dc4-89b6-ae44a1097386", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"7ee62c57-9d63-48f7-bef2-9179134e3d5e", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"1c1f2813-4542-47b0-a5a8-f7e9642819f9", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"87f8af28-901d-4687-9117-1d86541aa8ab", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"6af4c81a-daf1-43f3-a67e-fa6de274268e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1b735a2a-55d4-4554-92bd-2917dc5c9bc9", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"24998f24-508e-45f5-89a7-0015ceb55302", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0cf75bd3-517b-49ea-85d9-b6bbe4502d4b", targetid:"7ee62c57-9d63-48f7-bef2-9179134e3d5e"});
+										dataRelationships.push({id:"e9ddee9d-c37f-419e-86fe-be58806cad6c", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"9ed9b111-0157-4f7f-af00-540cd9ca3a97", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"1d87290b-bba6-4e8e-919b-8c4afba96e9c", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"a2420a72-ed1b-4b1f-bbb0-9a3f6b0847d6", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"7801cc13-b589-4fc5-90e0-b8b55b8256c0", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"489c53f3-3727-431b-a856-bc6ac5423b17", targetid:"760bd1e4-8654-40a7-9685-65a3d22ad581"});
+										dataRelationships.push({id:"849a149e-3e1b-4f8a-9cc7-738c9652d560", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"26c3813e-9c46-4e81-bbd0-0ba6192252c3", targetid:"1d53e996-5888-48f2-be0f-321f2401ff94"});
+										dataRelationships.push({id:"acba2d8b-ff9d-4230-b3bc-1b54ca13cc46", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"26c3813e-9c46-4e81-bbd0-0ba6192252c3", targetid:"1c27468b-e913-4ef6-8636-feb7cb7a3869"});
+										dataRelationships.push({id:"aeef99ff-a27a-4c7e-8ae7-9311f2487c2d", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"1d53e996-5888-48f2-be0f-321f2401ff94", targetid:"261c579d-1bd3-4c89-8811-1694838da783"});
+										dataRelationships.push({id:"5b893866-3719-467e-b5e7-2928fb99fd7f", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"261c579d-1bd3-4c89-8811-1694838da783", targetid:"4237549d-bc2e-4d06-a0fe-ecfdee04f8ad"});
+										dataRelationships.push({id:"7978cdaa-7d2a-4306-b6fa-9ddfc56b2b13", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0e6caf76-1aff-40ad-b6be-1d6daeaf06fa", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"01d64fc9-d19c-4fcf-81e1-fd78a626ce43", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"3728187e-81e9-473a-b914-7c67a97ddb51", targetid:"0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"});
+										dataRelationships.push({id:"2fce996e-05cc-4278-b41c-677b7e294a7a", type:"ServingRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"0cf75bd3-517b-49ea-85d9-b6bbe4502d4b", targetid:"9e3fb03a-d59d-49b4-b939-127c97159b09"});
+										dataRelationships.push({id:"a7d14448-c780-493d-b509-349a4d68adbe", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"51ccb514-c8f3-4af8-9321-c0fcc0a15eec", targetid:"ebcc024f-98e9-4e01-b6fb-b69f171e3719"});
+										dataRelationships.push({id:"eafe61ad-864e-44a7-a397-d18c0cb5690e", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"ebcc024f-98e9-4e01-b6fb-b69f171e3719", targetid:"6529e2b5-81c0-4467-88dd-0a772e76a6fd"});
+										dataRelationships.push({id:"cd5c171a-6be2-4367-84fa-01600f39ea56", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"a5ae5d8d-13ef-49e6-924e-0d82c109430e", targetid:"2c2a73fb-0dbc-4745-836f-4de1d7f82078"});
+										dataRelationships.push({id:"83a88403-915e-4b80-becb-519392c268a1", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"79ce7c3e-3d94-436f-beb6-898e70058543", targetid:"6529e2b5-81c0-4467-88dd-0a772e76a6fd"});
+										dataRelationships.push({id:"bb54367a-abdf-4089-bc38-223041f9744a", type:"AssociationRelationship", name:decodeURL(""), description:decodeURL(""), sourceid:"ec3f8784-2ac4-476c-8185-621d8c267693", targetid:"d1f80a3b-4ecf-4308-a624-43960bac8be0"});
+
+
+											<!-- DEBUG: Skipping view APP2. SGE -->
+											<!-- DEBUG: Skipping view APP3. SNC -->
+											<!-- DEBUG: Skipping view Aplicaciones -->
+
+
+											<!-- DEBUG: Skipping view BMM -->
+											<!-- DEBUG: Skipping view Fines Acciones Productos -->
+											<!-- DEBUG: Skipping view Colaboración -->
+											<!-- DEBUG: Skipping view Globales -->
+											<!-- DEBUG: Skipping view Goals -->
+											<!-- DEBUG: Skipping view Políticas -->
+											<!-- DEBUG: Skipping view Productos -->
+
+
+
+
+
+
+
+						    alasql('CREATE TABLE Elements');
+						    alasql('CREATE TABLE Properties');
+						    alasql('CREATE TABLE Relationships');
+
+						    alasql.tables.Elements.data = dataElements;
+						    alasql.tables.Properties.data = dataProperties;
+						    alasql.tables.Relationships.data = dataRelationships;
+						</script> 
+						</div>
 			  </div>
 			</div>
 		</div>
