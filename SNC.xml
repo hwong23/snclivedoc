@@ -6,9 +6,9 @@
     <schemaversion>1.1</schemaversion>
     <dc:title>SNC</dc:title>
     <dc:creator>HWO</dc:creator>
-    <dc:subject>Programa Fortaleciemiento Empleo</dc:subject>
+    <dc:subject>Comentario cambio...</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.02</dc:identifier>
+    <dc:identifier>1.03</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -1056,7 +1056,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <item>
       <label xml:lang="en">Views</label>
       <item>
-        <label xml:lang="en">SI</label>
+        <label xml:lang="en">Aplicaciones</label>
+        <item>
+          <label xml:lang="en">Implementación</label>
+          <item identifierRef="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db" />
+        </item>
         <item identifierRef="id-714214ff-c925-4446-b605-5fc60046e263" />
         <item identifierRef="id-bdba00a0-3caa-4cca-ab0a-d372d6157434" />
         <item identifierRef="id-ed3e196c-9f4d-41ac-bc68-0986e3b7bc78" />
@@ -1064,6 +1068,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       </item>
       <item>
         <label xml:lang="en">BMM</label>
+        <item>
+          <label xml:lang="en">Doc</label>
+          <item identifierRef="id-bec553f1-8eec-4902-8d72-db8156d12f59" />
+          <item identifierRef="id-ab2c8c96-4306-4f45-bae0-8545e2d90513" />
+        </item>
         <item identifierRef="id-fa31fec0-d7ab-4669-ad9f-2f3d599860e0" />
         <item identifierRef="id-69bfc6a2-034a-43b7-81c8-9fc4d8029cf8" />
         <item identifierRef="id-c29b3825-8360-4f77-a009-6b624320bd20" />
@@ -1071,18 +1080,45 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
         <item identifierRef="id-6d570471-40a8-4dda-83ee-c4ec67441e71" />
       </item>
       <item>
-        <label xml:lang="en">Doc</label>
-        <item identifierRef="id-bec553f1-8eec-4902-8d72-db8156d12f59" />
-        <item identifierRef="id-ab2c8c96-4306-4f45-bae0-8545e2d90513" />
-      </item>
-      <item>
-        <label xml:lang="en">Implementación</label>
-        <item identifierRef="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db" />
+        <label xml:lang="en">Funcional</label>
       </item>
     </item>
   </organizations>
   <views>
     <diagrams>
+      <view identifier="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db" xsi:type="Diagram">
+        <name xml:lang="en">New ArchiMate View</name>
+        <node identifier="id-93fdee06-5feb-4f51-935b-8d174c03fe07" elementRef="id-eaa00c8a-521e-435b-83fd-565230b9f809" xsi:type="Element" x="189" y="204" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-dfef5d12-67fd-4249-8a58-6f2f1ca8ef33" elementRef="id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a" xsi:type="Element" x="360" y="266" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-302f56a1-a84a-489b-8084-5cd7cbb45d2c" elementRef="id-bf414e26-2032-4ff7-b811-b94cd621c518" xsi:type="Element" x="190" y="266" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-67d85895-afc8-4943-9bf7-46cd6e084d54" elementRef="id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f" xsi:type="Element" x="362" y="401" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-9341de5b-973a-440a-9e17-4286c65c591b" elementRef="id-282dce6b-bf1a-4454-b4db-f685636ff44b" xsi:type="Element" x="354" y="470" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+      </view>
       <view identifier="id-714214ff-c925-4446-b605-5fc60046e263" xsi:type="Diagram">
         <name xml:lang="en">APP2. SGE</name>
         <documentation xml:lang="en">Este servicio está orientado a brindar soluciones tecnológicas para la gestión eficiente del empleo, a partir de un seguimiento y monitoreo de resultados de las políticas activas y pasivas que lidera el sector trabajo incluyendo un análisis de su intervención institucional y de los lineamientos técnicos de política de empleo relacionados con la oferta laboral, la demanda laboral y la oferta educativa y formativa, cuya efectividad rara vez es evaluada a pesar de la gran cantidad de recursos destinada para estos fines.  
@@ -1095,9 +1131,15 @@ Este nuevo servicio de información permitirá consolidar una plataforma tecnol�
 El sistema de información gerencial centraliza y procesa información administrativa para generar reportes, analítica y visualizaciones que informen frente a la política de empleo y de formación para el trabajo.
 
 
-Objetivo
---Realizar seguimiento y monitoreo de resultados de las políticas de empleo para trazar la obtención de servicios de empleo a nivel individual y los resultados en empleo formal
---Recoger y procesar información sobre la oferta y demanda de cualificaciones
+Objetivos de la Plataforma de Información del SNC
+--Brindar información de forma agregada y detallada sobre las ocupaciones, la oferta y la demanda laboral actuales y futuras del país, y las competencias requeridas por el mercado de trabajo 
+--Proveer información para mejorar los procesos de gestión del talento humano basados en competencias 
+--Dar información sobre estándares, procesos y requerimientos para la acreditación de calidad de la oferta educativa y formativa y la oferta acreditada existente con el fin de orientar la elección para el desarrollo de capital humano hacia los oferentes acreditados 
+--Brindar información sobre las características y contenidos de catálogos de cualificaciones y la oferta de programas de Formación para el trabajo, educación formal y procesos de reconocimiento de aprendizajes previos 
+--Brindar información sobre los procesos de certificación de competencias laborales y los requerimientos para alcanzar estas certificaciones 
+--Brindar orientación para la elección de trayectorias formativas, educativas y laborales, procesos de certificación de competencia y rutas de servicios para mejorar la empleabilidad 
+--Brindar información a los proveedores de Formación para el trabajo y educación superior sobre ajustes necesarios a su oferta para la mejora de la calidad y la pertinencia 
+--Proveer información para facilitar la identificación de brechas de calidad, de pertinencia y de cantidad de la formación laboral/educativa con respecto a la demanda y oferta laboral 
 
 
 Components
@@ -2004,6 +2046,180 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           </style>
         </connection>
         <connection identifier="id-6e98ddf0-0a0f-4434-baa9-11a06a52a0fb" relationshipRef="id-9444b987-6b2c-43e5-8044-dca6b8b9b4d0" xsi:type="Relationship" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+      </view>
+      <view identifier="id-bec553f1-8eec-4902-8d72-db8156d12f59" xsi:type="Diagram">
+        <name xml:lang="en">Entregables</name>
+        <node identifier="id-71b37e60-d461-4a9a-9539-6d26ff1e462c" elementRef="id-8476bf70-c6b9-400d-bfc8-9a0d18e7708f" xsi:type="Element" x="226" y="118" w="134" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-d91821a1-5729-4301-b0cc-915eb91d36af" elementRef="id-47a24a51-c69d-4587-828a-b2f049c52373" xsi:type="Element" x="376" y="118" w="134" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-a3356f18-e7e4-42d7-b04c-401b44ad27a3" elementRef="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97" xsi:type="Element" x="526" y="118" w="134" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-aa291c9a-5448-420c-ac53-a8806d04d015" elementRef="id-bae1d7be-3836-4431-b161-89da7e5d34ee" xsi:type="Element" x="72" y="118" w="134" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-d8e3a343-0904-4920-af3c-5cdc2fd23c11" elementRef="id-d1f80a3b-4ecf-4308-a624-43960bac8be0" xsi:type="Element" x="520" y="378" w="146" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-08aced21-db61-48e4-96ef-47e895e67a1b" elementRef="id-d22a24ab-bf8f-44d8-862d-d9c29482f4b9" xsi:type="Element" x="226" y="432" w="145" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" elementRef="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b" xsi:type="Element" x="226" y="318" w="146" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-5b0db4c7-6de2-4f7f-8367-012ba094d051" elementRef="id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf" xsi:type="Element" x="498" y="686" w="138" h="71">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-f44e4c55-0350-4dcc-8ea7-89f57112b3a8" elementRef="id-be65ba54-c58a-422a-a03f-0de04b8baa6a" xsi:type="Element" x="498" y="780" w="138" h="71">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-54767fc9-42cb-400e-963b-06a90abb1c45" elementRef="id-43b384bc-b535-45da-93e7-da60e248e125" xsi:type="Element" x="498" y="864" w="138" h="71">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <connection identifier="id-db78350f-b713-4891-8270-b1e0c7d30862" relationshipRef="id-86cb0644-8872-4ae9-9765-09c3c661a180" xsi:type="Relationship" source="id-d8e3a343-0904-4920-af3c-5cdc2fd23c11" target="id-08aced21-db61-48e4-96ef-47e895e67a1b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-f428d151-2aae-47e1-9e41-bd193bde3a99" relationshipRef="id-b7233074-ba56-42ae-a385-735a490f90d6" xsi:type="Relationship" source="id-d8e3a343-0904-4920-af3c-5cdc2fd23c11" target="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-75f9fda3-a979-4a97-be82-4635ee0aa650" relationshipRef="id-35c7dd15-0d0d-4b08-91c6-25671220fc67" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-71b37e60-d461-4a9a-9539-6d26ff1e462c">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-f00d9326-a3d5-44ea-82df-f1eb7d78861f" relationshipRef="id-4680ea38-b375-4d0e-9e62-723c1e0ae626" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-d91821a1-5729-4301-b0cc-915eb91d36af">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-ea50fef0-ac9e-4d1b-8a88-8ef9dbe26ca5" relationshipRef="id-655fc176-071b-42b0-823a-a8d76fd32673" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-a3356f18-e7e4-42d7-b04c-401b44ad27a3">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-231997df-8d11-4def-99de-a619fba9e107" relationshipRef="id-3b119dc3-f32f-45f7-86cd-6c11ddce62f3" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-aa291c9a-5448-420c-ac53-a8806d04d015">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+      </view>
+      <view identifier="id-ab2c8c96-4306-4f45-bae0-8545e2d90513" xsi:type="Diagram">
+        <name xml:lang="en">Políticas</name>
+        <node identifier="id-68b5215a-3016-4d9e-a28a-a07b55a4c1c2" elementRef="id-a5ae5d8d-13ef-49e6-924e-0d82c109430e" xsi:type="Element" x="264" y="196" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-166c947a-99a5-4ccb-a05b-9d3a29612d38" elementRef="id-79ce7c3e-3d94-436f-beb6-898e70058543" xsi:type="Element" x="264" y="132" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-ed164275-8791-41bd-bd91-ee80a11dc9fd" elementRef="id-ebcc024f-98e9-4e01-b6fb-b69f171e3719" xsi:type="Element" x="125" y="132" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-428ae531-755f-4697-9cec-48c69d23b666" elementRef="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Element" x="28" y="288" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-31f1a2aa-b08d-49e1-afed-553fcc562684" xsi:type="Label" x="18" y="19" w="222" h="90">
+          <label xml:lang="en">SNC al servicio de las Políticas de fortalecimiento del empleo.
+
+Productos asociados al SNC</label>
+          <style>
+            <fillColor r="255" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-b1a5f1df-1a9d-493f-8328-da5c43df5f98" elementRef="id-630fee3c-afc8-4210-96ab-51f3c8413fee" xsi:type="Element" x="264" y="360" w="344" h="188">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+          <node identifier="id-870e93c3-1318-454c-9cf2-85a9474b68c4" elementRef="id-91162640-9e76-4c3b-a1d8-feac0978e168" xsi:type="Element" x="288" y="408" w="138" h="55">
+            <style>
+              <fillColor r="255" g="255" b="181" />
+              <lineColor r="92" g="92" b="92" />
+            </style>
+          </node>
+          <node identifier="id-39021e91-f6a2-4b31-8270-9fef20581b04" elementRef="id-fb3c7359-e61b-4244-b482-768a2f4bd575" xsi:type="Element" x="288" y="469" w="138" h="55">
+            <style>
+              <fillColor r="255" g="255" b="181" />
+              <lineColor r="92" g="92" b="92" />
+            </style>
+          </node>
+          <node identifier="id-52716341-e5ea-447d-8600-a4ad8324b74e" elementRef="id-ce236631-fc5e-4589-923b-26b8b120c617" xsi:type="Element" x="444" y="408" w="138" h="55">
+            <style>
+              <fillColor r="255" g="255" b="181" />
+              <lineColor r="92" g="92" b="92" />
+            </style>
+          </node>
+          <node identifier="id-f44c071d-98c2-4ce1-8805-81f1d82e97c5" elementRef="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Element" x="443" y="469" w="138" h="55">
+            <style>
+              <fillColor r="255" g="255" b="181" />
+              <lineColor r="92" g="92" b="92" />
+            </style>
+          </node>
+        </node>
+        <connection identifier="id-e6aa470b-b318-4d1d-a162-0c4653867a3e" relationshipRef="id-de7fc4a8-7365-47cc-b254-b5824fabbc4f" xsi:type="Relationship" source="id-428ae531-755f-4697-9cec-48c69d23b666" target="id-ed164275-8791-41bd-bd91-ee80a11dc9fd">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-771c5540-f462-400a-9ff8-50de6937dd73" relationshipRef="id-f641dee2-a3e8-4ca6-b5c4-d0719716bd67" xsi:type="Relationship" source="id-428ae531-755f-4697-9cec-48c69d23b666" target="id-166c947a-99a5-4ccb-a05b-9d3a29612d38">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-0b49692a-adf6-4bf2-8bc1-cf48c7ac2886" relationshipRef="id-5317b524-0e4e-47f7-99d0-1ccc3429334c" xsi:type="Relationship" source="id-428ae531-755f-4697-9cec-48c69d23b666" target="id-68b5215a-3016-4d9e-a28a-a07b55a4c1c2">
           <style>
             <lineColor r="0" g="0" b="0" />
           </style>
@@ -3224,213 +3440,6 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             <lineColor r="0" g="0" b="0" />
           </style>
         </connection>
-      </view>
-      <view identifier="id-bec553f1-8eec-4902-8d72-db8156d12f59" xsi:type="Diagram">
-        <name xml:lang="en">Entregables</name>
-        <node identifier="id-71b37e60-d461-4a9a-9539-6d26ff1e462c" elementRef="id-8476bf70-c6b9-400d-bfc8-9a0d18e7708f" xsi:type="Element" x="226" y="118" w="134" h="55">
-          <style>
-            <fillColor r="204" g="204" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-d91821a1-5729-4301-b0cc-915eb91d36af" elementRef="id-47a24a51-c69d-4587-828a-b2f049c52373" xsi:type="Element" x="376" y="118" w="134" h="55">
-          <style>
-            <fillColor r="204" g="204" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-a3356f18-e7e4-42d7-b04c-401b44ad27a3" elementRef="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97" xsi:type="Element" x="526" y="118" w="134" h="55">
-          <style>
-            <fillColor r="204" g="204" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-aa291c9a-5448-420c-ac53-a8806d04d015" elementRef="id-bae1d7be-3836-4431-b161-89da7e5d34ee" xsi:type="Element" x="72" y="118" w="134" h="55">
-          <style>
-            <fillColor r="204" g="204" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-d8e3a343-0904-4920-af3c-5cdc2fd23c11" elementRef="id-d1f80a3b-4ecf-4308-a624-43960bac8be0" xsi:type="Element" x="520" y="378" w="146" h="55">
-          <style>
-            <fillColor r="204" g="204" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-08aced21-db61-48e4-96ef-47e895e67a1b" elementRef="id-d22a24ab-bf8f-44d8-862d-d9c29482f4b9" xsi:type="Element" x="226" y="432" w="145" h="55">
-          <style>
-            <fillColor r="204" g="204" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" elementRef="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b" xsi:type="Element" x="226" y="318" w="146" h="55">
-          <style>
-            <fillColor r="204" g="204" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-5b0db4c7-6de2-4f7f-8367-012ba094d051" elementRef="id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf" xsi:type="Element" x="498" y="686" w="138" h="71">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-f44e4c55-0350-4dcc-8ea7-89f57112b3a8" elementRef="id-be65ba54-c58a-422a-a03f-0de04b8baa6a" xsi:type="Element" x="498" y="780" w="138" h="71">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-54767fc9-42cb-400e-963b-06a90abb1c45" elementRef="id-43b384bc-b535-45da-93e7-da60e248e125" xsi:type="Element" x="498" y="864" w="138" h="71">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <connection identifier="id-db78350f-b713-4891-8270-b1e0c7d30862" relationshipRef="id-86cb0644-8872-4ae9-9765-09c3c661a180" xsi:type="Relationship" source="id-d8e3a343-0904-4920-af3c-5cdc2fd23c11" target="id-08aced21-db61-48e4-96ef-47e895e67a1b">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-f428d151-2aae-47e1-9e41-bd193bde3a99" relationshipRef="id-b7233074-ba56-42ae-a385-735a490f90d6" xsi:type="Relationship" source="id-d8e3a343-0904-4920-af3c-5cdc2fd23c11" target="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-75f9fda3-a979-4a97-be82-4635ee0aa650" relationshipRef="id-35c7dd15-0d0d-4b08-91c6-25671220fc67" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-71b37e60-d461-4a9a-9539-6d26ff1e462c">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-f00d9326-a3d5-44ea-82df-f1eb7d78861f" relationshipRef="id-4680ea38-b375-4d0e-9e62-723c1e0ae626" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-d91821a1-5729-4301-b0cc-915eb91d36af">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-ea50fef0-ac9e-4d1b-8a88-8ef9dbe26ca5" relationshipRef="id-655fc176-071b-42b0-823a-a8d76fd32673" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-a3356f18-e7e4-42d7-b04c-401b44ad27a3">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-231997df-8d11-4def-99de-a619fba9e107" relationshipRef="id-3b119dc3-f32f-45f7-86cd-6c11ddce62f3" xsi:type="Relationship" source="id-0d34cb14-7c97-4fd1-959b-a0ded1925a8c" target="id-aa291c9a-5448-420c-ac53-a8806d04d015">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-      </view>
-      <view identifier="id-ab2c8c96-4306-4f45-bae0-8545e2d90513" xsi:type="Diagram">
-        <name xml:lang="en">Políticas</name>
-        <node identifier="id-68b5215a-3016-4d9e-a28a-a07b55a4c1c2" elementRef="id-a5ae5d8d-13ef-49e6-924e-0d82c109430e" xsi:type="Element" x="264" y="196" w="120" h="55">
-          <style>
-            <fillColor r="255" g="255" b="181" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-166c947a-99a5-4ccb-a05b-9d3a29612d38" elementRef="id-79ce7c3e-3d94-436f-beb6-898e70058543" xsi:type="Element" x="264" y="132" w="120" h="55">
-          <style>
-            <fillColor r="255" g="255" b="181" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-ed164275-8791-41bd-bd91-ee80a11dc9fd" elementRef="id-ebcc024f-98e9-4e01-b6fb-b69f171e3719" xsi:type="Element" x="125" y="132" w="120" h="55">
-          <style>
-            <fillColor r="255" g="255" b="181" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-428ae531-755f-4697-9cec-48c69d23b666" elementRef="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Element" x="28" y="288" w="120" h="55">
-          <style>
-            <fillColor r="255" g="255" b="181" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-31f1a2aa-b08d-49e1-afed-553fcc562684" xsi:type="Label" x="18" y="19" w="222" h="90">
-          <label xml:lang="en">SNC al servicio de las Políticas de fortalecimiento del empleo.
-
-Productos asociados al SNC</label>
-          <style>
-            <fillColor r="255" g="255" b="255" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-b1a5f1df-1a9d-493f-8328-da5c43df5f98" elementRef="id-630fee3c-afc8-4210-96ab-51f3c8413fee" xsi:type="Element" x="264" y="360" w="344" h="188">
-          <style>
-            <fillColor r="255" g="255" b="181" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-          <node identifier="id-870e93c3-1318-454c-9cf2-85a9474b68c4" elementRef="id-91162640-9e76-4c3b-a1d8-feac0978e168" xsi:type="Element" x="288" y="408" w="138" h="55">
-            <style>
-              <fillColor r="255" g="255" b="181" />
-              <lineColor r="92" g="92" b="92" />
-            </style>
-          </node>
-          <node identifier="id-39021e91-f6a2-4b31-8270-9fef20581b04" elementRef="id-fb3c7359-e61b-4244-b482-768a2f4bd575" xsi:type="Element" x="288" y="469" w="138" h="55">
-            <style>
-              <fillColor r="255" g="255" b="181" />
-              <lineColor r="92" g="92" b="92" />
-            </style>
-          </node>
-          <node identifier="id-52716341-e5ea-447d-8600-a4ad8324b74e" elementRef="id-ce236631-fc5e-4589-923b-26b8b120c617" xsi:type="Element" x="444" y="408" w="138" h="55">
-            <style>
-              <fillColor r="255" g="255" b="181" />
-              <lineColor r="92" g="92" b="92" />
-            </style>
-          </node>
-          <node identifier="id-f44c071d-98c2-4ce1-8805-81f1d82e97c5" elementRef="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Element" x="443" y="469" w="138" h="55">
-            <style>
-              <fillColor r="255" g="255" b="181" />
-              <lineColor r="92" g="92" b="92" />
-            </style>
-          </node>
-        </node>
-        <connection identifier="id-e6aa470b-b318-4d1d-a162-0c4653867a3e" relationshipRef="id-de7fc4a8-7365-47cc-b254-b5824fabbc4f" xsi:type="Relationship" source="id-428ae531-755f-4697-9cec-48c69d23b666" target="id-ed164275-8791-41bd-bd91-ee80a11dc9fd">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-771c5540-f462-400a-9ff8-50de6937dd73" relationshipRef="id-f641dee2-a3e8-4ca6-b5c4-d0719716bd67" xsi:type="Relationship" source="id-428ae531-755f-4697-9cec-48c69d23b666" target="id-166c947a-99a5-4ccb-a05b-9d3a29612d38">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-0b49692a-adf6-4bf2-8bc1-cf48c7ac2886" relationshipRef="id-5317b524-0e4e-47f7-99d0-1ccc3429334c" xsi:type="Relationship" source="id-428ae531-755f-4697-9cec-48c69d23b666" target="id-68b5215a-3016-4d9e-a28a-a07b55a4c1c2">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-      </view>
-      <view identifier="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db" xsi:type="Diagram">
-        <name xml:lang="en">New ArchiMate View</name>
-        <node identifier="id-93fdee06-5feb-4f51-935b-8d174c03fe07" elementRef="id-eaa00c8a-521e-435b-83fd-565230b9f809" xsi:type="Element" x="189" y="204" w="120" h="55">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-dfef5d12-67fd-4249-8a58-6f2f1ca8ef33" elementRef="id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a" xsi:type="Element" x="360" y="266" w="120" h="55">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-302f56a1-a84a-489b-8084-5cd7cbb45d2c" elementRef="id-bf414e26-2032-4ff7-b811-b94cd621c518" xsi:type="Element" x="190" y="266" w="120" h="55">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-67d85895-afc8-4943-9bf7-46cd6e084d54" elementRef="id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f" xsi:type="Element" x="362" y="401" w="120" h="55">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
-        <node identifier="id-9341de5b-973a-440a-9e17-4286c65c591b" elementRef="id-282dce6b-bf1a-4454-b4db-f685636ff44b" xsi:type="Element" x="354" y="470" w="120" h="55">
-          <style>
-            <fillColor r="255" g="224" b="224" />
-            <lineColor r="92" g="92" b="92" />
-          </style>
-        </node>
       </view>
     </diagrams>
   </views>
