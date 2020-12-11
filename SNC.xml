@@ -8,7 +8,7 @@
     <dc:creator>HWO</dc:creator>
     <dc:subject>Comentario cambio...</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.09</dc:identifier>
+    <dc:identifier>1.10</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -188,77 +188,6 @@ Sus oferentes son el Servicio Nacional de Aprendizaje (SENA), las Instituciones 
       <name xml:lang="en">Plataforma Información SNC</name>
       <documentation xml:lang="en">El Sistema Nacional de Cualificaciones está compuesto por seis componentes. Si bien la Clasificación Única de Ocupaciones para Colombia (CUOC) no hace parte de los componentes establecidos en la Ley 1955 de 2019, esta ha sido incluida en el alcance de esta plataforma en calidad de elemento articulador de la información de los componentes del SNC. Así mismo, se incluyen las tres vías de cualificación mencionadas en la ley y por los actores principales en el proceso de construcción de este diseño. &#xD;
 Javier: en mi opinión no se puede poner al mismo nivel la CUOC y los cinco componentes. Porque la CUOC es una fuente, muy importante, pero una fuente al fín y al cabo. Mientras que los componentes son políticas.</documentation>
-    </element>
-    <element identifier="id-69e444c4721c454c89e30aa4d317e091" xsi:type="Product">
-      <name xml:lang="en">Marco Nacional de Cualificaciones</name>
-      <documentation xml:lang="en">Una Cualificación es el reconocimiento formal que otorga una institución debidamente autorizada a una persona que mediante una evaluación ha demostrado poseer un grupo de competencias expresadas en términos de resultados de aprendizaje. El Marco Nacional de Cualificaciones es un instrumento que va a permitir estructurar y clasificar estas cualificaciones en función de un conjunto de criterios ordenados por niveles y expresados en términos de conocimientos, destrezas y aptitudes alcanzados por la personas.  (Ernst &amp; Young, 2020).&#xD;
-&#xD;
-Su objetivo principal es promover el aprendizaje permanente, consolidando rutas de aprendizaje, fortaleciendo el acceso, la participación y la progresión educativa y laboral de las personas a través de las tres vías de cualificación. Adicionalmente permitirá articular los subsistemas de educación, de formación y reconocimiento de aprendizajes previos para dar respuestas oportunas y pertinentes a las demandas de la globalización y el desarrollo tecnológico a nivel mundial. &#xD;
-&#xD;
-Matriz de descriptores: Es un instrumento que permite clasificar las cualificaciones en los niveles del MNC de acuerdo con un conjunto de descriptores que indican los resultados de aprendizaje pertinentes en 8 niveles de cualificación. Los descriptores son: conocimientos, habilidades, destrezas y actitudes (responsabilidad y autonomía).&#xD;
-&#xD;
-Los niveles son: ejecuta, realiza, aplica, implementa, propone, gestiona, resuelve problemas aplicados y resuelve problemas con alto nivel de autonomía.&#xD;
-&#xD;
-Catálogo Nacional de Cualificaciones: Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. &#xD;
-&#xD;
-&#xD;
-&#xD;
-Ficha de Cualificación: Es un instrumento que permite estructurar y consolidar las cualificaciones en línea con los perfiles ocupacionales descritos en la Clasificación Única de Ocupaciones para Colombia (CUOC), pues como se definió en uno de los objetivos principales del SNC se busca estrechar la relación de la demanda laboral con la oferta educativa y formativa y en este instrumento se articula esa relación. En la ficha se espera tener información de: ID de la cualificación (nombre, área, código), perfiles ocupacionales (competencia general, ocupación asociada a la CUOC, denominaciones), formación asociada a la cualificación y parámetros para el aseguramiento de la calidad.</documentation>
-    </element>
-    <element identifier="id-ecf3039589ff4cec8c99c5fb85d32e66" xsi:type="Product">
-      <name xml:lang="en">Esquema de Certificación de Competencias</name>
-    </element>
-    <element identifier="id-593a8aa6957a4bae8a9113b801a0e7c2" xsi:type="Product">
-      <name xml:lang="en">Esquema de Movilidad Educativa y Formativa</name>
-      <documentation xml:lang="en">Este componente es un conjunto de reglas, procedimientos y herramientas, las cuales buscan facilitar e incentivar la movilidad de las personas entre las distintas vías de cualificación mediante la configuración de trayectorias que sean comparables en términos de resultados de aprendizajes.&#xD;
-&#xD;
-Fomentar las rutas de aprendizaje a través de los niveles del MNC y las rutas laborales en las diferentes áreas de cualificación y sectores económicos.&#xD;
-Promover la certificación de competencias laborales.&#xD;
-Articular las relaciones entre la oferta educativa y sector productivo. &#xD;
-Promocionar los beneficios asociados a la gestión de talento humano por competencias para fomentar la educación fuera de la vía tradicional.</documentation>
-    </element>
-    <element identifier="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Product">
-      <name xml:lang="en">Esquema Aseguramiento Calidad Educativa y Formativa</name>
-      <documentation xml:lang="en">ESQUEMA DE ASEGURAMIENTO DE LA CALIDAD EN EDUCACIÓN SUPERIOR.&#xD;
-&#xD;
-Este componente contiene dos subsistemas que son un conjunto de reglas, procedimientos y herramientas que buscan brindar una educación y formación de calidad que se vea reflejada en la pertinencia de los aprendizajes y los resultados de empleabilidad, mediante la generación de las condiciones necesarias para habilitar, inspeccionar y controlar instituciones y programas. &#xD;
-Objetivo:&#xD;
-Definir y establecer un modelo de aseguramiento de calidad para la oferta disponible por vía de cualificación con criterios unificados y pertinentes.&#xD;
-Fomentar los procesos de certificación de calidad para los programas de educación y formación.&#xD;
-&#xD;
-El aseguramiento de la calidad educativa requiere de un aseguramiento interno realizado por las mismas instituciones educativas y un aseguramiento externo realizado por agencias externas. &#xD;
-&#xD;
-Para este último, la Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la Educación –CONACES es la encargada de la coordinación y orientación del aseguramiento de la calidad de la educación superior y la evaluación del cumplimiento de los requisitos para la creación, transformación y redefinición de instituciones de educación superior y sus programas académicos mediante pares educativos.&#xD;
-&#xD;
-Los programas académicos deben cumplir obligatoriamente con 15 condiciones de calidad, establecidas en el Decreto 1295 de 2010, para recibir el Registro Calificado. Adicionalmente pueden avanzar de manera voluntaria en el logro de niveles superiores de calidad mediante la adopción de prácticas de autoevaluación y mejoramiento continuo en el que intervienen la institución, las comunidades académicas y la Comisión Nacional de Acreditación, CNA. &#xD;
-&#xD;
-Mínimo requerido para operar: conaces, mejoramiento continuo: CNA acreditación de alta calidad.&#xD;
-&#xD;
-(Ernst &amp; Young, 2020)&#xD;
-&#xD;
-ESQUEMA DE ASEGURAMIENTO DE LA CALIDAD DE FORMACIÓN PARA EL TRABAJO&#xD;
-&#xD;
-En primer lugar, respecto a las dificultades en el aseguramiento de la calidad y la pertinencia de la FT se ha identificado que esta formación no cuenta con un modelo de aseguramiento de calidad con criterios unificados y pertinentes con las necesidades reales del sector productivo, dada la heterogeneidad y desarticulación de sus oferentes. CONPES 3974.&#xD;
-&#xD;
-En segundo lugar, respecto la falta de articulación entre las necesidades del sector productivo y la oferta educativa y formativa, se ha observado que, a pesar de los esfuerzos que ha adelantado el Gobierno Nacional, liderados por el sector trabajo, los procesos consultivos con grupos empresariales para obtener información de demanda y otras fuentes secundarias no son sistemáticos, dinámicos ni consistentemente efectivos. De esta manera, actualmente no existen procesos sistemáticos para recolectar, analizar y transmitir información sobre las necesidades de recurso humano del sector productivo, lo cual no solo limita el desarrollo de oferta pertinente y oportuna frente a dichos requerimientos; también impide que los estudiantes decidan de manera informada una trayectoria formativa acorde a sus expectativas personales y laborales CONPES 3974.&#xD;
-&#xD;
-En primer lugar, se diseñará e implementará un modelo de aseguramiento de calidad de la FT basado en resultados y liderado por el Ministerio del Trabajo y el Ministerio de Educación, con el objetivo de garantizar una formación pertinente a las necesidades del sector productivo y social. Para dar cumplimiento a este objetivo se contempla: (i) el desarrollo de estándares, metodologías, indicadores y su implementación a través de pruebas piloto que contribuirán al aseguramiento de la calidad de la FT, (ii) el fortalecimiento de la capacidad técnica de los actores competentes y los prestadores del servicio de aprendizaje a través de lineamientos que se ajusten periódicamente a la demanda del mercado laboral, y (iii) la incorporación de estrategias de seguimiento y evaluación que fortalezcan la calidad en la oferta de FT. CONPES 3974.&#xD;
-&#xD;
-En este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado. &#xD;
-&#xD;
-Objetivos: &#xD;
-&#xD;
-Servir de insumo para la elaboración de programas de educación y formación.&#xD;
-Permitir la evaluación y certificación de competencias laborales.&#xD;
-Permitir la comparabilidad internacional.&#xD;
-Promover la gestión del talento humano por competencias.&#xD;
-Describir el conjunto de funciones productivas que requiere para alcanzar el propósito clave de un sector o área de objeto de análisis.&#xD;
-Describir las funciones que se desarrollan en cada ocupación.&#xD;
-&#xD;
-(Ernst &amp; Young, 2020)</documentation>
-    </element>
-    <element identifier="id-cc22956998024837ae3813e13ef82ee9" xsi:type="Product">
-      <name xml:lang="en">Esquema de Normalización de Competencias</name>
     </element>
     <element identifier="id-d912fa4f-1088-473f-b9ea-24c8ca637559" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP5. Subsistema de Evaluación y certificación de competencias</name>
@@ -1197,26 +1126,16 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-ac850b9ed96b4b5a83729014052b58a7" source="id-2757795ffc8a436498fc99a2356a3480" target="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Association" />
     <relationship identifier="id-14cee81b1b1e4d808abe371067da372f" source="id-6a42e11002244852a09e5865d27e1896" target="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Association" />
     <relationship identifier="id-0f2196dd9c1b4d44b919d5c08fe7531d" source="id-af0c10de3ece4b7ba81b3f091c12571d" target="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Association" />
-    <relationship identifier="id-ae06d4debe3d484e815b97b9d119c7e4" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-69e444c4721c454c89e30aa4d317e091" xsi:type="Composition" />
-    <relationship identifier="id-a5cd67cf962c4c148d3cfc5451b9dc63" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-ecf3039589ff4cec8c99c5fb85d32e66" xsi:type="Composition" />
-    <relationship identifier="id-3294a08a090d46248a2904d32326d6fa" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-593a8aa6957a4bae8a9113b801a0e7c2" xsi:type="Composition" />
-    <relationship identifier="id-ce80faf82ef24060bf6323f31773c782" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Composition" />
-    <relationship identifier="id-c68e88a585d84e138dfbbaa88efb24ab" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-cc22956998024837ae3813e13ef82ee9" xsi:type="Composition" />
     <relationship identifier="id-b5ec157a4b9f42979f34eb0b29014748" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Realization" />
     <relationship identifier="id-9dc0787922ec478b8f0677dbfe5c5ee0" source="id-0c0b600d67f248c8a0ccfbfd6305490c" target="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Composition" />
     <relationship identifier="id-1f92da24038343689032a2b4a3d99db8" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="Composition" />
-    <relationship identifier="id-001c7fda7f5e4eb4984780e11118f9b8" source="id-69e444c4721c454c89e30aa4d317e091" target="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Aggregation" />
-    <relationship identifier="id-56b8272313f545338c0f8600a734fcee" source="id-69e444c4721c454c89e30aa4d317e091" target="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Association" />
     <relationship identifier="id-cca35aac51694509bb9fb46ae4f845e3" source="id-02b97ff09dec406dbeaa4e8e64725b31" target="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Specialization" />
-    <relationship identifier="id-377c15fb9e214d7587bbad08a836256a" source="id-ecf3039589ff4cec8c99c5fb85d32e66" target="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="Access" accessType="Write" />
-    <relationship identifier="id-405dbd9fc2034f928062880cef4dc4d4" source="id-69e444c4721c454c89e30aa4d317e091" target="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Composition" />
+    <relationship identifier="id-405dbd9fc2034f928062880cef4dc4d4" source="id-06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1" target="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Composition" />
     <relationship identifier="id-61ce519cca814acdad258ec923db1985" source="id-b562ff6c99c94eae9a785f62d73c8684" target="id-3f9be124f52b49649d20f5658b44c530" xsi:type="Composition" />
-    <relationship identifier="id-168b817f8cf94d83b46b666711b47178" source="id-743f91707c9e4eb78ea75528a36836e6" target="id-d4c097ad201c4ade97be1c6c3ed23004" xsi:type="Association">
+    <relationship identifier="id-168b817f8cf94d83b46b666711b47178" source="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8" target="id-d4c097ad201c4ade97be1c6c3ed23004" xsi:type="Association">
       <name xml:lang="en">ET y CUOC</name>
       <documentation xml:lang="en">Formación para el trabajo. Es el proceso educativo formativo, organizado y sistemático, mediante el cual las personas adquieren y desarrollan a lo largo de su vida competencias laborales, específicas o transversales, relacionadas con uno o varios campos ocupacionales referidos en la Clasificación Nacional de Ocupaciones, que le permiten ejercer una actividad productiva como empleado o emprendedor deforma individual o colectiva.  Decreto 2020 de 2006.</documentation>
     </relationship>
-    <relationship identifier="id-1d276aadc48145c0b889be3afa302077" source="id-743f91707c9e4eb78ea75528a36836e6" target="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="Composition" />
-    <relationship identifier="id-b3524a1b55574ab08e5b3947fbe362ff" source="id-743f91707c9e4eb78ea75528a36836e6" target="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="Association" />
     <relationship identifier="id-20fa6357a65f4429b1fe9dc0e7bb71e5" source="id-a92054736b3f4ebd9e4d29128136309d" target="id-d4c097ad201c4ade97be1c6c3ed23004" xsi:type="Association">
       <name xml:lang="en">¿?</name>
       <documentation xml:lang="en">No es claro, de acuerdo a la revisión de la CUOC, que existan ocupaciones equivalentes en SIET. Por lo menos no en la información pública.</documentation>
@@ -1244,6 +1163,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" source="id-4f0a59a9-8380-4964-a3a7-286f64c24950" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
     <relationship identifier="id-a865432d-a062-456e-934a-964f8b40f9bb" source="id-a28acf67-2644-42b6-b456-77ff109a1ef6" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
     <relationship identifier="id-4e24704c-5783-45af-9b8f-947c8e9441d4" source="id-a2261efd-b869-4153-904f-aac3a90fdacc" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
+    <relationship identifier="id-8df670e6-72a9-46d9-a052-1ea2a002c8b6" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Composition" />
+    <relationship identifier="id-c22bf4a1-e71e-4441-bc07-5ba59621b94f" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1" xsi:type="Composition" />
+    <relationship identifier="id-48610a6e-cc0a-4fb3-8038-e6d6aca84142" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-453c204b-a8a6-4089-b65c-a0fe594e9413" xsi:type="Composition" />
+    <relationship identifier="id-898521c4-9d8b-4010-9aa9-fcbc7e9e60a1" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8" xsi:type="Composition" />
+    <relationship identifier="id-3d2eb987-9f06-462b-9232-7fad6e8991b5" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-ce236631-fc5e-4589-923b-26b8b120c617" xsi:type="Composition" />
   </relationships>
   <organizations>
     <item>
@@ -1284,11 +1208,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-c78dd6d4-e9c6-41ad-8fc5-265ca145a390" />
       <item identifierRef="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8" />
       <item identifierRef="id-a3b20819140b45b1900914f3e7c5681c" />
-      <item identifierRef="id-69e444c4721c454c89e30aa4d317e091" />
-      <item identifierRef="id-ecf3039589ff4cec8c99c5fb85d32e66" />
-      <item identifierRef="id-593a8aa6957a4bae8a9113b801a0e7c2" />
-      <item identifierRef="id-743f91707c9e4eb78ea75528a36836e6" />
-      <item identifierRef="id-cc22956998024837ae3813e13ef82ee9" />
       <item identifierRef="id-d912fa4f-1088-473f-b9ea-24c8ca637559" />
       <item identifierRef="id-58e22046-28c1-46b7-999d-8d7c6a6f2127" />
     </item>
@@ -1591,23 +1510,13 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-ac850b9ed96b4b5a83729014052b58a7" />
       <item identifierRef="id-14cee81b1b1e4d808abe371067da372f" />
       <item identifierRef="id-0f2196dd9c1b4d44b919d5c08fe7531d" />
-      <item identifierRef="id-ae06d4debe3d484e815b97b9d119c7e4" />
-      <item identifierRef="id-a5cd67cf962c4c148d3cfc5451b9dc63" />
-      <item identifierRef="id-3294a08a090d46248a2904d32326d6fa" />
-      <item identifierRef="id-ce80faf82ef24060bf6323f31773c782" />
-      <item identifierRef="id-c68e88a585d84e138dfbbaa88efb24ab" />
       <item identifierRef="id-b5ec157a4b9f42979f34eb0b29014748" />
       <item identifierRef="id-9dc0787922ec478b8f0677dbfe5c5ee0" />
       <item identifierRef="id-1f92da24038343689032a2b4a3d99db8" />
-      <item identifierRef="id-001c7fda7f5e4eb4984780e11118f9b8" />
-      <item identifierRef="id-56b8272313f545338c0f8600a734fcee" />
       <item identifierRef="id-cca35aac51694509bb9fb46ae4f845e3" />
-      <item identifierRef="id-377c15fb9e214d7587bbad08a836256a" />
       <item identifierRef="id-405dbd9fc2034f928062880cef4dc4d4" />
       <item identifierRef="id-61ce519cca814acdad258ec923db1985" />
       <item identifierRef="id-168b817f8cf94d83b46b666711b47178" />
-      <item identifierRef="id-1d276aadc48145c0b889be3afa302077" />
-      <item identifierRef="id-b3524a1b55574ab08e5b3947fbe362ff" />
       <item identifierRef="id-20fa6357a65f4429b1fe9dc0e7bb71e5" />
       <item identifierRef="id-c4d39b4d1b414c1589a80388e436ffe5" />
       <item identifierRef="id-9b82bb7a26fa4d429141dcfb65909e96" />
@@ -1632,6 +1541,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" />
       <item identifierRef="id-a865432d-a062-456e-934a-964f8b40f9bb" />
       <item identifierRef="id-4e24704c-5783-45af-9b8f-947c8e9441d4" />
+      <item identifierRef="id-8df670e6-72a9-46d9-a052-1ea2a002c8b6" />
+      <item identifierRef="id-c22bf4a1-e71e-4441-bc07-5ba59621b94f" />
+      <item identifierRef="id-48610a6e-cc0a-4fb3-8038-e6d6aca84142" />
+      <item identifierRef="id-898521c4-9d8b-4010-9aa9-fcbc7e9e60a1" />
+      <item identifierRef="id-3d2eb987-9f06-462b-9232-7fad6e8991b5" />
     </item>
     <item>
       <label xml:lang="en">Views</label>
@@ -5412,7 +5326,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </style>
           </node>
         </node>
-        <node identifier="id-a0ec6786ab674ed5ad0c89f6f232644d" elementRef="id-a3b20819140b45b1900914f3e7c5681c" xsi:type="Element" x="588" y="168" w="215" h="464">
+        <node identifier="id-a0ec6786ab674ed5ad0c89f6f232644d" elementRef="id-a3b20819140b45b1900914f3e7c5681c" xsi:type="Element" x="588" y="168" w="300" h="464">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
@@ -5420,53 +5334,38 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-272e6bc0502a455ea56dd69b48bb9e0f" elementRef="id-69e444c4721c454c89e30aa4d317e091" xsi:type="Element" x="636" y="216" w="132" h="61">
+          <node identifier="id-e46d5533-263d-40f2-a7ef-d208e09587e6" elementRef="id-06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1" xsi:type="Element" x="648" y="219" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-79d4f4a2b8b1466a8555856c4a1dc836" elementRef="id-ecf3039589ff4cec8c99c5fb85d32e66" xsi:type="Element" x="636" y="288" w="132" h="61">
+          <node identifier="id-85e84a91-497c-4bd7-9b9d-8c1c5719b6d8" elementRef="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Element" x="648" y="288" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-47e6d45e06fe4935a87310af17084835" elementRef="id-593a8aa6957a4bae8a9113b801a0e7c2" xsi:type="Element" x="636" y="360" w="132" h="61">
+          <node identifier="id-98d6b4fd-bd66-415a-a672-0e629dec1b04" elementRef="id-453c204b-a8a6-4089-b65c-a0fe594e9413" xsi:type="Element" x="648" y="360" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-add7beb568584d01965e836b023a37e4" elementRef="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Element" x="636" y="432" w="132" h="73">
+          <node identifier="id-e41c229c-e425-4abb-8832-b3dd9c77c706" elementRef="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8" xsi:type="Element" x="648" y="432" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-f10d8a80a713484e96e01b2a6eb0421d" elementRef="id-cc22956998024837ae3813e13ef82ee9" xsi:type="Element" x="636" y="528" w="132" h="61">
+          <node identifier="id-697fff5e-32c4-470b-baaf-b9363ece2ec5" elementRef="id-ce236631-fc5e-4589-923b-26b8b120c617" xsi:type="Element" x="648" y="528" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
         </node>
-        <node identifier="id-7f30a166f2484fbbb64dca2567d038de" elementRef="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="Element" x="900" y="156" w="169" h="133">
+        <node identifier="id-7f30a166f2484fbbb64dca2567d038de" elementRef="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="Element" x="1164" y="156" w="169" h="133">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5474,7 +5373,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-692243d331754fd9aea7f0aab8666d26" elementRef="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Element" x="924" y="216" w="121" h="61">
+          <node identifier="id-692243d331754fd9aea7f0aab8666d26" elementRef="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Element" x="1188" y="216" w="121" h="61">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -5484,7 +5383,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </style>
           </node>
         </node>
-        <node identifier="id-a7b6eb6519054b33837e53ed7a6bbcb7" elementRef="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="Element" x="780" y="787" w="120" h="55">
+        <node identifier="id-a7b6eb6519054b33837e53ed7a6bbcb7" elementRef="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="Element" x="911" y="924" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5493,7 +5392,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-6c2d5cc97f5d441e9061a0d9b9d3c58d" elementRef="id-539ae40b3250451d94f071ad38a572db" xsi:type="Element" x="432" y="679" w="133" h="35">
+        <node identifier="id-6c2d5cc97f5d441e9061a0d9b9d3c58d" elementRef="id-539ae40b3250451d94f071ad38a572db" xsi:type="Element" x="563" y="816" w="133" h="35">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5502,7 +5401,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-22054d1bde7b4842b650a94fa20f7b24" elementRef="id-3ea4f3a5b4c542f69ba6f94874d80714" xsi:type="Element" x="433" y="739" w="133" h="61">
+        <node identifier="id-22054d1bde7b4842b650a94fa20f7b24" elementRef="id-3ea4f3a5b4c542f69ba6f94874d80714" xsi:type="Element" x="564" y="876" w="133" h="61">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5511,7 +5410,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-567487807a63404ea275b5d6086d28f1" elementRef="id-445c1fd9e32b491caf3709d3357d48b5" xsi:type="Element" x="624" y="679" w="133" h="55">
+        <node identifier="id-567487807a63404ea275b5d6086d28f1" elementRef="id-445c1fd9e32b491caf3709d3357d48b5" xsi:type="Element" x="755" y="816" w="133" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5520,7 +5419,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-0fcc8a0dfe7b429caf546c2dcd36e756" elementRef="id-6d395fcc88a040fda4772bdeaecc5ffc" xsi:type="Element" x="624" y="751" w="133" h="37">
+        <node identifier="id-0fcc8a0dfe7b429caf546c2dcd36e756" elementRef="id-6d395fcc88a040fda4772bdeaecc5ffc" xsi:type="Element" x="755" y="888" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5529,7 +5428,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-945a32dd7d9941d78c1e9e0907e06b12" elementRef="id-b916af3b3e724a1a9e0d007d1d6dec9b" xsi:type="Element" x="624" y="799" w="133" h="49">
+        <node identifier="id-945a32dd7d9941d78c1e9e0907e06b12" elementRef="id-b916af3b3e724a1a9e0d007d1d6dec9b" xsi:type="Element" x="755" y="936" w="133" h="49">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5538,7 +5437,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-74613f4c9a6a4879808716f0ae042f62" elementRef="id-5a504dc501594788850576cee36d3572" xsi:type="Element" x="624" y="859" w="133" h="49">
+        <node identifier="id-74613f4c9a6a4879808716f0ae042f62" elementRef="id-5a504dc501594788850576cee36d3572" xsi:type="Element" x="755" y="996" w="133" h="49">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5547,7 +5446,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-ba7219c5a36a40cf8e50d869b9f15f9e" elementRef="id-d4c097ad201c4ade97be1c6c3ed23004" xsi:type="Element" x="918" y="302" w="133" h="63">
+        <node identifier="id-ba7219c5a36a40cf8e50d869b9f15f9e" elementRef="id-d4c097ad201c4ade97be1c6c3ed23004" xsi:type="Element" x="1182" y="302" w="133" h="63">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5556,7 +5455,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-7e2a20a8aea54f41ac31a734a968d2b0" elementRef="id-f4579c2e54ff42c08c8ea5589ccea5f2" xsi:type="Element" x="780" y="727" w="120" h="55">
+        <node identifier="id-7e2a20a8aea54f41ac31a734a968d2b0" elementRef="id-f4579c2e54ff42c08c8ea5589ccea5f2" xsi:type="Element" x="911" y="864" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5565,7 +5464,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-67b5bb79804d4724b9e6ec67a7304811" elementRef="id-3b8321c62fe748ba9fe22073b459faba" xsi:type="Element" x="780" y="876" w="120" h="55">
+        <node identifier="id-67b5bb79804d4724b9e6ec67a7304811" elementRef="id-3b8321c62fe748ba9fe22073b459faba" xsi:type="Element" x="911" y="1013" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5574,7 +5473,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-7c8c64294f3a426e92781d501d8d05ef" elementRef="id-f265658d4cd74fb38a78273ea43cf555" xsi:type="Element" x="922" y="539" w="133" h="37">
+        <node identifier="id-7c8c64294f3a426e92781d501d8d05ef" elementRef="id-f265658d4cd74fb38a78273ea43cf555" xsi:type="Element" x="1186" y="539" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5583,7 +5482,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-bab5676e02a64688b6c33fe9501d1e0e" elementRef="id-77eeb981c3b441eda3f031d4b8a8fef8" xsi:type="Element" x="922" y="384" w="126" h="61">
+        <node identifier="id-bab5676e02a64688b6c33fe9501d1e0e" elementRef="id-77eeb981c3b441eda3f031d4b8a8fef8" xsi:type="Element" x="1186" y="384" w="126" h="61">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5592,7 +5491,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-592539fd346a45308afdff505f524412" elementRef="id-264751761385418d94488a4c3dfbe28f" xsi:type="Element" x="1092" y="492" w="133" h="37">
+        <node identifier="id-592539fd346a45308afdff505f524412" elementRef="id-264751761385418d94488a4c3dfbe28f" xsi:type="Element" x="1356" y="492" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5601,7 +5500,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-30896341884f45d48fac500b946ae561" elementRef="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="Element" x="922" y="468" w="133" h="37">
+        <node identifier="id-30896341884f45d48fac500b946ae561" elementRef="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="Element" x="1186" y="468" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5610,7 +5509,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-1a6c9eedeb9b42b696f842352d75d6d4" elementRef="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="Element" x="1092" y="408" w="133" h="37">
+        <node identifier="id-1a6c9eedeb9b42b696f842352d75d6d4" elementRef="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="Element" x="1356" y="408" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5619,7 +5518,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-529b91aefa0448bb95022b62bf39e95e" elementRef="id-2ef748d4f4994576a5e386ff4daa7a81" xsi:type="Element" x="932" y="648" w="106" h="32">
+        <node identifier="id-529b91aefa0448bb95022b62bf39e95e" elementRef="id-2ef748d4f4994576a5e386ff4daa7a81" xsi:type="Element" x="1196" y="648" w="106" h="32">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5660,7 +5559,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </connection>
-        <connection identifier="id-983975f9c55640b9bd3e9757395fe1dc" relationshipRef="id-405dbd9fc2034f928062880cef4dc4d4" xsi:type="Relationship" source="id-272e6bc0502a455ea56dd69b48bb9e0f" target="id-692243d331754fd9aea7f0aab8666d26">
+        <connection identifier="id-983975f9c55640b9bd3e9757395fe1dc" relationshipRef="id-405dbd9fc2034f928062880cef4dc4d4" xsi:type="Relationship" source="id-e46d5533-263d-40f2-a7ef-d208e09587e6" target="id-692243d331754fd9aea7f0aab8666d26">
           <style>
             <lineColor r="0" g="0" b="0" />
             <font name="Segoe UI" size="9">
@@ -5668,7 +5567,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </connection>
-        <connection identifier="id-d3cb07c8e7d34af998b3310faa422621" relationshipRef="id-168b817f8cf94d83b46b666711b47178" xsi:type="Relationship" source="id-add7beb568584d01965e836b023a37e4" target="id-ba7219c5a36a40cf8e50d869b9f15f9e">
+        <connection identifier="id-d3cb07c8e7d34af998b3310faa422621" relationshipRef="id-168b817f8cf94d83b46b666711b47178" xsi:type="Relationship" source="id-e41c229c-e425-4abb-8832-b3dd9c77c706" target="id-ba7219c5a36a40cf8e50d869b9f15f9e">
           <style>
             <lineColor r="0" g="0" b="0" />
             <font name="Segoe UI" size="9">
@@ -5790,7 +5689,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-83aa3f140d904cfd9ae5cce30b81dc00" elementRef="id-a3b20819140b45b1900914f3e7c5681c" xsi:type="Element" x="36" y="60" w="215" h="464">
+        <node identifier="id-83aa3f140d904cfd9ae5cce30b81dc00" elementRef="id-a3b20819140b45b1900914f3e7c5681c" xsi:type="Element" x="36" y="60" w="277" h="464">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
@@ -5798,51 +5697,49 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-77aadea7f54b4cf3b5a4313327da7a0c" elementRef="id-69e444c4721c454c89e30aa4d317e091" xsi:type="Element" x="84" y="108" w="132" h="61">
+          <node identifier="id-a299a619-e9ea-4d4a-987f-0d62f8ed6611" elementRef="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Element" x="215" y="180" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-bc6152fdd8214fb3a17120fcdab65fc2" elementRef="id-ecf3039589ff4cec8c99c5fb85d32e66" xsi:type="Element" x="84" y="180" w="132" h="61">
+          <node identifier="id-6cd2b820-0c2b-4eed-8023-afd4403eb05d" elementRef="id-06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1" xsi:type="Element" x="204" y="108" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-49401208dde84d92a03c94473c6705ec" elementRef="id-593a8aa6957a4bae8a9113b801a0e7c2" xsi:type="Element" x="84" y="252" w="132" h="61">
+          <node identifier="id-9ee8fb80-7eb2-46b9-a869-c7f53b945884" elementRef="id-453c204b-a8a6-4089-b65c-a0fe594e9413" xsi:type="Element" x="215" y="252" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-ecde41024c6d4d00af2f3e6843b0a2a4" elementRef="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Element" x="84" y="324" w="132" h="73">
+          <node identifier="id-b99043d3-1ce0-427a-a597-c66c52516c29" elementRef="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8" xsi:type="Element" x="215" y="324" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
-          <node identifier="id-71efb12aa0024385952ab92368a32d2d" elementRef="id-cc22956998024837ae3813e13ef82ee9" xsi:type="Element" x="84" y="420" w="132" h="61">
+          <node identifier="id-be9329d8-52db-449a-814d-7b1b1e664471" elementRef="id-ce236631-fc5e-4589-923b-26b8b120c617" xsi:type="Element" x="215" y="423" w="120" h="55">
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
             </style>
           </node>
+        </node>
+        <node identifier="id-d6f62077-9b4a-4592-80ec-8cf73ddff627" elementRef="id-91162640-9e76-4c3b-a1d8-feac0978e168" xsi:type="Element" x="48" y="612" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-49686f56-d1e8-426d-ae92-003d4c8a17d9" elementRef="id-fb3c7359-e61b-4244-b482-768a2f4bd575" xsi:type="Element" x="60" y="696" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+            <font name="Lucida Grande" size="10" />
+          </style>
         </node>
       </view>
       <view identifier="id-44bec633-5d4d-445c-984e-369a59307fb5" xsi:type="Diagram">
