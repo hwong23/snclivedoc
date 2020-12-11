@@ -1,2 +1,1 @@
-# snclivedoc
-SNC. Documentación activa
+6f6795f v 1.06 Harry Wong Fri Dec 11 07:04:48 2020 -0500
