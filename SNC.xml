@@ -8,7 +8,7 @@
     <dc:creator>HWO</dc:creator>
     <dc:subject>Comentario cambio...</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.07</dc:identifier>
+    <dc:identifier>1.08</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -72,11 +72,11 @@ Con el fin de impulsar la calidad y pertinencia de la educación y formación de
     </element>
     <element identifier="id-dd9ae622-e0b0-43be-b178-6923f1e152c0" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP4. Subsistemas Aseguramiento Calidad</name>
-      <documentation xml:lang="en">Subsistemas aseguramiento calidad de la educación y la formación</documentation>
+      <documentation xml:lang="en">Respecto al “Aseguramiento de la Calidad”: Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes normativos, generar escenarios de transición para su implementación y, además, apoyar la reestructuración del sistema de información de la formación para el trabajo.</documentation>
     </element>
     <element identifier="id-4d2bb23f-9513-4cf6-92d0-b08103dad20d" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP3. Subsistema Normalización Competencias</name>
-      <documentation xml:lang="en">Subsistema de normalización de competencias y de evaluación y certificación de competencias</documentation>
+      <documentation xml:lang="en">Respecto a “Normalización de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación.</documentation>
     </element>
     <element identifier="id-279534c1-52c4-4972-b7d1-c8c79654d2d9" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP2. Esquema Movilidad Educativa y Formativa</name>
@@ -262,10 +262,11 @@ Describir las funciones que se desarrollan en cada ocupación.&#xD;
     </element>
     <element identifier="id-d912fa4f-1088-473f-b9ea-24c8ca637559" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP5. Subsistema de Evaluación y certificación de competencias</name>
+      <documentation xml:lang="en">Respecto a “Evaluación y certificación de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación.</documentation>
     </element>
     <element identifier="id-58e22046-28c1-46b7-999d-8d7c6a6f2127" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP6. Plataforma de información del Sistema Nacional de Cualificaciones</name>
-      <documentation xml:lang="en">Se crea el Marco Nacional de Cualificaciones (MNC), para clasificar y estructurar las cualificaciones en un esquema de ocho (8) niveles ordenados y expresados en términos de conocimientos, destrezas y aptitudes, de acuerdo con la secuencialidad y complejidad de los aprendizajes que logran las personas en las diferentes vías de cualificación.</documentation>
+      <documentation xml:lang="en">Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
     </element>
     <element identifier="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="ApplicationInteraction">
       <name xml:lang="en">Gestión Empleo y Productividad</name>
@@ -1211,6 +1212,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-e8b1b0db-7663-42f9-b93b-651c21d0ab2c" source="id-d912fa4f-1088-473f-b9ea-24c8ca637559" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Serving" />
     <relationship identifier="id-8efeae73-f0d0-413b-ba0f-d5e5aa76784e" source="id-4d2bb23f-9513-4cf6-92d0-b08103dad20d" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Serving" />
     <relationship identifier="id-3fc1b9aa-aee9-4874-bf6f-3ccfb055cebc" source="id-dd9ae622-e0b0-43be-b178-6923f1e152c0" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Serving" />
+    <relationship identifier="id-fb9f5ca2-f620-4144-9395-4d6f87de125d" source="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
+    <relationship identifier="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" source="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
+    <relationship identifier="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" source="id-4f0a59a9-8380-4964-a3a7-286f64c24950" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
+    <relationship identifier="id-a865432d-a062-456e-934a-964f8b40f9bb" source="id-a28acf67-2644-42b6-b456-77ff109a1ef6" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
+    <relationship identifier="id-4e24704c-5783-45af-9b8f-947c8e9441d4" source="id-a2261efd-b869-4153-904f-aac3a90fdacc" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
   </relationships>
   <organizations>
     <item>
@@ -1597,6 +1603,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-e8b1b0db-7663-42f9-b93b-651c21d0ab2c" />
       <item identifierRef="id-8efeae73-f0d0-413b-ba0f-d5e5aa76784e" />
       <item identifierRef="id-3fc1b9aa-aee9-4874-bf6f-3ccfb055cebc" />
+      <item identifierRef="id-fb9f5ca2-f620-4144-9395-4d6f87de125d" />
+      <item identifierRef="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" />
+      <item identifierRef="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" />
+      <item identifierRef="id-a865432d-a062-456e-934a-964f8b40f9bb" />
+      <item identifierRef="id-4e24704c-5783-45af-9b8f-947c8e9441d4" />
     </item>
     <item>
       <label xml:lang="en">Views</label>
@@ -5772,31 +5783,31 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" elementRef="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" xsi:type="Element" x="447" y="272" w="120" h="55">
+        <node identifier="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" elementRef="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" xsi:type="Element" x="498" y="296" w="120" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-9f579188-4b62-4168-bbdd-1851d6e9c255" elementRef="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" xsi:type="Element" x="597" y="272" w="120" h="55">
+        <node identifier="id-9f579188-4b62-4168-bbdd-1851d6e9c255" elementRef="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" xsi:type="Element" x="648" y="276" w="120" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-003ab910-8c61-4389-bd90-152355c06f1b" elementRef="id-4f0a59a9-8380-4964-a3a7-286f64c24950" xsi:type="Element" x="747" y="272" w="120" h="55">
+        <node identifier="id-003ab910-8c61-4389-bd90-152355c06f1b" elementRef="id-4f0a59a9-8380-4964-a3a7-286f64c24950" xsi:type="Element" x="795" y="324" w="120" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" elementRef="id-a28acf67-2644-42b6-b456-77ff109a1ef6" xsi:type="Element" x="447" y="372" w="120" h="55">
+        <node identifier="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" elementRef="id-a28acf67-2644-42b6-b456-77ff109a1ef6" xsi:type="Element" x="498" y="396" w="120" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" elementRef="id-a2261efd-b869-4153-904f-aac3a90fdacc" xsi:type="Element" x="597" y="372" w="120" h="55">
+        <node identifier="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" elementRef="id-a2261efd-b869-4153-904f-aac3a90fdacc" xsi:type="Element" x="648" y="360" w="120" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
@@ -5880,7 +5891,32 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
+        <connection identifier="id-56a715ae-c013-4280-8490-027d01519954" relationshipRef="id-fb9f5ca2-f620-4144-9395-4d6f87de125d" xsi:type="Relationship" source="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-35453de5-db7a-4482-b4e4-fc8adbd898ad" relationshipRef="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" xsi:type="Relationship" source="id-9f579188-4b62-4168-bbdd-1851d6e9c255" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-eb0f4653-cfb2-48af-a921-7191eb996c3b" relationshipRef="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" xsi:type="Relationship" source="id-003ab910-8c61-4389-bd90-152355c06f1b" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
         <connection identifier="id-3373239f-d826-45d8-a134-3172b3209600" relationshipRef="id-9cdd0bb6-f3a1-4194-9a0c-81400d3f51b4" xsi:type="Relationship" source="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="id-d9c915b1-5d9f-40bf-a56b-b1b2e03067f8">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-dc82e8e1-912c-4831-b21a-65099279eab2" relationshipRef="id-a865432d-a062-456e-934a-964f8b40f9bb" xsi:type="Relationship" source="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-dbf143ca-f6ee-474a-9a92-0d5407df84db" relationshipRef="id-4e24704c-5783-45af-9b8f-947c8e9441d4" xsi:type="Relationship" source="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
           <style>
             <lineColor r="0" g="0" b="0" />
           </style>

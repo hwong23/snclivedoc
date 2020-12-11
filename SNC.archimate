@@ -53,10 +53,11 @@ Con el fin de impulsar la calidad y pertinencia de la educación y formación de
       <documentation>Se crea el Marco Nacional de Cualificaciones (MNC), para clasificar y estructurar las cualificaciones en un esquema de ocho (8) niveles ordenados y expresados en términos de conocimientos, destrezas y aptitudes, de acuerdo con la secuencialidad y complejidad de los aprendizajes que logran las personas en las diferentes vías de cualificación.</documentation>
     </element>
     <element xsi:type="archimate:BusinessFunction" name="CMP4. Subsistemas Aseguramiento Calidad" id="id-dd9ae622-e0b0-43be-b178-6923f1e152c0">
-      <documentation>Subsistemas aseguramiento calidad de la educación y la formación</documentation>
+      <documentation>Respecto al “Aseguramiento de la Calidad”: Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes normativos, generar escenarios de transición para su implementación y, además, apoyar la reestructuración del sistema de información de la formación para el trabajo.</documentation>
     </element>
     <element xsi:type="archimate:BusinessFunction" name="CMP3. Subsistema Normalización Competencias" id="id-4d2bb23f-9513-4cf6-92d0-b08103dad20d">
-      <documentation>Subsistema de normalización de competencias y de evaluación y certificación de competencias</documentation>
+      <documentation>Respecto a “Normalización de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación.
+</documentation>
     </element>
     <element xsi:type="archimate:BusinessFunction" name="CMP2. Esquema Movilidad Educativa y Formativa" id="id-279534c1-52c4-4972-b7d1-c8c79654d2d9">
       <documentation>Esquema de movilidad educativa y formativa</documentation>
@@ -207,9 +208,12 @@ Describir las funciones que se desarrollan en cada ocupación.&#xD;
 (Ernst &amp; Young, 2020)</documentation>
     </element>
     <element xsi:type="archimate:Product" name="Esquema de Normalización de Competencias" id="id-cc22956998024837ae3813e13ef82ee9"/>
-    <element xsi:type="archimate:BusinessFunction" name="CMP5. Subsistema de Evaluación y certificación de competencias" id="d912fa4f-1088-473f-b9ea-24c8ca637559"/>
+    <element xsi:type="archimate:BusinessFunction" name="CMP5. Subsistema de Evaluación y certificación de competencias" id="d912fa4f-1088-473f-b9ea-24c8ca637559">
+      <documentation>Respecto a “Evaluación y certificación de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación. 
+</documentation>
+    </element>
     <element xsi:type="archimate:BusinessFunction" name="CMP6. Plataforma de información del Sistema Nacional de Cualificaciones" id="58e22046-28c1-46b7-999d-8d7c6a6f2127">
-      <documentation>Se crea el Marco Nacional de Cualificaciones (MNC), para clasificar y estructurar las cualificaciones en un esquema de ocho (8) niveles ordenados y expresados en términos de conocimientos, destrezas y aptitudes, de acuerdo con la secuencialidad y complejidad de los aprendizajes que logran las personas en las diferentes vías de cualificación.</documentation>
+      <documentation>Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
     </element>
   </folder>
   <folder name="Application" id="7be16343-0e5d-4e1f-884b-76f18dd22735" type="application">
@@ -848,6 +852,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <element xsi:type="archimate:ServingRelationship" id="e8b1b0db-7663-42f9-b93b-651c21d0ab2c" source="d912fa4f-1088-473f-b9ea-24c8ca637559" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
     <element xsi:type="archimate:ServingRelationship" id="8efeae73-f0d0-413b-ba0f-d5e5aa76784e" source="id-4d2bb23f-9513-4cf6-92d0-b08103dad20d" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
     <element xsi:type="archimate:ServingRelationship" id="3fc1b9aa-aee9-4874-bf6f-3ccfb055cebc" source="id-dd9ae622-e0b0-43be-b178-6923f1e152c0" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
+    <element xsi:type="archimate:CompositionRelationship" id="fb9f5ca2-f620-4144-9395-4d6f87de125d" source="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
+    <element xsi:type="archimate:CompositionRelationship" id="eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" source="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
+    <element xsi:type="archimate:CompositionRelationship" id="016da537-a6d8-4dd0-8e47-eda110cf4cf8" source="id-4f0a59a9-8380-4964-a3a7-286f64c24950" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
+    <element xsi:type="archimate:CompositionRelationship" id="a865432d-a062-456e-934a-964f8b40f9bb" source="id-a28acf67-2644-42b6-b456-77ff109a1ef6" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
+    <element xsi:type="archimate:CompositionRelationship" id="4e24704c-5783-45af-9b8f-947c8e9441d4" source="id-a2261efd-b869-4153-904f-aac3a90fdacc" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
   </folder>
   <folder name="Views" id="85110bc5-78ef-41a5-b95e-4925dad0c838" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="New ArchiMate View" id="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db">
@@ -2066,24 +2075,29 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="BSN. SNC" id="44bec633-5d4d-445c-984e-369a59307fb5">
-      <child xsi:type="archimate:DiagramObject" id="b630cc3c-1006-4021-a21d-b2448af437ec" targetConnections="b45a08c3-92b5-4a44-93ce-985d050a5546 0ce9dd80-ba3b-48bd-8ab0-9849cf4eef42 dda6b1db-7131-408d-a7b9-7a32732c5a67 86dbee73-c850-41a5-bb25-153cd95f242d c1dbbf01-f4de-49af-aac6-cb0c9080a2f5 b3850f2c-80e0-4962-90f7-994c66577292 44b90b85-1826-4935-9511-34671aca55dc e297a1bd-7278-4da2-a7a8-7e15f9a286c3" archimateElement="id-62983d23-5b97-4675-9778-1a47ada24357">
+      <child xsi:type="archimate:DiagramObject" id="b630cc3c-1006-4021-a21d-b2448af437ec" targetConnections="b45a08c3-92b5-4a44-93ce-985d050a5546 0ce9dd80-ba3b-48bd-8ab0-9849cf4eef42 dda6b1db-7131-408d-a7b9-7a32732c5a67 86dbee73-c850-41a5-bb25-153cd95f242d c1dbbf01-f4de-49af-aac6-cb0c9080a2f5 b3850f2c-80e0-4962-90f7-994c66577292 44b90b85-1826-4935-9511-34671aca55dc e297a1bd-7278-4da2-a7a8-7e15f9a286c3 56a715ae-c013-4280-8490-027d01519954 35453de5-db7a-4482-b4e4-fc8adbd898ad eb0f4653-cfb2-48af-a921-7191eb996c3b dc82e8e1-912c-4831-b21a-65099279eab2 dbf143ca-f6ee-474a-9a92-0d5407df84db" archimateElement="id-62983d23-5b97-4675-9778-1a47ada24357">
         <bounds x="36" y="276" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="1c63edb3-a91c-4c80-8bde-1e82db684a3a" archimateElement="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa">
-        <bounds x="447" y="272" width="120" height="55"/>
+        <bounds x="498" y="296" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="56a715ae-c013-4280-8490-027d01519954" source="1c63edb3-a91c-4c80-8bde-1e82db684a3a" target="b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="fb9f5ca2-f620-4144-9395-4d6f87de125d"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="9f579188-4b62-4168-bbdd-1851d6e9c255" targetConnections="e43e28cb-4ecc-43f1-90f2-bb519c1c4283" archimateElement="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1">
-        <bounds x="597" y="272" width="120" height="55"/>
+        <bounds x="648" y="276" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="35453de5-db7a-4482-b4e4-fc8adbd898ad" source="9f579188-4b62-4168-bbdd-1851d6e9c255" target="b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="eb98e5d1-c661-40c4-a3c6-2a938c61c7ec"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="003ab910-8c61-4389-bd90-152355c06f1b" targetConnections="29e70051-c389-4b85-bb83-c67c87c866d4" archimateElement="id-4f0a59a9-8380-4964-a3a7-286f64c24950">
-        <bounds x="747" y="272" width="120" height="55"/>
+        <bounds x="795" y="324" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="eb0f4653-cfb2-48af-a921-7191eb996c3b" source="003ab910-8c61-4389-bd90-152355c06f1b" target="b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="016da537-a6d8-4dd0-8e47-eda110cf4cf8"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="cc12cd2c-f33e-4cf7-bfff-647d71c207af" archimateElement="id-a28acf67-2644-42b6-b456-77ff109a1ef6">
-        <bounds x="447" y="372" width="120" height="55"/>
+        <bounds x="498" y="396" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="3373239f-d826-45d8-a134-3172b3209600" source="cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="d9c915b1-5d9f-40bf-a56b-b1b2e03067f8" archimateRelationship="id-9cdd0bb6-f3a1-4194-9a0c-81400d3f51b4"/>
+        <sourceConnection xsi:type="archimate:Connection" id="dc82e8e1-912c-4831-b21a-65099279eab2" source="cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="a865432d-a062-456e-934a-964f8b40f9bb"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="cc887e4b-8b55-41d0-847e-1e8a5a3ab395" targetConnections="990383b3-0911-4afb-8165-e56f790664a0" archimateElement="id-a2261efd-b869-4153-904f-aac3a90fdacc">
-        <bounds x="597" y="372" width="120" height="55"/>
+        <bounds x="648" y="360" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="dbf143ca-f6ee-474a-9a92-0d5407df84db" source="cc887e4b-8b55-41d0-847e-1e8a5a3ab395" target="b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="4e24704c-5783-45af-9b8f-947c8e9441d4"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="d8d5ad62-5a53-4400-9ba2-22e4c55fbf60" archimateElement="id-279534c1-52c4-4972-b7d1-c8c79654d2d9">
         <bounds x="852" y="132" width="120" height="72"/>
