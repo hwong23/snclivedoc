@@ -8,7 +8,7 @@
     <dc:creator>HWO</dc:creator>
     <dc:subject>Comentario cambio...</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.08</dc:identifier>
+    <dc:identifier>1.09</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -802,10 +802,6 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
       <name xml:lang="en">G04. Plataforma de información del SNC</name>
       <documentation xml:lang="en">Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
     </element>
-    <element identifier="id-d561435d-b28c-4650-958b-4857b022b0a1" xsi:type="Outcome">
-      <name xml:lang="en">Outcome</name>
-      <documentation xml:lang="en">Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND.</documentation>
-    </element>
     <element identifier="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97" xsi:type="Goal">
       <name xml:lang="en">G03. Aseguramiento de la Calidad</name>
       <documentation xml:lang="en">En cuanto  al modelo de aseguramiento de calidad de la FT privada, a la fecha, sólo se han desarrollado procesos en las Secretarías de Educación regionales para el licenciamiento (requerimientos mínimos de infraestructura, financiamiento y administración) y la acreditación de calidad basada en resultados, que según la norma colombiana está a cargo del Ministerio del Trabajo, no se ha desarrollado: no hay estándares ni reglamentaciones (Fundación Corona, 2018; González-Velosa y Rosas, 2016; Casas et al. 2019). 
@@ -841,9 +837,9 @@ Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes 
       <documentation xml:lang="en">Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por:
 --altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica
 --altas tasas de informalidad laboral (superiores al 60%)
---junto con los bajos niveles de acceso y permanencia en el mercado laboral formal, 
+--junto con los bajos niveles de acceso y permanencia en el mercado laboral formal
 
-lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
+Lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
 
 Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
 
@@ -851,21 +847,58 @@ En tal sentido, el presente proyecto de inversión busca contribuir al cumplimie
     </element>
     <element identifier="id-5a38be74-6b6c-4ccb-ad5d-a9ce098d8b60" xsi:type="Driver">
       <name xml:lang="en">DR04. Asimetrías de información</name>
-      <documentation xml:lang="en">Las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna</documentation>
+      <documentation xml:lang="en">Las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna.
+
+Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.
+
+Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). Durante el periodo 2010-2019, los principales indicadores del mercado de trabajo de las 23 principales ciudades presentaron un comportamiento estable, no obstante, se observó una reducción en la dinámica de generación de empleo la cual pasó de 38 mil empleos generados entre 2015-2016 a 18 mil entre 2018-2019. Esta situación generó un impacto negativo en la tasa de desempleo que pasó del 9,9% en 2015 a 11,5% en 2019, lo cual significó un aumento absoluto de 252 mil personas desempleadas (Ministerio del Trabajo; DANE).
+
+Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.
+
+Una vez realizado el diagnóstico de la situación actual, se  identificaron como objetivo central del Programa
+
+Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.</documentation>
     </element>
     <element identifier="id-675aa05f-c055-4f82-b43e-e853424903bc" xsi:type="Driver">
       <name xml:lang="en">DR03. Costos de transacción</name>
-      <documentation xml:lang="en">Los altos costos de transacción en la búsqueda de empleo</documentation>
+      <documentation xml:lang="en">Los altos costos de transacción en la búsqueda de empleo.
+
+Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.
+
+Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). Durante el periodo 2010-2019, los principales indicadores del mercado de trabajo de las 23 principales ciudades presentaron un comportamiento estable, no obstante, se observó una reducción en la dinámica de generación de empleo la cual pasó de 38 mil empleos generados entre 2015-2016 a 18 mil entre 2018-2019. Esta situación generó un impacto negativo en la tasa de desempleo que pasó del 9,9% en 2015 a 11,5% en 2019, lo cual significó un aumento absoluto de 252 mil personas desempleadas (Ministerio del Trabajo; DANE).
+
+Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.
+
+Una vez realizado el diagnóstico de la situación actual, se  identificaron como objetivo central del Programa
+
+Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.</documentation>
     </element>
     <element identifier="id-3518f5a6-5a03-4864-8c1d-96c0df060655" xsi:type="Driver">
       <name xml:lang="en">DR02. Competencias, Acceso mercado</name>
-      <documentation xml:lang="en">las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos  niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal, lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
+      <documentation xml:lang="en">Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por:
+--altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica
+--altas tasas de informalidad laboral (superiores al 60%)
+--junto con los bajos niveles de acceso y permanencia en el mercado laboral formal
 
-Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de informaión con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.</documentation>
+Lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
+
+Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
+
+En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.</documentation>
     </element>
     <element identifier="id-793ae48c-55fb-402c-a73a-2d81b0cffd74" xsi:type="Driver">
       <name xml:lang="en">DR05. Lineamientos técnicos</name>
-      <documentation xml:lang="en">Lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad</documentation>
+      <documentation xml:lang="en">Lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
+
+Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.
+
+Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). Durante el periodo 2010-2019, los principales indicadores del mercado de trabajo de las 23 principales ciudades presentaron un comportamiento estable, no obstante, se observó una reducción en la dinámica de generación de empleo la cual pasó de 38 mil empleos generados entre 2015-2016 a 18 mil entre 2018-2019. Esta situación generó un impacto negativo en la tasa de desempleo que pasó del 9,9% en 2015 a 11,5% en 2019, lo cual significó un aumento absoluto de 252 mil personas desempleadas (Ministerio del Trabajo; DANE).
+
+Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.
+
+Una vez realizado el diagnóstico de la situación actual, se  identificaron como objetivo central del Programa
+
+Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.</documentation>
     </element>
     <element identifier="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b" xsi:type="Goal">
       <name xml:lang="en">GLE2. Fortalecer calidad oferta formativa, reconocimiento, valoración aprendizajes</name>
@@ -905,9 +938,6 @@ Esta situación, además de limitar el acceso a canales formales de búsqueda, t
 
 Así como contar con los insumos técnicos para el diseño y seguimiento de política de empleo que permita la consolidación y análisis de información para facilitar el rol del Ministerio del Trabajo en sus funciones de dirección y regulación de la gestión de empleo, diseño y seguimiento de lineamientos de política y operación y prestación de los servicios de inspección, vigilancia y control, a partir de las disposiciones legales vigentes del Gobierno Nacional.</documentation>
     </element>
-    <element identifier="id-55c3e520-753d-4c9a-9b5c-76a5cd9909b7" xsi:type="Principle">
-      <name xml:lang="en">Principle</name>
-    </element>
     <element identifier="id-441a824f-ef52-4781-8f33-28d5ff0088ca" xsi:type="Assessment">
       <name xml:lang="en">IND1. Evaluación de resultados</name>
       <documentation xml:lang="en">Los indicadores de resultado permiten medir el avance en el cumplimiento del objetivo central.</documentation>
@@ -926,11 +956,11 @@ Así como contar con los insumos técnicos para el diseño y seguimiento de pol�
 Convenio 282 Min Trabajo DANE.</documentation>
     </element>
     <element identifier="id-2757795ffc8a436498fc99a2356a3480" xsi:type="Driver">
-      <name xml:lang="en">Dificultades de aseguramiento de la calidad FT</name>
+      <name xml:lang="en">DR08. Dificultades de aseguramiento de la calidad FT</name>
       <documentation xml:lang="en">En primer lugar, respecto a las dificultades en el aseguramiento de la calidad y la pertinencia de la FT se ha identificado que esta formación no cuenta con un modelo de aseguramiento de calidad con criterios unificados y pertinentes con las necesidades reales del sector productivo, dada la heterogeneidad y desarticulación de sus oferentes</documentation>
     </element>
     <element identifier="id-6a42e11002244852a09e5865d27e1896" xsi:type="Driver">
-      <name xml:lang="en">Falta de información recurso humano</name>
+      <name xml:lang="en">DR09. Falta de información recurso humano</name>
       <documentation xml:lang="en">Respecto la falta de articulación entre las necesidades del sector productivo y la oferta educativa y formativa, se ha observado que, a pesar de los esfuerzos que ha adelantado el Gobierno Nacional, liderados por el sector trabajo, los procesos consultivos con grupos empresariales para obtener información de demanda y otras fuentes secundarias no son sistemáticos, dinámicos ni consistentemente efectivos. De esta manera, actualmente no existen procesos sistemáticos para recolectar, analizar y transmitir información sobre las necesidades de recurso humano del sector productivo, lo cual no solo limita el desarrollo de oferta pertinente y oportuna frente a dichos requerimientos; también impide que los estudiantes decidan de manera informada una trayectoria formativa acorde a sus expectativas personales y laborales. (CONPES 3974)&#xD;
 &#xD;
 El CONPES 3974 afirma que "La baja articulación entre la oferta y la demanda laboral explica por: la baja cobertura y efectividad del SPE, y las dificultades para realizar el seguimiento y monitoreo de resultados de las políticas activas y pasivas de empleo".  Lo circunscribe entonces al SPE. &#xD;
@@ -946,14 +976,11 @@ Brechas de calidad: entendidas como el ideal de competencias en que el sector pr
 Diagnóstico de Fuentes de Información para la Plataforma del Sistema Nacional de Cualificaciones. Convenio 282 de 219</documentation>
     </element>
     <element identifier="id-af0c10de3ece4b7ba81b3f091c12571d" xsi:type="Driver">
-      <name xml:lang="en">Dificultad para validar saberes previos</name>
+      <name xml:lang="en">DR07. Dificultad para validar saberes previos</name>
       <documentation xml:lang="en">Las dificultades para validar en el mercado de trabajo los aprendizajes o saberes previos (experiencia o auto instrucción) adquiridos por fuera del sector educativo formal, dificultan la inserción laboral, dado que los títulos o certificados que cuentan con mayor valoración por parte de los empresarios y empleadores son normalmente los obtenidos por la vía formal. Adicionalmente, la ausencia de un sistema de aseguramiento de la calidad del reconocimiento de aprendizajes previos que permita generar confianza, tanto en los trabajadores como en los empresarios, del valor e impacto de la certificación de competencias. CONPES 3974, p20.</documentation>
     </element>
-    <element identifier="id-ecfd3cf99c15415ca9aef32c943c1af6" xsi:type="Driver">
-      <name xml:lang="en">Driver</name>
-    </element>
     <element identifier="id-3f9be124f52b49649d20f5658b44c530" xsi:type="Driver">
-      <name xml:lang="en">Baja articulación entre oferta y demanda laboral</name>
+      <name xml:lang="en">DR10. Baja articulación entre oferta y demanda laboral</name>
       <documentation xml:lang="en">La baja articulación entre la oferta y la demanda laboral explica por: la baja cobertura y efectividad del SPE, y las dificultades para realizar el seguimiento y monitoreo de resultados de las políticas activas y pasivas de empleo. CONPES</documentation>
     </element>
     <element identifier="id-ec3f8784-2ac4-476c-8185-621d8c267693" xsi:type="WorkPackage">
@@ -1361,7 +1388,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <item>
       <label xml:lang="en">Motivation</label>
       <item identifierRef="id-bae1d7be-3836-4431-b161-89da7e5d34ee" />
-      <item identifierRef="id-d561435d-b28c-4650-958b-4857b022b0a1" />
       <item identifierRef="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97" />
       <item identifierRef="id-47a24a51-c69d-4587-828a-b2f049c52373" />
       <item identifierRef="id-8476bf70-c6b9-400d-bfc8-9a0d18e7708f" />
@@ -1382,7 +1408,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-104a5a34-7d48-4870-9c24-28e5c5a9fae7" />
       <item identifierRef="id-84ca47f1-bdbc-4fcd-981a-6a3630e0e2cc" />
       <item identifierRef="id-945ca454-c9d1-429c-8296-98c15afdb2ec" />
-      <item identifierRef="id-55c3e520-753d-4c9a-9b5c-76a5cd9909b7" />
       <item identifierRef="id-441a824f-ef52-4781-8f33-28d5ff0088ca" />
       <item identifierRef="id-b876095a-6581-49c7-92bb-15d194293340" />
       <item identifierRef="id-fe1060c4-12aa-479a-b051-425fa3337f38" />
@@ -1390,7 +1415,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-2757795ffc8a436498fc99a2356a3480" />
       <item identifierRef="id-6a42e11002244852a09e5865d27e1896" />
       <item identifierRef="id-af0c10de3ece4b7ba81b3f091c12571d" />
-      <item identifierRef="id-ecfd3cf99c15415ca9aef32c943c1af6" />
       <item identifierRef="id-3f9be124f52b49649d20f5658b44c530" />
     </item>
     <item>
@@ -1626,6 +1650,7 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-ce9d70192d5345318dd790ea3dc3fb1b" />
       <item identifierRef="id-9005bc9546004cdcb7256c76c52bda02" />
       <item identifierRef="id-44bec633-5d4d-445c-984e-369a59307fb5" />
+      <item identifierRef="id-a8e7fc29-f155-46f7-8d06-6616134a7905" />
     </item>
   </organizations>
   <propertyDefinitions>
@@ -3824,7 +3849,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
             </font>
           </style>
         </node>
-        <node identifier="id-92bfb12e-f308-413b-a6f2-629a6f5bc0e4" elementRef="id-675aa05f-c055-4f82-b43e-e853424903bc" xsi:type="Element" x="24" y="324" w="145" h="55">
+        <node identifier="id-92bfb12e-f308-413b-a6f2-629a6f5bc0e4" elementRef="id-675aa05f-c055-4f82-b43e-e853424903bc" xsi:type="Element" x="18" y="324" w="156" h="55">
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -3983,6 +4008,42 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
 Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a traves de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral.</label>
           <style>
             <fillColor r="255" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-6d2073f3-bf27-4584-ab92-2874bff9313d" elementRef="id-af0c10de3ece4b7ba81b3f091c12571d" xsi:type="Element" x="18" y="768" w="156" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-1dffbb59-29cd-4427-b9a6-ecccf95cc833" elementRef="id-2757795ffc8a436498fc99a2356a3480" xsi:type="Element" x="18" y="834" w="156" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-0c8900e4-5446-4322-8ddd-3c1f74af00f6" elementRef="id-6a42e11002244852a09e5865d27e1896" xsi:type="Element" x="18" y="900" w="156" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-7fa4cc20-8039-42d0-9917-fcd042672435" elementRef="id-3f9be124f52b49649d20f5658b44c530" xsi:type="Element" x="18" y="960" w="156" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
@@ -5306,7 +5367,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-08e0b6a2d7d3459abeb04c7138b21be4" elementRef="id-b562ff6c99c94eae9a785f62d73c8684" xsi:type="Element" x="60" y="228" w="229" h="309">
+        <node identifier="id-08e0b6a2d7d3459abeb04c7138b21be4" elementRef="id-b562ff6c99c94eae9a785f62d73c8684" xsi:type="Element" x="60" y="228" w="229" h="348">
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -5332,7 +5393,16 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
               </font>
             </style>
           </node>
-          <node identifier="id-e30ea779b897461fbd2c48bfb969c0f2" elementRef="id-af0c10de3ece4b7ba81b3f091c12571d" xsi:type="Element" x="108" y="432" w="120" h="55">
+          <node identifier="id-e30ea779b897461fbd2c48bfb969c0f2" elementRef="id-af0c10de3ece4b7ba81b3f091c12571d" xsi:type="Element" x="96" y="432" w="157" h="55">
+            <style>
+              <fillColor r="204" g="204" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-1a0a154a-2ded-4893-b4b1-1e7599b3f2d9" elementRef="id-3f9be124f52b49649d20f5658b44c530" xsi:type="Element" x="96" y="504" w="157" h="55">
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -5976,6 +6046,63 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             <lineColor r="0" g="0" b="0" />
           </style>
         </connection>
+      </view>
+      <view identifier="id-a8e7fc29-f155-46f7-8d06-6616134a7905" xsi:type="Diagram">
+        <name xml:lang="en">BMM.</name>
+        <node identifier="id-64ae470b-d233-4c1d-b762-a05ffe089cfc" elementRef="id-8a956db3-f948-478a-93e9-8dc1bdd6c238" xsi:type="Element" x="119" y="84" w="157" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-905b00f4-7060-4a28-83de-b778a24d4b81" elementRef="id-3518f5a6-5a03-4864-8c1d-96c0df060655" xsi:type="Element" x="288" y="84" w="157" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-2e776528-1485-41da-b825-4200edbcff9d" elementRef="id-675aa05f-c055-4f82-b43e-e853424903bc" xsi:type="Element" x="456" y="84" w="157" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-f24d6d5f-e33d-4bb4-8e92-ea2d82e5c564" elementRef="id-5a38be74-6b6c-4ccb-ad5d-a9ce098d8b60" xsi:type="Element" x="119" y="166" w="157" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-0af8f4ba-fc47-4493-bd89-44794008139f" elementRef="id-793ae48c-55fb-402c-a73a-2d81b0cffd74" xsi:type="Element" x="288" y="166" w="157" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-a740e64e-3bb3-4d90-a161-6246a2281755" elementRef="id-945ca454-c9d1-429c-8296-98c15afdb2ec" xsi:type="Element" x="456" y="166" w="157" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-847a7968-a638-412a-8335-f3cdd7dad03c" elementRef="id-af0c10de3ece4b7ba81b3f091c12571d" xsi:type="Element" x="119" y="252" w="156" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-6a65a58a-c7f0-473b-b7f4-ead05b4983eb" elementRef="id-2757795ffc8a436498fc99a2356a3480" xsi:type="Element" x="288" y="252" w="156" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-7104ac87-3b58-4de6-bb05-29d6d1b6885c" elementRef="id-6a42e11002244852a09e5865d27e1896" xsi:type="Element" x="456" y="252" w="156" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
       </view>
     </diagrams>
   </views>
