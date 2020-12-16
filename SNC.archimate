@@ -20,8 +20,7 @@ Son objetivos de acuerdo a esta ley: &#xD;
     </element>
     <element xsi:type="archimate:CourseOfAction" name="EST03. Sistema Información Gestión Empleo y Productividad" id="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078">
       <documentation>Gestión del empleo y la productividad. Herramienta tecnológica de información que permitirá integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, 
-(Medios)
-a través la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC) y otras fuentes de información relevantes que puedan aportar en aspectos como la capacitación, incentivos de cesantías, seguimiento y verificación de requisitos para la oferta laboral colombiana.</documentation>
+(Medios) a través la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC) y otras fuentes de información relevantes que puedan aportar en aspectos como la capacitación, incentivos de cesantías, seguimiento y verificación de requisitos para la oferta laboral colombiana.</documentation>
     </element>
     <element xsi:type="archimate:CourseOfAction" name="EST04. Implementación Subsistema Aseguramiento Calidad de la Formación" id="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159">
       <documentation>El diseño e implementación del subsistema de aseguramiento de la calidad de la formación para el trabajo a través de la consolidación de un modelo de aseguramiento de calidad de la formación que contempla el desarrollo de estándares, metodologías, indicadores y su implementación a través de pilotos que permitirán al fortalecimiento de la capacidad técnica de los actores competentes y los prestadores del servicio de aprendizaje con lineamientos que se ajusten periódicamente a la demanda del mercado laboral, y la incorporación de estrategias de seguimiento y evaluación que permitan reorientar la oferta de formación para el trabajo.</documentation>
@@ -34,6 +33,10 @@ a través la articulación del sistema del Servicio Público de Empleo, la plani
     </element>
     <element xsi:type="archimate:Resource" name="Implementación $22.000.000 COP" id="id-41bab9f7-5bb3-4c40-bbc4-c45ab97868a6">
       <documentation>SISTEMA GERENCIAL DEL MT IMPLEMENTADO</documentation>
+    </element>
+    <element xsi:type="archimate:CourseOfAction" name="EST06. Pilotos de Formación para el Trabajo" id="6274526b-9f48-4476-9bac-163ad318e902">
+      <documentation>Adicionalmente, este proyecto contempla la realización de pilotos en sectores priorizados orientados en términos de Formación para el trabajo de carácter práctico y Evaluación y certificación de competencias que permita: ingreso y reconocimiento en los programas formativos / educativos; facilidad de acceso al mercado laboral; mayor valoración de sus competencias y el registro en el sistema de información del SNC.
+</documentation>
     </element>
   </folder>
   <folder name="Business" id="b3af6d23-3352-4c1b-8336-9a8702332371" type="business">
@@ -156,7 +159,7 @@ Javier: en mi opinión no se puede poner al mismo nivel la CUOC y los cinco comp
     <element xsi:type="archimate:ApplicationInteraction" name="Gestión Empleo y Productividad" id="id-7cd68bd9-fe5b-4b89-9553-1794642bafff"/>
     <element xsi:type="archimate:ApplicationComponent" name="PILA" id="id-64a726f8-5978-412a-8a14-03c1fab76439"/>
     <element xsi:type="archimate:ApplicationComponent" name="APP3. SNC" id="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4">
-      <documentation>Este servicio contempla el desarrollo tecnológico y la puesta en marcha de la plataforma de información del SNC, la cual permitirá recoger y procesar información sobre la oferta y demanda de cualificaciones que oriente la política de empleo y de formación para el trabajo.  Para ello se tiene previsto un centro de inteligencia que cuente con un Data WareHouse y herramientas de analítica o Big Data. Estas herramientas deben permitir centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo y de formación para el trabajo.  Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinentes para diferentes tipos de actores, entre los que se destacan, las instituciones del gobierno nacional y gobiernos locales para la formulación y seguimiento de las políticas públicas, a las instituciones educativas y de formación para la estructuración y actualización de mallas curriculares con pertinencia y calidad, a los empresarios y gremios para retroalimentar su conocimiento sobre la estructura ocupacional de su sector y las competencias requeridas, a los estudiantes para tener orientación sobre lo que está demandando el mercado laboral, las principales brechas que se presentan y alternativas educativas y formativas, a la población en general. 
+      <documentation>Este servicio contempla el desarrollo tecnológico y la puesta en marcha de la plataforma de información del SNC, la cual permitirá recoger y procesar información sobre la oferta y demanda de cualificaciones que oriente la política de empleo y de formación para el trabajo. Para ello se tiene previsto un centro de inteligencia que cuente con un Data WareHouse y herramientas de analítica o Big Data. Estas herramientas deben permitir centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo y de formación para el trabajo.  Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinentes para diferentes tipos de actores, entre los que se destacan, las instituciones del gobierno nacional y gobiernos locales para la formulación y seguimiento de las políticas públicas, a las instituciones educativas y de formación para la estructuración y actualización de mallas curriculares con pertinencia y calidad, a los empresarios y gremios para retroalimentar su conocimiento sobre la estructura ocupacional de su sector y las competencias requeridas, a los estudiantes para tener orientación sobre lo que está demandando el mercado laboral, las principales brechas que se presentan y alternativas educativas y formativas, a la población en general. 
 
 
 Propósito
@@ -188,7 +191,14 @@ Información del componente de normalización de competencias (componente del SN
 --Información del componente del Marco Nacional de Cualificaciones: catálogos de cualificaciones de las diferentes áreas de cualificación.</documentation>
     </element>
     <element xsi:type="archimate:ApplicationComponent" name="APP1. SPE" id="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6">
-      <documentation>Este servicio está orientado al fortalecimiento tecnológico e institucional del SPE a través de una modernización tecnológica que permita aumentar la cobertura y efectividad de las políticas de empleo a partir de soluciones específicas a las falencias de interoperabilidad de información entre la Red de prestadores del SPE que restringe la efectividad en el emparejamiento, el enganche de buscadores de empleo con vacantes en otras regiones del país y la realización de procesos de analítica de datos para optimizar la búsqueda de empleo y la gestión de vacantes desde cualquier punto de atención a nivel nacional. Estará compuesto por: (a) un portal al que podrán acceder buscadores, empresas y prestadores y que tendrá un motor de inteligencia artificial para gestionar emparejamientos con análisis de ontología, derivaciones a capacitaciones y otras políticas activas, información sobre el mercado de trabajo (salarios, vacancias más solicitadas) y links a tests online; (b) una herramienta de CRM (Customer Relationship Manager) que permita trazar la trayectoria de los postulantes y gestionar la provisión de servicios a usuarios de manera personalizada; (c) una herramienta de BPM (Business Process Manager) para dar seguimiento a flujos de procesos que realizan prestadores y UAESPE; (d) sistemas de integración (Middle) que permitan interoperar con bases de datos de terceros de forma directa o a través de programas de interfase (API); (e) aplicaciones móviles para ciudadanos; (f) servicios de chat y videollamada para gestionar servicios a ciudadanos y empresas; (g) una base de datos única, íntegra, consistente, y de alta disponibilidad en la que se almacene toda la información de procesos y servicios de la UAPSE; (h) un centro de inteligencia que cuente un Data Warehouse (DWH)  y herramientas de analítica o Business Intelligence que permiten centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo, cuyo diseño conceptual prioriza los siguientes módulos...</documentation>
+      <documentation>El Servicio Público de Empleo como parte de las políticas activas del mercado laboral,  tiene como función esencial lograr la mejor organización posible del mercado de trabajo, para lo cual ayudará a los buscadores trabajadores a encontrar un empleo conveniente y adecuado a su perfil, y a los empleadores a contratar trabajadores que cumplen con sus expectativas laborales y acordes con las necesidades de la empresa. 
+
+Este servicio está orientado al fortalecimiento tecnológico e institucional del SPE a través de una modernización tecnológica que permita aumentar la cobertura y efectividad de las políticas de empleo a partir de soluciones específicas a las falencias de interoperabilidad de información entre la Red de prestadores del SPE que restringe la efectividad en el emparejamiento, el enganche de buscadores de empleo con vacantes en otras regiones del país y la realización de procesos de analítica de datos para optimizar la búsqueda de empleo y la gestión de vacantes desde cualquier punto de atención a nivel nacional. 
+
+Dentro de sus funciones se encuentran:  “…7) Administrar la red de prestadores del servicio público de empleo focalizando sus servicios en los territorios y sectores que requieran las acciones de mitigación del desempleo y organización del servicio público de empleo; 8) Realizar acciones de articulación y coordinación entre entidades públicas, la red de prestadores y otros actores incidentes para lograr una mejor prestación del servicio público de empleo y 10) Asesorar y prestar asistencia técnica a las entidades públicas del orden nacional y territorial, la red de prestadores y otros actores incidentes para lograr la mejor organización del servicio público de empleo” (Decreto 2521 de 2013).  
+
+Estará compuesto por: (a) un portal al que podrán acceder buscadores, empresas y prestadores y que tendrá un motor de inteligencia artificial para gestionar emparejamientos con análisis de ontología, derivaciones a capacitaciones y otras políticas activas, información sobre el mercado de trabajo (salarios, vacancias más solicitadas) y links a tests online; (b) una herramienta de CRM (Customer Relationship Manager) que permita trazar la trayectoria de los postulantes y gestionar la provisión de servicios a usuarios de manera personalizada; (c) una herramienta de BPM (Business Process Manager) para dar seguimiento a flujos de procesos que realizan prestadores y UAESPE; (d) sistemas de integración (Middle) que permitan interoperar con bases de datos de terceros de forma directa o a través de programas de interfase (API); (e) aplicaciones móviles para ciudadanos; (f) servicios de chat y videollamada para gestionar servicios a ciudadanos y empresas; (g) una base de datos única, íntegra, consistente, y de alta disponibilidad en la que se almacene toda la información de procesos y servicios de la UAPSE; (h) un centro de inteligencia que cuente un Data Warehouse (DWH)  y herramientas de analítica o Business Intelligence que permiten centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo, cuyo diseño conceptual prioriza los siguientes módulos...
+</documentation>
     </element>
     <element xsi:type="archimate:ApplicationComponent" name="SIMPC" id="id-cab3ccbb-f93d-4eb4-94ff-d439f568e1b3">
       <documentation>Sistema de seguimiento del mecanismo de protección al cesante</documentation>
@@ -423,6 +433,31 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
     <element xsi:type="archimate:ApplicationService" name="Indicadores de resultado y de impacto" id="id-20666b6de3b1467ead1eb563c73278ba"/>
     <element xsi:type="archimate:ApplicationComponent" name="Application Component" id="id-e4a7c537866e4cbc9357f00c68179083"/>
     <element xsi:type="archimate:ApplicationComponent" name="Application Component" id="id-ab52979dc0314a8b814814ff59165e39"/>
+    <element xsi:type="archimate:ApplicationComponent" name="CUOC" id="01765bbf-be50-48f0-8ca3-8919222e3aa5">
+      <documentation>La CUOC permite la homologación de la clasificación nacional e internacional de ocupaciones y será una herramienta que, en el marco del SNC, contiene información necesaria para la conexión de diferentes esquemas de gestión, información y valoración de conocimientos y habilidades requeridas en diferentes ocupaciones y que son adquiridas en cualquiera de las vías de cualificación existentes en Colombia. Entre algunos usos se encuentran: 
+
+--Generación de estadísticas para el seguimiento y cumplimiento de política públicas
+--Desarrollo de mecanismos para la intermediación laboral entre empresarios, trabajadores y buscadores de empleo
+--Gestión de movilidad educativa, formativa y laboral a nivel nacional e internacional
+--Identificación de brechas de capital humano en diferentes sectores
+--Diseño de programas de E y FxT enfocados en el mercado laboral
+--Normalización y certificación de competencias laborales
+
+</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationComponent" name="SEN" id="5f82ef51-97e3-45e7-97e1-b04e7deb82b1"/>
+    <element xsi:type="archimate:ApplicationInterface" name="API9. Ficha de Cualificación (CUOC)" id="cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8">
+      <documentation>Es un instrumento que permite estructurar y consolidar las cualificaciones en línea con los perfiles ocupacionales descritos en la Clasificación Única de Ocupaciones para Colombia (CUOC), pues como se definió en uno de los objetivos principales del SNC se busca estrechar la relación de la demanda laboral con la oferta educativa y formativa y en este instrumento se articula esa relación. En la ficha se espera tener información de: ID de la cualificación (nombre, área, código), perfiles ocupacionales (competencia general, ocupación asociada a la CUOC, denominaciones), formación asociada a la cualificación y parámetros para el aseguramiento de la calidad.
+</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationInterface" name="API10. Matriz de descriptores" id="4929b266-aa6a-4fb9-bad1-8394b76981d8">
+      <documentation>Es un instrumento que permite clasificar las cualificaciones en los niveles del MNC de acuerdo con un conjunto de descriptores que indican los resultados de aprendizaje pertinentes en 8 niveles de cualificación. Los descriptores son: conocimientos, habilidades, destrezas y actitudes (responsabilidad y autonomía).
+</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationInterface" name="API11. Catálogo Nacional de Cualificaciones" id="82602794-e52a-47f4-a6d4-ee43aff7bc1c">
+      <documentation>Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. 
+</documentation>
+    </element>
   </folder>
   <folder name="Technology &amp; Physical" id="6584f570-09bf-44f7-803d-f7c6e6fe2b11" type="technology"/>
   <folder name="Motivation" id="2bb09bdb-1fe7-43b9-9ef2-f825e7a387b4" type="motivation">
@@ -452,7 +487,7 @@ Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes 
     <element xsi:type="archimate:Requirement" name="RQ04. Implementar la solución tecnológica" id="id-5a910722-e88d-4aac-ae11-e6db6f80ac20">
       <documentation>Implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información</documentation>
     </element>
-    <element xsi:type="archimate:Driver" name="DR01. Desempleo, Informalidad, Competencias, Acceso mercado" id="id-8a956db3-f948-478a-93e9-8dc1bdd6c238">
+    <element xsi:type="archimate:Driver" name="DR01. (Contexto Colombiano) Desempleo, Informalidad, Competencias, Acceso mercado" id="id-8a956db3-f948-478a-93e9-8dc1bdd6c238">
       <documentation>Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por:
 --altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica
 --altas tasas de informalidad laboral (superiores al 60%)
@@ -460,7 +495,7 @@ Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes 
 
 Lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
 
-Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
+Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
 
 En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.</documentation>
     </element>
@@ -491,16 +526,8 @@ Una vez realizado el diagnóstico de la situación actual, se  identificaron com
 Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.</documentation>
     </element>
     <element xsi:type="archimate:Driver" name="DR02. Competencias, Acceso mercado" id="id-3518f5a6-5a03-4864-8c1d-96c0df060655">
-      <documentation>Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por:
---altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica
---altas tasas de informalidad laboral (superiores al 60%)
---junto con los bajos niveles de acceso y permanencia en el mercado laboral formal
-
-Lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
-
-Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
-
-En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.</documentation>
+      <documentation>Si bien Colombia, está avanzando en importantes logros en materia social en las últimas décadas, como son la reducción en la pobreza y el aumento en cobertura de educación y salud (BID, 2015), persisten grandes retos en el mercado de trabajo en el contexto actual que se vieron afectadas por una generación de empleo inferior a la proyectada en el cuatrienio inmediatamente anterior, situación que se detalla a continuación:
+</documentation>
     </element>
     <element xsi:type="archimate:Driver" name="DR05. Lineamientos técnicos" id="id-793ae48c-55fb-402c-a73a-2d81b0cffd74">
       <documentation>Lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
@@ -820,6 +847,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <element xsi:type="archimate:CompositionRelationship" id="48610a6e-cc0a-4fb3-8038-e6d6aca84142" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-453c204b-a8a6-4089-b65c-a0fe594e9413"/>
     <element xsi:type="archimate:CompositionRelationship" id="898521c4-9d8b-4010-9aa9-fcbc7e9e60a1" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8"/>
     <element xsi:type="archimate:CompositionRelationship" id="3d2eb987-9f06-462b-9232-7fad6e8991b5" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-ce236631-fc5e-4589-923b-26b8b120c617"/>
+    <element xsi:type="archimate:CompositionRelationship" id="851c943e-bc6c-44ed-9f21-ba4f6e2e5f17" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="31baf9eb-edc4-4c46-9dcc-b815c5bdff2e" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="4929b266-aa6a-4fb9-bad1-8394b76981d8"/>
+    <element xsi:type="archimate:CompositionRelationship" id="ef46f4e9-6319-4fd9-ba98-ca60b7bc5dad" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="82602794-e52a-47f4-a6d4-ee43aff7bc1c"/>
+    <element xsi:type="archimate:ServingRelationship" id="34236b55-da2d-4c83-9965-7401fbb22f9c" source="cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" target="01765bbf-be50-48f0-8ca3-8919222e3aa5"/>
+    <element xsi:type="archimate:AssociationRelationship" id="c7a1c1ab-824c-492a-8ec8-357cee4e850e" source="6274526b-9f48-4476-9bac-163ad318e902" target="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b"/>
   </folder>
   <folder name="Views" id="85110bc5-78ef-41a5-b95e-4925dad0c838" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="New ArchiMate View" id="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db">
@@ -1184,23 +1216,29 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="APP. Colaboración" id="id-3c8f85ec-a734-4885-b13b-667379543f63">
       <child xsi:type="archimate:DiagramObject" id="id-80782a7f-8f55-46be-915f-595ba360824c" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-7cd68bd9-fe5b-4b89-9553-1794642bafff">
-        <bounds x="24" y="84" width="589" height="229"/>
+        <bounds x="24" y="84" width="589" height="253"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-c188d73a-6f78-41db-9037-6549c7ecf655" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-80782a7f-8f55-46be-915f-595ba360824c" target="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666" archimateRelationship="id-24892aba-31c7-49bc-a561-085b27314961"/>
         <child xsi:type="archimate:DiagramObject" id="id-aec79ff7-df88-4c52-9a35-924cd0cb82f0" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-64a726f8-5978-412a-8a14-03c1fab76439">
-          <bounds x="80" y="68" width="120" height="55"/>
+          <bounds x="80" y="96" width="120" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-3fb9e166-6a44-4195-b60c-32f3373b6c15" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6">
-          <bounds x="81" y="145" width="120" height="55"/>
+          <bounds x="81" y="157" width="120" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-a42e1c39-49f0-4b17-ac0b-aa26b0e8a273" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-cab3ccbb-f93d-4eb4-94ff-d439f568e1b3">
-          <bounds x="240" y="68" width="120" height="55"/>
+          <bounds x="240" y="96" width="120" height="55"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-76a756df-4206-4ad1-862e-2bc82a14d039" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-802dfc0a-c6b0-470d-8fe1-eea64523e869">
-          <bounds x="396" y="144" width="120" height="55"/>
+          <bounds x="396" y="156" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-cc3c28c5-4cb7-498c-b8fc-81dcef666abc" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-76a756df-4206-4ad1-862e-2bc82a14d039" target="id-09862746-1af2-42c0-a301-876d8f76ab0b" archimateRelationship="id-816449d7-a5b5-4bc1-8fc9-1059f59672e8"/>
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-09862746-1af2-42c0-a301-876d8f76ab0b" targetConnections="id-cc3c28c5-4cb7-498c-b8fc-81dcef666abc" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-55e498e3-c59b-4b1a-8e81-718b98732c4e">
-          <bounds x="240" y="145" width="120" height="55"/>
+          <bounds x="240" y="157" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="64d3cabc-fed6-4062-94db-bbe29db14e29" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="01765bbf-be50-48f0-8ca3-8919222e3aa5">
+          <bounds x="396" y="96" width="120" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="b5f1099d-1dc0-4f74-821d-46e9a9ef5742" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="5f82ef51-97e3-45e7-97e1-b04e7deb82b1">
+          <bounds x="396" y="36" width="120" height="55"/>
         </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666" targetConnections="id-c188d73a-6f78-41db-9037-6549c7ecf655 id-6e98ddf0-0a0f-4434-baa9-11a06a52a0fb" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4">
@@ -1208,7 +1246,7 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
         <sourceConnection xsi:type="archimate:Connection" id="id-2f00ab51-6f42-4f00-b623-23096d8d5c53" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666" target="id-34bf4acb-4786-45b0-a9aa-ba4d888fb59d" archimateRelationship="id-4e1aaf81-6a00-438c-8d1c-7251c4fb4f40"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-77b13fc7-de4a-4d18-847a-700c136c4a85" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-88ba3294-eae0-46ff-9c0c-e678f0525724">
-        <bounds x="25" y="528" width="588" height="264"/>
+        <bounds x="25" y="528" width="588" height="325"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-6e98ddf0-0a0f-4434-baa9-11a06a52a0fb" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666" archimateRelationship="id-9444b987-6b2c-43e5-8044-dca6b8b9b4d0"/>
         <sourceConnection xsi:type="archimate:Connection" id="16425b80-2dae-4bac-93c3-870b1a3748dd" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="id-d23ff7cb-cf94-4f1d-8ab1-4b0c6686a6a6" archimateRelationship="id-477abc90-197b-4e18-8c43-00eeff6cca66"/>
         <sourceConnection xsi:type="archimate:Connection" id="1745f4c6-d1e6-4355-9484-479e90181c92" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="id-12a5bb14-b14a-4ba1-9513-1e0582725217" archimateRelationship="id-83776054-5519-4239-970b-1bd5a461acd8"/>
@@ -1219,6 +1257,9 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
         <sourceConnection xsi:type="archimate:Connection" id="2f15b495-0d7a-479a-85d9-bff6985d065f" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="id-78831b66-32c2-4050-aef8-6184a3fbe17e" archimateRelationship="id-41f432bf-faf4-4e48-98df-e6da3948bdfe"/>
         <sourceConnection xsi:type="archimate:Connection" id="37cc6414-8515-4a79-87f6-b1ff2f925158" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="id-4eb09f32-8d9a-4bbc-8b5e-778240638cc8" archimateRelationship="id-261b21a8-f959-454a-957a-ba2bc30ccc54"/>
         <sourceConnection xsi:type="archimate:Connection" id="2c44c189-1158-4412-a931-ded29ecba9a4" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="id-4e652a89-3130-423c-a3d3-0cac525711b5" archimateRelationship="id-88a59698-1406-4d74-8217-78bd232f0cef"/>
+        <sourceConnection xsi:type="archimate:Connection" id="a6bec74c-0ee2-4d20-bf3e-77e1d90559b4" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="c3cec595-a6e7-433f-9a21-fea44415d865" archimateRelationship="851c943e-bc6c-44ed-9f21-ba4f6e2e5f17"/>
+        <sourceConnection xsi:type="archimate:Connection" id="e9a5f51d-bc32-41f0-a387-d9b91fd79c38" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="1afa44d3-bd0b-4bd7-9dc7-da21374e92a7" archimateRelationship="31baf9eb-edc4-4c46-9dcc-b815c5bdff2e"/>
+        <sourceConnection xsi:type="archimate:Connection" id="a9b6e117-fae2-4626-bcc6-9e90a275f5b1" source="id-77b13fc7-de4a-4d18-847a-700c136c4a85" target="770e9a57-4551-499d-ac82-b136478af838" archimateRelationship="ef46f4e9-6319-4fd9-ba98-ca60b7bc5dad"/>
         <child xsi:type="archimate:DiagramObject" id="id-d23ff7cb-cf94-4f1d-8ab1-4b0c6686a6a6" targetConnections="16425b80-2dae-4bac-93c3-870b1a3748dd" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef">
           <bounds x="215" y="168" width="161" height="55"/>
         </child>
@@ -1245,6 +1286,15 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
         </child>
         <child xsi:type="archimate:DiagramObject" id="id-4e652a89-3130-423c-a3d3-0cac525711b5" targetConnections="2c44c189-1158-4412-a931-ded29ecba9a4" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-de2b291e-8721-43c2-8bf3-46d12034ab6e">
           <bounds x="38" y="108" width="161" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="c3cec595-a6e7-433f-9a21-fea44415d865" targetConnections="a6bec74c-0ee2-4d20-bf3e-77e1d90559b4" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8">
+          <bounds x="38" y="228" width="161" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="1afa44d3-bd0b-4bd7-9dc7-da21374e92a7" targetConnections="e9a5f51d-bc32-41f0-a387-d9b91fd79c38" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="4929b266-aa6a-4fb9-bad1-8394b76981d8">
+          <bounds x="215" y="228" width="161" height="55"/>
+        </child>
+        <child xsi:type="archimate:DiagramObject" id="770e9a57-4551-499d-ac82-b136478af838" targetConnections="a9b6e117-fae2-4626-bcc6-9e90a275f5b1" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="82602794-e52a-47f4-a6d4-ee43aff7bc1c">
+          <bounds x="389" y="228" width="161" height="55"/>
         </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-34bf4acb-4786-45b0-a9aa-ba4d888fb59d" targetConnections="id-2f00ab51-6f42-4f00-b623-23096d8d5c53" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-93ef34ca-4ab3-4d52-90f3-841a15e28af0">
@@ -1354,19 +1404,19 @@ Productos asociados al SNC</content>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="BMM. Fines Acciones Productos" id="id-fa31fec0-d7ab-4669-ad9f-2f3d599860e0">
-      <child xsi:type="archimate:DiagramObject" id="id-9dd506ca-efd3-463f-ab15-3f97a16288dc" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd">
-        <bounds x="12" y="432" width="227" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="id-9dd506ca-efd3-463f-ab15-3f97a16288dc" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd">
+        <bounds x="12" y="420" width="227" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-90c19f5e-ef42-4fc3-b285-5441bc58ac8f" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-9dd506ca-efd3-463f-ab15-3f97a16288dc" target="id-47c67328-2c1f-4a83-a546-fd0eb56caf10" archimateRelationship="id-bab8b07c-4d77-4f25-8f2b-281c2adac89b"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-83068494-d72c-40b4-8a9d-8c72846eb6cd" targetConnections="id-d645d8e0-0c22-43f4-be89-8fd61304c552" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078">
-        <bounds x="12" y="372" width="227" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="id-83068494-d72c-40b4-8a9d-8c72846eb6cd" targetConnections="id-d645d8e0-0c22-43f4-be89-8fd61304c552" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078">
+        <bounds x="12" y="486" width="227" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-d0444660-8574-46da-ab1d-f027c7ec679f" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159">
-        <bounds x="12" y="492" width="227" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="id-d0444660-8574-46da-ab1d-f027c7ec679f" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159">
+        <bounds x="12" y="546" width="227" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-656b50ac-859c-47c6-acc7-07697fce5a6a" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-d0444660-8574-46da-ab1d-f027c7ec679f" target="id-56704802-19c2-47e5-b86a-a695349217a5" archimateRelationship="id-d5545d18-31cd-4dca-8151-bb177afc1c54"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-2d2a5750-be1c-4689-9e98-faf3dc3243ce" targetConnections="id-ca1953f9-125b-4ddd-9d5a-f819fc988131" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f">
-        <bounds x="12" y="312" width="227" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="id-2d2a5750-be1c-4689-9e98-faf3dc3243ce" targetConnections="id-ca1953f9-125b-4ddd-9d5a-f819fc988131" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f">
+        <bounds x="12" y="606" width="227" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-a9e25a56-6d39-4f8c-9aa0-e65b54633b87" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688">
         <bounds x="564" y="366" width="180" height="55"/>
@@ -1389,7 +1439,7 @@ Productos asociados al SNC</content>
         <sourceConnection xsi:type="archimate:Connection" id="id-279355a8-7a5d-4387-8808-cb4a3624c199" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-98de2d1d-5b7a-4711-8461-35ac68c7aa84" target="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" archimateRelationship="id-b7233074-ba56-42ae-a385-735a490f90d6"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-4c3bcf5d-fd54-4ef4-9cbc-4475592b51b5" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-98de2d1d-5b7a-4711-8461-35ac68c7aa84" target="id-6705ae89-f883-4808-b427-7f84636e76fe" archimateRelationship="id-86cb0644-8872-4ae9-9765-09c3c661a180"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" targetConnections="id-279355a8-7a5d-4387-8808-cb4a3624c199" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b">
+      <child xsi:type="archimate:DiagramObject" id="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" targetConnections="id-279355a8-7a5d-4387-8808-cb4a3624c199 7fbd9a07-a5dc-40d6-8cf6-0844c5efdc56" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b">
         <bounds x="312" y="212" width="204" height="445"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-ca1953f9-125b-4ddd-9d5a-f819fc988131" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" target="id-2d2a5750-be1c-4689-9e98-faf3dc3243ce" archimateRelationship="id-8fe10ed9-c237-49aa-b10e-c1efecff7e6d"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-d645d8e0-0c22-43f4-be89-8fd61304c552" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" target="id-83068494-d72c-40b4-8a9d-8c72846eb6cd" archimateRelationship="id-c17deaf5-c478-4d67-bf57-42532947f7dd"/>
@@ -1397,16 +1447,16 @@ Productos asociados al SNC</content>
         <sourceConnection xsi:type="archimate:Connection" id="fb82324b-c0b1-4eee-8070-65673955bca5" source="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" target="id-47c67328-2c1f-4a83-a546-fd0eb56caf10" archimateRelationship="id-3b119dc3-f32f-45f7-86cd-6c11ddce62f3"/>
         <sourceConnection xsi:type="archimate:Connection" id="a6943437-ac0c-4fc1-ac6c-eb60aa5fdea8" source="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" target="id-56704802-19c2-47e5-b86a-a695349217a5" archimateRelationship="id-655fc176-071b-42b0-823a-a8d76fd32673"/>
         <sourceConnection xsi:type="archimate:Connection" id="4ce621cd-2e39-4ad5-ba2a-4dd7ccb44d89" source="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" target="id-67740747-ec3f-488a-a7a6-b1806282a378" archimateRelationship="id-4680ea38-b375-4d0e-9e62-723c1e0ae626"/>
-        <child xsi:type="archimate:DiagramObject" id="id-85b07dc9-97ef-4bda-bb6a-78b5701aa499" targetConnections="id-f1a028ba-1a24-4ff2-a435-505fc8d76fff 4865085a-54e3-4b0b-9e02-771403f05447" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-8476bf70-c6b9-400d-bfc8-9a0d18e7708f">
+        <child xsi:type="archimate:DiagramObject" id="id-85b07dc9-97ef-4bda-bb6a-78b5701aa499" targetConnections="id-f1a028ba-1a24-4ff2-a435-505fc8d76fff 4865085a-54e3-4b0b-9e02-771403f05447" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-8476bf70-c6b9-400d-bfc8-9a0d18e7708f">
           <bounds x="24" y="156" width="152" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-47c67328-2c1f-4a83-a546-fd0eb56caf10" targetConnections="id-90c19f5e-ef42-4fc3-b285-5441bc58ac8f id-07572ff7-be57-4f65-b5c1-997902d6d097 fb82324b-c0b1-4eee-8070-65673955bca5" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bae1d7be-3836-4431-b161-89da7e5d34ee">
+        <child xsi:type="archimate:DiagramObject" id="id-47c67328-2c1f-4a83-a546-fd0eb56caf10" targetConnections="id-90c19f5e-ef42-4fc3-b285-5441bc58ac8f id-07572ff7-be57-4f65-b5c1-997902d6d097 fb82324b-c0b1-4eee-8070-65673955bca5" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bae1d7be-3836-4431-b161-89da7e5d34ee">
           <bounds x="24" y="228" width="152" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-56704802-19c2-47e5-b86a-a695349217a5" targetConnections="id-656b50ac-859c-47c6-acc7-07697fce5a6a id-6b80c268-b7f1-41a4-9d5e-2fd83e6786f1 id-b446129a-2289-4360-a417-caa9236dbac1 a6943437-ac0c-4fc1-ac6c-eb60aa5fdea8" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97">
+        <child xsi:type="archimate:DiagramObject" id="id-56704802-19c2-47e5-b86a-a695349217a5" targetConnections="id-656b50ac-859c-47c6-acc7-07697fce5a6a id-6b80c268-b7f1-41a4-9d5e-2fd83e6786f1 id-b446129a-2289-4360-a417-caa9236dbac1 a6943437-ac0c-4fc1-ac6c-eb60aa5fdea8" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97">
           <bounds x="24" y="300" width="152" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-67740747-ec3f-488a-a7a6-b1806282a378" targetConnections="id-ac8efcc1-342d-4dc8-8fb2-d3268d084f30 4ce621cd-2e39-4ad5-ba2a-4dd7ccb44d89" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-47a24a51-c69d-4587-828a-b2f049c52373">
+        <child xsi:type="archimate:DiagramObject" id="id-67740747-ec3f-488a-a7a6-b1806282a378" targetConnections="id-ac8efcc1-342d-4dc8-8fb2-d3268d084f30 4ce621cd-2e39-4ad5-ba2a-4dd7ccb44d89" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-47a24a51-c69d-4587-828a-b2f049c52373">
           <bounds x="24" y="372" width="152" height="55"/>
         </child>
       </child>
@@ -1430,6 +1480,14 @@ version 0.02</content>
       <child xsi:type="archimate:DiagramObject" id="id-2dd6b887-c6ac-4164-a783-cd808e30c199" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffe0e0" archimateElement="id-ec3f8784-2ac4-476c-8185-621d8c267693">
         <bounds x="432" width="192" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-e26ee109-31f5-4ec3-b46a-d590ab9abad1" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-2dd6b887-c6ac-4164-a783-cd808e30c199" target="id-98de2d1d-5b7a-4711-8461-35ac68c7aa84" archimateRelationship="id-bb54367a-abdf-4089-bc38-223041f9744a"/>
+        <sourceConnection xsi:type="archimate:Connection" id="201bc264-7cc1-479c-b63c-f34ba65464a9" source="id-2dd6b887-c6ac-4164-a783-cd808e30c199" target="082abee8-3458-4e51-87ad-a40bb377c2d5" archimateRelationship="id-1ff5dd85-6d9c-4d57-a9be-c7bcd53b7766"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="082abee8-3458-4e51-87ad-a40bb377c2d5" targetConnections="201bc264-7cc1-479c-b63c-f34ba65464a9" archimateElement="id-51ccb514-c8f3-4af8-9321-c0fcc0a15eec">
+        <bounds x="13" y="266" width="226" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="86c8f0c6-ac1e-4326-81c5-edfb8fb2eff9" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="6274526b-9f48-4476-9bac-163ad318e902">
+        <bounds x="12" y="332" width="227" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="7fbd9a07-a5dc-40d6-8cf6-0844c5efdc56" source="86c8f0c6-ac1e-4326-81c5-edfb8fb2eff9" target="id-e9fc0604-3a55-465e-9796-ef428c5ed22a" archimateRelationship="c7a1c1ab-824c-492a-8ec8-357cee4e850e"/>
       </child>
       <documentation>El programa tiene como objetivo general aumentar la empleabilidad de la fuerza laboral nacional y migrante. 
 
@@ -1446,44 +1504,44 @@ EST03. La implementación del Sistema de Información para la gestión del emple
 EST04. El diseño e implementación del subsistema de aseguramiento de la calidad de la formación para el trabajo a través de la consolidación de un modelo de aseguramiento de calidad de la formación que contempla el desarrollo de estándares, metodologías, indicadores y su implementación a través de pilotos que permitirán al fortalecimiento de la capacidad técnica de los actores competentes y los prestadores del servicio de aprendizaje con lineamientos que se ajusten periódicamente a la demanda del mercado laboral, y la incorporación de estrategias de seguimiento y evaluación que permitan reorientar la oferta de formación para el trabajo.</documentation>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="BMM. Motivaciones Retos y Objetivos" id="id-69bfc6a2-034a-43b7-81c8-9fc4d8029cf8">
-      <child xsi:type="archimate:DiagramObject" id="id-fe25eb2c-0bfe-47f0-a753-8df02fd1cda6" targetConnections="id-ee6bfaeb-f02c-42ad-b10d-7a5d99eb24f7" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688">
+      <child xsi:type="archimate:DiagramObject" id="id-fe25eb2c-0bfe-47f0-a753-8df02fd1cda6" targetConnections="id-ee6bfaeb-f02c-42ad-b10d-7a5d99eb24f7" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688">
         <bounds x="675" y="408" width="151" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-6135120e-3c0a-446c-81b9-f2489e0107e5" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-fe25eb2c-0bfe-47f0-a753-8df02fd1cda6" target="id-2bc81975-3d19-43e2-8dbb-1626ce66de11" archimateRelationship="id-79d1ed30-0a0c-4e4b-83c1-bc6befb14817"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-98999a87-c97e-4913-b9e9-276d09aa5d8d" targetConnections="id-e600ba97-a4df-42eb-b00f-7783f85a7d61" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-ce236631-fc5e-4589-923b-26b8b120c617">
+      <child xsi:type="archimate:DiagramObject" id="id-98999a87-c97e-4913-b9e9-276d09aa5d8d" targetConnections="id-e600ba97-a4df-42eb-b00f-7783f85a7d61" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-ce236631-fc5e-4589-923b-26b8b120c617">
         <bounds x="675" y="469" width="151" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-9076a30a-4c86-45c7-b094-ed857a3e4622" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-98999a87-c97e-4913-b9e9-276d09aa5d8d" target="id-791f0777-d35c-4328-b620-02aa944da6e2" archimateRelationship="id-9bd15c5f-4cca-4842-86e5-315f7af78a60"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-4d35a25a-bad0-4df2-8d06-efc292bc5406" targetConnections="id-775210c4-9fd6-4ea5-a2c1-3e404f78376f" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-fb3c7359-e61b-4244-b482-768a2f4bd575">
+      <child xsi:type="archimate:DiagramObject" id="id-4d35a25a-bad0-4df2-8d06-efc292bc5406" targetConnections="id-775210c4-9fd6-4ea5-a2c1-3e404f78376f" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-fb3c7359-e61b-4244-b482-768a2f4bd575">
         <bounds x="675" y="648" width="151" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-50206ead-a832-4dcf-933a-faae7c8d9b0d" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-4d35a25a-bad0-4df2-8d06-efc292bc5406" target="id-e72677c4-658c-4083-a0fd-e6dc7093f676" archimateRelationship="id-e0909c55-0ded-4e6d-bf6c-631c7079e395"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-e5833493-77a6-4f6a-87e0-a24df662e995" targetConnections="id-78f5557e-963e-4836-aebc-3407abc753d9" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-91162640-9e76-4c3b-a1d8-feac0978e168">
+      <child xsi:type="archimate:DiagramObject" id="id-e5833493-77a6-4f6a-87e0-a24df662e995" targetConnections="id-78f5557e-963e-4836-aebc-3407abc753d9" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-91162640-9e76-4c3b-a1d8-feac0978e168">
         <bounds x="675" y="528" width="151" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-97a88dc8-41eb-43a4-8ee0-f586924623e7" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-e5833493-77a6-4f6a-87e0-a24df662e995" target="id-87a58549-95d6-4f63-a224-0c67d84285a5" archimateRelationship="id-750c475c-fde5-45e5-a7ba-bdc09b5c9c81"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-11902d74-d048-4dce-8f80-e5d7cf76de2d" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-8a956db3-f948-478a-93e9-8dc1bdd6c238">
+      <child xsi:type="archimate:DiagramObject" id="id-11902d74-d048-4dce-8f80-e5d7cf76de2d" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-8a956db3-f948-478a-93e9-8dc1bdd6c238">
         <bounds x="18" y="576" width="156" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-565aa641-adf4-49e8-a8eb-2b28f12dd288" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-11902d74-d048-4dce-8f80-e5d7cf76de2d" target="id-791f0777-d35c-4328-b620-02aa944da6e2" archimateRelationship="id-b253f50c-ba54-4f00-8e38-964220937be2"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-bd436a5a-62f0-422b-bcc3-5696f62e8ca8" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-11902d74-d048-4dce-8f80-e5d7cf76de2d" target="id-87a58549-95d6-4f63-a224-0c67d84285a5" archimateRelationship="id-b22a0d9d-bffa-49af-be05-4529b1b61609"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-0c34a241-0109-4e3a-9c22-07b5fe7e46cb" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-11902d74-d048-4dce-8f80-e5d7cf76de2d" target="id-2bc81975-3d19-43e2-8dbb-1626ce66de11" archimateRelationship="id-c3379a3b-0c47-407b-b0cd-d88e8312fa98"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-2cb9b439-8ef7-487b-af71-75f2b102a253" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-11902d74-d048-4dce-8f80-e5d7cf76de2d" target="id-e72677c4-658c-4083-a0fd-e6dc7093f676" archimateRelationship="id-20e82eb8-d089-43a2-a0a2-12cf4262c19e"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-fa03d081-315e-468b-844d-e63599e0df13" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-5a38be74-6b6c-4ccb-ad5d-a9ce098d8b60">
+      <child xsi:type="archimate:DiagramObject" id="id-fa03d081-315e-468b-844d-e63599e0df13" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-5a38be74-6b6c-4ccb-ad5d-a9ce098d8b60">
         <bounds x="18" y="384" width="156" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-be6e0ff6-e7d4-43df-926f-0574cb1472c5" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-fa03d081-315e-468b-844d-e63599e0df13" target="id-9405d01d-d9a0-4484-befe-eae5117f7aa6" archimateRelationship="id-03113cb9-6c4b-4e2a-b213-1e83041fbddd"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-92bfb12e-f308-413b-a6f2-629a6f5bc0e4" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-675aa05f-c055-4f82-b43e-e853424903bc">
+      <child xsi:type="archimate:DiagramObject" id="id-92bfb12e-f308-413b-a6f2-629a6f5bc0e4" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-675aa05f-c055-4f82-b43e-e853424903bc">
         <bounds x="18" y="324" width="156" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-34364447-9878-43ca-98da-eb9bc7edbe97" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-92bfb12e-f308-413b-a6f2-629a6f5bc0e4" target="id-9405d01d-d9a0-4484-befe-eae5117f7aa6" archimateRelationship="id-3850c1ca-bb58-4bbe-8a84-5861cdb15865"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-565ad518-2d83-4e44-89a2-e67dde9c2fc7" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-3518f5a6-5a03-4864-8c1d-96c0df060655">
+      <child xsi:type="archimate:DiagramObject" id="id-565ad518-2d83-4e44-89a2-e67dde9c2fc7" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-3518f5a6-5a03-4864-8c1d-96c0df060655">
         <bounds x="18" y="636" width="156" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-4fe48d46-5d8a-4649-8949-86bb791f5433" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-793ae48c-55fb-402c-a73a-2d81b0cffd74">
+      <child xsi:type="archimate:DiagramObject" id="id-4fe48d46-5d8a-4649-8949-86bb791f5433" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-793ae48c-55fb-402c-a73a-2d81b0cffd74">
         <bounds x="18" y="444" width="156" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" targetConnections="id-e0ba118d-55df-4ea0-9f91-ac8a433b0dd0 id-d28bc690-0ade-4d6f-a740-97ec323a8aef" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b">
+      <child xsi:type="archimate:DiagramObject" id="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" targetConnections="id-e0ba118d-55df-4ea0-9f91-ac8a433b0dd0 id-d28bc690-0ade-4d6f-a740-97ec323a8aef" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b">
         <bounds x="414" y="324" width="205" height="372"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-b34410ff-f9fd-4d0b-b310-0f3647e566bb" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" target="id-e7013d7c-734c-4e33-ac92-3f5d8a9862e5" archimateRelationship="id-efe250de-3d73-4140-827b-2dfc07eaa68a"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-06383f9f-cbf0-44d7-a01e-372050d44f53" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" target="id-b3343a35-b724-457c-9b36-d4c66552b9cd" archimateRelationship="id-a0131927-3781-4cea-9a23-4ca2d587e832"/>
@@ -1493,48 +1551,48 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
         <sourceConnection xsi:type="archimate:Connection" id="2d7ba88a-6f08-4880-b2d3-49b1e95da86d" source="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" target="id-87a58549-95d6-4f63-a224-0c67d84285a5" archimateRelationship="id-655fc176-071b-42b0-823a-a8d76fd32673"/>
         <sourceConnection xsi:type="archimate:Connection" id="cd80533b-8aae-45ae-a83f-3a66b2312a75" source="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" target="id-791f0777-d35c-4328-b620-02aa944da6e2" archimateRelationship="id-4680ea38-b375-4d0e-9e62-723c1e0ae626"/>
         <sourceConnection xsi:type="archimate:Connection" id="331fa642-e014-48e3-9af1-5e39a6c18ea4" source="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" target="id-2bc81975-3d19-43e2-8dbb-1626ce66de11" archimateRelationship="id-35c7dd15-0d0d-4b08-91c6-25671220fc67"/>
-        <child xsi:type="archimate:DiagramObject" id="id-e72677c4-658c-4083-a0fd-e6dc7093f676" targetConnections="id-50206ead-a832-4dcf-933a-faae7c8d9b0d id-2cb9b439-8ef7-487b-af71-75f2b102a253 6d57d852-b3e1-4325-a372-9e6b601eee29" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bae1d7be-3836-4431-b161-89da7e5d34ee">
+        <child xsi:type="archimate:DiagramObject" id="id-e72677c4-658c-4083-a0fd-e6dc7093f676" targetConnections="id-50206ead-a832-4dcf-933a-faae7c8d9b0d id-2cb9b439-8ef7-487b-af71-75f2b102a253 6d57d852-b3e1-4325-a372-9e6b601eee29" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-bae1d7be-3836-4431-b161-89da7e5d34ee">
           <bounds x="24" y="300" width="152" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-87a58549-95d6-4f63-a224-0c67d84285a5" targetConnections="id-97a88dc8-41eb-43a4-8ee0-f586924623e7 id-bd436a5a-62f0-422b-bcc3-5696f62e8ca8 id-98f4d493-1951-4c4c-94d9-014faf365fe6 2d7ba88a-6f08-4880-b2d3-49b1e95da86d" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97">
+        <child xsi:type="archimate:DiagramObject" id="id-87a58549-95d6-4f63-a224-0c67d84285a5" targetConnections="id-97a88dc8-41eb-43a4-8ee0-f586924623e7 id-bd436a5a-62f0-422b-bcc3-5696f62e8ca8 id-98f4d493-1951-4c4c-94d9-014faf365fe6 2d7ba88a-6f08-4880-b2d3-49b1e95da86d" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-ed3ea9b2-1465-4ed6-9b1f-68fc42bb5a97">
           <bounds x="24" y="228" width="152" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-791f0777-d35c-4328-b620-02aa944da6e2" targetConnections="id-9076a30a-4c86-45c7-b094-ed857a3e4622 id-565aa641-adf4-49e8-a8eb-2b28f12dd288 cd80533b-8aae-45ae-a83f-3a66b2312a75" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-47a24a51-c69d-4587-828a-b2f049c52373">
+        <child xsi:type="archimate:DiagramObject" id="id-791f0777-d35c-4328-b620-02aa944da6e2" targetConnections="id-9076a30a-4c86-45c7-b094-ed857a3e4622 id-565aa641-adf4-49e8-a8eb-2b28f12dd288 cd80533b-8aae-45ae-a83f-3a66b2312a75" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-47a24a51-c69d-4587-828a-b2f049c52373">
           <bounds x="24" y="150" width="152" height="55"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-2bc81975-3d19-43e2-8dbb-1626ce66de11" targetConnections="id-6135120e-3c0a-446c-81b9-f2489e0107e5 id-0c34a241-0109-4e3a-9c22-07b5fe7e46cb 331fa642-e014-48e3-9af1-5e39a6c18ea4" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-8476bf70-c6b9-400d-bfc8-9a0d18e7708f">
+        <child xsi:type="archimate:DiagramObject" id="id-2bc81975-3d19-43e2-8dbb-1626ce66de11" targetConnections="id-6135120e-3c0a-446c-81b9-f2489e0107e5 id-0c34a241-0109-4e3a-9c22-07b5fe7e46cb 331fa642-e014-48e3-9af1-5e39a6c18ea4" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-8476bf70-c6b9-400d-bfc8-9a0d18e7708f">
           <bounds x="24" y="84" width="152" height="55"/>
         </child>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-bf21417e-66a2-4225-a4bd-0b8f131c8284" targetConnections="id-fd47570e-854c-41e0-a69e-75027129f797" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-d1f80a3b-4ecf-4308-a624-43960bac8be0">
+      <child xsi:type="archimate:DiagramObject" id="id-bf21417e-66a2-4225-a4bd-0b8f131c8284" targetConnections="id-fd47570e-854c-41e0-a69e-75027129f797" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-d1f80a3b-4ecf-4308-a624-43960bac8be0">
         <bounds x="341" y="132" width="152" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-e0ba118d-55df-4ea0-9f91-ac8a433b0dd0" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-bf21417e-66a2-4225-a4bd-0b8f131c8284" target="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" archimateRelationship="id-b7233074-ba56-42ae-a385-735a490f90d6"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-685d8329-165e-45d5-aeb1-f1c3642b44b9" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-bf21417e-66a2-4225-a4bd-0b8f131c8284" target="id-9405d01d-d9a0-4484-befe-eae5117f7aa6" archimateRelationship="id-86cb0644-8872-4ae9-9765-09c3c661a180"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-9405d01d-d9a0-4484-befe-eae5117f7aa6" targetConnections="id-be6e0ff6-e7d4-43df-926f-0574cb1472c5 id-34364447-9878-43ca-98da-eb9bc7edbe97 id-685d8329-165e-45d5-aeb1-f1c3642b44b9" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-d22a24ab-bf8f-44d8-862d-d9c29482f4b9">
+      <child xsi:type="archimate:DiagramObject" id="id-9405d01d-d9a0-4484-befe-eae5117f7aa6" targetConnections="id-be6e0ff6-e7d4-43df-926f-0574cb1472c5 id-34364447-9878-43ca-98da-eb9bc7edbe97 id-685d8329-165e-45d5-aeb1-f1c3642b44b9" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-d22a24ab-bf8f-44d8-862d-d9c29482f4b9">
         <bounds x="245" y="324" width="152" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-e7013d7c-734c-4e33-ac92-3f5d8a9862e5" targetConnections="id-b34410ff-f9fd-4d0b-b310-0f3647e566bb" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-a0d8b366-1a15-401b-b4d7-c32afff31f2f">
+      <child xsi:type="archimate:DiagramObject" id="id-e7013d7c-734c-4e33-ac92-3f5d8a9862e5" targetConnections="id-b34410ff-f9fd-4d0b-b310-0f3647e566bb" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-a0d8b366-1a15-401b-b4d7-c32afff31f2f">
         <bounds x="362" y="850" width="144" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-8f189ca5-a798-408a-bf83-0ddf455bdf49" targetConnections="id-06efcdc8-1ebe-40be-8ce8-9708b342c259" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-cb506ad7-d6f9-4c47-94c4-613cf1c9e92e">
+      <child xsi:type="archimate:DiagramObject" id="id-8f189ca5-a798-408a-bf83-0ddf455bdf49" targetConnections="id-06efcdc8-1ebe-40be-8ce8-9708b342c259" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-cb506ad7-d6f9-4c47-94c4-613cf1c9e92e">
         <bounds x="325" y="922" width="144" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-b3343a35-b724-457c-9b36-d4c66552b9cd" targetConnections="id-06383f9f-cbf0-44d7-a01e-372050d44f53" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-104a5a34-7d48-4870-9c24-28e5c5a9fae7">
+      <child xsi:type="archimate:DiagramObject" id="id-b3343a35-b724-457c-9b36-d4c66552b9cd" targetConnections="id-06383f9f-cbf0-44d7-a01e-372050d44f53" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-104a5a34-7d48-4870-9c24-28e5c5a9fae7">
         <bounds x="521" y="850" width="144" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-5e82c013-e44d-4d4e-9319-b3b942504548" targetConnections="id-7a7f9c44-56ca-4931-85d3-d933b6b5a0ef" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-84ca47f1-bdbc-4fcd-981a-6a3630e0e2cc">
+      <child xsi:type="archimate:DiagramObject" id="id-5e82c013-e44d-4d4e-9319-b3b942504548" targetConnections="id-7a7f9c44-56ca-4931-85d3-d933b6b5a0ef" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-84ca47f1-bdbc-4fcd-981a-6a3630e0e2cc">
         <bounds x="485" y="922" width="144" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-881329a5-156d-4ed8-89d0-3f561b53aa23" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-945ca454-c9d1-429c-8296-98c15afdb2ec">
+      <child xsi:type="archimate:DiagramObject" id="id-881329a5-156d-4ed8-89d0-3f561b53aa23" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-945ca454-c9d1-429c-8296-98c15afdb2ec">
         <bounds x="18" y="696" width="156" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-d28bc690-0ade-4d6f-a740-97ec323a8aef" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-881329a5-156d-4ed8-89d0-3f561b53aa23" target="id-35d80e4a-0f00-402b-8ad3-04a65c41e849" archimateRelationship="id-8cbd8516-38e8-4bce-8a6e-a698f9f4364d"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-c26d0339-241e-463d-be03-2270ffb2f019" targetConnections="id-ddab29cb-2707-47ca-a1b8-7505c66b9b89" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8">
+      <child xsi:type="archimate:DiagramObject" id="id-c26d0339-241e-463d-be03-2270ffb2f019" targetConnections="id-ddab29cb-2707-47ca-a1b8-7505c66b9b89" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8">
         <bounds x="675" y="588" width="150" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-98f4d493-1951-4c4c-94d9-014faf365fe6" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-c26d0339-241e-463d-be03-2270ffb2f019" target="id-87a58549-95d6-4f63-a224-0c67d84285a5" archimateRelationship="id-b91fb4a8-bff3-4ed2-98f8-55e417269532"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-21740981-c4db-4267-838d-5fe9b4cebaec" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffe0e0" archimateElement="id-ec3f8784-2ac4-476c-8185-621d8c267693">
+      <child xsi:type="archimate:DiagramObject" id="id-21740981-c4db-4267-838d-5fe9b4cebaec" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffe0e0" archimateElement="id-ec3f8784-2ac4-476c-8185-621d8c267693">
         <bounds x="744" y="132" width="168" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-fd47570e-854c-41e0-a69e-75027129f797" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-21740981-c4db-4267-838d-5fe9b4cebaec" target="id-bf21417e-66a2-4225-a4bd-0b8f131c8284" archimateRelationship="id-bb54367a-abdf-4089-bc38-223041f9744a"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-ee6bfaeb-f02c-42ad-b10d-7a5d99eb24f7" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-21740981-c4db-4267-838d-5fe9b4cebaec" target="id-fe25eb2c-0bfe-47f0-a753-8df02fd1cda6" archimateRelationship="id-7ba6da99-6baa-4012-9285-e17c52afa4bf"/>
@@ -1549,27 +1607,30 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
 
 Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a traves de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral.</content>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="6d2073f3-bf27-4584-ab92-2874bff9313d" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-af0c10de3ece4b7ba81b3f091c12571d">
+      <child xsi:type="archimate:DiagramObject" id="6d2073f3-bf27-4584-ab92-2874bff9313d" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-af0c10de3ece4b7ba81b3f091c12571d">
         <bounds x="18" y="768" width="156" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="1dffbb59-29cd-4427-b9a6-ecccf95cc833" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-2757795ffc8a436498fc99a2356a3480">
+      <child xsi:type="archimate:DiagramObject" id="1dffbb59-29cd-4427-b9a6-ecccf95cc833" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-2757795ffc8a436498fc99a2356a3480">
         <bounds x="18" y="834" width="156" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="0c8900e4-5446-4322-8ddd-3c1f74af00f6" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-6a42e11002244852a09e5865d27e1896">
+      <child xsi:type="archimate:DiagramObject" id="0c8900e4-5446-4322-8ddd-3c1f74af00f6" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-6a42e11002244852a09e5865d27e1896">
         <bounds x="18" y="900" width="156" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="7fa4cc20-8039-42d0-9917-fcd042672435" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-3f9be124f52b49649d20f5658b44c530">
+      <child xsi:type="archimate:DiagramObject" id="7fa4cc20-8039-42d0-9917-fcd042672435" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-3f9be124f52b49649d20f5658b44c530">
         <bounds x="18" y="960" width="156" height="55"/>
       </child>
       <documentation>Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.
 
-Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). Durante el periodo 2010-2019, los principales indicadores del mercado de trabajo de las 23 principales ciudades presentaron un comportamiento estable, no obstante, se observó una reducción en la dinámica de generación de empleo la cual pasó de 38 mil empleos generados entre 2015-2016 a 18 mil entre 2018-2019. Esta situación generó un impacto negativo en la tasa de desempleo que pasó del 9,9% en 2015 a 11,5% en 2019, lo cual significó un aumento absoluto de 252 mil personas desempleadas (Ministerio del Trabajo; DANE).
+Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). 
 
 Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.
 
 Una vez realizado el diagnóstico de la situación actual, se  identificaron como objetivo central del Programa
 
-Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.</documentation>
+--Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.
+
+Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las políticas de empleo y de formación para el trabajo a través de mejoras técnicas, tecnológicas, institucionales y de gestión.
+</documentation>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="IMPL. Proyecto Acciones Productos" id="id-c29b3825-8360-4f77-a009-6b624320bd20">
       <child xsi:type="archimate:DiagramObject" id="id-55618058-048b-4040-b498-e558cf16b143" targetConnections="id-b262c87a-9cc0-4bf0-82c1-a8eaebb4a681 id-7448f821-779a-4f02-84ad-9c1fee7d7f23" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-62983d23-5b97-4675-9778-1a47ada24357">
@@ -1724,7 +1785,7 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
 
 El proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.</documentation>
     </element>
-    <element xsi:type="archimate:ArchimateDiagramModel" name="BMM. Cadena Servicios de Negocio" id="id-c647b374-438d-48ef-95f5-0082505c1110">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="BSN. Cadena Servicios de Negocio" id="id-c647b374-438d-48ef-95f5-0082505c1110">
       <child xsi:type="archimate:DiagramObject" id="id-508bd58e-9c26-454b-960b-33d40e171e00" targetConnections="id-c439799c-6448-4b81-935c-e4c8983b8e8a id-7a01e0e3-b97f-40d4-ad01-0c83db9000c2 id-42be6ac1-beb7-41a5-a71b-ef9e72290106" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ccccff" archimateElement="id-d22a24ab-bf8f-44d8-862d-d9c29482f4b9">
         <bounds x="96" y="24" width="180" height="55"/>
       </child>
@@ -1815,22 +1876,22 @@ Información del componente de normalización de competencias (componente del SN
 Información del componente del Marco Nacional de Cualificaciones: catálogos de cualificaciones de las diferentes áreas de cualificación.</documentation>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="BMM" id="id-6d570471-40a8-4dda-83ee-c4ec67441e71">
-      <child xsi:type="archimate:DiagramObject" id="id-56d1b507-03d0-48bb-a37e-3f18aeebd15f" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-51ccb514-c8f3-4af8-9321-c0fcc0a15eec">
+      <child xsi:type="archimate:DiagramObject" id="id-56d1b507-03d0-48bb-a37e-3f18aeebd15f" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-51ccb514-c8f3-4af8-9321-c0fcc0a15eec">
         <bounds x="228" y="300" width="192" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-db8bdec7-5393-47a9-bc14-6207a261ede2" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-56d1b507-03d0-48bb-a37e-3f18aeebd15f" target="id-97897689-6e49-48e2-9ebf-540851f41591" archimateRelationship="id-a7d14448-c780-493d-b509-349a4d68adbe"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-2669737f-b786-47fb-a7eb-14ca6dc5aa6e" targetConnections="id-0ec8ca45-a4f3-4ba7-b614-8cc667a0a149 id-cdbded36-c06a-42ad-a14c-10d16993a3c3" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd">
+      <child xsi:type="archimate:DiagramObject" id="id-2669737f-b786-47fb-a7eb-14ca6dc5aa6e" targetConnections="id-0ec8ca45-a4f3-4ba7-b614-8cc667a0a149 id-cdbded36-c06a-42ad-a14c-10d16993a3c3" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd">
         <bounds x="228" y="228" width="192" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-b341d035-6487-402f-b5f1-8e22d27fc42a" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-2669737f-b786-47fb-a7eb-14ca6dc5aa6e" target="id-ef6d3729-acc7-44c4-9872-21b9dba6cd4b" archimateRelationship="id-bab8b07c-4d77-4f25-8f2b-281c2adac89b"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-7e356f55-391c-40c0-99cf-3d90343df80c" targetConnections="id-2641239d-2fc3-4e86-85cb-533bad7cb138 id-a063deb6-d403-4d39-a655-efdb73db7661" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078">
+      <child xsi:type="archimate:DiagramObject" id="id-7e356f55-391c-40c0-99cf-3d90343df80c" targetConnections="id-2641239d-2fc3-4e86-85cb-533bad7cb138 id-a063deb6-d403-4d39-a655-efdb73db7661" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078">
         <bounds x="228" y="432" width="192" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-150809ea-c25a-418a-9dbd-9995c86e1402" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159">
+      <child xsi:type="archimate:DiagramObject" id="id-150809ea-c25a-418a-9dbd-9995c86e1402" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159">
         <bounds x="228" y="360" width="192" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-cfc525bc-cbab-4a30-9bfe-78449372c816" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-150809ea-c25a-418a-9dbd-9995c86e1402" target="id-10d0154c-41ed-4836-9eb1-d515c4119000" archimateRelationship="id-d5545d18-31cd-4dca-8151-bb177afc1c54"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="id-ce31300e-2c11-43e3-8ee8-30fd5a50c287" targetConnections="id-e03a61d5-5dbd-4586-a36b-f9cfa0477662" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f">
+      <child xsi:type="archimate:DiagramObject" id="id-ce31300e-2c11-43e3-8ee8-30fd5a50c287" targetConnections="id-e03a61d5-5dbd-4586-a36b-f9cfa0477662" fontColor="#000000" lineColor="#5c5c5c" fillColor="#f5deaa" archimateElement="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f">
         <bounds x="228" y="504" width="192" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-97897689-6e49-48e2-9ebf-540851f41591" targetConnections="id-db8bdec7-5393-47a9-bc14-6207a261ede2" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-ebcc024f-98e9-4e01-b6fb-b69f171e3719">
@@ -2162,6 +2223,38 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
       </child>
       <child xsi:type="archimate:DiagramObject" id="7104ac87-3b58-4de6-bb05-29d6d1b6885c" archimateElement="id-6a42e11002244852a09e5865d27e1896">
         <bounds x="456" y="252" width="156" height="55"/>
+      </child>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SNC. Requerimientos" id="d6f5668c-0278-4d99-ad0d-5db668ac3966"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SGE. Requerimientos" id="0ae3c9c0-8112-4c7f-ac8a-09aedd93f067"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SNC. API-1" id="674de74e-3ad6-4d1c-a780-19c68360783b"/>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SGE. API-1" id="2475fdf0-4605-417f-814e-eda1080b9eb8">
+      <child xsi:type="archimate:DiagramObject" id="3f22f776-9d2a-405d-b16d-0abf2455801f" archimateElement="id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d">
+        <bounds x="48" y="72" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="5f2a7279-b643-4b90-8903-c4613f7ff421" archimateElement="id-cc54de94-e001-42f6-9d4f-528146acafc0">
+        <bounds x="198" y="72" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="e71ddcb8-cf9c-46a0-906d-64190764b0db" archimateElement="id-a6c977bf-f571-4fa0-b0dd-c4dcd3744403">
+        <bounds x="348" y="72" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="50406e62-a195-4b10-be8a-20d1878413df" archimateElement="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef">
+        <bounds x="48" y="172" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="01ea4266-5692-4136-a5cb-72a6c4b7b4ee" archimateElement="id-de2b291e-8721-43c2-8bf3-46d12034ab6e">
+        <bounds x="198" y="172" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="b9437947-0045-4884-abac-895800132a51" archimateElement="id-b33ff159-2329-4fa2-8406-d1f85bd998f0">
+        <bounds x="348" y="172" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="c4ca16ed-e2b2-4e80-ae9a-5f3ce0d51b3e" archimateElement="id-2354a493-b807-4377-a98c-d75d38166e9f">
+        <bounds x="48" y="272" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="1a238d2f-a7c6-4c96-bbeb-d522da4d2aa4" archimateElement="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95">
+        <bounds x="198" y="272" width="120" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="8a744a5e-8732-4b4e-8974-418d64e91f58" archimateElement="id-761e9a24-9350-4de3-a864-e2cad4e21eaa">
+        <bounds x="348" y="272" width="120" height="55"/>
       </child>
     </element>
   </folder>

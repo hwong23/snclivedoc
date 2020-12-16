@@ -8,7 +8,7 @@
     <dc:creator>HWO</dc:creator>
     <dc:subject>Comentario cambio...</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.10</dc:identifier>
+    <dc:identifier>1.11</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -34,8 +34,7 @@ Son objetivos de acuerdo a esta ley: &#xD;
     <element identifier="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078" xsi:type="CourseOfAction">
       <name xml:lang="en">EST03. Sistema Información Gestión Empleo y Productividad</name>
       <documentation xml:lang="en">Gestión del empleo y la productividad. Herramienta tecnológica de información que permitirá integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, 
-(Medios)
-a través la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC) y otras fuentes de información relevantes que puedan aportar en aspectos como la capacitación, incentivos de cesantías, seguimiento y verificación de requisitos para la oferta laboral colombiana.</documentation>
+(Medios) a través la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC) y otras fuentes de información relevantes que puedan aportar en aspectos como la capacitación, incentivos de cesantías, seguimiento y verificación de requisitos para la oferta laboral colombiana.</documentation>
     </element>
     <element identifier="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159" xsi:type="CourseOfAction">
       <name xml:lang="en">EST04. Implementación Subsistema Aseguramiento Calidad de la Formación</name>
@@ -52,6 +51,10 @@ a través la articulación del sistema del Servicio Público de Empleo, la plani
     <element identifier="id-41bab9f7-5bb3-4c40-bbc4-c45ab97868a6" xsi:type="Resource">
       <name xml:lang="en">Implementación $22.000.000 COP</name>
       <documentation xml:lang="en">SISTEMA GERENCIAL DEL MT IMPLEMENTADO</documentation>
+    </element>
+    <element identifier="id-6274526b-9f48-4476-9bac-163ad318e902" xsi:type="CourseOfAction">
+      <name xml:lang="en">EST06. Pilotos de Formación para el Trabajo</name>
+      <documentation xml:lang="en">Adicionalmente, este proyecto contempla la realización de pilotos en sectores priorizados orientados en términos de Formación para el trabajo de carácter práctico y Evaluación y certificación de competencias que permita: ingreso y reconocimiento en los programas formativos / educativos; facilidad de acceso al mercado laboral; mayor valoración de sus competencias y el registro en el sistema de información del SNC.</documentation>
     </element>
     <element identifier="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="BusinessService">
       <name xml:lang="en">BS01. SNC</name>
@@ -205,7 +208,7 @@ Javier: en mi opinión no se puede poner al mismo nivel la CUOC y los cinco comp
     </element>
     <element identifier="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="ApplicationComponent">
       <name xml:lang="en">APP3. SNC</name>
-      <documentation xml:lang="en">Este servicio contempla el desarrollo tecnológico y la puesta en marcha de la plataforma de información del SNC, la cual permitirá recoger y procesar información sobre la oferta y demanda de cualificaciones que oriente la política de empleo y de formación para el trabajo.  Para ello se tiene previsto un centro de inteligencia que cuente con un Data WareHouse y herramientas de analítica o Big Data. Estas herramientas deben permitir centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo y de formación para el trabajo.  Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinentes para diferentes tipos de actores, entre los que se destacan, las instituciones del gobierno nacional y gobiernos locales para la formulación y seguimiento de las políticas públicas, a las instituciones educativas y de formación para la estructuración y actualización de mallas curriculares con pertinencia y calidad, a los empresarios y gremios para retroalimentar su conocimiento sobre la estructura ocupacional de su sector y las competencias requeridas, a los estudiantes para tener orientación sobre lo que está demandando el mercado laboral, las principales brechas que se presentan y alternativas educativas y formativas, a la población en general. 
+      <documentation xml:lang="en">Este servicio contempla el desarrollo tecnológico y la puesta en marcha de la plataforma de información del SNC, la cual permitirá recoger y procesar información sobre la oferta y demanda de cualificaciones que oriente la política de empleo y de formación para el trabajo. Para ello se tiene previsto un centro de inteligencia que cuente con un Data WareHouse y herramientas de analítica o Big Data. Estas herramientas deben permitir centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo y de formación para el trabajo.  Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinentes para diferentes tipos de actores, entre los que se destacan, las instituciones del gobierno nacional y gobiernos locales para la formulación y seguimiento de las políticas públicas, a las instituciones educativas y de formación para la estructuración y actualización de mallas curriculares con pertinencia y calidad, a los empresarios y gremios para retroalimentar su conocimiento sobre la estructura ocupacional de su sector y las competencias requeridas, a los estudiantes para tener orientación sobre lo que está demandando el mercado laboral, las principales brechas que se presentan y alternativas educativas y formativas, a la población en general. 
 
 
 Propósito
@@ -238,7 +241,13 @@ Información del componente de normalización de competencias (componente del SN
     </element>
     <element identifier="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6" xsi:type="ApplicationComponent">
       <name xml:lang="en">APP1. SPE</name>
-      <documentation xml:lang="en">Este servicio está orientado al fortalecimiento tecnológico e institucional del SPE a través de una modernización tecnológica que permita aumentar la cobertura y efectividad de las políticas de empleo a partir de soluciones específicas a las falencias de interoperabilidad de información entre la Red de prestadores del SPE que restringe la efectividad en el emparejamiento, el enganche de buscadores de empleo con vacantes en otras regiones del país y la realización de procesos de analítica de datos para optimizar la búsqueda de empleo y la gestión de vacantes desde cualquier punto de atención a nivel nacional. Estará compuesto por: (a) un portal al que podrán acceder buscadores, empresas y prestadores y que tendrá un motor de inteligencia artificial para gestionar emparejamientos con análisis de ontología, derivaciones a capacitaciones y otras políticas activas, información sobre el mercado de trabajo (salarios, vacancias más solicitadas) y links a tests online; (b) una herramienta de CRM (Customer Relationship Manager) que permita trazar la trayectoria de los postulantes y gestionar la provisión de servicios a usuarios de manera personalizada; (c) una herramienta de BPM (Business Process Manager) para dar seguimiento a flujos de procesos que realizan prestadores y UAESPE; (d) sistemas de integración (Middle) que permitan interoperar con bases de datos de terceros de forma directa o a través de programas de interfase (API); (e) aplicaciones móviles para ciudadanos; (f) servicios de chat y videollamada para gestionar servicios a ciudadanos y empresas; (g) una base de datos única, íntegra, consistente, y de alta disponibilidad en la que se almacene toda la información de procesos y servicios de la UAPSE; (h) un centro de inteligencia que cuente un Data Warehouse (DWH)  y herramientas de analítica o Business Intelligence que permiten centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo, cuyo diseño conceptual prioriza los siguientes módulos...</documentation>
+      <documentation xml:lang="en">El Servicio Público de Empleo como parte de las políticas activas del mercado laboral,  tiene como función esencial lograr la mejor organización posible del mercado de trabajo, para lo cual ayudará a los buscadores trabajadores a encontrar un empleo conveniente y adecuado a su perfil, y a los empleadores a contratar trabajadores que cumplen con sus expectativas laborales y acordes con las necesidades de la empresa. 
+
+Este servicio está orientado al fortalecimiento tecnológico e institucional del SPE a través de una modernización tecnológica que permita aumentar la cobertura y efectividad de las políticas de empleo a partir de soluciones específicas a las falencias de interoperabilidad de información entre la Red de prestadores del SPE que restringe la efectividad en el emparejamiento, el enganche de buscadores de empleo con vacantes en otras regiones del país y la realización de procesos de analítica de datos para optimizar la búsqueda de empleo y la gestión de vacantes desde cualquier punto de atención a nivel nacional. 
+
+Dentro de sus funciones se encuentran:  “…7) Administrar la red de prestadores del servicio público de empleo focalizando sus servicios en los territorios y sectores que requieran las acciones de mitigación del desempleo y organización del servicio público de empleo; 8) Realizar acciones de articulación y coordinación entre entidades públicas, la red de prestadores y otros actores incidentes para lograr una mejor prestación del servicio público de empleo y 10) Asesorar y prestar asistencia técnica a las entidades públicas del orden nacional y territorial, la red de prestadores y otros actores incidentes para lograr la mejor organización del servicio público de empleo” (Decreto 2521 de 2013).  
+
+Estará compuesto por: (a) un portal al que podrán acceder buscadores, empresas y prestadores y que tendrá un motor de inteligencia artificial para gestionar emparejamientos con análisis de ontología, derivaciones a capacitaciones y otras políticas activas, información sobre el mercado de trabajo (salarios, vacancias más solicitadas) y links a tests online; (b) una herramienta de CRM (Customer Relationship Manager) que permita trazar la trayectoria de los postulantes y gestionar la provisión de servicios a usuarios de manera personalizada; (c) una herramienta de BPM (Business Process Manager) para dar seguimiento a flujos de procesos que realizan prestadores y UAESPE; (d) sistemas de integración (Middle) que permitan interoperar con bases de datos de terceros de forma directa o a través de programas de interfase (API); (e) aplicaciones móviles para ciudadanos; (f) servicios de chat y videollamada para gestionar servicios a ciudadanos y empresas; (g) una base de datos única, íntegra, consistente, y de alta disponibilidad en la que se almacene toda la información de procesos y servicios de la UAPSE; (h) un centro de inteligencia que cuente un Data Warehouse (DWH)  y herramientas de analítica o Business Intelligence que permiten centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo, cuyo diseño conceptual prioriza los siguientes módulos...</documentation>
     </element>
     <element identifier="id-cab3ccbb-f93d-4eb4-94ff-d439f568e1b3" xsi:type="ApplicationComponent">
       <name xml:lang="en">SIMPC</name>
@@ -727,6 +736,32 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
     <element identifier="id-ab52979dc0314a8b814814ff59165e39" xsi:type="ApplicationComponent">
       <name xml:lang="en">Application Component</name>
     </element>
+    <element identifier="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="ApplicationComponent">
+      <name xml:lang="en">CUOC</name>
+      <documentation xml:lang="en">La CUOC permite la homologación de la clasificación nacional e internacional de ocupaciones y será una herramienta que, en el marco del SNC, contiene información necesaria para la conexión de diferentes esquemas de gestión, información y valoración de conocimientos y habilidades requeridas en diferentes ocupaciones y que son adquiridas en cualquiera de las vías de cualificación existentes en Colombia. Entre algunos usos se encuentran: 
+
+--Generación de estadísticas para el seguimiento y cumplimiento de política públicas
+--Desarrollo de mecanismos para la intermediación laboral entre empresarios, trabajadores y buscadores de empleo
+--Gestión de movilidad educativa, formativa y laboral a nivel nacional e internacional
+--Identificación de brechas de capital humano en diferentes sectores
+--Diseño de programas de E y FxT enfocados en el mercado laboral
+--Normalización y certificación de competencias laborales</documentation>
+    </element>
+    <element identifier="id-5f82ef51-97e3-45e7-97e1-b04e7deb82b1" xsi:type="ApplicationComponent">
+      <name xml:lang="en">SEN</name>
+    </element>
+    <element identifier="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="ApplicationInterface">
+      <name xml:lang="en">API9. Ficha de Cualificación (CUOC)</name>
+      <documentation xml:lang="en">Es un instrumento que permite estructurar y consolidar las cualificaciones en línea con los perfiles ocupacionales descritos en la Clasificación Única de Ocupaciones para Colombia (CUOC), pues como se definió en uno de los objetivos principales del SNC se busca estrechar la relación de la demanda laboral con la oferta educativa y formativa y en este instrumento se articula esa relación. En la ficha se espera tener información de: ID de la cualificación (nombre, área, código), perfiles ocupacionales (competencia general, ocupación asociada a la CUOC, denominaciones), formación asociada a la cualificación y parámetros para el aseguramiento de la calidad.</documentation>
+    </element>
+    <element identifier="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" xsi:type="ApplicationInterface">
+      <name xml:lang="en">API10. Matriz de descriptores</name>
+      <documentation xml:lang="en">Es un instrumento que permite clasificar las cualificaciones en los niveles del MNC de acuerdo con un conjunto de descriptores que indican los resultados de aprendizaje pertinentes en 8 niveles de cualificación. Los descriptores son: conocimientos, habilidades, destrezas y actitudes (responsabilidad y autonomía).</documentation>
+    </element>
+    <element identifier="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="ApplicationInterface">
+      <name xml:lang="en">API11. Catálogo Nacional de Cualificaciones</name>
+      <documentation xml:lang="en">Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales.</documentation>
+    </element>
     <element identifier="id-bae1d7be-3836-4431-b161-89da7e5d34ee" xsi:type="Goal">
       <name xml:lang="en">G04. Plataforma de información del SNC</name>
       <documentation xml:lang="en">Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
@@ -762,7 +797,7 @@ Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes 
       <documentation xml:lang="en">Implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información</documentation>
     </element>
     <element identifier="id-8a956db3-f948-478a-93e9-8dc1bdd6c238" xsi:type="Driver">
-      <name xml:lang="en">DR01. Desempleo, Informalidad, Competencias, Acceso mercado</name>
+      <name xml:lang="en">DR01. (Contexto Colombiano) Desempleo, Informalidad, Competencias, Acceso mercado</name>
       <documentation xml:lang="en">Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por:
 --altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica
 --altas tasas de informalidad laboral (superiores al 60%)
@@ -770,7 +805,7 @@ Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes 
 
 Lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
 
-Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
+Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
 
 En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.</documentation>
     </element>
@@ -804,16 +839,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
     </element>
     <element identifier="id-3518f5a6-5a03-4864-8c1d-96c0df060655" xsi:type="Driver">
       <name xml:lang="en">DR02. Competencias, Acceso mercado</name>
-      <documentation xml:lang="en">Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por:
---altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica
---altas tasas de informalidad laboral (superiores al 60%)
---junto con los bajos niveles de acceso y permanencia en el mercado laboral formal
-
-Lo cual se refleja en gran medida a las condiciones de empleabilidad de la población por la falta de información de vacantes laborales, la brecha de capital humano entre los buscadores de empleo y el sector productivo y formativo y, la falta de certificación y reconocimiento de aprendizajes adquiridos a lo largo de la vida.
-
-Esta situación, pone en evidencia la necesidad apremiante que desde el sector trabajo, se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad.
-
-En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.</documentation>
+      <documentation xml:lang="en">Si bien Colombia, está avanzando en importantes logros en materia social en las últimas décadas, como son la reducción en la pobreza y el aumento en cobertura de educación y salud (BID, 2015), persisten grandes retos en el mercado de trabajo en el contexto actual que se vieron afectadas por una generación de empleo inferior a la proyectada en el cuatrienio inmediatamente anterior, situación que se detalla a continuación:</documentation>
     </element>
     <element identifier="id-793ae48c-55fb-402c-a73a-2d81b0cffd74" xsi:type="Driver">
       <name xml:lang="en">DR05. Lineamientos técnicos</name>
@@ -1168,6 +1194,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-48610a6e-cc0a-4fb3-8038-e6d6aca84142" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-453c204b-a8a6-4089-b65c-a0fe594e9413" xsi:type="Composition" />
     <relationship identifier="id-898521c4-9d8b-4010-9aa9-fcbc7e9e60a1" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8" xsi:type="Composition" />
     <relationship identifier="id-3d2eb987-9f06-462b-9232-7fad6e8991b5" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-ce236631-fc5e-4589-923b-26b8b120c617" xsi:type="Composition" />
+    <relationship identifier="id-851c943e-bc6c-44ed-9f21-ba4f6e2e5f17" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="Composition" />
+    <relationship identifier="id-31baf9eb-edc4-4c46-9dcc-b815c5bdff2e" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" xsi:type="Composition" />
+    <relationship identifier="id-ef46f4e9-6319-4fd9-ba98-ca60b7bc5dad" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="Composition" />
+    <relationship identifier="id-34236b55-da2d-4c83-9965-7401fbb22f9c" source="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" target="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Serving" />
+    <relationship identifier="id-c7a1c1ab-824c-492a-8ec8-357cee4e850e" source="id-6274526b-9f48-4476-9bac-163ad318e902" target="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b" xsi:type="Association" />
   </relationships>
   <organizations>
     <item>
@@ -1179,6 +1210,7 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f" />
       <item identifierRef="id-4602386d-1505-4d5d-81c0-492d9d26c068" />
       <item identifierRef="id-41bab9f7-5bb3-4c40-bbc4-c45ab97868a6" />
+      <item identifierRef="id-6274526b-9f48-4476-9bac-163ad318e902" />
     </item>
     <item>
       <label xml:lang="en">Business</label>
@@ -1303,6 +1335,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-20666b6de3b1467ead1eb563c73278ba" />
       <item identifierRef="id-e4a7c537866e4cbc9357f00c68179083" />
       <item identifierRef="id-ab52979dc0314a8b814814ff59165e39" />
+      <item identifierRef="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" />
+      <item identifierRef="id-5f82ef51-97e3-45e7-97e1-b04e7deb82b1" />
+      <item identifierRef="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" />
+      <item identifierRef="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" />
+      <item identifierRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" />
     </item>
     <item>
       <label xml:lang="en">Motivation</label>
@@ -1546,6 +1583,11 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-48610a6e-cc0a-4fb3-8038-e6d6aca84142" />
       <item identifierRef="id-898521c4-9d8b-4010-9aa9-fcbc7e9e60a1" />
       <item identifierRef="id-3d2eb987-9f06-462b-9232-7fad6e8991b5" />
+      <item identifierRef="id-851c943e-bc6c-44ed-9f21-ba4f6e2e5f17" />
+      <item identifierRef="id-31baf9eb-edc4-4c46-9dcc-b815c5bdff2e" />
+      <item identifierRef="id-ef46f4e9-6319-4fd9-ba98-ca60b7bc5dad" />
+      <item identifierRef="id-34236b55-da2d-4c83-9965-7401fbb22f9c" />
+      <item identifierRef="id-c7a1c1ab-824c-492a-8ec8-357cee4e850e" />
     </item>
     <item>
       <label xml:lang="en">Views</label>
@@ -1565,6 +1607,10 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-9005bc9546004cdcb7256c76c52bda02" />
       <item identifierRef="id-44bec633-5d4d-445c-984e-369a59307fb5" />
       <item identifierRef="id-a8e7fc29-f155-46f7-8d06-6616134a7905" />
+      <item identifierRef="id-d6f5668c-0278-4d99-ad0d-5db668ac3966" />
+      <item identifierRef="id-0ae3c9c0-8112-4c7f-ac8a-09aedd93f067" />
+      <item identifierRef="id-674de74e-3ad6-4d1c-a780-19c68360783b" />
+      <item identifierRef="id-2475fdf0-4605-417f-814e-eda1080b9eb8" />
     </item>
   </organizations>
   <propertyDefinitions>
@@ -2941,7 +2987,7 @@ Información del componente de acreditación y calidad de las ETDH (componente d
 Información del componente de normalización de competencias (componente del SNC): normas de competencia laboral, instancias normalizadoras, mapas funcionales, entre otros.
 
 Información del componente del Marco Nacional de Cualificaciones: catálogos de cualificaciones de las diferentes áreas de cualificación.</documentation>
-        <node identifier="id-80782a7f-8f55-46be-915f-595ba360824c" elementRef="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="Element" x="24" y="84" w="589" h="229">
+        <node identifier="id-80782a7f-8f55-46be-915f-595ba360824c" elementRef="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="Element" x="24" y="84" w="589" h="253">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -2949,7 +2995,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-aec79ff7-df88-4c52-9a35-924cd0cb82f0" elementRef="id-64a726f8-5978-412a-8a14-03c1fab76439" xsi:type="Element" x="104" y="152" w="120" h="55">
+          <node identifier="id-aec79ff7-df88-4c52-9a35-924cd0cb82f0" elementRef="id-64a726f8-5978-412a-8a14-03c1fab76439" xsi:type="Element" x="104" y="180" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -2958,7 +3004,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-3fb9e166-6a44-4195-b60c-32f3373b6c15" elementRef="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6" xsi:type="Element" x="105" y="229" w="120" h="55">
+          <node identifier="id-3fb9e166-6a44-4195-b60c-32f3373b6c15" elementRef="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6" xsi:type="Element" x="105" y="241" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -2967,7 +3013,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-a42e1c39-49f0-4b17-ac0b-aa26b0e8a273" elementRef="id-cab3ccbb-f93d-4eb4-94ff-d439f568e1b3" xsi:type="Element" x="264" y="152" w="120" h="55">
+          <node identifier="id-a42e1c39-49f0-4b17-ac0b-aa26b0e8a273" elementRef="id-cab3ccbb-f93d-4eb4-94ff-d439f568e1b3" xsi:type="Element" x="264" y="180" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -2976,7 +3022,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-76a756df-4206-4ad1-862e-2bc82a14d039" elementRef="id-802dfc0a-c6b0-470d-8fe1-eea64523e869" xsi:type="Element" x="420" y="228" w="120" h="55">
+          <node identifier="id-76a756df-4206-4ad1-862e-2bc82a14d039" elementRef="id-802dfc0a-c6b0-470d-8fe1-eea64523e869" xsi:type="Element" x="420" y="240" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -2985,7 +3031,25 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-09862746-1af2-42c0-a301-876d8f76ab0b" elementRef="id-55e498e3-c59b-4b1a-8e81-718b98732c4e" xsi:type="Element" x="264" y="229" w="120" h="55">
+          <node identifier="id-09862746-1af2-42c0-a301-876d8f76ab0b" elementRef="id-55e498e3-c59b-4b1a-8e81-718b98732c4e" xsi:type="Element" x="264" y="241" w="120" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-64d3cabc-fed6-4062-94db-bbe29db14e29" elementRef="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Element" x="420" y="180" w="120" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-b5f1099d-1dc0-4f74-821d-46e9a9ef5742" elementRef="id-5f82ef51-97e3-45e7-97e1-b04e7deb82b1" xsi:type="Element" x="420" y="120" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3004,7 +3068,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             </font>
           </style>
         </node>
-        <node identifier="id-77b13fc7-de4a-4d18-847a-700c136c4a85" elementRef="id-88ba3294-eae0-46ff-9c0c-e678f0525724" xsi:type="Element" x="25" y="528" w="588" h="264">
+        <node identifier="id-77b13fc7-de4a-4d18-847a-700c136c4a85" elementRef="id-88ba3294-eae0-46ff-9c0c-e678f0525724" xsi:type="Element" x="25" y="528" w="588" h="325">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -3085,6 +3149,33 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             </style>
           </node>
           <node identifier="id-4e652a89-3130-423c-a3d3-0cac525711b5" elementRef="id-de2b291e-8721-43c2-8bf3-46d12034ab6e" xsi:type="Element" x="63" y="636" w="161" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-c3cec595-a6e7-433f-9a21-fea44415d865" elementRef="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="Element" x="63" y="756" w="161" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-1afa44d3-bd0b-4bd7-9dc7-da21374e92a7" elementRef="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" xsi:type="Element" x="240" y="756" w="161" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-770e9a57-4551-499d-ac82-b136478af838" elementRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="Element" x="414" y="756" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3432,38 +3523,38 @@ EST05. La consolidación de una plataforma de información para el Sistema Nacio
 EST03. La implementación del Sistema de Información para la gestión del empleo y la productividad como herramienta tecnológica de información que permitirá integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, a través de la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC) y otras fuentes de información relevantes que puedan aportar en aspectos como la capacitación, incentivos de cesantías, seguimiento y verificación de requisitos para la oferta laboral colombiana.
 
 EST04. El diseño e implementación del subsistema de aseguramiento de la calidad de la formación para el trabajo a través de la consolidación de un modelo de aseguramiento de calidad de la formación que contempla el desarrollo de estándares, metodologías, indicadores y su implementación a través de pilotos que permitirán al fortalecimiento de la capacidad técnica de los actores competentes y los prestadores del servicio de aprendizaje con lineamientos que se ajusten periódicamente a la demanda del mercado laboral, y la incorporación de estrategias de seguimiento y evaluación que permitan reorientar la oferta de formación para el trabajo.</documentation>
-        <node identifier="id-9dd506ca-efd3-463f-ab15-3f97a16288dc" elementRef="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Element" x="12" y="432" w="227" h="55">
+        <node identifier="id-9dd506ca-efd3-463f-ab15-3f97a16288dc" elementRef="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Element" x="12" y="420" w="227" h="55">
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <node identifier="id-83068494-d72c-40b4-8a9d-8c72846eb6cd" elementRef="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078" xsi:type="Element" x="12" y="372" w="227" h="55">
+        <node identifier="id-83068494-d72c-40b4-8a9d-8c72846eb6cd" elementRef="id-2c2a73fb-0dbc-4745-836f-4de1d7f82078" xsi:type="Element" x="12" y="486" w="227" h="55">
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <node identifier="id-d0444660-8574-46da-ab1d-f027c7ec679f" elementRef="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159" xsi:type="Element" x="12" y="492" w="227" h="55">
+        <node identifier="id-d0444660-8574-46da-ab1d-f027c7ec679f" elementRef="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159" xsi:type="Element" x="12" y="546" w="227" h="55">
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <node identifier="id-2d2a5750-be1c-4689-9e98-faf3dc3243ce" elementRef="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f" xsi:type="Element" x="12" y="312" w="227" h="55">
+        <node identifier="id-2d2a5750-be1c-4689-9e98-faf3dc3243ce" elementRef="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f" xsi:type="Element" x="12" y="606" w="227" h="55">
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3517,7 +3608,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3525,7 +3616,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3534,7 +3625,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3543,7 +3634,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3552,7 +3643,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3597,6 +3688,21 @@ version 0.02</label>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
             <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-082abee8-3458-4e51-87ad-a40bb377c2d5" elementRef="id-51ccb514-c8f3-4af8-9321-c0fcc0a15eec" xsi:type="Element" x="13" y="266" w="226" h="55">
+          <style>
+            <fillColor r="245" g="222" b="170" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-86c8f0c6-ac1e-4326-81c5-edfb8fb2eff9" elementRef="id-6274526b-9f48-4476-9bac-163ad318e902" xsi:type="Element" x="12" y="332" w="227" h="55">
+          <style>
+            <fillColor r="245" g="222" b="170" />
+            <lineColor r="92" g="92" b="92" />
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3697,23 +3803,35 @@ version 0.02</label>
             </font>
           </style>
         </connection>
+        <connection identifier="id-201bc264-7cc1-479c-b63c-f34ba65464a9" relationshipRef="id-1ff5dd85-6d9c-4d57-a9be-c7bcd53b7766" xsi:type="Relationship" source="id-2dd6b887-c6ac-4164-a783-cd808e30c199" target="id-082abee8-3458-4e51-87ad-a40bb377c2d5">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-7fbd9a07-a5dc-40d6-8cf6-0844c5efdc56" relationshipRef="id-c7a1c1ab-824c-492a-8ec8-357cee4e850e" xsi:type="Relationship" source="id-86c8f0c6-ac1e-4326-81c5-edfb8fb2eff9" target="id-e9fc0604-3a55-465e-9796-ef428c5ed22a">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
       </view>
       <view identifier="id-69bfc6a2-034a-43b7-81c8-9fc4d8029cf8" xsi:type="Diagram">
         <name xml:lang="en">BMM. Motivaciones Retos y Objetivos</name>
         <documentation xml:lang="en">Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.
 
-Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). Durante el periodo 2010-2019, los principales indicadores del mercado de trabajo de las 23 principales ciudades presentaron un comportamiento estable, no obstante, se observó una reducción en la dinámica de generación de empleo la cual pasó de 38 mil empleos generados entre 2015-2016 a 18 mil entre 2018-2019. Esta situación generó un impacto negativo en la tasa de desempleo que pasó del 9,9% en 2015 a 11,5% en 2019, lo cual significó un aumento absoluto de 252 mil personas desempleadas (Ministerio del Trabajo; DANE).
+Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). 
 
 Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.
 
 Una vez realizado el diagnóstico de la situación actual, se  identificaron como objetivo central del Programa
 
-Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.</documentation>
+--Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.
+
+Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las políticas de empleo y de formación para el trabajo a través de mejoras técnicas, tecnológicas, institucionales y de gestión.</documentation>
         <node identifier="id-fe25eb2c-0bfe-47f0-a753-8df02fd1cda6" elementRef="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Element" x="675" y="408" w="151" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3722,7 +3840,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3731,7 +3849,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3740,7 +3858,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3749,7 +3867,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3758,7 +3876,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3767,7 +3885,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3776,7 +3894,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3785,7 +3903,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3794,7 +3912,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3802,7 +3920,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3811,7 +3929,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3820,7 +3938,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3829,7 +3947,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3839,7 +3957,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3848,7 +3966,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3857,7 +3975,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3866,7 +3984,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3875,7 +3993,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3884,7 +4002,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3893,7 +4011,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3902,7 +4020,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3911,7 +4029,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3932,7 +4050,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3941,7 +4059,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3950,7 +4068,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3959,7 +4077,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4632,7 +4750,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
         </connection>
       </view>
       <view identifier="id-c647b374-438d-48ef-95f5-0082505c1110" xsi:type="Diagram">
-        <name xml:lang="en">BMM. Cadena Servicios de Negocio</name>
+        <name xml:lang="en">BSN. Cadena Servicios de Negocio</name>
         <documentation xml:lang="en">La cadena de valor esquematiza cómo se llevará a cabo el desarrollo del proyecto, es decir, se describe de una manera resumida el proceso de transformación de los insumos a través de las actividades, para la obtención de los productos y por consiguiente, el cumplimiento del objetivo general, una vez inicia su implementación.
 
 La plataforma tendrá la capacidad de registrar, almacenar, administrar, procesar, actualizar y generar reportes sobre la demanda de cualificaciones y la oferta de formación para el trabajo, a partir de los siguientes elementos:
@@ -4974,7 +5092,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4983,7 +5101,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4992,7 +5110,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5001,7 +5119,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5010,7 +5128,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5997,6 +6115,72 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
         <node identifier="id-7104ac87-3b58-4de6-bb05-29d6d1b6885c" elementRef="id-6a42e11002244852a09e5865d27e1896" xsi:type="Element" x="456" y="252" w="156" h="55">
           <style>
             <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+      </view>
+      <view identifier="id-d6f5668c-0278-4d99-ad0d-5db668ac3966" xsi:type="Diagram">
+        <name xml:lang="en">APP. SNC. Requerimientos</name>
+      </view>
+      <view identifier="id-0ae3c9c0-8112-4c7f-ac8a-09aedd93f067" xsi:type="Diagram">
+        <name xml:lang="en">APP. SGE. Requerimientos</name>
+      </view>
+      <view identifier="id-674de74e-3ad6-4d1c-a780-19c68360783b" xsi:type="Diagram">
+        <name xml:lang="en">APP. SNC. API-1</name>
+      </view>
+      <view identifier="id-2475fdf0-4605-417f-814e-eda1080b9eb8" xsi:type="Diagram">
+        <name xml:lang="en">APP. SGE. API-1</name>
+        <node identifier="id-3f22f776-9d2a-405d-b16d-0abf2455801f" elementRef="id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d" xsi:type="Element" x="48" y="72" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-5f2a7279-b643-4b90-8903-c4613f7ff421" elementRef="id-cc54de94-e001-42f6-9d4f-528146acafc0" xsi:type="Element" x="198" y="72" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-e71ddcb8-cf9c-46a0-906d-64190764b0db" elementRef="id-a6c977bf-f571-4fa0-b0dd-c4dcd3744403" xsi:type="Element" x="348" y="72" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-50406e62-a195-4b10-be8a-20d1878413df" elementRef="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef" xsi:type="Element" x="48" y="172" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-01ea4266-5692-4136-a5cb-72a6c4b7b4ee" elementRef="id-de2b291e-8721-43c2-8bf3-46d12034ab6e" xsi:type="Element" x="198" y="172" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-b9437947-0045-4884-abac-895800132a51" elementRef="id-b33ff159-2329-4fa2-8406-d1f85bd998f0" xsi:type="Element" x="348" y="172" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-c4ca16ed-e2b2-4e80-ae9a-5f3ce0d51b3e" elementRef="id-2354a493-b807-4377-a98c-d75d38166e9f" xsi:type="Element" x="48" y="272" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-1a238d2f-a7c6-4c96-bbeb-d522da4d2aa4" elementRef="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95" xsi:type="Element" x="198" y="272" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-8a744a5e-8732-4b4e-8974-418d64e91f58" elementRef="id-761e9a24-9350-4de3-a864-e2cad4e21eaa" xsi:type="Element" x="348" y="272" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
