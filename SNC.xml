@@ -201,11 +201,7 @@ Matriz de descriptores: Es un instrumento que permite clasificar las cualificaci
 &#xD;
 Los niveles son: ejecuta, realiza, aplica, implementa, propone, gestiona, resuelve problemas aplicados y resuelve problemas con alto nivel de autonomía.&#xD;
 &#xD;
-Catálogo Nacional de Cualificaciones: Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. &#xD;
-&#xD;
-&#xD;
-&#xD;
-Ficha de Cualificación: Es un instrumento que permite estructurar y consolidar las cualificaciones en línea con los perfiles ocupacionales descritos en la Clasificación Única de Ocupaciones para Colombia (CUOC), pues como se definió en uno de los objetivos principales del SNC se busca estrechar la relación de la demanda laboral con la oferta educativa y formativa y en este instrumento se articula esa relación. En la ficha se espera tener información de: ID de la cualificación (nombre, área, código), perfiles ocupacionales (competencia general, ocupación asociada a la CUOC, denominaciones), formación asociada a la cualificación y parámetros para el aseguramiento de la calidad.</documentation>
+El  MNC  para  Colombia  cuenta  con  ocho  (8) niveles de cualificación, cada nivel está descrito  en  términos  de  tres  descriptores  (conocimientos,   destrezas   y   actitudes),   los  cuales  se  asocian  y  enuncian  en  una  descripción   general   que   se   refiere   a   lo   que  se  espera  que  una  persona  conozca,  comprenda  y  sea  capaz  de  hacer  al  final  de  un  proceso  de  aprendizaje.  Así  mismo,  el     MNC     permite     el     reconocimiento     de       aprendizajes       de       las       personas       independientemente  de  la  forma  en  que  se hayan adquirido.</documentation>
     </element>
     <element identifier="id-ecf3039589ff4cec8c99c5fb85d32e66" xsi:type="Product">
       <name xml:lang="es">Esquema de Certificación de Competencias</name>
@@ -214,10 +210,18 @@ Ficha de Cualificación: Es un instrumento que permite estructurar y consolidar 
       <name xml:lang="es">Esquema de Movilidad Educativa y Formativa</name>
       <documentation xml:lang="es">Este componente es un conjunto de reglas, procedimientos y herramientas, las cuales buscan facilitar e incentivar la movilidad de las personas entre las distintas vías de cualificación mediante la configuración de trayectorias que sean comparables en términos de resultados de aprendizajes.&#xD;
 &#xD;
-Fomentar las rutas de aprendizaje a través de los niveles del MNC y las rutas laborales en las diferentes áreas de cualificación y sectores económicos.&#xD;
-Promover la certificación de competencias laborales.&#xD;
-Articular las relaciones entre la oferta educativa y sector productivo. &#xD;
-Promocionar los beneficios asociados a la gestión de talento humano por competencias para fomentar la educación fuera de la vía tradicional.</documentation>
+Objetivos:&#xD;
+- Fomentar las rutas de aprendizaje a través de los niveles del MNC y las rutas laborales en las diferentes áreas de cualificación y sectores económicos.&#xD;
+- Promover la certificación de competencias laborales.&#xD;
+- Articular las relaciones entre la oferta educativa y sector productivo. &#xD;
+- Promocionar los beneficios asociados a la gestión de talento humano por competencias para fomentar la educación fuera de la vía tradicional.&#xD;
+&#xD;
+Son vías de cualificación:&#xD;
+- Educación Formal&#xD;
+- Reconocimiento de aprendizajes previos&#xD;
+- Formación para el trabajo&#xD;
+&#xD;
+Busca promover: rutas de aprendizaje, relaciones con el sector productivo y aprendizaje a lo largo de la vida.</documentation>
     </element>
     <element identifier="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Product">
       <name xml:lang="es">Esquema Aseguramiento Calidad Educativa y Formativa</name>
@@ -234,7 +238,7 @@ Para este último, la Comisión Nacional Intersectorial de Aseguramiento de la C
 &#xD;
 Los programas académicos deben cumplir obligatoriamente con 15 condiciones de calidad, establecidas en el Decreto 1295 de 2010, para recibir el Registro Calificado. Adicionalmente pueden avanzar de manera voluntaria en el logro de niveles superiores de calidad mediante la adopción de prácticas de autoevaluación y mejoramiento continuo en el que intervienen la institución, las comunidades académicas y la Comisión Nacional de Acreditación, CNA. &#xD;
 &#xD;
-Mínimo requerido para operar: conaces, mejoramiento continuo: CNA acreditación de alta calidad.&#xD;
+Mínimo requerido para operar: conaces, mejoramiento continuo: CNA acreditación de alta calidad.  J todo queda en el SNIES de programas.&#xD;
 &#xD;
 (Ernst &amp; Young, 2020)&#xD;
 &#xD;
@@ -261,6 +265,56 @@ Describir las funciones que se desarrollan en cada ocupación.&#xD;
     </element>
     <element identifier="id-cc22956998024837ae3813e13ef82ee9" xsi:type="Product">
       <name xml:lang="es">Esquema de Normalización de Competencias</name>
+      <documentation xml:lang="es">Este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado.  (Ernst &amp; Young, 2020)&#xD;
+&#xD;
+J. Se refiere específicamente a evaluación de ocupaciones.&#xD;
+&#xD;
+Objetivos:&#xD;
+Servir de insumo para la elaboración de programas de educación y formación.&#xD;
+Permitir la evaluación y certificación de competencias laborales.&#xD;
+Permitir la comparabilidad internacional.&#xD;
+Promover la gestión del talento humano por competencias.&#xD;
+Describir el conjunto de funciones productivas que requiere para alcanzar el propósito clave de un sector o área de objeto de análisis.&#xD;
+Describir las funciones que se desarrollan en cada ocupación.&#xD;
+&#xD;
+Características: &#xD;
+- Participación&#xD;
+- Pertinencia&#xD;
+- Alcance Nacional&#xD;
+- Enfoque funcionalista: el punto de análisis de la normalización de competencias laborales es la función laboral y se aplica a lo establecido en el método funcionalista.&#xD;
+- Ordenamiento: Facilita los elementos para la organización de la estructura ocupacional del sector. Las normas obtenidas en el proceso se convierten en insumo para el ordenamiento de las ocupaciones, la oferta de educación y formación y la gestión de talento humano basado en competencias.&#xD;
+- Trazabilidad&#xD;
+&#xD;
+Características de información: tomado de (SENA, 2020).</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-1">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-2">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-3">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-4">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-5">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-6">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-7">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-8">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-9">
+          <value xml:lang="es" />
+        </property>
+      </properties>
     </element>
     <element identifier="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="ApplicationInteraction">
       <name xml:lang="es">Gestión Empleo y Productividad</name>
@@ -503,9 +557,63 @@ Información de brechas de capital humano en términos de brechas de cantidad, b
     </element>
     <element identifier="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="DataObject">
       <name xml:lang="es">Catálogo Nacional de Cualificaciones</name>
+      <documentation xml:lang="es">Catálogo Nacional de Cualificaciones: Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. &#xD;
+&#xD;
+Ficha de Cualificación: Es un instrumento que permite estructurar y consolidar las cualificaciones en línea con los perfiles ocupacionales descritos en la Clasificación Única de Ocupaciones para Colombia (CUOC), pues como se definió en uno de los objetivos principales del SNC se busca estrechar la relación de la demanda laboral con la oferta educativa y formativa y en este instrumento se articula esa relación. En la ficha se espera tener información de: ID de la cualificación (nombre, área, código), perfiles ocupacionales (competencia general, ocupación asociada a la CUOC, denominaciones), formación asociada a la cualificación y parámetros para el aseguramiento de la calidad.  (Ernst &amp; Young, 2020).&#xD;
+&#xD;
+El Catálogo Nacional de Cualificaciones es la fase final de la ruta metodológica para el diseño de las cualificaciones, allí las cualificaciones que fueron diseñadas en un área y que cumplen con los criterios de calidad definidos se incorporan al Catálogo Nacional de Cualificaciones.&#xD;
+&#xD;
+ cada nivel está descrito  en  términos  de  tres  descriptores  (conocimientos,   destrezas   y   actitudes),&#xD;
+&#xD;
+En propiedades: Ejemplo para Gerencia de tecnología y sistemas de información</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-10">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-11">
+          <value xml:lang="es">Ver catálogos sectoriales</value>
+        </property>
+        <property propertyDefinitionRef="propid-12">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-13">
+          <value xml:lang="es">Ocupaciones CIUO08 AC 1330. Director de desarrollo de aplicaciones, director de desarrollo de TIC, director de sistemas de información, director de tecnología de la información, director ejecutivo de empresa de comunicaciones.</value>
+        </property>
+        <property propertyDefinitionRef="propid-14">
+          <value xml:lang="es">UC1. Dirigir el diagnóstico de la organización según sus requerimientos;UC2. Determinar los sistemas de gestión según el marco estratégico.</value>
+        </property>
+      </properties>
     </element>
     <element identifier="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="DataObject">
       <name xml:lang="es">Catálogos sectoriales de cualificaciones</name>
+      <documentation xml:lang="es">Sector aeronaútico&#xD;
+Sector agropecuario&#xD;
+Sector cultura&#xD;
+Sector electricidad y electrónica&#xD;
+Sector Minería&#xD;
+Sector TIC&#xD;
+Sector transporte y logística&#xD;
+Sector educación&#xD;
+&#xD;
+1. Nombre de la cualificación&#xD;
+2. Nivel: 1 de 7.</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-10">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-11">
+          <value xml:lang="es">1. Ejecuta; 2. Realiza; 3. Aplica; 4. Implementa; 5. Propone ; 6. Gestiona: 7. Resuelve problemas aplicados; 8. Resuelve problemas con alto nivel de autonomía.</value>
+        </property>
+        <property propertyDefinitionRef="propid-12">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-13">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-15">
+          <value xml:lang="es" />
+        </property>
+      </properties>
     </element>
     <element identifier="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="DataObject">
       <name xml:lang="es">Saber Pro</name>
@@ -515,6 +623,7 @@ Información de brechas de capital humano en términos de brechas de cantidad, b
     </element>
     <element identifier="id-3ea4f3a5b4c542f69ba6f94874d80714" xsi:type="DataObject">
       <name xml:lang="es">SNIES</name>
+      <documentation xml:lang="es">La información sobre aseguramiento de la calidad y acreditación de alta calidad está en el SNIES de programas.</documentation>
     </element>
     <element identifier="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="DataObject">
       <name xml:lang="es">Instituciones SIET</name>
@@ -529,51 +638,6 @@ El contenido, tal como está,no permite vinculación con la CUOC&#xD;
 &#xD;
 J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-1">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-2">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-3">
-          <value xml:lang="es">Número de la licencia</value>
-        </property>
-        <property propertyDefinitionRef="propid-4">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-5">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-6">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-7">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-8">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-9">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-10">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-11">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-12">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-13">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-14">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-15">
-          <value xml:lang="es" />
-        </property>
         <property propertyDefinitionRef="propid-16">
           <value xml:lang="es" />
         </property>
@@ -581,12 +645,57 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
           <value xml:lang="es" />
         </property>
         <property propertyDefinitionRef="propid-18">
-          <value xml:lang="es" />
+          <value xml:lang="es">Número de la licencia</value>
         </property>
         <property propertyDefinitionRef="propid-19">
           <value xml:lang="es" />
         </property>
         <property propertyDefinitionRef="propid-20">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-21">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-22">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-23">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-24">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-25">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-26">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-27">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-28">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-29">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-30">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-31">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-32">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-33">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-34">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-35">
           <value xml:lang="es" />
         </property>
       </properties>
@@ -635,7 +744,7 @@ https://www.mineducacion.gov.co/1621/articles-353336_recurso_6.pdf&#xD;
 (Ministerio de Educación, 2016)</documentation>
     </element>
     <element identifier="id-77eeb981c3b441eda3f031d4b8a8fef8" xsi:type="DataObject">
-      <name xml:lang="es">Tabla intermedia programas SIET-CUOC ¿?.</name>
+      <name xml:lang="es">Tabla intermedia competencias estandarizadas por programas SIET-CUOC ¿?.</name>
       <documentation xml:lang="es">Sobre SIET&#xD;
 Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
 &#xD;
@@ -647,6 +756,205 @@ J. J. El objetivo es generar información sobre legalidad de las instituciones. 
 &#xD;
 (Ministerio de Educación, 2017)</documentation>
       <properties>
+        <property propertyDefinitionRef="propid-36">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-37">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-38">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-39">
+          <value xml:lang="es">Identificador</value>
+        </property>
+        <property propertyDefinitionRef="propid-40">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-41">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-42">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-43">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-44">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-45">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-46">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-47">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-48">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-49">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-50">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-51">
+          <value xml:lang="es" />
+        </property>
+      </properties>
+    </element>
+    <element identifier="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="DataObject">
+      <name xml:lang="es">Programas SIET</name>
+      <documentation xml:lang="es">En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
+Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
+El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;
+http://aprende.colombiaaprende.edu.co/es/node/92429&#xD;
+&#xD;
+Datos: http://siet.mineducacion.gov.co/consultasiet/programa/index.jsp?codigoInstitucion=4479#&#xD;
+&#xD;
+El contenido, tal como está,no permite vinculación con la CUOC&#xD;
+&#xD;
+J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-52">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-53">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-54">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-20">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-55">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-56">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-57">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-58">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-59">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-60">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-37">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-61">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-62">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-63">
+          <value xml:lang="es" />
+        </property>
+      </properties>
+    </element>
+    <element identifier="id-2ef748d4f4994576a5e386ff4daa7a81" xsi:type="DataObject">
+      <name xml:lang="es">CONACES</name>
+    </element>
+    <element identifier="id-d06e75f4bf7c40ae8517e226c2bc603f" xsi:type="ApplicationComponent">
+      <name xml:lang="es">Plataforma de información</name>
+    </element>
+    <element identifier="id-9f5d61811b544f6da4a684d25dabeb35" xsi:type="ApplicationComponent">
+      <name xml:lang="es">Plataforma de Información SNC</name>
+    </element>
+    <element identifier="id-d510c4e2214447e5969afd13c9f516bf" xsi:type="ApplicationService">
+      <name xml:lang="es">Información sobre Demanda laboral</name>
+    </element>
+    <element identifier="id-bffcfc7fdcf74f1d82c6a90fe1f39645" xsi:type="ApplicationService">
+      <name xml:lang="es">Información sobre Oferta laboral</name>
+    </element>
+    <element identifier="id-6271a0c788a7471e84a218a5042fde24" xsi:type="ApplicationService">
+      <name xml:lang="es">Información sobre Oferta de formación para el trabajo</name>
+    </element>
+    <element identifier="id-e4a68c5c707e48c594b63bf2dd7fe582" xsi:type="ApplicationService">
+      <name xml:lang="es">Información sobre Oferta educativa y formativa</name>
+    </element>
+    <element identifier="id-68279d6bf29544219023ec9950e0a2d3" xsi:type="ApplicationService">
+      <name xml:lang="es">Información sobre brechas de capital humano</name>
+    </element>
+    <element identifier="id-171d8700238b4dd59525ab6e010359f6" xsi:type="ApplicationService">
+      <name xml:lang="es">Información sobre evaluación y certificación de competencias</name>
+      <documentation xml:lang="es">J. Sería interesante hacer una simulación de analítica que muestre como cambia la dinámica del mercado de trabajo si se pone en funcionamiento el esquema de movilidad educativa y formativa.</documentation>
+    </element>
+    <element identifier="id-20666b6de3b1467ead1eb563c73278ba" xsi:type="ApplicationService">
+      <name xml:lang="es">Indicadores de resultado y de impacto</name>
+    </element>
+    <element identifier="id-e4a7c537866e4cbc9357f00c68179083" xsi:type="ApplicationComponent">
+      <name xml:lang="es">Application Component</name>
+    </element>
+    <element identifier="id-ab52979dc0314a8b814814ff59165e39" xsi:type="ApplicationComponent">
+      <name xml:lang="es">Application Component</name>
+    </element>
+    <element identifier="id-080c34fbdd4e4484a9aa9a8e1d8cb0ce" xsi:type="DataObject">
+      <name xml:lang="es">Encuestas estructurales</name>
+    </element>
+    <element identifier="id-b30734ddce9d4e55b67cac796ede2f50" xsi:type="DataObject">
+      <name xml:lang="es">Directorio de Empresas DANE</name>
+    </element>
+    <element identifier="id-12accbc4be4b42cfba10e528e21da997" xsi:type="DataObject">
+      <name xml:lang="es">Saber 11</name>
+    </element>
+    <element identifier="id-a2e60ff2766141fb91aa6c4c7e64bcee" xsi:type="DataObject">
+      <name xml:lang="es">Tabla intermedia competencias estandarizadas por programas SNIES-CUOC ¿?. (copy)</name>
+      <documentation xml:lang="es">Sobre SIET&#xD;
+Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
+&#xD;
+J. J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
+    </element>
+    <element identifier="id-4901df67f07546acb8030ef8e7ad357d" xsi:type="DataObject">
+      <name xml:lang="es">CONACES (copy)</name>
+    </element>
+    <element identifier="id-d6f3ccc21c4e4b75bfcf05bdce0cd0ec" xsi:type="DataObject">
+      <name xml:lang="es">CINE</name>
+      <documentation xml:lang="es">Contiene la división vertica y la horizontal, pero no la desagregación por competencias.</documentation>
+    </element>
+    <element identifier="id-bb1625b9e0b840cb8c7a7b3fa348a522" xsi:type="DataObject">
+      <name xml:lang="es">CINE</name>
+      <documentation xml:lang="es">Contiene la división vertica y la horizontal, pero no la desagregación por competencias.</documentation>
+    </element>
+    <element identifier="id-6e757196fe244c51b569507c40a672b8" xsi:type="DataObject">
+      <name xml:lang="es">Instituciones acreditadas</name>
+      <documentation xml:lang="es">En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
+Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
+El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;
+http://aprende.colombiaaprende.edu.co/es/node/92429&#xD;
+&#xD;
+Datos: http://siet.mineducacion.gov.co/consultasiet/programa/index.jsp?codigoInstitucion=4479#&#xD;
+&#xD;
+El contenido, tal como está,no permite vinculación con la CUOC&#xD;
+&#xD;
+J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-16">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-17">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-18">
+          <value xml:lang="es">Número de la licencia</value>
+        </property>
+        <property propertyDefinitionRef="propid-19">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-20">
+          <value xml:lang="es" />
+        </property>
         <property propertyDefinitionRef="propid-21">
           <value xml:lang="es" />
         </property>
@@ -657,7 +965,7 @@ J. J. El objetivo es generar información sobre legalidad de las instituciones. 
           <value xml:lang="es" />
         </property>
         <property propertyDefinitionRef="propid-24">
-          <value xml:lang="es">Identificador</value>
+          <value xml:lang="es" />
         </property>
         <property propertyDefinitionRef="propid-25">
           <value xml:lang="es" />
@@ -692,13 +1000,10 @@ J. J. El objetivo es generar información sobre legalidad de las instituciones. 
         <property propertyDefinitionRef="propid-35">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-36">
-          <value xml:lang="es" />
-        </property>
       </properties>
     </element>
-    <element identifier="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="DataObject">
-      <name xml:lang="es">Programas SIET</name>
+    <element identifier="id-2d57cfcf22bf416082fc3c23e56bb226" xsi:type="DataObject">
+      <name xml:lang="es">Programas acreditados</name>
       <documentation xml:lang="es">En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
 Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
 El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;
@@ -710,85 +1015,67 @@ El contenido, tal como está,no permite vinculación con la CUOC&#xD;
 &#xD;
 J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-37">
+        <property propertyDefinitionRef="propid-16">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-38">
+        <property propertyDefinitionRef="propid-17">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-39">
+        <property propertyDefinitionRef="propid-18">
+          <value xml:lang="es">Número de la licencia</value>
+        </property>
+        <property propertyDefinitionRef="propid-19">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-5">
+        <property propertyDefinitionRef="propid-20">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-40">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-41">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-42">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-43">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-44">
-          <value xml:lang="es" />
-        </property>
-        <property propertyDefinitionRef="propid-45">
+        <property propertyDefinitionRef="propid-21">
           <value xml:lang="es" />
         </property>
         <property propertyDefinitionRef="propid-22">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-46">
+        <property propertyDefinitionRef="propid-23">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-47">
+        <property propertyDefinitionRef="propid-24">
           <value xml:lang="es" />
         </property>
-        <property propertyDefinitionRef="propid-48">
+        <property propertyDefinitionRef="propid-25">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-26">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-27">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-28">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-29">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-30">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-31">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-32">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-33">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-34">
+          <value xml:lang="es" />
+        </property>
+        <property propertyDefinitionRef="propid-35">
           <value xml:lang="es" />
         </property>
       </properties>
-    </element>
-    <element identifier="id-2ef748d4f4994576a5e386ff4daa7a81" xsi:type="DataObject">
-      <name xml:lang="es">CONACES</name>
-    </element>
-    <element identifier="id-d06e75f4bf7c40ae8517e226c2bc603f" xsi:type="ApplicationComponent">
-      <name xml:lang="es">Plataforma de información</name>
-    </element>
-    <element identifier="id-9f5d61811b544f6da4a684d25dabeb35" xsi:type="ApplicationComponent">
-      <name xml:lang="es">Plataforma de Información SNC</name>
-    </element>
-    <element identifier="id-d510c4e2214447e5969afd13c9f516bf" xsi:type="ApplicationService">
-      <name xml:lang="es">Información sobre Demanda laboral</name>
-    </element>
-    <element identifier="id-bffcfc7fdcf74f1d82c6a90fe1f39645" xsi:type="ApplicationService">
-      <name xml:lang="es">Información sobre Oferta laboral</name>
-    </element>
-    <element identifier="id-6271a0c788a7471e84a218a5042fde24" xsi:type="ApplicationService">
-      <name xml:lang="es">Información sobre Oferta de formación para el trabajo</name>
-    </element>
-    <element identifier="id-e4a68c5c707e48c594b63bf2dd7fe582" xsi:type="ApplicationService">
-      <name xml:lang="es">Información sobre Oferta educativa y formativa</name>
-    </element>
-    <element identifier="id-68279d6bf29544219023ec9950e0a2d3" xsi:type="ApplicationService">
-      <name xml:lang="es">Información sobre brechas de capital humano</name>
-    </element>
-    <element identifier="id-171d8700238b4dd59525ab6e010359f6" xsi:type="ApplicationService">
-      <name xml:lang="es">Información sobre evaluación y certificación de competencias</name>
-    </element>
-    <element identifier="id-20666b6de3b1467ead1eb563c73278ba" xsi:type="ApplicationService">
-      <name xml:lang="es">Indicadores de resultado y de impacto</name>
-    </element>
-    <element identifier="id-e4a7c537866e4cbc9357f00c68179083" xsi:type="ApplicationComponent">
-      <name xml:lang="es">Application Component</name>
-    </element>
-    <element identifier="id-ab52979dc0314a8b814814ff59165e39" xsi:type="ApplicationComponent">
-      <name xml:lang="es">Application Component</name>
     </element>
     <element identifier="id-bae1d7be-3836-4431-b161-89da7e5d34ee" xsi:type="Goal">
       <name xml:lang="es">G04. Plataforma de información del SNC</name>
@@ -1196,6 +1483,23 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-ea2cf0c6633048918f9c3bcad5045257" source="id-59824ba4cb1746edb8f201fee8c6ea3d" target="id-264751761385418d94488a4c3dfbe28f" xsi:type="Composition" />
     <relationship identifier="id-941228fdeab84b22b747109c5eb00c5e" source="id-a92054736b3f4ebd9e4d29128136309d" target="id-264751761385418d94488a4c3dfbe28f" xsi:type="Composition" />
     <relationship identifier="id-74154bb10e60400185cc2b71cc6a01ba" source="id-59824ba4cb1746edb8f201fee8c6ea3d" target="id-f265658d4cd74fb38a78273ea43cf555" xsi:type="Association" />
+    <relationship identifier="id-ff73e1cc369e4b4d8e4b74ab73cab16d" source="id-d4c097ad201c4ade97be1c6c3ed23004" target="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="Association">
+      <documentation xml:lang="es">El catálogo nacional de cualificaciones tiene la siguiente estructura:</documentation>
+    </relationship>
+    <relationship identifier="id-07d9dfc7f4514478aa98b5c66e77e2ce" source="id-d4c097ad201c4ade97be1c6c3ed23004" target="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="Association" />
+    <relationship identifier="id-5c8456edb1fd4824969215cb1b9a5f08" source="id-3ea4f3a5b4c542f69ba6f94874d80714" target="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Association" />
+    <relationship identifier="id-28014d53ab654aa6b40457269ea044a8" source="id-539ae40b3250451d94f071ad38a572db" target="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Association" />
+    <relationship identifier="id-93924bb078064585bf641c347d1f6dd6" source="id-0e20b1580e9e4b5582715584e13c1e9b" target="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Association" />
+    <relationship identifier="id-6f2dba1e29ff452493da08e5da717589" source="id-12accbc4be4b42cfba10e528e21da997" target="id-743f91707c9e4eb78ea75528a36836e6" xsi:type="Association" />
+    <relationship identifier="id-203d41f0994f418785ab9ed1ed8039cd" source="id-12accbc4be4b42cfba10e528e21da997" target="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="Association" />
+    <relationship identifier="id-7241a0cee3e149fd8155cf6999f1d233" source="id-12accbc4be4b42cfba10e528e21da997" target="id-539ae40b3250451d94f071ad38a572db" xsi:type="Association" />
+    <relationship identifier="id-f17756685d36406aa8058b975222e493" source="id-3ea4f3a5b4c542f69ba6f94874d80714" target="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="Association" />
+    <relationship identifier="id-01dbdd97eae34bee9331f467d0be63ac" source="id-539ae40b3250451d94f071ad38a572db" target="id-264751761385418d94488a4c3dfbe28f" xsi:type="Association" />
+    <relationship identifier="id-12ef9b87dd3544d39c604d5d439bb1f6" source="id-3ea4f3a5b4c542f69ba6f94874d80714" target="id-a2e60ff2766141fb91aa6c4c7e64bcee" xsi:type="Association" />
+    <relationship identifier="id-2f86997c7e7d470ba45fa424db243914" source="id-a2e60ff2766141fb91aa6c4c7e64bcee" target="id-d4c097ad201c4ade97be1c6c3ed23004" xsi:type="Association" />
+    <relationship identifier="id-a0091b6f069b46a4b9c0dc71bb165451" source="id-77eeb981c3b441eda3f031d4b8a8fef8" target="id-d6f3ccc21c4e4b75bfcf05bdce0cd0ec" xsi:type="Composition" />
+    <relationship identifier="id-c03a30a60a7e4bcbbc692a34b353dea9" source="id-a2e60ff2766141fb91aa6c4c7e64bcee" target="id-bb1625b9e0b840cb8c7a7b3fa348a522" xsi:type="Composition" />
+    <relationship identifier="id-045c1422e77643d49777ba4a8764f571" source="id-cc22956998024837ae3813e13ef82ee9" target="id-6d395fcc88a040fda4772bdeaecc5ffc" xsi:type="Association" />
   </relationships>
   <organizations>
     <item>
@@ -1336,6 +1640,15 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-20666b6de3b1467ead1eb563c73278ba" />
       <item identifierRef="id-e4a7c537866e4cbc9357f00c68179083" />
       <item identifierRef="id-ab52979dc0314a8b814814ff59165e39" />
+      <item identifierRef="id-080c34fbdd4e4484a9aa9a8e1d8cb0ce" />
+      <item identifierRef="id-b30734ddce9d4e55b67cac796ede2f50" />
+      <item identifierRef="id-12accbc4be4b42cfba10e528e21da997" />
+      <item identifierRef="id-a2e60ff2766141fb91aa6c4c7e64bcee" />
+      <item identifierRef="id-4901df67f07546acb8030ef8e7ad357d" />
+      <item identifierRef="id-d6f3ccc21c4e4b75bfcf05bdce0cd0ec" />
+      <item identifierRef="id-bb1625b9e0b840cb8c7a7b3fa348a522" />
+      <item identifierRef="id-6e757196fe244c51b569507c40a672b8" />
+      <item identifierRef="id-2d57cfcf22bf416082fc3c23e56bb226" />
     </item>
     <item>
       <label xml:lang="es">Motivation</label>
@@ -1574,6 +1887,21 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-ea2cf0c6633048918f9c3bcad5045257" />
       <item identifierRef="id-941228fdeab84b22b747109c5eb00c5e" />
       <item identifierRef="id-74154bb10e60400185cc2b71cc6a01ba" />
+      <item identifierRef="id-ff73e1cc369e4b4d8e4b74ab73cab16d" />
+      <item identifierRef="id-07d9dfc7f4514478aa98b5c66e77e2ce" />
+      <item identifierRef="id-5c8456edb1fd4824969215cb1b9a5f08" />
+      <item identifierRef="id-28014d53ab654aa6b40457269ea044a8" />
+      <item identifierRef="id-93924bb078064585bf641c347d1f6dd6" />
+      <item identifierRef="id-6f2dba1e29ff452493da08e5da717589" />
+      <item identifierRef="id-203d41f0994f418785ab9ed1ed8039cd" />
+      <item identifierRef="id-7241a0cee3e149fd8155cf6999f1d233" />
+      <item identifierRef="id-f17756685d36406aa8058b975222e493" />
+      <item identifierRef="id-01dbdd97eae34bee9331f467d0be63ac" />
+      <item identifierRef="id-12ef9b87dd3544d39c604d5d439bb1f6" />
+      <item identifierRef="id-2f86997c7e7d470ba45fa424db243914" />
+      <item identifierRef="id-a0091b6f069b46a4b9c0dc71bb165451" />
+      <item identifierRef="id-c03a30a60a7e4bcbbc692a34b353dea9" />
+      <item identifierRef="id-045c1422e77643d49777ba4a8764f571" />
     </item>
     <item>
       <label xml:lang="es">Views</label>
@@ -1609,148 +1937,193 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     </item>
   </organizations>
   <propertyDefinitions>
-    <propertyDefinition identifier="propid-26" type="string">
-      <name>Apellidos</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-12" type="string">
-      <name>Barrio</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-6" type="string">
-      <name>Cantidad de programas</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-14" type="string">
-      <name>Correo electrónico</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-47" type="string">
-      <name>Costos programa</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-1" type="string">
-      <name>Código institución</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-37" type="string">
-      <name>Código programa</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-38" type="string">
-      <name>Código área salud</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-9" type="string">
-      <name>Departamento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-11" type="string">
-      <name>Dirección</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-35" type="string">
-      <name>Discapacidad</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-48" type="string">
-      <name>Duración horas</name>
-    </propertyDefinition>
     <propertyDefinition identifier="propid-5" type="string">
-      <name>Estado</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-28" type="string">
-      <name>Estado civil</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-31" type="string">
-      <name>Estrato</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-21" type="string">
-      <name>Fecha de ingreso</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-29" type="string">
-      <name>Fecha de nacimiento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-42" type="string">
-      <name>Fecha de registro</name>
+      <name>Actividades clave</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-4" type="string">
-      <name>Fecha licencia de funcionamiento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-27" type="string">
-      <name>Género</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-22" type="string">
-      <name>Jornada</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-3" type="string">
-      <name>Licencia de funcionamiento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-30" type="string">
-      <name>Lugar de residencia</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-46" type="string">
-      <name>Metodología</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-36" type="string">
-      <name>Multiculturalidad</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-10" type="string">
-      <name>Municipio</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-16" type="string">
-      <name>Naturaleza</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-33" type="string">
-      <name>Nivel de formación</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-39" type="string">
-      <name>Nombre de programa</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-18" type="string">
-      <name>Nombre director</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-2" type="string">
-      <name>Nombre institución</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-19" type="string">
-      <name>Nombre representante legal</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-25" type="string">
-      <name>Nombres</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-24" type="string">
-      <name>Número de identificación</name>
+      <name>Análisis funcional</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-41" type="string">
-      <name>Número de registro</name>
+      <name>Apellidos</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-34" type="string">
-      <name>Ocupación</name>
+    <propertyDefinition identifier="propid-27" type="string">
+      <name>Barrio</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-17" type="string">
-      <name>Personalidad jurídica</name>
+    <propertyDefinition identifier="propid-21" type="string">
+      <name>Cantidad de programas</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-15" type="string">
-      <name>Página web</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-32" type="string">
-      <name>Régimen de salud</name>
+    <propertyDefinition identifier="propid-12" type="string">
+      <name>Competencia general</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-8" type="string">
-      <name>Secretaría</name>
+      <name>Conocimientos esenciales</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-20" type="string">
-      <name>Sedes</name>
+    <propertyDefinition identifier="propid-29" type="string">
+      <name>Correo electrónico</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-44" type="string">
-      <name>Subtipo de ceritificado</name>
+    <propertyDefinition identifier="propid-62" type="string">
+      <name>Costos programa</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-13" type="string">
-      <name>Teléfono</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-43" type="string">
-      <name>Tipo de certificado</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-23" type="string">
-      <name>Tipo de identificación</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-40" type="string">
-      <name>¿Certificación en calidad?</name>
+    <propertyDefinition identifier="propid-6" type="string">
+      <name>Criterios de desempeño específicos</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-7" type="string">
-      <name>¿Certificada en calidad?</name>
+      <name>Criterios de desempeño generales</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-16" type="string">
+      <name>Código institución</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-52" type="string">
+      <name>Código programa</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-53" type="string">
+      <name>Código área salud</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-24" type="string">
+      <name>Departamento</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-26" type="string">
+      <name>Dirección</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-50" type="string">
+      <name>Discapacidad</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-63" type="string">
+      <name>Duración horas</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-20" type="string">
+      <name>Estado</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-43" type="string">
+      <name>Estado civil</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-1" type="string">
+      <name>Estado de producto</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-46" type="string">
+      <name>Estrato</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-9" type="string">
+      <name>Evidencias requeridas</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-36" type="string">
+      <name>Fecha de ingreso</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-44" type="string">
+      <name>Fecha de nacimiento</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-57" type="string">
+      <name>Fecha de registro</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-19" type="string">
+      <name>Fecha licencia de funcionamiento</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-42" type="string">
+      <name>Género</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-37" type="string">
+      <name>Jornada</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-18" type="string">
+      <name>Licencia de funcionamiento</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-45" type="string">
+      <name>Lugar de residencia</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-2" type="string">
+      <name>Mesa sectoríal</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-61" type="string">
+      <name>Metodología</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-51" type="string">
+      <name>Multiculturalidad</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-25" type="string">
+      <name>Municipio</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-31" type="string">
+      <name>Naturaleza</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-11" type="string">
+      <name>Nivel</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-48" type="string">
+      <name>Nivel de formación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-10" type="string">
+      <name>Nombre de la cualificación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-54" type="string">
+      <name>Nombre de programa</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-33" type="string">
+      <name>Nombre director</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-17" type="string">
+      <name>Nombre institución</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-34" type="string">
+      <name>Nombre representante legal</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-40" type="string">
+      <name>Nombres</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-3" type="string">
+      <name>Norma sectorial de competencia laboral</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-39" type="string">
+      <name>Número de identificación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-56" type="string">
+      <name>Número de registro</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-13" type="string">
+      <name>Ocupaciones</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-49" type="string">
+      <name>Ocupación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-32" type="string">
+      <name>Personalidad jurídica</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-30" type="string">
+      <name>Página web</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-47" type="string">
+      <name>Régimen de salud</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-23" type="string">
+      <name>Secretaría</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-35" type="string">
+      <name>Sedes</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-59" type="string">
+      <name>Subtipo de ceritificado</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-28" type="string">
+      <name>Teléfono</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-58" type="string">
+      <name>Tipo de certificado</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-38" type="string">
+      <name>Tipo de identificación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-14" type="string">
+      <name>Unidades de compentencia</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-15" type="string">
+      <name>Unidades de competencia</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-55" type="string">
+      <name>¿Certificación en calidad?</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-22" type="string">
+      <name>¿Certificada en calidad?</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-60" type="string">
       <name>Área desempeño</name>
     </propertyDefinition>
   </propertyDefinitions>
@@ -5256,8 +5629,8 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
       </view>
       <view identifier="id-ce9d70192d5345318dd790ea3dc3fb1b" xsi:type="Diagram">
         <name xml:lang="es">Fuentes_SNC</name>
-        <documentation xml:lang="es">Las dificultades para validar en el mercado de trabajo los aprendizajes o saberes previos (experiencia o auto instrucción) adquiridos por fuera del sector educativo</documentation>
-        <node identifier="id-7ceaff0a25de4204bf379eff4d277892" elementRef="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Element" x="324" y="364" w="227" h="55">
+        <documentation xml:lang="es">Las dificultades para vaidar en el mercado de trabajo los aprendizajes o saberes previos (experiencia o auto instrucción) adquiridos por fuera del sector educativo</documentation>
+        <node identifier="id-7ceaff0a25de4204bf379eff4d277892" elementRef="id-6529e2b5-81c0-4467-88dd-0a772e76a6fd" xsi:type="Element" x="312" y="306" w="227" h="55">
           <style>
             <fillColor r="245" g="222" b="170" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5374,7 +5747,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </style>
           </node>
         </node>
-        <node identifier="id-a7b6eb6519054b33837e53ed7a6bbcb7" elementRef="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="Element" x="780" y="787" w="120" h="55">
+        <node identifier="id-a7b6eb6519054b33837e53ed7a6bbcb7" elementRef="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="Element" x="324" y="764" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5383,7 +5756,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-6c2d5cc97f5d441e9061a0d9b9d3c58d" elementRef="id-539ae40b3250451d94f071ad38a572db" xsi:type="Element" x="432" y="679" w="133" h="35">
+        <node identifier="id-6c2d5cc97f5d441e9061a0d9b9d3c58d" elementRef="id-539ae40b3250451d94f071ad38a572db" xsi:type="Element" x="324" y="648" w="133" h="35">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5392,7 +5765,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-22054d1bde7b4842b650a94fa20f7b24" elementRef="id-3ea4f3a5b4c542f69ba6f94874d80714" xsi:type="Element" x="433" y="739" w="133" h="61">
+        <node identifier="id-22054d1bde7b4842b650a94fa20f7b24" elementRef="id-3ea4f3a5b4c542f69ba6f94874d80714" xsi:type="Element" x="324" y="536" w="133" h="61">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5401,7 +5774,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-567487807a63404ea275b5d6086d28f1" elementRef="id-445c1fd9e32b491caf3709d3357d48b5" xsi:type="Element" x="624" y="679" w="133" h="55">
+        <node identifier="id-567487807a63404ea275b5d6086d28f1" elementRef="id-445c1fd9e32b491caf3709d3357d48b5" xsi:type="Element" x="1032" y="708" w="133" h="55">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5410,7 +5783,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-0fcc8a0dfe7b429caf546c2dcd36e756" elementRef="id-6d395fcc88a040fda4772bdeaecc5ffc" xsi:type="Element" x="624" y="751" w="133" h="37">
+        <node identifier="id-0fcc8a0dfe7b429caf546c2dcd36e756" elementRef="id-6d395fcc88a040fda4772bdeaecc5ffc" xsi:type="Element" x="636" y="672" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5419,16 +5792,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-945a32dd7d9941d78c1e9e0907e06b12" elementRef="id-b916af3b3e724a1a9e0d007d1d6dec9b" xsi:type="Element" x="624" y="799" w="133" h="49">
-          <style>
-            <fillColor r="181" g="255" b="255" a="100" />
-            <lineColor r="92" g="92" b="92" a="100" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
-          </style>
-        </node>
-        <node identifier="id-74613f4c9a6a4879808716f0ae042f62" elementRef="id-5a504dc501594788850576cee36d3572" xsi:type="Element" x="624" y="859" w="133" h="49">
+        <node identifier="id-74613f4c9a6a4879808716f0ae042f62" elementRef="id-5a504dc501594788850576cee36d3572" xsi:type="Element" x="1032" y="771" w="133" h="49">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5446,7 +5810,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-7e2a20a8aea54f41ac31a734a968d2b0" elementRef="id-f4579c2e54ff42c08c8ea5589ccea5f2" xsi:type="Element" x="780" y="727" w="120" h="55">
+        <node identifier="id-7e2a20a8aea54f41ac31a734a968d2b0" elementRef="id-f4579c2e54ff42c08c8ea5589ccea5f2" xsi:type="Element" x="1212" y="768" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5455,7 +5819,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-67b5bb79804d4724b9e6ec67a7304811" elementRef="id-3b8321c62fe748ba9fe22073b459faba" xsi:type="Element" x="780" y="876" w="120" h="55">
+        <node identifier="id-67b5bb79804d4724b9e6ec67a7304811" elementRef="id-3b8321c62fe748ba9fe22073b459faba" xsi:type="Element" x="1212" y="696" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5464,7 +5828,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-7c8c64294f3a426e92781d501d8d05ef" elementRef="id-f265658d4cd74fb38a78273ea43cf555" xsi:type="Element" x="922" y="539" w="133" h="37">
+        <node identifier="id-7c8c64294f3a426e92781d501d8d05ef" elementRef="id-f265658d4cd74fb38a78273ea43cf555" xsi:type="Element" x="934" y="575" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5473,7 +5837,25 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-bab5676e02a64688b6c33fe9501d1e0e" elementRef="id-77eeb981c3b441eda3f031d4b8a8fef8" xsi:type="Element" x="922" y="384" w="126" h="61">
+        <node identifier="id-bab5676e02a64688b6c33fe9501d1e0e" elementRef="id-77eeb981c3b441eda3f031d4b8a8fef8" xsi:type="Element" x="899" y="384" w="182" h="97">
+          <style>
+            <fillColor r="255" g="128" b="64" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <node identifier="id-bc332029669646098f034b073e8f14cf" elementRef="id-d6f3ccc21c4e4b75bfcf05bdce0cd0ec" xsi:type="Element" x="935" y="444" w="106" h="32">
+            <style>
+              <fillColor r="181" g="255" b="255" a="100" />
+              <lineColor r="92" g="92" b="92" a="100" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+        </node>
+        <node identifier="id-592539fd346a45308afdff505f524412" elementRef="id-264751761385418d94488a4c3dfbe28f" xsi:type="Element" x="1104" y="528" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5482,7 +5864,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-592539fd346a45308afdff505f524412" elementRef="id-264751761385418d94488a4c3dfbe28f" xsi:type="Element" x="1092" y="492" w="133" h="37">
+        <node identifier="id-30896341884f45d48fac500b946ae561" elementRef="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="Element" x="934" y="504" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5491,7 +5873,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-30896341884f45d48fac500b946ae561" elementRef="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="Element" x="922" y="468" w="133" h="37">
+        <node identifier="id-1a6c9eedeb9b42b696f842352d75d6d4" elementRef="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="Element" x="1140" y="468" w="133" h="37">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5500,7 +5882,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-1a6c9eedeb9b42b696f842352d75d6d4" elementRef="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="Element" x="1092" y="408" w="133" h="37">
+        <node identifier="id-fd26e2d09f1f4596b931033535b40588" elementRef="id-080c34fbdd4e4484a9aa9a8e1d8cb0ce" xsi:type="Element" x="864" y="708" w="133" h="55">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5509,7 +5891,52 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </node>
-        <node identifier="id-529b91aefa0448bb95022b62bf39e95e" elementRef="id-2ef748d4f4994576a5e386ff4daa7a81" xsi:type="Element" x="932" y="648" w="106" h="32">
+        <node identifier="id-bf9350bb52e24fd78962936d7836b146" elementRef="id-b30734ddce9d4e55b67cac796ede2f50" xsi:type="Element" x="864" y="770" w="133" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-88532ab080384980ae7dcd7897ef572c" elementRef="id-12accbc4be4b42cfba10e528e21da997" xsi:type="Element" x="324" y="692" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-00aa6986711f4b7bbf1358b87217fc0f" elementRef="id-a2e60ff2766141fb91aa6c4c7e64bcee" xsi:type="Element" x="360" y="384" w="182" h="97">
+          <style>
+            <fillColor r="255" g="128" b="64" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+          <node identifier="id-654c4313223a4ae0aa87c7c0e7cfcfae" elementRef="id-bb1625b9e0b840cb8c7a7b3fa348a522" xsi:type="Element" x="396" y="444" w="106" h="32">
+            <style>
+              <fillColor r="181" g="255" b="255" a="100" />
+              <lineColor r="92" g="92" b="92" a="100" />
+              <font name="Segoe UI" size="9">
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+        </node>
+        <node identifier="id-66873fb675d746b9981550b1d896e29b" elementRef="id-6e757196fe244c51b569507c40a672b8" xsi:type="Element" x="1320" y="396" w="145" h="37">
+          <style>
+            <fillColor r="181" g="255" b="255" a="100" />
+            <lineColor r="92" g="92" b="92" a="100" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </node>
+        <node identifier="id-50f56631cfda456891af6d6b31081dfb" elementRef="id-2d57cfcf22bf416082fc3c23e56bb226" xsi:type="Element" x="1320" y="444" w="145" h="37">
           <style>
             <fillColor r="181" g="255" b="255" a="100" />
             <lineColor r="92" g="92" b="92" a="100" />
@@ -5566,6 +5993,70 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             </font>
           </style>
         </connection>
+        <connection identifier="id-61b6caaf05394df48ab99d896a572e95" relationshipRef="id-045c1422e77643d49777ba4a8764f571" xsi:type="Relationship" source="id-f10d8a80a713484e96e01b2a6eb0421d" target="id-0fcc8a0dfe7b429caf546c2dcd36e756">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-075d36e4848b4cada64cca86b788acaf" relationshipRef="id-93924bb078064585bf641c347d1f6dd6" xsi:type="Relationship" source="id-a7b6eb6519054b33837e53ed7a6bbcb7" target="id-add7beb568584d01965e836b023a37e4">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-fa791d635a1b42039e567c81048a87d2" relationshipRef="id-28014d53ab654aa6b40457269ea044a8" xsi:type="Relationship" source="id-6c2d5cc97f5d441e9061a0d9b9d3c58d" target="id-add7beb568584d01965e836b023a37e4">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-74db591965294263baed60959c596ed0" relationshipRef="id-01dbdd97eae34bee9331f467d0be63ac" xsi:type="Relationship" source="id-6c2d5cc97f5d441e9061a0d9b9d3c58d" target="id-592539fd346a45308afdff505f524412">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-6c525669466e47299bcd0536d6d1256e" relationshipRef="id-5c8456edb1fd4824969215cb1b9a5f08" xsi:type="Relationship" source="id-22054d1bde7b4842b650a94fa20f7b24" target="id-add7beb568584d01965e836b023a37e4">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-d65a3d51bfa64b1b826c1ad4c1df20fe" relationshipRef="id-f17756685d36406aa8058b975222e493" xsi:type="Relationship" source="id-22054d1bde7b4842b650a94fa20f7b24" target="id-a7b6eb6519054b33837e53ed7a6bbcb7">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-a3edeb84473f47b58f8e2ffcd42131d1" relationshipRef="id-12ef9b87dd3544d39c604d5d439bb1f6" xsi:type="Relationship" source="id-22054d1bde7b4842b650a94fa20f7b24" target="id-00aa6986711f4b7bbf1358b87217fc0f">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-509f0870060e476cae43fb55a7a96acc" relationshipRef="id-07d9dfc7f4514478aa98b5c66e77e2ce" xsi:type="Relationship" source="id-ba7219c5a36a40cf8e50d869b9f15f9e" target="id-7f30a166f2484fbbb64dca2567d038de">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
         <connection identifier="id-5f540fc0e5534677b12a4d8ff54e4599" relationshipRef="id-9dedc64d14f94a7ba1b18cc3afee4715" xsi:type="Relationship" source="id-bab5676e02a64688b6c33fe9501d1e0e" target="id-ba7219c5a36a40cf8e50d869b9f15f9e">
           <style>
             <lineColor r="0" g="0" b="0" />
@@ -5607,6 +6098,38 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           </style>
         </connection>
         <connection identifier="id-ae2e31dc95e34314acde25e4eff9507f" relationshipRef="id-941228fdeab84b22b747109c5eb00c5e" xsi:type="Relationship" source="id-1a6c9eedeb9b42b696f842352d75d6d4" target="id-592539fd346a45308afdff505f524412">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-8a9463f337944254baf157407f8a6bc8" relationshipRef="id-6f2dba1e29ff452493da08e5da717589" xsi:type="Relationship" source="id-88532ab080384980ae7dcd7897ef572c" target="id-add7beb568584d01965e836b023a37e4">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-d2d047b18b674a19bedf6b2482fdb8ba" relationshipRef="id-203d41f0994f418785ab9ed1ed8039cd" xsi:type="Relationship" source="id-88532ab080384980ae7dcd7897ef572c" target="id-a7b6eb6519054b33837e53ed7a6bbcb7">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-2b403b6ac4dd4524b6ec2493691356d6" relationshipRef="id-7241a0cee3e149fd8155cf6999f1d233" xsi:type="Relationship" source="id-88532ab080384980ae7dcd7897ef572c" target="id-6c2d5cc97f5d441e9061a0d9b9d3c58d">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+            <font name="Segoe UI" size="9">
+              <color r="0" g="0" b="0" />
+            </font>
+          </style>
+        </connection>
+        <connection identifier="id-e884159101fc4b5b811f5f883a02d562" relationshipRef="id-2f86997c7e7d470ba45fa424db243914" xsi:type="Relationship" source="id-00aa6986711f4b7bbf1358b87217fc0f" target="id-ba7219c5a36a40cf8e50d869b9f15f9e">
           <style>
             <lineColor r="0" g="0" b="0" />
             <font name="Segoe UI" size="9">
