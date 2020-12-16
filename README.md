@@ -1,2 +1,0 @@
-# snclivedoc
-SNC. Documentación activa
