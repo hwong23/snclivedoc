@@ -8,7 +8,7 @@
     <dc:creator>HWO</dc:creator>
     <dc:subject>Comentario cambio...</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.11</dc:identifier>
+    <dc:identifier>1.12</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -201,7 +201,7 @@ Javier: en mi opinión no se puede poner al mismo nivel la CUOC y los cinco comp
       <documentation xml:lang="en">Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
     </element>
     <element identifier="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="ApplicationInteraction">
-      <name xml:lang="en">Gestión Empleo y Productividad</name>
+      <name xml:lang="en">GRP. Gestión Empleo y Productividad</name>
     </element>
     <element identifier="id-64a726f8-5978-412a-8a14-03c1fab76439" xsi:type="ApplicationComponent">
       <name xml:lang="en">PILA</name>
@@ -267,7 +267,7 @@ Es plataforma tecnológica que facilite el seguimiento a los usuarios de los ser
 Es un servicio de información gerencial que permitirá centralizar y procesar gran cantidad de información administrativa para generar reportes, analítica y visualizaciones que informen frente a la política de empleo y de formación para el trabajo.</documentation>
     </element>
     <element identifier="id-060d72ba-f77a-408a-8fb0-2c3f156a946e" xsi:type="ApplicationCollaboration">
-      <name xml:lang="en">Application Collaboration</name>
+      <name xml:lang="en">GRP. Application Collaboration</name>
     </element>
     <element identifier="id-1d53e996-5888-48f2-be0f-321f2401ff94" xsi:type="ApplicationService">
       <name xml:lang="en">Orientación de Políticas activas y pasivas</name>
@@ -448,22 +448,43 @@ Información de brechas de capital humano en términos de brechas de cantidad, b
 Definir la bodega de datos para la gestión del empleo junto con su modelo de gobierno de datos, tomando en consideración la normatividad vigente, así como los criterios, reglas de calidad, de integridad y seguridad de los mismos. En todos los casos,  la bodega debe utilizar y aplicar taxonomías y ontologías internacionales relacionadas con el sector laboral.</documentation>
     </element>
     <element identifier="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="DataObject">
-      <name xml:lang="en">Catálogo Nacional de Cualificaciones</name>
+      <name xml:lang="en">DO01. Catálogo Nacional de Cualificaciones</name>
+      <documentation xml:lang="en">Catálogo Nacional de Cualificaciones: Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. ​</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-1">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-2">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-3">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-4">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-5">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-6">
+          <value xml:lang="en" />
+        </property>
+      </properties>
     </element>
     <element identifier="id-02b97ff09dec406dbeaa4e8e64725b31" xsi:type="DataObject">
       <name xml:lang="en">Catálogos sectoriales de cualificaciones</name>
     </element>
     <element identifier="id-0e20b1580e9e4b5582715584e13c1e9b" xsi:type="DataObject">
-      <name xml:lang="en">Saber Pro</name>
+      <name xml:lang="en">DO11. Saber Pro</name>
     </element>
     <element identifier="id-539ae40b3250451d94f071ad38a572db" xsi:type="DataObject">
-      <name xml:lang="en">Saber TYT</name>
+      <name xml:lang="en">DO12. Saber TYT</name>
     </element>
     <element identifier="id-3ea4f3a5b4c542f69ba6f94874d80714" xsi:type="DataObject">
-      <name xml:lang="en">SNIES</name>
+      <name xml:lang="en">DO10. SNIES</name>
     </element>
     <element identifier="id-a92054736b3f4ebd9e4d29128136309d" xsi:type="DataObject">
-      <name xml:lang="en">Instituciones SIET</name>
+      <name xml:lang="en">DO04. Instituciones SIET</name>
       <documentation xml:lang="en">En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
 Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
 El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;
@@ -475,24 +496,6 @@ El contenido, tal como está,no permite vinculación con la CUOC&#xD;
 &#xD;
 J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-1">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-2">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-3">
-          <value xml:lang="en">Número de la licencia</value>
-        </property>
-        <property propertyDefinitionRef="propid-4">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-5">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-6">
-          <value xml:lang="en" />
-        </property>
         <property propertyDefinitionRef="propid-7">
           <value xml:lang="en" />
         </property>
@@ -500,7 +503,7 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
           <value xml:lang="en" />
         </property>
         <property propertyDefinitionRef="propid-9">
-          <value xml:lang="en" />
+          <value xml:lang="en">Número de la licencia</value>
         </property>
         <property propertyDefinitionRef="propid-10">
           <value xml:lang="en" />
@@ -535,22 +538,40 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
         <property propertyDefinitionRef="propid-20">
           <value xml:lang="en" />
         </property>
+        <property propertyDefinitionRef="propid-21">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-22">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-23">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-24">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-25">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-26">
+          <value xml:lang="en" />
+        </property>
       </properties>
     </element>
     <element identifier="id-445c1fd9e32b491caf3709d3357d48b5" xsi:type="DataObject">
-      <name xml:lang="en">Seguimiento egresados SENA</name>
+      <name xml:lang="en">DO13. Seguimiento egresados SENA</name>
     </element>
     <element identifier="id-6d395fcc88a040fda4772bdeaecc5ffc" xsi:type="DataObject">
-      <name xml:lang="en">Mesas sectoriales</name>
+      <name xml:lang="en">DO05. Mesas sectoriales</name>
     </element>
     <element identifier="id-b916af3b3e724a1a9e0d007d1d6dec9b" xsi:type="DataObject">
       <name xml:lang="en">Agencia Pública de Empleo</name>
     </element>
     <element identifier="id-5a504dc501594788850576cee36d3572" xsi:type="DataObject">
-      <name xml:lang="en">Servicio Nacional de Empleo</name>
+      <name xml:lang="en">DO14. Servicio Nacional de Empleo</name>
     </element>
     <element identifier="id-d4c097ad201c4ade97be1c6c3ed23004" xsi:type="DataObject">
-      <name xml:lang="en">Clasificación Única de Ocupaciones para Colombia</name>
+      <name xml:lang="en">DO02. Clasificación Única de Ocupaciones para Colombia</name>
       <documentation xml:lang="en">Las clasificaciones de ocupaciones constituyen un marco para el análisis, la agregación y la descripción de los contenidos del trabajo según la estructura ocupacional del país. Documento de Diseño y Alcance de la Plataforma del Sistema Nacional de Cualificaciones (Ernst &amp; Young, 2020)&#xD;
 &#xD;
 Si bien la CUOC no hace parte de la definición del SNC en el PND, a través de las diferentes sesiones de trabajo que se llevaron a cabo se determinó que una vez construida la CUOC será un elemento central del SNC porque fungirá como “llave” para asociar la información proveniente de cada componente. Con esta clasificación se espera ir más allá del desarrollo y procesamiento de estadísticas más consistentes y potenciar el intercambio y cruce de información entre las plataformas y sistemas que tienen algún interés con el mercado laboral (Ernst &amp; Young, 2020).&#xD;
@@ -564,13 +585,13 @@ Actualmente existe un borrador de decreto concertado con DANE y SENA para la ofi
 La CUOC permite la homologación de la clasificación nacional e internacional de ocupaciones y será una herramienta que, en el marco del SNC, contiene información necesaria para la conexión de diferentes esquemas de gestión, información y valoración de conocimientos y habilidades requeridas en diferentes ocupaciones y que son adquiridas en cualquiera de las vías de cualificación existentes en Colombia. Entre algunos usos se encuentran:  EY.</documentation>
     </element>
     <element identifier="id-f4579c2e54ff42c08c8ea5589ccea5f2" xsi:type="DataObject">
-      <name xml:lang="en">PILA</name>
+      <name xml:lang="en">DO07. PILA</name>
     </element>
     <element identifier="id-3b8321c62fe748ba9fe22073b459faba" xsi:type="DataObject">
-      <name xml:lang="en">RUTEC</name>
+      <name xml:lang="en">DO08. RUTEC</name>
     </element>
     <element identifier="id-f265658d4cd74fb38a78273ea43cf555" xsi:type="DataObject">
-      <name xml:lang="en">SIACET</name>
+      <name xml:lang="en">DO09. SIACET</name>
       <documentation xml:lang="en">Para el Ministerio de Educación Nacional es importante fortalecer el acompañamiento y apoyo a las Secretarías de Educación de los entes certificados en educación, en toda la función educativa y en especial en esta oportunidad en los asuntos relacionados con la Educación para el Trabajo y el Desarrollo Humano.&#xD;
 Por esta razón, como es de su conocimiento, se ha formulado el Proyecto 2011011000287 asesoría a las secretarias de educación certificadas e instituciones de educación para el trabajo en la aplicación de estándares de calidad de programas e instituciones en Colombia. Dentro de este proyecto se realizó la construcción del Sistema de Información para el Aseguramiento de la Calidad de la Educación para el Trabajo y el Desarrollo Humano- SIACET, el cual es una herramienta tecnológica que busca soportar y facilitar las acciones previas requeridas para atender las solicitudes de aprobación de licencias de funcionamiento y de registro de programas.&#xD;
 La heterogeneidad y el número de trámites que se relacionadas con Educación para el trabajo y el desarrollo humano son factores que ponen énfasis en la necesidad de fortalecer el sistema de información integrando los ámbitos del otorgamiento de licencias de funcionamiento a instituciones y la aprobación de programas, a cargo de las Secretarías de Educación de los entes certificados.&#xD;
@@ -581,36 +602,18 @@ https://www.mineducacion.gov.co/1621/articles-353336_recurso_6.pdf&#xD;
 (Ministerio de Educación, 2016)</documentation>
     </element>
     <element identifier="id-77eeb981c3b441eda3f031d4b8a8fef8" xsi:type="DataObject">
-      <name xml:lang="en">Tabla intermedia programas SIET-CUOC ¿?.</name>
+      <name xml:lang="en">DO15. Tabla intermedia programas SIET-CUOC ¿?.</name>
       <documentation xml:lang="en">Sobre SIET&#xD;
 Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
 &#xD;
 J. J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
     </element>
     <element identifier="id-264751761385418d94488a4c3dfbe28f" xsi:type="DataObject">
-      <name xml:lang="en">Estudiantes SIET</name>
+      <name xml:lang="en">DO03. Estudiantes SIET</name>
       <documentation xml:lang="en">La Circular No. 17 de 2015, emitida por el Viceministeriode Educación Superior aclara queel artículo 5 del Decreto 2685 de 2012 modificado por el artículo 2 del Decreto 916 de 2013, establece las fechas en que las IETDHdeberán reportar al Ministerio  de  Educación  Nacional la  información  actualizada  de  los  estudiantes matriculados. Las Instituciones que ofertan ETDH en el país deben registrar en el SIET los datos de los estudiantes matriculados, el costo total del programa y los   datos   de   los   estudiantes   que   obtuvieron   su   Certificado   de   Aptitud Ocupacional,  dentro  de  los  cinco  días  hábiles  siguientes  a  la  ocurrencia  de  la novedad.&#xD;
 &#xD;
 (Ministerio de Educación, 2017)</documentation>
       <properties>
-        <property propertyDefinitionRef="propid-21">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-22">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-23">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-24">
-          <value xml:lang="en">Identificador</value>
-        </property>
-        <property propertyDefinitionRef="propid-25">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-26">
-          <value xml:lang="en" />
-        </property>
         <property propertyDefinitionRef="propid-27">
           <value xml:lang="en" />
         </property>
@@ -621,7 +624,7 @@ J. J. El objetivo es generar información sobre legalidad de las instituciones. 
           <value xml:lang="en" />
         </property>
         <property propertyDefinitionRef="propid-30">
-          <value xml:lang="en" />
+          <value xml:lang="en">Identificador</value>
         </property>
         <property propertyDefinitionRef="propid-31">
           <value xml:lang="en" />
@@ -641,21 +644,6 @@ J. J. El objetivo es generar información sobre legalidad de las instituciones. 
         <property propertyDefinitionRef="propid-36">
           <value xml:lang="en" />
         </property>
-      </properties>
-    </element>
-    <element identifier="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="DataObject">
-      <name xml:lang="en">Programas SIET</name>
-      <documentation xml:lang="en">En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
-Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
-El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;
-http://aprende.colombiaaprende.edu.co/es/node/92429&#xD;
-&#xD;
-Datos: http://siet.mineducacion.gov.co/consultasiet/programa/index.jsp?codigoInstitucion=4479#&#xD;
-&#xD;
-El contenido, tal como está,no permite vinculación con la CUOC&#xD;
-&#xD;
-J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
-      <properties>
         <property propertyDefinitionRef="propid-37">
           <value xml:lang="en" />
         </property>
@@ -663,9 +651,6 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
           <value xml:lang="en" />
         </property>
         <property propertyDefinitionRef="propid-39">
-          <value xml:lang="en" />
-        </property>
-        <property propertyDefinitionRef="propid-5">
           <value xml:lang="en" />
         </property>
         <property propertyDefinitionRef="propid-40">
@@ -677,6 +662,21 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
         <property propertyDefinitionRef="propid-42">
           <value xml:lang="en" />
         </property>
+      </properties>
+    </element>
+    <element identifier="id-59824ba4cb1746edb8f201fee8c6ea3d" xsi:type="DataObject">
+      <name xml:lang="en">DO06. Programas SIET</name>
+      <documentation xml:lang="en">En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
+Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
+El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;
+http://aprende.colombiaaprende.edu.co/es/node/92429&#xD;
+&#xD;
+Datos: http://siet.mineducacion.gov.co/consultasiet/programa/index.jsp?codigoInstitucion=4479#&#xD;
+&#xD;
+El contenido, tal como está,no permite vinculación con la CUOC&#xD;
+&#xD;
+J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
+      <properties>
         <property propertyDefinitionRef="propid-43">
           <value xml:lang="en" />
         </property>
@@ -686,7 +686,7 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
         <property propertyDefinitionRef="propid-45">
           <value xml:lang="en" />
         </property>
-        <property propertyDefinitionRef="propid-22">
+        <property propertyDefinitionRef="propid-11">
           <value xml:lang="en" />
         </property>
         <property propertyDefinitionRef="propid-46">
@@ -696,6 +696,27 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
           <value xml:lang="en" />
         </property>
         <property propertyDefinitionRef="propid-48">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-49">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-50">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-51">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-28">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-52">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-53">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-54">
           <value xml:lang="en" />
         </property>
       </properties>
@@ -737,7 +758,7 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
       <name xml:lang="en">Application Component</name>
     </element>
     <element identifier="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="ApplicationComponent">
-      <name xml:lang="en">CUOC</name>
+      <name xml:lang="en">APP. CUOC</name>
       <documentation xml:lang="en">La CUOC permite la homologación de la clasificación nacional e internacional de ocupaciones y será una herramienta que, en el marco del SNC, contiene información necesaria para la conexión de diferentes esquemas de gestión, información y valoración de conocimientos y habilidades requeridas en diferentes ocupaciones y que son adquiridas en cualquiera de las vías de cualificación existentes en Colombia. Entre algunos usos se encuentran: 
 
 --Generación de estadísticas para el seguimiento y cumplimiento de política públicas
@@ -761,6 +782,54 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
     <element identifier="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="ApplicationInterface">
       <name xml:lang="en">API11. Catálogo Nacional de Cualificaciones</name>
       <documentation xml:lang="en">Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales.</documentation>
+    </element>
+    <element identifier="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" xsi:type="DataObject">
+      <name xml:lang="en">DO16. Ficha de Cualificación (CUOC)</name>
+      <documentation xml:lang="en">Catálogo Nacional de Cualificaciones: Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. ​</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-1">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-2">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-3">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-4">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-5">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-6">
+          <value xml:lang="en" />
+        </property>
+      </properties>
+    </element>
+    <element identifier="id-ca1253d7-f228-43a0-8bb6-9f9faa05c39b" xsi:type="DataObject">
+      <name xml:lang="en">DO17. Matriz de descriptores</name>
+      <documentation xml:lang="en">Catálogo Nacional de Cualificaciones: Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. ​</documentation>
+      <properties>
+        <property propertyDefinitionRef="propid-1">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-2">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-3">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-4">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-5">
+          <value xml:lang="en" />
+        </property>
+        <property propertyDefinitionRef="propid-6">
+          <value xml:lang="en" />
+        </property>
+      </properties>
     </element>
     <element identifier="id-bae1d7be-3836-4431-b161-89da7e5d34ee" xsi:type="Goal">
       <name xml:lang="en">G04. Plataforma de información del SNC</name>
@@ -1133,7 +1202,7 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-097525d8-73d8-459e-a70f-ae83f45ec10c" source="id-441a824f-ef52-4781-8f33-28d5ff0088ca" target="id-ec3f8784-2ac4-476c-8185-621d8c267693" xsi:type="Association" />
     <relationship identifier="id-75a7c019-64a8-4f06-9cbe-75a3907dcf62" source="id-b876095a-6581-49c7-92bb-15d194293340" target="id-ec3f8784-2ac4-476c-8185-621d8c267693" xsi:type="Association" />
     <relationship identifier="id-e2602c48-0451-44a2-b207-b277e5bb6a8f" source="id-fe1060c4-12aa-479a-b051-425fa3337f38" target="id-ec3f8784-2ac4-476c-8185-621d8c267693" xsi:type="Association" />
-    <relationship identifier="id-24892aba-31c7-49bc-a561-085b27314961" source="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Serving" />
+    <relationship identifier="id-24892aba-31c7-49bc-a561-085b27314961" source="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Serving" />
     <relationship identifier="id-477abc90-197b-4e18-8c43-00eeff6cca66" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef" xsi:type="Composition" />
     <relationship identifier="id-83776054-5519-4239-970b-1bd5a461acd8" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-2354a493-b807-4377-a98c-d75d38166e9f" xsi:type="Composition" />
     <relationship identifier="id-d3d82eda-edd0-41a3-b97f-229300bdd7f9" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-cc54de94-e001-42f6-9d4f-528146acafc0" xsi:type="Composition" />
@@ -1199,6 +1268,24 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-ef46f4e9-6319-4fd9-ba98-ca60b7bc5dad" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="Composition" />
     <relationship identifier="id-34236b55-da2d-4c83-9965-7401fbb22f9c" source="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" target="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Serving" />
     <relationship identifier="id-c7a1c1ab-824c-492a-8ec8-357cee4e850e" source="id-6274526b-9f48-4476-9bac-163ad318e902" target="id-bb617734-3521-4d1e-ab68-1a6e2ff6cb3b" xsi:type="Association" />
+    <relationship identifier="id-b95a52f2-5c08-4523-87aa-a1de181841f6" source="id-55e498e3-c59b-4b1a-8e81-718b98732c4e" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Serving" />
+    <relationship identifier="id-4402535b-9552-4abe-9fc1-075016173534" source="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Serving" />
+    <relationship identifier="id-16879115-ad05-4349-953a-e18add1682e2" source="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Serving" />
+    <relationship identifier="id-b813437c-6b56-46c0-a8fc-b74e2600e163" source="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" target="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="Access" accessType="Write" />
+    <relationship identifier="id-5d130edc-0126-427b-8c86-26a9c510a21d" source="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Flow">
+      <name xml:lang="en">Catálogo Nacional de Cualif.</name>
+      <documentation xml:lang="en">Integración SNC y CUOC. Datos: Catálogo Nacional de Cualif.</documentation>
+    </relationship>
+    <relationship identifier="id-b0d7a553-0dd5-479b-b5f3-83a73f214791" source="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" target="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="Access" accessType="Write" />
+    <relationship identifier="id-f2840585-596e-4518-8f72-fbaef52a2d48" source="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Flow">
+      <name xml:lang="en">Matriz de descriptores</name>
+    </relationship>
+    <relationship identifier="id-94e690f1-e623-464b-b3f0-8282f872498c" source="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" target="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Flow">
+      <name xml:lang="en">Ficha de Cualificación</name>
+    </relationship>
+    <relationship identifier="id-5875eccd-d991-4629-8828-8d3ae4704f05" source="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" target="id-ca1253d7-f228-43a0-8bb6-9f9faa05c39b" xsi:type="Access" accessType="Write" />
+    <relationship identifier="id-c435c9ee-b629-4a5d-a4c5-bf997cfd27d7" source="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" target="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" xsi:type="Access" accessType="Write" />
+    <relationship identifier="id-6f5a8df9-919e-4fe6-b41e-2d44eacc3307" source="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" target="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" xsi:type="Access" accessType="Write" />
   </relationships>
   <organizations>
     <item>
@@ -1340,6 +1427,8 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" />
       <item identifierRef="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" />
       <item identifierRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" />
+      <item identifierRef="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" />
+      <item identifierRef="id-ca1253d7-f228-43a0-8bb6-9f9faa05c39b" />
     </item>
     <item>
       <label xml:lang="en">Motivation</label>
@@ -1588,6 +1677,17 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-ef46f4e9-6319-4fd9-ba98-ca60b7bc5dad" />
       <item identifierRef="id-34236b55-da2d-4c83-9965-7401fbb22f9c" />
       <item identifierRef="id-c7a1c1ab-824c-492a-8ec8-357cee4e850e" />
+      <item identifierRef="id-b95a52f2-5c08-4523-87aa-a1de181841f6" />
+      <item identifierRef="id-4402535b-9552-4abe-9fc1-075016173534" />
+      <item identifierRef="id-16879115-ad05-4349-953a-e18add1682e2" />
+      <item identifierRef="id-b813437c-6b56-46c0-a8fc-b74e2600e163" />
+      <item identifierRef="id-5d130edc-0126-427b-8c86-26a9c510a21d" />
+      <item identifierRef="id-b0d7a553-0dd5-479b-b5f3-83a73f214791" />
+      <item identifierRef="id-f2840585-596e-4518-8f72-fbaef52a2d48" />
+      <item identifierRef="id-94e690f1-e623-464b-b3f0-8282f872498c" />
+      <item identifierRef="id-5875eccd-d991-4629-8828-8d3ae4704f05" />
+      <item identifierRef="id-c435c9ee-b629-4a5d-a4c5-bf997cfd27d7" />
+      <item identifierRef="id-6f5a8df9-919e-4fe6-b41e-2d44eacc3307" />
     </item>
     <item>
       <label xml:lang="en">Views</label>
@@ -1611,151 +1711,170 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-0ae3c9c0-8112-4c7f-ac8a-09aedd93f067" />
       <item identifierRef="id-674de74e-3ad6-4d1c-a780-19c68360783b" />
       <item identifierRef="id-2475fdf0-4605-417f-814e-eda1080b9eb8" />
+      <item identifierRef="id-4b093f1f-63cd-46f6-bd7b-051e239d1e2f" />
     </item>
   </organizations>
   <propertyDefinitions>
-    <propertyDefinition identifier="propid-26" type="string">
+    <propertyDefinition identifier="propid-32" type="string">
       <name>Apellidos</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-12" type="string">
+    <propertyDefinition identifier="propid-18" type="string">
       <name>Barrio</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-6" type="string">
+    <propertyDefinition identifier="propid-12" type="string">
       <name>Cantidad de programas</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-14" type="string">
-      <name>Correo electrónico</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-47" type="string">
-      <name>Costos programa</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-1" type="string">
-      <name>Código institución</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-37" type="string">
-      <name>Código programa</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-38" type="string">
-      <name>Código área salud</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-9" type="string">
-      <name>Departamento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-11" type="string">
-      <name>Dirección</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-35" type="string">
-      <name>Discapacidad</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-48" type="string">
-      <name>Duración horas</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-5" type="string">
-      <name>Estado</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-28" type="string">
-      <name>Estado civil</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-31" type="string">
-      <name>Estrato</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-21" type="string">
-      <name>Fecha de ingreso</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-29" type="string">
-      <name>Fecha de nacimiento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-42" type="string">
-      <name>Fecha de registro</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-4" type="string">
-      <name>Fecha licencia de funcionamiento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-27" type="string">
-      <name>Género</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-22" type="string">
-      <name>Jornada</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-3" type="string">
-      <name>Licencia de funcionamiento</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-30" type="string">
-      <name>Lugar de residencia</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-46" type="string">
-      <name>Metodología</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-36" type="string">
-      <name>Multiculturalidad</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-10" type="string">
-      <name>Municipio</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-16" type="string">
-      <name>Naturaleza</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-33" type="string">
-      <name>Nivel de formación</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-39" type="string">
-      <name>Nombre de programa</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-18" type="string">
-      <name>Nombre director</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-2" type="string">
-      <name>Nombre institución</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-19" type="string">
-      <name>Nombre representante legal</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-25" type="string">
-      <name>Nombres</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-24" type="string">
-      <name>Número de identificación</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-41" type="string">
-      <name>Número de registro</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-34" type="string">
-      <name>Ocupación</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-17" type="string">
-      <name>Personalidad jurídica</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-15" type="string">
-      <name>Página web</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-32" type="string">
-      <name>Régimen de salud</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-8" type="string">
-      <name>Secretaría</name>
+    <propertyDefinition identifier="propid-6" type="string">
+      <name>Conocimientos</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-20" type="string">
-      <name>Sedes</name>
+      <name>Correo electrónico</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-44" type="string">
-      <name>Subtipo de ceritificado</name>
+    <propertyDefinition identifier="propid-53" type="string">
+      <name>Costos programa</name>
     </propertyDefinition>
-    <propertyDefinition identifier="propid-13" type="string">
-      <name>Teléfono</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-43" type="string">
-      <name>Tipo de certificado</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-23" type="string">
-      <name>Tipo de identificación</name>
-    </propertyDefinition>
-    <propertyDefinition identifier="propid-40" type="string">
-      <name>¿Certificación en calidad?</name>
+    <propertyDefinition identifier="propid-2" type="string">
+      <name>Código</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-7" type="string">
-      <name>¿Certificada en calidad?</name>
+      <name>Código institución</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-43" type="string">
+      <name>Código programa</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-44" type="string">
+      <name>Código área salud</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-4" type="string">
+      <name>Denominaciones ocupacionales</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-15" type="string">
+      <name>Departamento</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-3" type="string">
+      <name>Descripción de la ocupacion</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-17" type="string">
+      <name>Dirección</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-41" type="string">
+      <name>Discapacidad</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-54" type="string">
+      <name>Duración horas</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-11" type="string">
+      <name>Estado</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-34" type="string">
+      <name>Estado civil</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-37" type="string">
+      <name>Estrato</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-27" type="string">
+      <name>Fecha de ingreso</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-35" type="string">
+      <name>Fecha de nacimiento</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-48" type="string">
+      <name>Fecha de registro</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-10" type="string">
+      <name>Fecha licencia de funcionamiento</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-5" type="string">
+      <name>Funciones de la ocupación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-33" type="string">
+      <name>Género</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-28" type="string">
+      <name>Jornada</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-9" type="string">
+      <name>Licencia de funcionamiento</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-36" type="string">
+      <name>Lugar de residencia</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-52" type="string">
+      <name>Metodología</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-42" type="string">
+      <name>Multiculturalidad</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-16" type="string">
+      <name>Municipio</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-22" type="string">
+      <name>Naturaleza</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-39" type="string">
+      <name>Nivel de formación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-1" type="string">
+      <name>Nombre de la ocupacion</name>
     </propertyDefinition>
     <propertyDefinition identifier="propid-45" type="string">
+      <name>Nombre de programa</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-24" type="string">
+      <name>Nombre director</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-8" type="string">
+      <name>Nombre institución</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-25" type="string">
+      <name>Nombre representante legal</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-31" type="string">
+      <name>Nombres</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-30" type="string">
+      <name>Número de identificación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-47" type="string">
+      <name>Número de registro</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-40" type="string">
+      <name>Ocupación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-23" type="string">
+      <name>Personalidad jurídica</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-21" type="string">
+      <name>Página web</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-38" type="string">
+      <name>Régimen de salud</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-14" type="string">
+      <name>Secretaría</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-26" type="string">
+      <name>Sedes</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-50" type="string">
+      <name>Subtipo de ceritificado</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-19" type="string">
+      <name>Teléfono</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-49" type="string">
+      <name>Tipo de certificado</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-29" type="string">
+      <name>Tipo de identificación</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-46" type="string">
+      <name>¿Certificación en calidad?</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-13" type="string">
+      <name>¿Certificada en calidad?</name>
+    </propertyDefinition>
+    <propertyDefinition identifier="propid-51" type="string">
       <name>Área desempeño</name>
     </propertyDefinition>
   </propertyDefinitions>
@@ -2991,7 +3110,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2999,7 +3118,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3008,7 +3127,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3017,7 +3136,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3026,7 +3145,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3035,16 +3154,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
-                <color r="0" g="0" b="0" />
-              </font>
-            </style>
-          </node>
-          <node identifier="id-64d3cabc-fed6-4062-94db-bbe29db14e29" elementRef="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Element" x="420" y="180" w="120" h="55">
-            <style>
-              <fillColor r="181" g="255" b="255" />
-              <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3053,7 +3163,16 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-64d3cabc-fed6-4062-94db-bbe29db14e29" elementRef="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Element" x="420" y="180" w="120" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3063,7 +3182,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3072,7 +3191,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3080,7 +3199,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3089,7 +3208,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3098,7 +3217,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3107,7 +3226,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3116,7 +3235,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3125,7 +3244,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3134,7 +3253,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3143,7 +3262,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3152,7 +3271,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3161,7 +3280,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3170,7 +3289,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3179,7 +3298,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3189,17 +3308,14 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
         </node>
-        <connection identifier="id-c188d73a-6f78-41db-9037-6549c7ecf655" relationshipRef="id-24892aba-31c7-49bc-a561-085b27314961" xsi:type="Relationship" source="id-80782a7f-8f55-46be-915f-595ba360824c" target="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666">
+        <connection identifier="id-77259ca0-7289-40e2-bac3-b9316e38eff3" relationshipRef="id-16879115-ad05-4349-953a-e18add1682e2" xsi:type="Relationship" source="id-80782a7f-8f55-46be-915f-595ba360824c" target="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666">
           <style>
             <lineColor r="0" g="0" b="0" />
-            <font name="Segoe UI" size="9">
-              <color r="0" g="0" b="0" />
-            </font>
           </style>
         </connection>
         <connection identifier="id-cc3c28c5-4cb7-498c-b8fc-81dcef666abc" relationshipRef="id-816449d7-a5b5-4bc1-8fc9-1059f59672e8" xsi:type="Relationship" source="id-76a756df-4206-4ad1-862e-2bc82a14d039" target="id-09862746-1af2-42c0-a301-876d8f76ab0b">
@@ -3527,7 +3643,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3536,7 +3652,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3545,7 +3661,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3554,7 +3670,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3608,7 +3724,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3616,7 +3732,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3625,7 +3741,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3634,7 +3750,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3643,7 +3759,7 @@ EST04. El diseño e implementación del subsistema de aseguramiento de la calida
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3702,7 +3818,7 @@ version 0.02</label>
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3831,7 +3947,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3840,7 +3956,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3849,7 +3965,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3858,7 +3974,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3867,7 +3983,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3876,7 +3992,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3885,7 +4001,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3894,7 +4010,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3903,7 +4019,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3912,7 +4028,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3920,7 +4036,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3929,7 +4045,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3938,7 +4054,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3947,7 +4063,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
             <style>
               <fillColor r="204" g="204" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font>
+              <font name="Lucida Sans" size="11">
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3957,7 +4073,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3966,7 +4082,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3975,7 +4091,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3984,7 +4100,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3993,7 +4109,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4002,7 +4118,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4011,7 +4127,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4020,7 +4136,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4029,7 +4145,7 @@ Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las polí
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4050,7 +4166,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4059,7 +4175,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4068,7 +4184,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4077,7 +4193,7 @@ Fortalecer la política de empleo y de formación para el trabajo nacional que p
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5092,7 +5208,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5101,7 +5217,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5110,7 +5226,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5119,7 +5235,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -5128,7 +5244,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font>
+            <font name="Lucida Sans" size="11">
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -6184,6 +6300,100 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
+      </view>
+      <view identifier="id-4b093f1f-63cd-46f6-bd7b-051e239d1e2f" xsi:type="Diagram">
+        <name xml:lang="en">APP. SNC. Transporte e Integración</name>
+        <node identifier="id-214a3112-4603-401e-b1e8-0967dffb316a" elementRef="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Element" x="347" y="204" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-7e507a99-4d77-407e-929b-3290ee59431e" elementRef="id-0c0b600d67f248c8a0ccfbfd6305490c" xsi:type="Element" x="515" y="396" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-023bcca0-f19e-4b45-9427-5738d45dfe3d" elementRef="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Element" x="515" y="528" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-581d4ec7-c711-4580-8fac-baea287049ec" elementRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="Element" x="347" y="396" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-0239ac6d-f214-42a1-aa61-3a52457647b8" elementRef="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" xsi:type="Element" x="168" y="396" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-016a1765-4e52-45d1-b0ce-867c915870fe" elementRef="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="Element" x="168" y="528" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-d1ea4418-faea-4a04-a5c2-5ff539044217" elementRef="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" xsi:type="Element" x="167" y="624" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-79296a68-0d76-408e-bda7-b05f5097ccf0" elementRef="id-ca1253d7-f228-43a0-8bb6-9f9faa05c39b" xsi:type="Element" x="0" y="396" w="120" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <connection identifier="id-e2c4e8b3-4bd4-4eef-a06a-3e1c69dd8f7b" relationshipRef="id-b813437c-6b56-46c0-a8fc-b74e2600e163" xsi:type="Relationship" source="id-023bcca0-f19e-4b45-9427-5738d45dfe3d" target="id-7e507a99-4d77-407e-929b-3290ee59431e">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-bc1dae03-459e-46ac-91dd-cdeb5d3b6492" relationshipRef="id-6f5a8df9-919e-4fe6-b41e-2d44eacc3307" xsi:type="Relationship" source="id-023bcca0-f19e-4b45-9427-5738d45dfe3d" target="id-d1ea4418-faea-4a04-a5c2-5ff539044217">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-48eaf2ae-0833-421b-908f-f1a7cc022d3c" relationshipRef="id-b0d7a553-0dd5-479b-b5f3-83a73f214791" xsi:type="Relationship" source="id-581d4ec7-c711-4580-8fac-baea287049ec" target="id-7e507a99-4d77-407e-929b-3290ee59431e">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-01b1b9e8-fe51-4a21-9a9a-2767d94777a4" relationshipRef="id-5d130edc-0126-427b-8c86-26a9c510a21d" xsi:type="Relationship" source="id-581d4ec7-c711-4580-8fac-baea287049ec" target="id-214a3112-4603-401e-b1e8-0967dffb316a">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+          <bendpoint x="409" y="361" />
+        </connection>
+        <connection identifier="id-4211b303-1bb2-4023-b4fb-28e9d8144d6a" relationshipRef="id-f2840585-596e-4518-8f72-fbaef52a2d48" xsi:type="Relationship" source="id-0239ac6d-f214-42a1-aa61-3a52457647b8" target="id-214a3112-4603-401e-b1e8-0967dffb316a">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+          <bendpoint x="336" y="288" />
+        </connection>
+        <connection identifier="id-dbb11847-127c-4b10-9214-52503e17d3cd" relationshipRef="id-5875eccd-d991-4629-8828-8d3ae4704f05" xsi:type="Relationship" source="id-0239ac6d-f214-42a1-aa61-3a52457647b8" target="id-79296a68-0d76-408e-bda7-b05f5097ccf0">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-10fc61a4-2bd6-4cbe-ab89-38ac3fb4e2e2" relationshipRef="id-94e690f1-e623-464b-b3f0-8282f872498c" xsi:type="Relationship" source="id-016a1765-4e52-45d1-b0ce-867c915870fe" target="id-214a3112-4603-401e-b1e8-0967dffb316a">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+          <bendpoint x="300" y="474" />
+        </connection>
+        <connection identifier="id-a8803189-71ac-44f9-b611-cc8e89a52cb1" relationshipRef="id-c435c9ee-b629-4a5d-a4c5-bf997cfd27d7" xsi:type="Relationship" source="id-016a1765-4e52-45d1-b0ce-867c915870fe" target="id-d1ea4418-faea-4a04-a5c2-5ff539044217">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
       </view>
     </diagrams>
   </views>
