@@ -8,7 +8,7 @@
     <dc:creator>HWO</dc:creator>
     <dc:subject>Comentario cambio...</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.12</dc:identifier>
+    <dc:identifier>1.13</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -38,7 +38,7 @@ Son objetivos de acuerdo a esta ley: &#xD;
     </element>
     <element identifier="id-daddb2b9-47a6-4af7-a355-4d7dd92d4159" xsi:type="CourseOfAction">
       <name xml:lang="en">EST04. Implementación Subsistema Aseguramiento Calidad de la Formación</name>
-      <documentation xml:lang="en">El diseño e implementación del subsistema de aseguramiento de la calidad de la formación para el trabajo a través de la consolidación de un modelo de aseguramiento de calidad de la formación que contempla el desarrollo de estándares, metodologías, indicadores y su implementación a través de pilotos que permitirán al fortalecimiento de la capacidad técnica de los actores competentes y los prestadores del servicio de aprendizaje con lineamientos que se ajusten periódicamente a la demanda del mercado laboral, y la incorporación de estrategias de seguimiento y evaluación que permitan reorientar la oferta de formación para el trabajo.</documentation>
+      <documentation xml:lang="en">El diseño e implementación del subsistema de aseguramiento de la calidad de la formación para el trabajo a través de la consolidación de un modelo propio que contempla el desarrollo de estándares, metodologías, indicadores y su implementación a través de pilotos que permitirán al fortalecimiento de la capacidad técnica de los actores competentes y los prestadores del servicio de aprendizaje con lineamientos que se ajusten periódicamente a la demanda del mercado laboral, y la incorporación de estrategias de seguimiento y evaluación que permitan reorientar la oferta de formación para el trabajo.</documentation>
     </element>
     <element identifier="id-37e20aa4-8850-46cd-a8da-41a1da80dc0f" xsi:type="CourseOfAction">
       <name xml:lang="en">EST05. Consolidación Lineamientos del Subsistema Evaluación y Certificación Competencias</name>
@@ -75,11 +75,27 @@ Con el fin de impulsar la calidad y pertinencia de la educación y formación de
     </element>
     <element identifier="id-dd9ae622-e0b0-43be-b178-6923f1e152c0" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP4. Subsistemas Aseguramiento Calidad</name>
-      <documentation xml:lang="en">Respecto al “Aseguramiento de la Calidad”: Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes normativos, generar escenarios de transición para su implementación y, además, apoyar la reestructuración del sistema de información de la formación para el trabajo.</documentation>
+      <documentation xml:lang="en">Este componente es un conjunto de reglas, procedimientos y herramientas, las cuales buscan facilitar e incentivar la movilidad de las personas entre las distintas vías de cualificación mediante la configuración de trayectorias que sean comparables en términos de resultados de aprendizajes.​
+
+El aseguramiento de la calidad educativa requiere de un aseguramiento interno realizado por las mismas instituciones educativas y un aseguramiento externo realizado por agencias externas. 
+
+En este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado. 
+
+Respecto al “Aseguramiento de la Calidad”: Diseñar el modelo, socializarlo y validarlo, elaborar y formalizar los ajustes normativos, generar escenarios de transición para su implementación y, además, apoyar la reestructuración del sistema de información de la formación para el trabajo.</documentation>
     </element>
     <element identifier="id-4d2bb23f-9513-4cf6-92d0-b08103dad20d" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP3. Subsistema Normalización Competencias</name>
-      <documentation xml:lang="en">Respecto a “Normalización de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación.</documentation>
+      <documentation xml:lang="en">Este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado. ​
+
+Respecto a “Normalización de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación.
+
+Objetivos
+--Servir de insumo para la elaboración de programas de educación y formación.
+--Permitir la evaluación y certificación de competencias laborales.
+--Permitir la comparabilidad internacional.
+--Promover la gestión del talento humano por competencias.
+--Describir el conjunto de funciones productivas que requiere para alcanzar el propósito clave de un sector o área de objeto de análisis.
+--Describir las funciones que se desarrollan en cada ocupación</documentation>
     </element>
     <element identifier="id-279534c1-52c4-4972-b7d1-c8c79654d2d9" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP2. Esquema Movilidad Educativa y Formativa</name>
@@ -91,9 +107,11 @@ Con el fin de impulsar la calidad y pertinencia de la educación y formación de
     </element>
     <element identifier="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Product">
       <name xml:lang="en">PD04. Subsistema Evaluación y Certificación Competencias</name>
+      <documentation xml:lang="en">Este subsistema busca fomentar, regular y hacer seguimiento a la certificación de competencias laborales. Implica fomentar la gestión de talento humano por competencias en las empresas y el involucramiento del sector privado en procesos de certificación. También comprende el desarrollo de herramientas para la regulación, el fomento de la evaluación y certificación de competencias en sectores estratégicos del país y la promoción de mecanismo para registrar y publicar los certificados laborales otorgados por organismos acreditados públicos y privados de modo que los empresarios y trabajadores puedan verificar la validez de las certificaciones.​</documentation>
     </element>
     <element identifier="id-ce236631-fc5e-4589-923b-26b8b120c617" xsi:type="Product">
       <name xml:lang="en">PD03. Subsistema Normalización Competencias</name>
+      <documentation xml:lang="en">Este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado. ​</documentation>
     </element>
     <element identifier="id-91162640-9e76-4c3b-a1d8-feac0978e168" xsi:type="Product">
       <name xml:lang="en">PD02.0. Subsistemas Formación Trabajo</name>
@@ -131,11 +149,15 @@ Diseñar la arquitectura del Sistema de Información e Implementar la solución 
     </element>
     <element identifier="id-a2261efd-b869-4153-904f-aac3a90fdacc" xsi:type="BusinessService">
       <name xml:lang="en">BS06. Servicio aseguramiento calidad formación</name>
-      <documentation xml:lang="en">v) Servicio de aseguramiento de calidad de la formación para el trabajo.</documentation>
+      <documentation xml:lang="en">Este componente es un conjunto de reglas, procedimientos y herramientas, las cuales buscan facilitar e incentivar la movilidad de las personas entre las distintas vías de cualificación mediante la configuración de trayectorias que sean comparables en términos de resultados de aprendizajes.​
+
+En este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado. 
+
+El aseguramiento de la calidad educativa requiere de un aseguramiento interno realizado por las mismas instituciones educativas y un aseguramiento externo realizado por agencias externas.</documentation>
     </element>
     <element identifier="id-a28acf67-2644-42b6-b456-77ff109a1ef6" xsi:type="BusinessService">
       <name xml:lang="en">BS05. Servicio de certificación de competencias</name>
-      <documentation xml:lang="en">Servicio de certificación de competencias</documentation>
+      <documentation xml:lang="en">Este subsistema busca fomentar, regular y hacer seguimiento a la certificación de competencias laborales. Implica fomentar la gestión de talento humano por competencias en las empresas y el involucramiento del sector privado en procesos de certificación. También comprende el desarrollo de herramientas para la regulación, el fomento de la evaluación y certificación de competencias en sectores estratégicos del país y la promoción de mecanismo para registrar y publicar los certificados laborales otorgados por organismos acreditados públicos y privados de modo que los empresarios y trabajadores puedan verificar la validez de las certificaciones.​</documentation>
     </element>
     <element identifier="id-4f0a59a9-8380-4964-a3a7-286f64c24950" xsi:type="BusinessService">
       <name xml:lang="en">BS04. Servicio Fomento Oferta de Formación</name>
@@ -185,7 +207,11 @@ Desarrollar herramientas de perfilamiento para la orientación ocupacional a los
       <name xml:lang="en">PD02.1. Subsistemas Aseguramiento Calidad</name>
       <documentation xml:lang="en">Se crea el Subsistema de Formación para el Trabajo. Esta formación se estructurará en diversos niveles de complejidad, desde los iniciales hasta los más avanzados, de acuerdo con las necesidades del sector productivo. 
 
-Sus oferentes son el Servicio Nacional de Aprendizaje (SENA), las Instituciones de Educación para el Trabajo y Desarrollo Humano (ETDH) y las Instituciones de Educación Superior con oferta de formación para el trabajo que formen por competencias y cumplan los requisitos y mecanismos que para tal fin se establezcan.</documentation>
+Sus oferentes son el Servicio Nacional de Aprendizaje (SENA), las Instituciones de Educación para el Trabajo y Desarrollo Humano (ETDH) y las Instituciones de Educación Superior con oferta de formación para el trabajo que formen por competencias y cumplan los requisitos y mecanismos que para tal fin se establezcan.
+
+Este componente es un conjunto de reglas, procedimientos y herramientas, las cuales buscan facilitar e incentivar la movilidad de las personas entre las distintas vías de cualificación mediante la configuración de trayectorias que sean comparables en términos de resultados de aprendizajes.​
+
+En este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado.</documentation>
     </element>
     <element identifier="id-a3b20819140b45b1900914f3e7c5681c" xsi:type="Product">
       <name xml:lang="en">Plataforma Información SNC</name>
@@ -194,7 +220,9 @@ Javier: en mi opinión no se puede poner al mismo nivel la CUOC y los cinco comp
     </element>
     <element identifier="id-d912fa4f-1088-473f-b9ea-24c8ca637559" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP5. Subsistema de Evaluación y certificación de competencias</name>
-      <documentation xml:lang="en">Respecto a “Evaluación y certificación de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación.</documentation>
+      <documentation xml:lang="en">Este subsistema busca fomentar, regular y hacer seguimiento a la certificación de competencias laborales. Implica fomentar la gestión de talento humano por competencias en las empresas y el involucramiento del sector privado en procesos de certificación. También comprende el desarrollo de herramientas para la regulación, el fomento de la evaluación y certificación de competencias en sectores estratégicos del país y la promoción de mecanismo para registrar y publicar los certificados laborales otorgados por organismos acreditados públicos y privados de modo que los empresarios y trabajadores puedan verificar la validez de las certificaciones.​
+
+Respecto a “Evaluación y certificación de competencias”: Diseñar el subsistema, validarlo con los actores, entidades y grupos de interés, así como reglamentar y generar escenarios de transición para su implementación.</documentation>
     </element>
     <element identifier="id-58e22046-28c1-46b7-999d-8d7c6a6f2127" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP6. Plataforma de información del Sistema Nacional de Cualificaciones</name>
@@ -215,13 +243,15 @@ Propósito
 La Plataforma del SNC busca la trazabilidad y consistencia en cuanto a la Evaluación y Certificación de Movilidad y Formación para el Trabajo, la normalización de competencias, la Formación para el Trabajo, Marco Nacional de Cualificaciones y el esquema de Movilidad y Formativa. 
 
 
-Objetivos
-Los objetivos del Sistema Nacional de Cualificaciones fueron definidos en el documento “Bases del Plan de Desarrollo 2018-2020, pacto por Colombia pacto por la Equidad” con miras al mejoramiento de las condiciones de empleabilidad de los ciudadanos.  
-
---Promover una oferta formativa y educativa organizada y estructurada de calidad que esté alineada con las necesidades sociales y productivas del país
---Facilitar la adecuación y relación entre la oferta y la demanda del mercado laboral
---Promover el reconocimiento de los aprendizajes y conocimientos adquiridos lo largo de la vida
---Fomentar la movilidad educativa, formativa y laboral de las personas entre las diferentes de vías de cualificación
+Objetivos de la Plataforma
+--Brindar información de forma agregada y detallada sobre las ocupaciones, la oferta y la demanda laboral actuales y futuras del país, y las competencias requeridas por el mercado de trabajo
+--Proveer información para mejorar los procesos de gestión del talento humano basados en competencias
+--Brindar información sobre las características y contenidos de catálogos de cualificaciones y la oferta de programas de Formación para el trabajo, educación formal y procesos de reconocimiento de aprendizajes previos
+--Dar información sobre estándares, procesos y requerimientos para la acreditación de calidad de la oferta educativa y formativa y la oferta acreditada existente con el fin de orientar la elección para el desarrollo de capital humano hacia los oferentes acreditados
+--Brindar información sobre los procesos de certificación de competencias laborales y los requerimientos para alcanzar estas certificaciones
+--Brindar orientación para la elección de trayectorias formativas, educativas y laborales, procesos de certificación de competencia y rutas de servicios para mejorar la empleabilidad
+--Brindar información a los proveedores de Formación para el trabajo y educación superior sobre ajustes necesarios a su oferta para la mejora de la calidad y la pertinencia
+--Proveer información para facilitar la identificación de brechas de calidad, de pertinencia y de cantidad de la formación laboral/educativa con respecto a la demanda y oferta laboral
 
 
 La plataforma tendrá la capacidad de registrar, almacenar, administrar, procesar, actualizar y generar reportes sobre la demanda de cualificaciones y la oferta de formación para el trabajo, a partir de los siguientes elementos:
@@ -270,7 +300,7 @@ Es un servicio de información gerencial que permitirá centralizar y procesar g
       <name xml:lang="en">GRP. Application Collaboration</name>
     </element>
     <element identifier="id-1d53e996-5888-48f2-be0f-321f2401ff94" xsi:type="ApplicationService">
-      <name xml:lang="en">Orientación de Políticas activas y pasivas</name>
+      <name xml:lang="en">ASRV02. Orientación de Políticas activas y pasivas</name>
       <documentation xml:lang="en">Plataforma de información del SNC. Recoger y procesar información sobre la oferta y demanda de cualificaciones que oriente la política de empleo y de formación para el trabajo. Se vale del centro de inteligencia (bodega de datos y analítica). Estas herramientas deben permitir centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo y de formación para el trabajo.  
 
 Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinentes para diferentes tipos de actores, entre los que se destacan, las instituciones del gobierno nacional y gobiernos locales para la formulación y seguimiento de las políticas públicas, a las instituciones educativas y de formación para la estructuración y actualización de mallas curriculares con pertinencia y calidad, a los empresarios y gremios para retroalimentar su conocimiento sobre la estructura ocupacional de su sector y las competencias requeridas, a los estudiantes para tener orientación sobre lo que está demandando el mercado laboral, las principales brechas que se presentan y alternativas educativas y formativas, a la población en general.</documentation>
@@ -345,7 +375,7 @@ Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinen
       <name xml:lang="en">Otros Lineamientos de analítica</name>
     </element>
     <element identifier="id-760bd1e4-8654-40a7-9685-65a3d22ad581" xsi:type="ApplicationService">
-      <name xml:lang="en">Recolección de fuentes Oferta y Demanda de Cualificaciones</name>
+      <name xml:lang="en">ASRV01. Recolección de fuentes Oferta y Demanda de Cualificaciones</name>
     </element>
     <element identifier="id-0cf75bd3-517b-49ea-85d9-b6bbe4502d4b" xsi:type="ApplicationService">
       <name xml:lang="en">Centro de Inteligencia Información de Empleo</name>
@@ -354,16 +384,16 @@ Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinen
       <name xml:lang="en">Visualización</name>
     </element>
     <element identifier="id-1c27468b-e913-4ef6-8636-feb7cb7a3869" xsi:type="ApplicationService">
-      <name xml:lang="en">Alimentación Indicadores</name>
+      <name xml:lang="en">ASRV07. Alimentación Indicadores</name>
     </element>
     <element identifier="id-5c91c01e-cb9f-4a8c-b8b9-21987f1a86a3" xsi:type="ApplicationService">
-      <name xml:lang="en">Informes de la Política Empleo</name>
+      <name xml:lang="en">ASRV04. Informes de la Política Empleo</name>
     </element>
     <element identifier="id-64b01880-5a48-400b-ba71-46eff02a7741" xsi:type="ApplicationService">
-      <name xml:lang="en">Informes de la Formación Trabajo</name>
+      <name xml:lang="en">ASRV03. Informes de la Formación Trabajo</name>
     </element>
     <element identifier="id-26c3813e-9c46-4e81-bbd0-0ba6192252c3" xsi:type="ApplicationService">
-      <name xml:lang="en">Recolección de fuentes Políticas Empleo</name>
+      <name xml:lang="en">ASRV05. Recolección de fuentes Políticas Empleo</name>
     </element>
     <element identifier="id-cb96bdab-142a-45aa-b7df-823945e0b43f" xsi:type="ApplicationFunction">
       <name xml:lang="en">Recolección Inventivos Cesantías</name>
@@ -392,7 +422,7 @@ Adicionalmente, la plataforma permitirá generar indicadores y reportes pertinen
       <name xml:lang="en">Recolección Componente Marco Nacional de Cualificaciones</name>
     </element>
     <element identifier="id-261c579d-1bd3-4c89-8811-1694838da783" xsi:type="ApplicationService">
-      <name xml:lang="en">Publicación información para Actores</name>
+      <name xml:lang="en">ASRV06. Publicación información para Actores</name>
       <documentation xml:lang="en">se podrá identificar las brechas de capital humano existentes en el país, en términos de pertinencia y de calidad de la educación y la formación, y de esta manera, mejorar la alineación de las necesidades del sector productivo y la fuerza laboral colombiana. Asimismo, al ser una plataforma que contemplará información sobre demanda de cualificaciones y oferta de formación para el trabajo y que estará dirigida a ciudadanos, instituciones y hacedores de política de empleo, se podrá publicar información útil sobre las vacantes y ocupaciones más demandadas y aquellas que perderán relevancia, procesos consultivos con empresarios (ejercicios de prospectiva y mesas sectoriales), junto con información de vacantes de difícil colocación. También información sobre la oferta de formación para el trabajo, la descripción de los contenidos curriculares de programas e instituciones, así como resultados en empleabilidad y calidad de aprendizaje que podrán dar solución a la información incompleta y dispersa de capital humano que actualmente existe en el país y que no se articula entre sí, generando altos costos financieros y operativos a diferentes instituciones.</documentation>
     </element>
     <element identifier="id-4237549d-bc2e-4d06-a0fe-ecfdee04f8ad" xsi:type="ApplicationService">
@@ -432,7 +462,9 @@ Información de brechas de capital humano en términos de brechas de cantidad, b
     </element>
     <element identifier="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95" xsi:type="ApplicationInterface">
       <name xml:lang="en">API7. Información del componente de normalización de competencias</name>
-      <documentation xml:lang="en">Información del componente de normalización de competencias (componente del SNC): normas de competencia laboral, instancias normalizadoras, mapas funcionales, entre otros.</documentation>
+      <documentation xml:lang="en">Información del componente de normalización de competencias (componente del SNC): normas de competencia laboral, instancias normalizadoras, mapas funcionales, entre otros.
+
+Este subsistema busca desarrollar estándares reconocidos a nivel nacional mediante normas que definen las actividades clave, los criterios de desempeño específicos y generales, los conocimientos esenciales y las evidencias requeridas para demostrar el desempeño competente del trabajador de acuerdo con lo requerido por el mercado. ​</documentation>
     </element>
     <element identifier="id-761e9a24-9350-4de3-a864-e2cad4e21eaa" xsi:type="ApplicationInterface">
       <name xml:lang="en">API8. Información del componente del Marco Nacional de Cualificaciones</name>
@@ -727,9 +759,6 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
     <element identifier="id-d06e75f4bf7c40ae8517e226c2bc603f" xsi:type="ApplicationComponent">
       <name xml:lang="en">Plataforma de información</name>
     </element>
-    <element identifier="id-9f5d61811b544f6da4a684d25dabeb35" xsi:type="ApplicationComponent">
-      <name xml:lang="en">Plataforma de Información SNC</name>
-    </element>
     <element identifier="id-d510c4e2214447e5969afd13c9f516bf" xsi:type="ApplicationService">
       <name xml:lang="en">Información sobre Demanda laboral</name>
     </element>
@@ -747,6 +776,7 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
     </element>
     <element identifier="id-171d8700238b4dd59525ab6e010359f6" xsi:type="ApplicationService">
       <name xml:lang="en">Información sobre evaluación y certificación de competencias</name>
+      <documentation xml:lang="en">Este subsistema busca fomentar, regular y hacer seguimiento a la certificación de competencias laborales. Implica fomentar la gestión de talento humano por competencias en las empresas y el involucramiento del sector privado en procesos de certificación. También comprende el desarrollo de herramientas para la regulación, el fomento de la evaluación y certificación de competencias en sectores estratégicos del país y la promoción de mecanismo para registrar y publicar los certificados laborales otorgados por organismos acreditados públicos y privados de modo que los empresarios y trabajadores puedan verificar la validez de las certificaciones.​</documentation>
     </element>
     <element identifier="id-20666b6de3b1467ead1eb563c73278ba" xsi:type="ApplicationService">
       <name xml:lang="en">Indicadores de resultado y de impacto</name>
@@ -830,6 +860,16 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
           <value xml:lang="en" />
         </property>
       </properties>
+    </element>
+    <element identifier="id-58b59c3a-4b1b-4896-9d44-28ff1a4c6f49" xsi:type="ApplicationInterface">
+      <name xml:lang="en">API12. Esquema de movilidad educativa y formativa</name>
+      <documentation xml:lang="en">Este componente es un conjunto de reglas, procedimientos y herramientas, las cuales buscan facilitar e incentivar la movilidad de las personas entre las distintas vías de cualificación mediante la configuración de trayectorias que sean comparables en términos de resultados de aprendizajes.​
+
+El aseguramiento de la calidad educativa requiere de un aseguramiento interno realizado por las mismas instituciones educativas y un aseguramiento externo realizado por agencias externas.</documentation>
+    </element>
+    <element identifier="id-521e31e2-7ca5-4076-9570-3e303233f47d" xsi:type="ApplicationComponent">
+      <name xml:lang="en">APP. CONACES</name>
+      <documentation xml:lang="en">Para este último, la Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la Educación –CONACES es la encargada de la coordinación y orientación del aseguramiento de la calidad de la educación superior y la evaluación del cumplimiento de los requisitos para la creación, transformación y redefinición de instituciones de educación superior y sus programas académicos mediante pares educativos.</documentation>
     </element>
     <element identifier="id-bae1d7be-3836-4431-b161-89da7e5d34ee" xsi:type="Goal">
       <name xml:lang="en">G04. Plataforma de información del SNC</name>
@@ -1007,8 +1047,40 @@ Diagnóstico de Fuentes de Información para la Plataforma del Sistema Nacional 
       <name xml:lang="en">DR10. Baja articulación entre oferta y demanda laboral</name>
       <documentation xml:lang="en">La baja articulación entre la oferta y la demanda laboral explica por: la baja cobertura y efectividad del SPE, y las dificultades para realizar el seguimiento y monitoreo de resultados de las políticas activas y pasivas de empleo. CONPES</documentation>
     </element>
+    <element identifier="id-62942782-4f70-4491-90f6-c62a4d217950" xsi:type="Requirement">
+      <name xml:lang="en">RQ01. Brindar información de ocupaciones, oferta y competencias</name>
+      <documentation xml:lang="en">--Brindar información de forma agregada y detallada sobre las ocupaciones, la oferta y la demanda laboral actuales y futuras del país, y las competencias requeridas por el mercado de trabajo.</documentation>
+    </element>
+    <element identifier="id-2a224bae-1f46-4311-ae9e-0899f64802f7" xsi:type="Requirement">
+      <name xml:lang="en">RQ02. Proveer información de procesos de talento humano</name>
+      <documentation xml:lang="en">--Proveer información para mejorar los procesos de gestión del talento humano basados en competencias.</documentation>
+    </element>
+    <element identifier="id-20a241b4-e84f-473c-bad6-b02927a2fa64" xsi:type="Requirement">
+      <name xml:lang="en">RQ03. Brindar información del CUOC y oferta de programas</name>
+      <documentation xml:lang="en">Brindar información sobre las características y contenidos de catálogos de cualificaciones y la oferta de programas de Formación para el trabajo, educación formal y procesos de reconocimiento de aprendizajes previos.​</documentation>
+    </element>
+    <element identifier="id-c8e505d1-128f-4e8b-a28d-d666665db840" xsi:type="Requirement">
+      <name xml:lang="en">RQ04. Dar información de acreditación de calidad educativa</name>
+      <documentation xml:lang="en">--Dar información sobre estándares, procesos y requerimientos para la acreditación de calidad de la oferta educativa y formativa y la oferta acreditada existente con el fin de orientar la elección para el desarrollo de capital humano hacia los oferentes acreditados.</documentation>
+    </element>
+    <element identifier="id-a13fd8c1-8e0e-4622-bfb8-5298ec8c9f1e" xsi:type="Requirement">
+      <name xml:lang="en">RQ05. Brindar información de procesos de certificación</name>
+      <documentation xml:lang="en">--Brindar información sobre los procesos de certificación de competencias laborales y los requerimientos para alcanzar estas certificaciones.</documentation>
+    </element>
+    <element identifier="id-5f7ea8b0-a922-41a8-84bf-af4dc8d3701a" xsi:type="Requirement">
+      <name xml:lang="en">RQ06. Brindar orientación a trayectoras formativas</name>
+      <documentation xml:lang="en">--Brindar orientación para la elección de trayectorias formativas, educativas y laborales, procesos de certificación de competencia y rutas de servicios para mejorar la empleabilidad.</documentation>
+    </element>
+    <element identifier="id-cbb767f3-a823-4b5a-b7c0-e2a92de4d4ee" xsi:type="Requirement">
+      <name xml:lang="en">RQ07.  Brindar información a proveedores de formación</name>
+      <documentation xml:lang="en">--Brindar información a los proveedores de Formación para el trabajo y educación superior sobre ajustes necesarios a su oferta para la mejora de la calidad y la pertinencia.</documentation>
+    </element>
+    <element identifier="id-3002497d-2d8b-49fc-a3b9-b57c2078a656" xsi:type="Requirement">
+      <name xml:lang="en">RQ08. Proveer información para identificación de brechas de calidad formación</name>
+      <documentation xml:lang="en">--Proveer información para facilitar la identificación de brechas de calidad, de pertinencia y de cantidad de la formación laboral/educativa con respecto a la demanda y oferta laboral.</documentation>
+    </element>
     <element identifier="id-ec3f8784-2ac4-476c-8185-621d8c267693" xsi:type="WorkPackage">
-      <name xml:lang="en">(proyecto) Programa para Fortalecer Políticas de Empleo (CO-L1250)</name>
+      <name xml:lang="en">PRY01. Programa para Fortalecer Políticas de Empleo (CO-L1250)</name>
       <documentation xml:lang="en">El presente proyecto se traduce en importantes impactos para el sector trabajo en términos de
 
 --La articulación entre la demanda laboral y la oferta laboral y formativa
@@ -1047,19 +1119,19 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <name xml:lang="en">ENT03. Servicio de asistencia técnica para el fortalecimiento de la red de prestadores del SPE</name>
     </element>
     <element identifier="id-eaa00c8a-521e-435b-83fd-565230b9f809" xsi:type="WorkPackage">
-      <name xml:lang="en">Diseño de solución</name>
+      <name xml:lang="en">ENT04. Diseño de solución</name>
     </element>
     <element identifier="id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a" xsi:type="WorkPackage">
-      <name xml:lang="en">Diseño de datos y gobierno</name>
+      <name xml:lang="en">ENT06. Diseño de datos y gobierno</name>
     </element>
     <element identifier="id-bf414e26-2032-4ff7-b811-b94cd621c518" xsi:type="WorkPackage">
-      <name xml:lang="en">Diseño de infraestructura</name>
+      <name xml:lang="en">ENT05. Diseño de infraestructura</name>
     </element>
     <element identifier="id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f" xsi:type="WorkPackage">
-      <name xml:lang="en">Modelo operacional y sostenibilidad</name>
+      <name xml:lang="en">ENT07. Modelo operacional y sostenibilidad</name>
     </element>
     <element identifier="id-282dce6b-bf1a-4454-b4db-f685636ff44b" xsi:type="WorkPackage">
-      <name xml:lang="en">Estructuración de proceso (RFP)</name>
+      <name xml:lang="en">ENT08. Estructuración de proceso (RFP)</name>
     </element>
   </elements>
   <relationships>
@@ -1286,6 +1358,15 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-5875eccd-d991-4629-8828-8d3ae4704f05" source="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" target="id-ca1253d7-f228-43a0-8bb6-9f9faa05c39b" xsi:type="Access" accessType="Write" />
     <relationship identifier="id-c435c9ee-b629-4a5d-a4c5-bf997cfd27d7" source="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" target="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" xsi:type="Access" accessType="Write" />
     <relationship identifier="id-6f5a8df9-919e-4fe6-b41e-2d44eacc3307" source="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" target="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" xsi:type="Access" accessType="Write" />
+    <relationship identifier="id-05c86a89-b6d2-47f9-adc1-b7ac08dbf9e5" source="id-88ba3294-eae0-46ff-9c0c-e678f0525724" target="id-58b59c3a-4b1b-4896-9d44-28ff1a4c6f49" xsi:type="Composition" />
+    <relationship identifier="id-2608b06f-dfb3-4c49-89df-424024aa9e83" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-62942782-4f70-4491-90f6-c62a4d217950" xsi:type="Realization" />
+    <relationship identifier="id-96405e59-7e02-4626-83f8-45a7d32488fe" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-20a241b4-e84f-473c-bad6-b02927a2fa64" xsi:type="Realization" />
+    <relationship identifier="id-dbf72dd6-72ab-43a9-8ea3-c534ba00e7ea" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-2a224bae-1f46-4311-ae9e-0899f64802f7" xsi:type="Realization" />
+    <relationship identifier="id-0ab522c7-48e1-4c3f-9641-7a1ed75426a0" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-c8e505d1-128f-4e8b-a28d-d666665db840" xsi:type="Realization" />
+    <relationship identifier="id-416b1f1d-8384-4e71-a7af-e02209a1e1de" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-a13fd8c1-8e0e-4622-bfb8-5298ec8c9f1e" xsi:type="Realization" />
+    <relationship identifier="id-59a96e5e-e0c9-4993-979e-7ed4060a5c56" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-cbb767f3-a823-4b5a-b7c0-e2a92de4d4ee" xsi:type="Realization" />
+    <relationship identifier="id-3590561f-dabc-41a0-9171-4474e3a66ded" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-3002497d-2d8b-49fc-a3b9-b57c2078a656" xsi:type="Realization" />
+    <relationship identifier="id-6b065703-c77d-4b69-8351-365145e33037" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-5f7ea8b0-a922-41a8-84bf-af4dc8d3701a" xsi:type="Realization" />
   </relationships>
   <organizations>
     <item>
@@ -1412,7 +1493,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-59824ba4cb1746edb8f201fee8c6ea3d" />
       <item identifierRef="id-2ef748d4f4994576a5e386ff4daa7a81" />
       <item identifierRef="id-d06e75f4bf7c40ae8517e226c2bc603f" />
-      <item identifierRef="id-9f5d61811b544f6da4a684d25dabeb35" />
       <item identifierRef="id-d510c4e2214447e5969afd13c9f516bf" />
       <item identifierRef="id-bffcfc7fdcf74f1d82c6a90fe1f39645" />
       <item identifierRef="id-6271a0c788a7471e84a218a5042fde24" />
@@ -1429,6 +1509,8 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" />
       <item identifierRef="id-4bcbb612-1436-451e-bab9-2db6a41f67a2" />
       <item identifierRef="id-ca1253d7-f228-43a0-8bb6-9f9faa05c39b" />
+      <item identifierRef="id-58b59c3a-4b1b-4896-9d44-28ff1a4c6f49" />
+      <item identifierRef="id-521e31e2-7ca5-4076-9570-3e303233f47d" />
     </item>
     <item>
       <label xml:lang="en">Motivation</label>
@@ -1461,6 +1543,14 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-6a42e11002244852a09e5865d27e1896" />
       <item identifierRef="id-af0c10de3ece4b7ba81b3f091c12571d" />
       <item identifierRef="id-3f9be124f52b49649d20f5658b44c530" />
+      <item identifierRef="id-62942782-4f70-4491-90f6-c62a4d217950" />
+      <item identifierRef="id-2a224bae-1f46-4311-ae9e-0899f64802f7" />
+      <item identifierRef="id-20a241b4-e84f-473c-bad6-b02927a2fa64" />
+      <item identifierRef="id-c8e505d1-128f-4e8b-a28d-d666665db840" />
+      <item identifierRef="id-a13fd8c1-8e0e-4622-bfb8-5298ec8c9f1e" />
+      <item identifierRef="id-5f7ea8b0-a922-41a8-84bf-af4dc8d3701a" />
+      <item identifierRef="id-cbb767f3-a823-4b5a-b7c0-e2a92de4d4ee" />
+      <item identifierRef="id-3002497d-2d8b-49fc-a3b9-b57c2078a656" />
     </item>
     <item>
       <label xml:lang="en">Implementation &amp; Migration</label>
@@ -1688,6 +1778,15 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-5875eccd-d991-4629-8828-8d3ae4704f05" />
       <item identifierRef="id-c435c9ee-b629-4a5d-a4c5-bf997cfd27d7" />
       <item identifierRef="id-6f5a8df9-919e-4fe6-b41e-2d44eacc3307" />
+      <item identifierRef="id-05c86a89-b6d2-47f9-adc1-b7ac08dbf9e5" />
+      <item identifierRef="id-2608b06f-dfb3-4c49-89df-424024aa9e83" />
+      <item identifierRef="id-96405e59-7e02-4626-83f8-45a7d32488fe" />
+      <item identifierRef="id-dbf72dd6-72ab-43a9-8ea3-c534ba00e7ea" />
+      <item identifierRef="id-0ab522c7-48e1-4c3f-9641-7a1ed75426a0" />
+      <item identifierRef="id-416b1f1d-8384-4e71-a7af-e02209a1e1de" />
+      <item identifierRef="id-59a96e5e-e0c9-4993-979e-7ed4060a5c56" />
+      <item identifierRef="id-3590561f-dabc-41a0-9171-4474e3a66ded" />
+      <item identifierRef="id-6b065703-c77d-4b69-8351-365145e33037" />
     </item>
     <item>
       <label xml:lang="en">Views</label>
@@ -1925,6 +2024,24 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
+          </style>
+        </node>
+        <node identifier="id-3a3ac2d6-96a7-4db7-8d24-b3635ee9d2e0" elementRef="id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf" xsi:type="Element" x="141" y="78" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-ee5c7dfd-90ec-44d4-9f62-f4727a2161fa" elementRef="id-be65ba54-c58a-422a-a03f-0de04b8baa6a" xsi:type="Element" x="291" y="78" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-cec173a0-bdc1-44b9-9310-bef27857f0c3" elementRef="id-43b384bc-b535-45da-93e7-da60e248e125" xsi:type="Element" x="444" y="78" w="120" h="55">
+          <style>
+            <fillColor r="255" g="224" b="224" />
+            <lineColor r="92" g="92" b="92" />
           </style>
         </node>
       </view>
@@ -2534,10 +2651,15 @@ Este nuevo servicio de información permitirá consolidar una plataforma tecnol�
 
 Los objetivos del Sistema Nacional de Cualificaciones fueron definidos en el documento “Bases del Plan de Desarrollo 2018-2020, pacto por Colombia pacto por la Equidad” con miras al mejoramiento de las condiciones de empleabilidad de los ciudadanos.  
 
---Promover una oferta formativa y educativa organizada y estructurada de calidad que esté alineada con las necesidades sociales y productivas del país
---Facilitar la adecuación y relación entre la oferta y la demanda del mercado laboral
---Promover el reconocimiento de los aprendizajes y conocimientos adquiridos lo largo de la vida
---Fomentar la movilidad educativa, formativa y laboral de las personas entre las diferentes de vías de cualificación
+Objetivos específicos de la Plataforma
+--Brindar información de forma agregada y detallada sobre las ocupaciones, la oferta y la demanda laboral actuales y futuras del país, y las competencias requeridas por el mercado de trabajo
+--Proveer información para mejorar los procesos de gestión del talento humano basados en competencias
+--Brindar información sobre las características y contenidos de catálogos de cualificaciones y la oferta de programas de Formación para el trabajo, educación formal y procesos de reconocimiento de aprendizajes previos
+--Dar información sobre estándares, procesos y requerimientos para la acreditación de calidad de la oferta educativa y formativa y la oferta acreditada existente con el fin de orientar la elección para el desarrollo de capital humano hacia los oferentes acreditados
+--Brindar información sobre los procesos de certificación de competencias laborales y los requerimientos para alcanzar estas certificaciones
+--Brindar orientación para la elección de trayectorias formativas, educativas y laborales, procesos de certificación de competencia y rutas de servicios para mejorar la empleabilidad
+--Brindar información a los proveedores de Formación para el trabajo y educación superior sobre ajustes necesarios a su oferta para la mejora de la calidad y la pertinencia
+--Proveer información para facilitar la identificación de brechas de calidad, de pertinencia y de cantidad de la formación laboral/educativa con respecto a la demanda y oferta laboral
 
 
 La Plataforma del SNC busca la trazabilidad y consistencia en cuanto a la Evaluación y Certificación de Movilidad y Formación para el Trabajo, la normalización de competencias, la Formación para el Trabajo, Marco Nacional de Cualificaciones y el esquema de Movilidad y Formativa. 
@@ -2555,7 +2677,7 @@ Alimentación Indicadores</documentation>
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2564,7 +2686,7 @@ Alimentación Indicadores</documentation>
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2573,7 +2695,7 @@ Alimentación Indicadores</documentation>
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2582,7 +2704,7 @@ Alimentación Indicadores</documentation>
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2591,7 +2713,7 @@ Alimentación Indicadores</documentation>
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2624,7 +2746,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -2633,7 +2755,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -2642,7 +2764,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -2651,7 +2773,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -2660,7 +2782,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -2669,7 +2791,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -2678,7 +2800,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -2689,7 +2811,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="255" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2698,7 +2820,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2707,7 +2829,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2716,7 +2838,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2725,7 +2847,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2734,7 +2856,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2743,7 +2865,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2752,7 +2874,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2761,7 +2883,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2771,7 +2893,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="255" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2781,7 +2903,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="255" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -2995,7 +3117,7 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3003,7 +3125,7 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3012,7 +3134,7 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3021,7 +3143,7 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -3031,7 +3153,7 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3040,9 +3162,57 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
+          </style>
+        </node>
+        <node identifier="id-273bd771-4c9d-4c6b-bd57-c3c7a4e48d87" elementRef="id-62942782-4f70-4491-90f6-c62a4d217950" xsi:type="Element" x="492" y="79" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-79d31476-f866-4f8b-a248-99edc39440e6" elementRef="id-2a224bae-1f46-4311-ae9e-0899f64802f7" xsi:type="Element" x="492" y="144" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-9ca2e42f-7d98-4c4c-9133-2e17ba81d830" elementRef="id-20a241b4-e84f-473c-bad6-b02927a2fa64" xsi:type="Element" x="648" y="79" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-48339fdd-c4b3-437b-9efd-ad976053e6f8" elementRef="id-c8e505d1-128f-4e8b-a28d-d666665db840" xsi:type="Element" x="648" y="144" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-992a307b-c044-4980-aaac-0a0e8d2f0a8a" elementRef="id-a13fd8c1-8e0e-4622-bfb8-5298ec8c9f1e" xsi:type="Element" x="492" y="204" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-b6a0c356-4763-4f8e-adae-e2fe629c4bce" elementRef="id-5f7ea8b0-a922-41a8-84bf-af4dc8d3701a" xsi:type="Element" x="648" y="204" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-0489d047-5f4b-41ed-8091-f3265a761b09" elementRef="id-cbb767f3-a823-4b5a-b7c0-e2a92de4d4ee" xsi:type="Element" x="804" y="79" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-6f7d1994-c60f-47d9-9188-9212d3f3cf91" elementRef="id-3002497d-2d8b-49fc-a3b9-b57c2078a656" xsi:type="Element" x="804" y="144" w="147" h="55">
+          <style>
+            <fillColor r="204" g="204" b="255" />
+            <lineColor r="92" g="92" b="92" />
           </style>
         </node>
         <connection identifier="id-124478a2-67ae-439c-bee1-7ad66975c54d" relationshipRef="id-ce4c1c17-8b5b-4405-9b84-9f212c2e8d0e" xsi:type="Relationship" source="id-9b840e6f-8a7a-40ee-8a64-814dd6bf6c8e" target="id-3f01e56e-8435-463e-b75c-774f9fe8aa83">
@@ -3059,6 +3229,46 @@ Finalmente, este nuevo servicio de información permitirá consolidar unaesta pl
             <font name="Segoe UI" size="9">
               <color r="0" g="0" b="0" />
             </font>
+          </style>
+        </connection>
+        <connection identifier="id-8f64990a-c4b7-416f-9904-68da11e7c74c" relationshipRef="id-2608b06f-dfb3-4c49-89df-424024aa9e83" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-273bd771-4c9d-4c6b-bd57-c3c7a4e48d87">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-7715247a-51de-4eb6-9188-55b25570a598" relationshipRef="id-96405e59-7e02-4626-83f8-45a7d32488fe" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-9ca2e42f-7d98-4c4c-9133-2e17ba81d830">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-005ac509-b30d-4321-a6f5-0609f1b77b5b" relationshipRef="id-dbf72dd6-72ab-43a9-8ea3-c534ba00e7ea" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-79d31476-f866-4f8b-a248-99edc39440e6">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-d4beb0aa-d9ff-4afc-a814-a8f75e34d901" relationshipRef="id-0ab522c7-48e1-4c3f-9641-7a1ed75426a0" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-48339fdd-c4b3-437b-9efd-ad976053e6f8">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-5ef159d6-592e-4c98-b928-89fe78fa0c2e" relationshipRef="id-416b1f1d-8384-4e71-a7af-e02209a1e1de" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-992a307b-c044-4980-aaac-0a0e8d2f0a8a">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-82aba65d-6880-4d83-a999-3adeac7be2f7" relationshipRef="id-59a96e5e-e0c9-4993-979e-7ed4060a5c56" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-0489d047-5f4b-41ed-8091-f3265a761b09">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-3e0ef763-0469-4729-8469-e5f871e6c44a" relationshipRef="id-3590561f-dabc-41a0-9171-4474e3a66ded" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-6f7d1994-c60f-47d9-9188-9212d3f3cf91">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-823ba2e2-575e-422b-b652-5fdb336a38b9" relationshipRef="id-6b065703-c77d-4b69-8351-365145e33037" xsi:type="Relationship" source="id-97e3af1c-94ae-4ab9-9d2e-82426f59aa6e" target="id-b6a0c356-4763-4f8e-adae-e2fe629c4bce">
+          <style>
+            <lineColor r="0" g="0" b="0" />
           </style>
         </connection>
         <connection identifier="id-c844265e-acd8-4960-bc8e-9fd934679655" relationshipRef="id-a8d5554c-86bd-4bdf-8026-37f029a8aebc" xsi:type="Relationship" source="id-c2b4633d-bdae-4055-8bdf-c8453079bd5b" target="id-3f01e56e-8435-463e-b75c-774f9fe8aa83">
@@ -3106,7 +3316,7 @@ Información del componente de acreditación y calidad de las ETDH (componente d
 Información del componente de normalización de competencias (componente del SNC): normas de competencia laboral, instancias normalizadoras, mapas funcionales, entre otros.
 
 Información del componente del Marco Nacional de Cualificaciones: catálogos de cualificaciones de las diferentes áreas de cualificación.</documentation>
-        <node identifier="id-80782a7f-8f55-46be-915f-595ba360824c" elementRef="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="Element" x="24" y="84" w="589" h="253">
+        <node identifier="id-80782a7f-8f55-46be-915f-595ba360824c" elementRef="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="Element" x="276" y="12" w="589" h="253">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -3114,7 +3324,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-aec79ff7-df88-4c52-9a35-924cd0cb82f0" elementRef="id-64a726f8-5978-412a-8a14-03c1fab76439" xsi:type="Element" x="104" y="180" w="120" h="55">
+          <node identifier="id-aec79ff7-df88-4c52-9a35-924cd0cb82f0" elementRef="id-64a726f8-5978-412a-8a14-03c1fab76439" xsi:type="Element" x="356" y="108" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3123,7 +3333,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-3fb9e166-6a44-4195-b60c-32f3373b6c15" elementRef="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6" xsi:type="Element" x="105" y="241" w="120" h="55">
+          <node identifier="id-3fb9e166-6a44-4195-b60c-32f3373b6c15" elementRef="id-40a56c7e-f90a-466c-a97b-b9296cd98cf6" xsi:type="Element" x="357" y="169" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3132,7 +3342,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-a42e1c39-49f0-4b17-ac0b-aa26b0e8a273" elementRef="id-cab3ccbb-f93d-4eb4-94ff-d439f568e1b3" xsi:type="Element" x="264" y="180" w="120" h="55">
+          <node identifier="id-a42e1c39-49f0-4b17-ac0b-aa26b0e8a273" elementRef="id-cab3ccbb-f93d-4eb4-94ff-d439f568e1b3" xsi:type="Element" x="516" y="108" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3141,7 +3351,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-76a756df-4206-4ad1-862e-2bc82a14d039" elementRef="id-802dfc0a-c6b0-470d-8fe1-eea64523e869" xsi:type="Element" x="420" y="240" w="120" h="55">
+          <node identifier="id-76a756df-4206-4ad1-862e-2bc82a14d039" elementRef="id-802dfc0a-c6b0-470d-8fe1-eea64523e869" xsi:type="Element" x="672" y="168" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3150,7 +3360,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-09862746-1af2-42c0-a301-876d8f76ab0b" elementRef="id-55e498e3-c59b-4b1a-8e81-718b98732c4e" xsi:type="Element" x="264" y="241" w="120" h="55">
+          <node identifier="id-09862746-1af2-42c0-a301-876d8f76ab0b" elementRef="id-55e498e3-c59b-4b1a-8e81-718b98732c4e" xsi:type="Element" x="516" y="169" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3159,7 +3369,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-b5f1099d-1dc0-4f74-821d-46e9a9ef5742" elementRef="id-5f82ef51-97e3-45e7-97e1-b04e7deb82b1" xsi:type="Element" x="420" y="120" w="120" h="55">
+          <node identifier="id-b5f1099d-1dc0-4f74-821d-46e9a9ef5742" elementRef="id-5f82ef51-97e3-45e7-97e1-b04e7deb82b1" xsi:type="Element" x="672" y="48" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3168,7 +3378,16 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-64d3cabc-fed6-4062-94db-bbe29db14e29" elementRef="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Element" x="420" y="180" w="120" h="55">
+          <node identifier="id-64d3cabc-fed6-4062-94db-bbe29db14e29" elementRef="id-01765bbf-be50-48f0-8ca3-8919222e3aa5" xsi:type="Element" x="672" y="108" w="120" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font>
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-89e8f6f0-fb41-4cee-800b-d5699c4d7480" elementRef="id-521e31e2-7ca5-4076-9570-3e303233f47d" xsi:type="Element" x="516" y="48" w="120" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3178,7 +3397,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             </style>
           </node>
         </node>
-        <node identifier="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666" elementRef="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Element" x="264" y="408" w="120" h="55">
+        <node identifier="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666" elementRef="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" xsi:type="Element" x="516" y="336" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -3187,7 +3406,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             </font>
           </style>
         </node>
-        <node identifier="id-77b13fc7-de4a-4d18-847a-700c136c4a85" elementRef="id-88ba3294-eae0-46ff-9c0c-e678f0525724" xsi:type="Element" x="25" y="528" w="588" h="325">
+        <node identifier="id-77b13fc7-de4a-4d18-847a-700c136c4a85" elementRef="id-88ba3294-eae0-46ff-9c0c-e678f0525724" xsi:type="Element" x="12" y="456" w="852" h="325">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
@@ -3195,7 +3414,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               <color r="0" g="0" b="0" />
             </font>
           </style>
-          <node identifier="id-d23ff7cb-cf94-4f1d-8ab1-4b0c6686a6a6" elementRef="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef" xsi:type="Element" x="240" y="696" w="161" h="55">
+          <node identifier="id-d23ff7cb-cf94-4f1d-8ab1-4b0c6686a6a6" elementRef="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef" xsi:type="Element" x="227" y="624" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3204,7 +3423,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-12a5bb14-b14a-4ba1-9513-1e0582725217" elementRef="id-2354a493-b807-4377-a98c-d75d38166e9f" xsi:type="Element" x="414" y="573" w="161" h="55">
+          <node identifier="id-12a5bb14-b14a-4ba1-9513-1e0582725217" elementRef="id-2354a493-b807-4377-a98c-d75d38166e9f" xsi:type="Element" x="401" y="501" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3213,7 +3432,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-fa75f30a-8e19-47b6-865c-7493b386a526" elementRef="id-cc54de94-e001-42f6-9d4f-528146acafc0" xsi:type="Element" x="63" y="696" w="161" h="55">
+          <node identifier="id-fa75f30a-8e19-47b6-865c-7493b386a526" elementRef="id-cc54de94-e001-42f6-9d4f-528146acafc0" xsi:type="Element" x="50" y="624" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3222,7 +3441,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-9bdfb445-9f8e-4617-9d07-b45857b7cef9" elementRef="id-761e9a24-9350-4de3-a864-e2cad4e21eaa" xsi:type="Element" x="414" y="696" w="161" h="55">
+          <node identifier="id-9bdfb445-9f8e-4617-9d07-b45857b7cef9" elementRef="id-761e9a24-9350-4de3-a864-e2cad4e21eaa" xsi:type="Element" x="401" y="624" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3231,7 +3450,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-00efd51d-04e4-49b7-a199-e034478424a5" elementRef="id-a6c977bf-f571-4fa0-b0dd-c4dcd3744403" xsi:type="Element" x="240" y="636" w="161" h="55">
+          <node identifier="id-00efd51d-04e4-49b7-a199-e034478424a5" elementRef="id-a6c977bf-f571-4fa0-b0dd-c4dcd3744403" xsi:type="Element" x="227" y="564" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3240,7 +3459,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-4c6a0d46-68cf-4e99-b1a1-7d15febedf8a" elementRef="id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d" xsi:type="Element" x="63" y="573" w="161" h="55">
+          <node identifier="id-4c6a0d46-68cf-4e99-b1a1-7d15febedf8a" elementRef="id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d" xsi:type="Element" x="50" y="501" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3249,7 +3468,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-78831b66-32c2-4050-aef8-6184a3fbe17e" elementRef="id-b33ff159-2329-4fa2-8406-d1f85bd998f0" xsi:type="Element" x="240" y="573" w="161" h="55">
+          <node identifier="id-78831b66-32c2-4050-aef8-6184a3fbe17e" elementRef="id-b33ff159-2329-4fa2-8406-d1f85bd998f0" xsi:type="Element" x="227" y="501" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3258,7 +3477,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-4eb09f32-8d9a-4bbc-8b5e-778240638cc8" elementRef="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95" xsi:type="Element" x="414" y="636" w="161" h="55">
+          <node identifier="id-4eb09f32-8d9a-4bbc-8b5e-778240638cc8" elementRef="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95" xsi:type="Element" x="401" y="564" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3267,7 +3486,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-4e652a89-3130-423c-a3d3-0cac525711b5" elementRef="id-de2b291e-8721-43c2-8bf3-46d12034ab6e" xsi:type="Element" x="63" y="636" w="161" h="55">
+          <node identifier="id-4e652a89-3130-423c-a3d3-0cac525711b5" elementRef="id-de2b291e-8721-43c2-8bf3-46d12034ab6e" xsi:type="Element" x="50" y="564" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3276,7 +3495,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-c3cec595-a6e7-433f-9a21-fea44415d865" elementRef="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="Element" x="63" y="756" w="161" h="55">
+          <node identifier="id-c3cec595-a6e7-433f-9a21-fea44415d865" elementRef="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="Element" x="50" y="684" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3285,7 +3504,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-1afa44d3-bd0b-4bd7-9dc7-da21374e92a7" elementRef="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" xsi:type="Element" x="240" y="756" w="161" h="55">
+          <node identifier="id-1afa44d3-bd0b-4bd7-9dc7-da21374e92a7" elementRef="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" xsi:type="Element" x="227" y="684" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3294,7 +3513,16 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
               </font>
             </style>
           </node>
-          <node identifier="id-770e9a57-4551-499d-ac82-b136478af838" elementRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="Element" x="414" y="756" w="161" h="55">
+          <node identifier="id-770e9a57-4551-499d-ac82-b136478af838" elementRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="Element" x="401" y="684" w="161" h="55">
+            <style>
+              <fillColor r="181" g="255" b="255" />
+              <lineColor r="92" g="92" b="92" />
+              <font>
+                <color r="0" g="0" b="0" />
+              </font>
+            </style>
+          </node>
+          <node identifier="id-c9b15c77-40f5-4087-8ec7-2bba41e23614" elementRef="id-58b59c3a-4b1b-4896-9d44-28ff1a4c6f49" xsi:type="Element" x="576" y="501" w="161" h="55">
             <style>
               <fillColor r="181" g="255" b="255" />
               <lineColor r="92" g="92" b="92" />
@@ -3304,13 +3532,22 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
             </style>
           </node>
         </node>
-        <node identifier="id-34bf4acb-4786-45b0-a9aa-ba4d888fb59d" elementRef="id-93ef34ca-4ab3-4d52-90f3-841a15e28af0" xsi:type="Element" x="432" y="408" w="120" h="55">
+        <node identifier="id-34bf4acb-4786-45b0-a9aa-ba4d888fb59d" elementRef="id-93ef34ca-4ab3-4d52-90f3-841a15e28af0" xsi:type="Element" x="684" y="336" w="120" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
             <font>
               <color r="0" g="0" b="0" />
             </font>
+          </style>
+        </node>
+        <node identifier="id-48764eaa-addb-4588-b7fe-8b9fd2561ad3" xsi:type="Label" x="0" y="12" w="253" h="252">
+          <label xml:lang="en">Colaboración del SNC y sistemas de información.
+
+La implementación del Sistema de Información para la gestión del empleo y la productividad como herramienta tecnológica de información debe integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, a través de la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC)</label>
+          <style>
+            <fillColor r="255" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
           </style>
         </node>
         <connection identifier="id-77259ca0-7289-40e2-bac3-b9316e38eff3" relationshipRef="id-16879115-ad05-4349-953a-e18add1682e2" xsi:type="Relationship" source="id-80782a7f-8f55-46be-915f-595ba360824c" target="id-952cbe39-5631-4c4b-8ee8-0efefe2c3666">
@@ -3349,7 +3586,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3358,7 +3595,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3367,7 +3604,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3376,7 +3613,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3385,7 +3622,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3394,7 +3631,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3403,7 +3640,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3412,7 +3649,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3421,7 +3658,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -3430,7 +3667,7 @@ Información del componente del Marco Nacional de Cualificaciones: catálogos de
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4438,7 +4675,7 @@ El proyecto de inversión busca contribuir al cumplimiento de los objetivos sect
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4447,7 +4684,7 @@ El proyecto de inversión busca contribuir al cumplimiento de los objetivos sect
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4456,7 +4693,7 @@ El proyecto de inversión busca contribuir al cumplimiento de los objetivos sect
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4468,7 +4705,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="255" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4477,7 +4714,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4485,7 +4722,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -4494,7 +4731,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -4503,7 +4740,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -4512,7 +4749,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -4521,7 +4758,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
             <style>
               <fillColor r="255" g="255" b="181" />
               <lineColor r="92" g="92" b="92" />
-              <font name="Segoe UI" size="9">
+              <font>
                 <color r="0" g="0" b="0" />
               </font>
             </style>
@@ -4568,7 +4805,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="255" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4577,7 +4814,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4586,7 +4823,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4595,7 +4832,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="255" g="224" b="224" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4604,7 +4841,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4613,7 +4850,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4622,7 +4859,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4631,7 +4868,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4640,7 +4877,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="245" g="222" b="170" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4649,7 +4886,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4658,7 +4895,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
@@ -4667,7 +4904,7 @@ Objetivo/descripción del proyecto. General aumentar la empleabilidad de la fuer
           <style>
             <fillColor r="204" g="204" b="255" />
             <lineColor r="92" g="92" b="92" />
-            <font name="Segoe UI" size="9">
+            <font>
               <color r="0" g="0" b="0" />
             </font>
           </style>
