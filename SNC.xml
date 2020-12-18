@@ -6,9 +6,9 @@
     <schemaversion>1.1</schemaversion>
     <dc:title>SNC</dc:title>
     <dc:creator>HWO</dc:creator>
-    <dc:subject>Comentario cambio...</dc:subject>
+    <dc:subject>SNC Servicios e integracion</dc:subject>
     <dc:description>Programa Fortaleciemiento Empleo</dc:description>
-    <dc:identifier>1.13</dc:identifier>
+    <dc:identifier>1.14</dc:identifier>
     <dc:language>es</dc:language>
   </metadata>
   <elements>
@@ -227,6 +227,75 @@ Respecto a “Evaluación y certificación de competencias”: Diseñar el subsi
     <element identifier="id-58e22046-28c1-46b7-999d-8d7c6a6f2127" xsi:type="BusinessFunction">
       <name xml:lang="en">CMP6. Plataforma de información del Sistema Nacional de Cualificaciones</name>
       <documentation xml:lang="en">Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
+    </element>
+    <element identifier="id-006efe54-e970-4964-b966-4ca44a598845" xsi:type="BusinessActor">
+      <name xml:lang="en">US01. Estudiantes y orientadores</name>
+      <documentation xml:lang="en">Son estudiantes de educación media, estudiantes de ETDH, estudiantes de educación superior y aprendices de Formación para el trabajo y del SENA, que están buscando orientación para una toma de decisiones informada. ​</documentation>
+    </element>
+    <element identifier="id-a270deaf-66da-42d0-a460-46ecf9e3886a" xsi:type="BusinessActor">
+      <name xml:lang="en">US02. Proveedores de formación y educación superior</name>
+      <documentation xml:lang="en">Son todas las instituciones privadas y públicas que ofrecen educación formal (educación media, ETDH y ES), programas de Formación para el trabajo (IETDH, SENA IES) certificación de competencias laborales y reconocimientos de aprendizajes previos. Buscan estructurar y actualizar sus mallas curriculares con pertinencia y calidad​</documentation>
+    </element>
+    <element identifier="id-1e035a66-c360-43d2-b867-cca12dda1299" xsi:type="BusinessActor">
+      <name xml:lang="en">US03. Empleadores</name>
+      <documentation xml:lang="en">Son las empresas / organizaciones privadas, públicas y mixtas, las cuales están interesados en adquirir información relevante sobre la oferta/demanda educativa y formativa laboral para orientar sus procesos de reclutamiento, selección y capacitación.​</documentation>
+    </element>
+    <element identifier="id-b37da959-a35a-48d7-94ef-5362ee6a8581" xsi:type="BusinessActor">
+      <name xml:lang="en">US04. Trabajadores y Buscadores de Empleo</name>
+      <documentation xml:lang="en">Hace referencia a la oferta laboral. Son todos aquellos ciudadanos que por alguna razón se encuentran desempleados (cesantes) y que actualmente se encuentran en búsqueda activa de empleo o aquellos ciudadanos que actualmente se encuentran empleados pero que podrían estar interesados en cambiar de empleo u ocupación.​</documentation>
+    </element>
+    <element identifier="id-1fb64bdc-9438-4e26-ad4d-5501fbcf7f68" xsi:type="BusinessActor">
+      <name xml:lang="en">US05. Instituciones del Gobierno</name>
+      <documentation xml:lang="en">Son todas las entidades del nivel nacional o territorial a los que la  información gestionada en la plataforma les será de utilidad para el desarrollo y seguimientos de políticas pasivas y activas de empleo. ​</documentation>
+    </element>
+    <element identifier="id-b8743b07-38aa-43d7-bbce-d689ca647e55" xsi:type="BusinessActor">
+      <name xml:lang="en">US07. Ministerio de Trabajo</name>
+      <documentation xml:lang="en">Será el responsable y administrador de la plataforma. Es el encargado de la toma de decisiones en todo lo que concierne a la plataforma, de su oportuno funcionamiento y de su eventual actualización. Así mismo será responsable de articular y armonizar la información de todos los componentes del Sistema Nacional de Cualificaciones, en coordinación con las entidades competentes.​</documentation>
+    </element>
+    <element identifier="id-1f40e91b-5aa8-4ddb-9223-d1d107643380" xsi:type="BusinessActor">
+      <name xml:lang="en">US06. Prestadores del Servicio Público de Empleo</name>
+      <documentation xml:lang="en">Son la red de prestadores del Servicio Público de Empleo (SPE), entre los que se encuentran el SENA, agencias de empleo de cajas de compensación familiar, alcaldías, gobernaciones, bolsas de empleo privadas y head hunters, entre otros. ​</documentation>
+    </element>
+    <element identifier="id-d77b32dd-4085-4037-be19-d0735b37eab4" xsi:type="BusinessActor">
+      <name xml:lang="en">US08. Académicos, Investigadores y Consultores</name>
+    </element>
+    <element identifier="id-bc9650f3-68af-4bdb-bc52-86d7352a3255" xsi:type="BusinessActor">
+      <name xml:lang="en">US09. Oferentes de los Programas de la Formación para el trabajo</name>
+      <documentation xml:lang="en">Oferentes de los Programas de la Formación para el trabajo - Ministerio del Trabajo a través de la Plataforma de Información del SNC (Índice Sintético).​</documentation>
+    </element>
+    <element identifier="id-acb26682-8dfd-4098-8d84-e6dcccb278c0" xsi:type="BusinessActor">
+      <name xml:lang="en">US10. Proveedores de evaluación y certificación de competencias para el Reconocimiento de aprendizajes previos</name>
+      <documentation xml:lang="en">Son todas las instituciones/organismos públicos y privados encargados de los procesos de evaluación y certificación de competencias, para el Reconocimiento de Aprendizajes Previos.​</documentation>
+    </element>
+    <element identifier="id-28bcd6d4-0fa9-4cc1-8f2d-d12193e1290e" xsi:type="BusinessActor">
+      <name xml:lang="en">US11. Organismos acreditadores, de proveedores de evaluación y certificación de competencias para el Reconocimiento de Aprendizajes Previos</name>
+      <documentation xml:lang="en">Son todas los organismos acreditadores / habilitadores de los proveedores  de evaluación y certificación de competencias, para el Reconocimiento de Aprendizajes Previos​.</documentation>
+    </element>
+    <element identifier="id-ea3b40cc-8bca-43d3-bfe4-efeec8765475" xsi:type="BusinessActor">
+      <name xml:lang="en">US12. Unidades Sectoriales de Normalización</name>
+      <documentation xml:lang="en">Unidades Sectoriales de Normalización con facultad para la elaboración de Normas de Competencia Laboral: Bajo la estructura del Subsistema Nacional de la Calidad – SICAL la labor de normalización del Icontec se apoya en unidades sectoriales de normalización. La función de las Unidades Sectoriales de Normalización (USN) es la de preparar normas propias de un sector, dentro de los parámetros internacionales establecidos para esta actividad, con la posibilidad de ser sometidas al proceso de adopción y publicación como norma técnica colombiana​.
+
+Asociación Hotelera de Colombia - COTELCO:​ responsable de las competencias laborales, calidad de la operación, calidad de los servicios, categorización por estrellas, calidad del compromiso con el medio ambiente.​
+
+Asociación Colombia de la Industria Gastronómica:​ responsable de las competencias laborales, habilidades y destrezas del recurso humano. Calidad en la operación de establecimientos gastronómicos y calidad en el servicio.​
+
+Servicio Nacional de Aprendizaje (SENA):​ responsable de las competencias Laborales para el Servicio Nacional de Aprendizaje.​</documentation>
+    </element>
+    <element identifier="id-39e0449b-9789-4798-a5aa-ff176c7d0381" xsi:type="BusinessService">
+      <name xml:lang="en">BS07. Servicios generales de Consulta de Información</name>
+      <documentation xml:lang="en">A través de un data warehouse con herramientas de analítica avanzada y/o big data los diferentes actores tendrán acceso a servicios de consulta de información que están divididos en cuatro grandes temáticas:​
+
+Mercado laboral: Incluye información sobre demanda laboral referente a los requerimientos y necesidades del sector productivo. Además de información relacionada a la CUOC y sus elementos clave.​
+
+Formación, Educación y Reconocimientos de Aprendizajes Previos: Incluye información sobre la oferta de educación y formación, la certificación de competencias laborales y los procesos de reconocimiento de aprendizajes previos, articulados para configurar las tres vías de cualificación ​
+
+Sistema Nacional de Cualificaciones: Incluye información relacionada con los componentes que conforman el SNC.​
+
+Mecanismos: Esta temática fue propuesta con la intención de diferenciar los servicios específicos que son dinámicos, es decir, los que requieren halar información de otras temáticas (cruces entre temáticas) para alcanzar su objetivo de consulta.​</documentation>
+    </element>
+    <element identifier="id-355cc188-d468-4120-b13f-d114de97a653" xsi:type="BusinessService">
+      <name xml:lang="en">BS08. Servicios generales de Gestión de Información</name>
+      <documentation xml:lang="en">Servicios generales de Gestión de Información: Estos servicios están direccionados a actores que administran la información que servirá de insumo para la Plataforma de Información del SNC.​</documentation>
     </element>
     <element identifier="id-7cd68bd9-fe5b-4b89-9553-1794642bafff" xsi:type="ApplicationInteraction">
       <name xml:lang="en">GRP. Gestión Empleo y Productividad</name>
@@ -871,6 +940,12 @@ El aseguramiento de la calidad educativa requiere de un aseguramiento interno re
       <name xml:lang="en">APP. CONACES</name>
       <documentation xml:lang="en">Para este último, la Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la Educación –CONACES es la encargada de la coordinación y orientación del aseguramiento de la calidad de la educación superior y la evaluación del cumplimiento de los requisitos para la creación, transformación y redefinición de instituciones de educación superior y sus programas académicos mediante pares educativos.</documentation>
     </element>
+    <element identifier="id-0c2c28bc-5839-4895-9fd6-3d4644d6cc15" xsi:type="ApplicationInterface">
+      <name xml:lang="en">API13. Consultas Mercado Laboral</name>
+      <documentation xml:lang="en">--Consulta sobre estructuras y perfiles ocupacionales
+--Cosulta sobre análisis cualitativo de las ocupaciones en el mercado laboral
+--Consulta sobre análisis cuantitativo del mercado laboral</documentation>
+    </element>
     <element identifier="id-bae1d7be-3836-4431-b161-89da7e5d34ee" xsi:type="Goal">
       <name xml:lang="en">G04. Plataforma de información del SNC</name>
       <documentation xml:lang="en">Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
@@ -1325,11 +1400,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-e8b1b0db-7663-42f9-b93b-651c21d0ab2c" source="id-d912fa4f-1088-473f-b9ea-24c8ca637559" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Serving" />
     <relationship identifier="id-8efeae73-f0d0-413b-ba0f-d5e5aa76784e" source="id-4d2bb23f-9513-4cf6-92d0-b08103dad20d" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Serving" />
     <relationship identifier="id-3fc1b9aa-aee9-4874-bf6f-3ccfb055cebc" source="id-dd9ae622-e0b0-43be-b178-6923f1e152c0" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Serving" />
-    <relationship identifier="id-fb9f5ca2-f620-4144-9395-4d6f87de125d" source="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
-    <relationship identifier="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" source="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
-    <relationship identifier="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" source="id-4f0a59a9-8380-4964-a3a7-286f64c24950" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
-    <relationship identifier="id-a865432d-a062-456e-934a-964f8b40f9bb" source="id-a28acf67-2644-42b6-b456-77ff109a1ef6" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
-    <relationship identifier="id-4e24704c-5783-45af-9b8f-947c8e9441d4" source="id-a2261efd-b869-4153-904f-aac3a90fdacc" target="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Composition" />
     <relationship identifier="id-8df670e6-72a9-46d9-a052-1ea2a002c8b6" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688" xsi:type="Composition" />
     <relationship identifier="id-c22bf4a1-e71e-4441-bc07-5ba59621b94f" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1" xsi:type="Composition" />
     <relationship identifier="id-48610a6e-cc0a-4fb3-8038-e6d6aca84142" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-453c204b-a8a6-4089-b65c-a0fe594e9413" xsi:type="Composition" />
@@ -1367,6 +1437,25 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <relationship identifier="id-59a96e5e-e0c9-4993-979e-7ed4060a5c56" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-cbb767f3-a823-4b5a-b7c0-e2a92de4d4ee" xsi:type="Realization" />
     <relationship identifier="id-3590561f-dabc-41a0-9171-4474e3a66ded" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-3002497d-2d8b-49fc-a3b9-b57c2078a656" xsi:type="Realization" />
     <relationship identifier="id-6b065703-c77d-4b69-8351-365145e33037" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="id-5f7ea8b0-a922-41a8-84bf-af4dc8d3701a" xsi:type="Realization" />
+    <relationship identifier="id-cf7f9320-f7fb-48df-9a8c-5f121ec458c9" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-b8743b07-38aa-43d7-bbce-d689ca647e55" xsi:type="Serving" />
+    <relationship identifier="id-f068a4d1-e949-4a7b-832a-809f946bf162" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-1f40e91b-5aa8-4ddb-9223-d1d107643380" xsi:type="Serving" />
+    <relationship identifier="id-b31dd90d-d174-47ce-b90e-6eafa2478dde" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-1fb64bdc-9438-4e26-ad4d-5501fbcf7f68" xsi:type="Serving" />
+    <relationship identifier="id-492db9e1-e09d-4002-a1f8-084388966867" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-b37da959-a35a-48d7-94ef-5362ee6a8581" xsi:type="Serving" />
+    <relationship identifier="id-d69e1cbd-9db4-4dde-9d28-baaa31175804" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-a270deaf-66da-42d0-a460-46ecf9e3886a" xsi:type="Serving" />
+    <relationship identifier="id-611e4dcf-5f8f-41d9-ae18-3ec5b64eda31" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-1e035a66-c360-43d2-b867-cca12dda1299" xsi:type="Serving" />
+    <relationship identifier="id-e8c9edb3-668a-4d71-90be-b93212e432b7" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-006efe54-e970-4964-b966-4ca44a598845" xsi:type="Serving" />
+    <relationship identifier="id-714c9c2c-f37d-40a0-b7da-1e13b67914ed" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-bc9650f3-68af-4bdb-bc52-86d7352a3255" xsi:type="Serving" />
+    <relationship identifier="id-f0e1be6c-8ca6-4222-9912-2b0e49fec281" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-acb26682-8dfd-4098-8d84-e6dcccb278c0" xsi:type="Serving" />
+    <relationship identifier="id-9c3ba2fe-d785-49ce-945f-b8a85f9b0e15" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-28bcd6d4-0fa9-4cc1-8f2d-d12193e1290e" xsi:type="Serving" />
+    <relationship identifier="id-8ab9fe20-7a4a-4046-9d57-15e60eed91f6" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-ea3b40cc-8bca-43d3-bfe4-efeec8765475" xsi:type="Serving" />
+    <relationship identifier="id-22b71522-3aa9-410c-b8c9-38660f96f0f7" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-39e0449b-9789-4798-a5aa-ff176c7d0381" xsi:type="Composition" />
+    <relationship identifier="id-09127331-6ea1-4b39-9f9c-6ea8f499b0ad" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-355cc188-d468-4120-b13f-d114de97a653" xsi:type="Composition" />
+    <relationship identifier="id-e89e19a4-53a2-422f-85fa-4c48e892bd6d" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-4f0a59a9-8380-4964-a3a7-286f64c24950" xsi:type="Composition" />
+    <relationship identifier="id-eb34afd4-688e-4793-8cff-182a2d5fa0b0" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-a28acf67-2644-42b6-b456-77ff109a1ef6" xsi:type="Composition" />
+    <relationship identifier="id-0317e71d-3cce-4b3c-b5ac-880f385372de" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-a2261efd-b869-4153-904f-aac3a90fdacc" xsi:type="Composition" />
+    <relationship identifier="id-70958567-2c03-4364-bbad-ffc1032671e9" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" xsi:type="Composition" />
+    <relationship identifier="id-4a8d3ad3-b0fa-4b02-9627-4b22787dc488" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" xsi:type="Composition" />
+    <relationship identifier="id-6e728565-2297-400a-8c79-094717d5a6c6" source="id-0c2c28bc-5839-4895-9fd6-3d4644d6cc15" target="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="Serving" />
   </relationships>
   <organizations>
     <item>
@@ -1410,6 +1499,20 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-a3b20819140b45b1900914f3e7c5681c" />
       <item identifierRef="id-d912fa4f-1088-473f-b9ea-24c8ca637559" />
       <item identifierRef="id-58e22046-28c1-46b7-999d-8d7c6a6f2127" />
+      <item identifierRef="id-006efe54-e970-4964-b966-4ca44a598845" />
+      <item identifierRef="id-a270deaf-66da-42d0-a460-46ecf9e3886a" />
+      <item identifierRef="id-1e035a66-c360-43d2-b867-cca12dda1299" />
+      <item identifierRef="id-b37da959-a35a-48d7-94ef-5362ee6a8581" />
+      <item identifierRef="id-1fb64bdc-9438-4e26-ad4d-5501fbcf7f68" />
+      <item identifierRef="id-b8743b07-38aa-43d7-bbce-d689ca647e55" />
+      <item identifierRef="id-1f40e91b-5aa8-4ddb-9223-d1d107643380" />
+      <item identifierRef="id-d77b32dd-4085-4037-be19-d0735b37eab4" />
+      <item identifierRef="id-bc9650f3-68af-4bdb-bc52-86d7352a3255" />
+      <item identifierRef="id-acb26682-8dfd-4098-8d84-e6dcccb278c0" />
+      <item identifierRef="id-28bcd6d4-0fa9-4cc1-8f2d-d12193e1290e" />
+      <item identifierRef="id-ea3b40cc-8bca-43d3-bfe4-efeec8765475" />
+      <item identifierRef="id-39e0449b-9789-4798-a5aa-ff176c7d0381" />
+      <item identifierRef="id-355cc188-d468-4120-b13f-d114de97a653" />
     </item>
     <item>
       <label xml:lang="en">Application</label>
@@ -1511,6 +1614,7 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-ca1253d7-f228-43a0-8bb6-9f9faa05c39b" />
       <item identifierRef="id-58b59c3a-4b1b-4896-9d44-28ff1a4c6f49" />
       <item identifierRef="id-521e31e2-7ca5-4076-9570-3e303233f47d" />
+      <item identifierRef="id-0c2c28bc-5839-4895-9fd6-3d4644d6cc15" />
     </item>
     <item>
       <label xml:lang="en">Motivation</label>
@@ -1752,11 +1856,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-e8b1b0db-7663-42f9-b93b-651c21d0ab2c" />
       <item identifierRef="id-8efeae73-f0d0-413b-ba0f-d5e5aa76784e" />
       <item identifierRef="id-3fc1b9aa-aee9-4874-bf6f-3ccfb055cebc" />
-      <item identifierRef="id-fb9f5ca2-f620-4144-9395-4d6f87de125d" />
-      <item identifierRef="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" />
-      <item identifierRef="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" />
-      <item identifierRef="id-a865432d-a062-456e-934a-964f8b40f9bb" />
-      <item identifierRef="id-4e24704c-5783-45af-9b8f-947c8e9441d4" />
       <item identifierRef="id-8df670e6-72a9-46d9-a052-1ea2a002c8b6" />
       <item identifierRef="id-c22bf4a1-e71e-4441-bc07-5ba59621b94f" />
       <item identifierRef="id-48610a6e-cc0a-4fb3-8038-e6d6aca84142" />
@@ -1787,6 +1886,25 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-59a96e5e-e0c9-4993-979e-7ed4060a5c56" />
       <item identifierRef="id-3590561f-dabc-41a0-9171-4474e3a66ded" />
       <item identifierRef="id-6b065703-c77d-4b69-8351-365145e33037" />
+      <item identifierRef="id-cf7f9320-f7fb-48df-9a8c-5f121ec458c9" />
+      <item identifierRef="id-f068a4d1-e949-4a7b-832a-809f946bf162" />
+      <item identifierRef="id-b31dd90d-d174-47ce-b90e-6eafa2478dde" />
+      <item identifierRef="id-492db9e1-e09d-4002-a1f8-084388966867" />
+      <item identifierRef="id-d69e1cbd-9db4-4dde-9d28-baaa31175804" />
+      <item identifierRef="id-611e4dcf-5f8f-41d9-ae18-3ec5b64eda31" />
+      <item identifierRef="id-e8c9edb3-668a-4d71-90be-b93212e432b7" />
+      <item identifierRef="id-714c9c2c-f37d-40a0-b7da-1e13b67914ed" />
+      <item identifierRef="id-f0e1be6c-8ca6-4222-9912-2b0e49fec281" />
+      <item identifierRef="id-9c3ba2fe-d785-49ce-945f-b8a85f9b0e15" />
+      <item identifierRef="id-8ab9fe20-7a4a-4046-9d57-15e60eed91f6" />
+      <item identifierRef="id-22b71522-3aa9-410c-b8c9-38660f96f0f7" />
+      <item identifierRef="id-09127331-6ea1-4b39-9f9c-6ea8f499b0ad" />
+      <item identifierRef="id-e89e19a4-53a2-422f-85fa-4c48e892bd6d" />
+      <item identifierRef="id-eb34afd4-688e-4793-8cff-182a2d5fa0b0" />
+      <item identifierRef="id-0317e71d-3cce-4b3c-b5ac-880f385372de" />
+      <item identifierRef="id-70958567-2c03-4364-bbad-ffc1032671e9" />
+      <item identifierRef="id-4a8d3ad3-b0fa-4b02-9627-4b22787dc488" />
+      <item identifierRef="id-6e728565-2297-400a-8c79-094717d5a6c6" />
     </item>
     <item>
       <label xml:lang="en">Views</label>
@@ -1811,6 +1929,7 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
       <item identifierRef="id-674de74e-3ad6-4d1c-a780-19c68360783b" />
       <item identifierRef="id-2475fdf0-4605-417f-814e-eda1080b9eb8" />
       <item identifierRef="id-4b093f1f-63cd-46f6-bd7b-051e239d1e2f" />
+      <item identifierRef="id-c3d39fd9-816c-46de-956f-7f06c3ca727b" />
     </item>
   </organizations>
   <propertyDefinitions>
@@ -6221,31 +6340,31 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" elementRef="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" xsi:type="Element" x="498" y="296" w="120" h="55">
+        <node identifier="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" elementRef="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" xsi:type="Element" x="498" y="296" w="141" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-9f579188-4b62-4168-bbdd-1851d6e9c255" elementRef="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" xsi:type="Element" x="648" y="276" w="120" h="55">
+        <node identifier="id-9f579188-4b62-4168-bbdd-1851d6e9c255" elementRef="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" xsi:type="Element" x="684" y="296" w="141" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-003ab910-8c61-4389-bd90-152355c06f1b" elementRef="id-4f0a59a9-8380-4964-a3a7-286f64c24950" xsi:type="Element" x="795" y="324" w="120" h="55">
+        <node identifier="id-003ab910-8c61-4389-bd90-152355c06f1b" elementRef="id-4f0a59a9-8380-4964-a3a7-286f64c24950" xsi:type="Element" x="852" y="296" w="141" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" elementRef="id-a28acf67-2644-42b6-b456-77ff109a1ef6" xsi:type="Element" x="498" y="396" w="120" h="55">
+        <node identifier="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" elementRef="id-a28acf67-2644-42b6-b456-77ff109a1ef6" xsi:type="Element" x="498" y="396" w="141" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" elementRef="id-a2261efd-b869-4153-904f-aac3a90fdacc" xsi:type="Element" x="648" y="360" w="120" h="55">
+        <node identifier="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" elementRef="id-a2261efd-b869-4153-904f-aac3a90fdacc" xsi:type="Element" x="684" y="396" w="141" h="55">
           <style>
             <fillColor r="255" g="255" b="181" />
             <lineColor r="92" g="92" b="92" />
@@ -6329,32 +6448,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <connection identifier="id-56a715ae-c013-4280-8490-027d01519954" relationshipRef="id-fb9f5ca2-f620-4144-9395-4d6f87de125d" xsi:type="Relationship" source="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-35453de5-db7a-4482-b4e4-fc8adbd898ad" relationshipRef="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" xsi:type="Relationship" source="id-9f579188-4b62-4168-bbdd-1851d6e9c255" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-eb0f4653-cfb2-48af-a921-7191eb996c3b" relationshipRef="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" xsi:type="Relationship" source="id-003ab910-8c61-4389-bd90-152355c06f1b" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
         <connection identifier="id-3373239f-d826-45d8-a134-3172b3209600" relationshipRef="id-9cdd0bb6-f3a1-4194-9a0c-81400d3f51b4" xsi:type="Relationship" source="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="id-d9c915b1-5d9f-40bf-a56b-b1b2e03067f8">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-dc82e8e1-912c-4831-b21a-65099279eab2" relationshipRef="id-a865432d-a062-456e-934a-964f8b40f9bb" xsi:type="Relationship" source="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
-          <style>
-            <lineColor r="0" g="0" b="0" />
-          </style>
-        </connection>
-        <connection identifier="id-dbf143ca-f6ee-474a-9a92-0d5407df84db" relationshipRef="id-4e24704c-5783-45af-9b8f-947c8e9441d4" xsi:type="Relationship" source="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" target="id-b630cc3c-1006-4021-a21d-b2448af437ec">
           <style>
             <lineColor r="0" g="0" b="0" />
           </style>
@@ -6483,60 +6577,95 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
       </view>
       <view identifier="id-2475fdf0-4605-417f-814e-eda1080b9eb8" xsi:type="Diagram">
         <name xml:lang="en">APP. SGE. API-1</name>
-        <node identifier="id-3f22f776-9d2a-405d-b16d-0abf2455801f" elementRef="id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d" xsi:type="Element" x="48" y="72" w="120" h="55">
+        <node identifier="id-3f22f776-9d2a-405d-b16d-0abf2455801f" elementRef="id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d" xsi:type="Element" x="48" y="72" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-5f2a7279-b643-4b90-8903-c4613f7ff421" elementRef="id-cc54de94-e001-42f6-9d4f-528146acafc0" xsi:type="Element" x="198" y="72" w="120" h="55">
+        <node identifier="id-5f2a7279-b643-4b90-8903-c4613f7ff421" elementRef="id-cc54de94-e001-42f6-9d4f-528146acafc0" xsi:type="Element" x="198" y="72" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-e71ddcb8-cf9c-46a0-906d-64190764b0db" elementRef="id-a6c977bf-f571-4fa0-b0dd-c4dcd3744403" xsi:type="Element" x="348" y="72" w="120" h="55">
+        <node identifier="id-e71ddcb8-cf9c-46a0-906d-64190764b0db" elementRef="id-a6c977bf-f571-4fa0-b0dd-c4dcd3744403" xsi:type="Element" x="348" y="72" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-50406e62-a195-4b10-be8a-20d1878413df" elementRef="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef" xsi:type="Element" x="48" y="172" w="120" h="55">
+        <node identifier="id-50406e62-a195-4b10-be8a-20d1878413df" elementRef="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef" xsi:type="Element" x="48" y="172" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-01ea4266-5692-4136-a5cb-72a6c4b7b4ee" elementRef="id-de2b291e-8721-43c2-8bf3-46d12034ab6e" xsi:type="Element" x="198" y="172" w="120" h="55">
+        <node identifier="id-01ea4266-5692-4136-a5cb-72a6c4b7b4ee" elementRef="id-de2b291e-8721-43c2-8bf3-46d12034ab6e" xsi:type="Element" x="198" y="172" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-b9437947-0045-4884-abac-895800132a51" elementRef="id-b33ff159-2329-4fa2-8406-d1f85bd998f0" xsi:type="Element" x="348" y="172" w="120" h="55">
+        <node identifier="id-b9437947-0045-4884-abac-895800132a51" elementRef="id-b33ff159-2329-4fa2-8406-d1f85bd998f0" xsi:type="Element" x="348" y="172" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-c4ca16ed-e2b2-4e80-ae9a-5f3ce0d51b3e" elementRef="id-2354a493-b807-4377-a98c-d75d38166e9f" xsi:type="Element" x="48" y="272" w="120" h="55">
+        <node identifier="id-c4ca16ed-e2b2-4e80-ae9a-5f3ce0d51b3e" elementRef="id-2354a493-b807-4377-a98c-d75d38166e9f" xsi:type="Element" x="48" y="272" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-1a238d2f-a7c6-4c96-bbeb-d522da4d2aa4" elementRef="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95" xsi:type="Element" x="198" y="272" w="120" h="55">
+        <node identifier="id-1a238d2f-a7c6-4c96-bbeb-d522da4d2aa4" elementRef="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95" xsi:type="Element" x="198" y="272" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
-        <node identifier="id-8a744a5e-8732-4b4e-8974-418d64e91f58" elementRef="id-761e9a24-9350-4de3-a864-e2cad4e21eaa" xsi:type="Element" x="348" y="272" w="120" h="55">
+        <node identifier="id-8a744a5e-8732-4b4e-8974-418d64e91f58" elementRef="id-761e9a24-9350-4de3-a864-e2cad4e21eaa" xsi:type="Element" x="348" y="272" w="145" h="55">
           <style>
             <fillColor r="181" g="255" b="255" />
             <lineColor r="92" g="92" b="92" />
           </style>
         </node>
+        <node identifier="id-4f14ae14-6860-49c0-bd95-4983125256ed" elementRef="id-4929b266-aa6a-4fb9-bad1-8394b76981d8" xsi:type="Element" x="48" y="360" w="145" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-53373c3c-e31e-4902-a289-9085dcad248d" elementRef="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c" xsi:type="Element" x="198" y="360" w="145" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-a1bbd60a-fef7-4587-9f84-96a8be7bd473" elementRef="id-58b59c3a-4b1b-4896-9d44-28ff1a4c6f49" xsi:type="Element" x="348" y="360" w="145" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-97add1f0-9c6f-4555-9690-cdd57916baf8" elementRef="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8" xsi:type="Element" x="48" y="460" w="145" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-f490d364-3593-4158-91e7-2f835f12b6b3" elementRef="id-0c2c28bc-5839-4895-9fd6-3d4644d6cc15" xsi:type="Element" x="348" y="460" w="145" h="55">
+          <style>
+            <fillColor r="181" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <connection identifier="id-e2428986-c519-47c8-861f-48122f3d9e85" relationshipRef="id-6e728565-2297-400a-8c79-094717d5a6c6" xsi:type="Relationship" source="id-f490d364-3593-4158-91e7-2f835f12b6b3" target="id-97add1f0-9c6f-4555-9690-cdd57916baf8">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
       </view>
       <view identifier="id-4b093f1f-63cd-46f6-bd7b-051e239d1e2f" xsi:type="Diagram">
         <name xml:lang="en">APP. SNC. Transporte e Integración</name>
@@ -6627,6 +6756,228 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
           <bendpoint x="300" y="474" />
         </connection>
         <connection identifier="id-a8803189-71ac-44f9-b611-cc8e89a52cb1" relationshipRef="id-c435c9ee-b629-4a5d-a4c5-bf997cfd27d7" xsi:type="Relationship" source="id-016a1765-4e52-45d1-b0ce-867c915870fe" target="id-d1ea4418-faea-4a04-a5c2-5ff539044217">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+      </view>
+      <view identifier="id-c3d39fd9-816c-46de-956f-7f06c3ca727b" xsi:type="Diagram">
+        <name xml:lang="en">BSN. SNC Roles y Servicios</name>
+        <documentation xml:lang="en">La definición del alcance de la plataforma de información se llevó a cabo a partir de la identificación de servicios de información requeridos por los usuarios de la plataforma mediante un análisis de los componentes del SNC y su interacción con el mercado laboral y la oferta educativa y formativa. Dos grandes tipos de servicios fueron identificados: (a) servicios de consulta de información y (b) servicios de gestión de información. Los servicios de consulta de información están a su vez agrupados en cuatro grandes temáticas: (i) Mercado Laboral, (ii) Formación, Educación y Reconocimiento de Aprendizajes previos, iii) Sistema Nacional de Cualificaciones y iv) Mecanismos. Posteriormente dentro de cada temática se definieron servicios específicos para finalmente proponer los requerimientos que harán parte de la plataforma. ​</documentation>
+        <node identifier="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" elementRef="id-62983d23-5b97-4675-9778-1a47ada24357" xsi:type="Element" x="120" y="473" w="120" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-ff722caf-7b3f-4d89-8ae6-2973badc0c8f" elementRef="id-006efe54-e970-4964-b966-4ca44a598845" xsi:type="Element" x="36" y="120" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-2a4efcab-25ce-4ae4-940b-5483105e2706" elementRef="id-a270deaf-66da-42d0-a460-46ecf9e3886a" xsi:type="Element" x="36" y="185" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-378a339a-28dd-4999-abba-baef03c9fd84" elementRef="id-1e035a66-c360-43d2-b867-cca12dda1299" xsi:type="Element" x="192" y="120" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-e77d6f56-ef04-40e2-92d4-30035b3b18a6" elementRef="id-b37da959-a35a-48d7-94ef-5362ee6a8581" xsi:type="Element" x="192" y="185" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-a6939f63-ee8c-4935-b3e5-7ad29d7a61e4" elementRef="id-1fb64bdc-9438-4e26-ad4d-5501fbcf7f68" xsi:type="Element" x="36" y="251" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-c8a9e30a-ec87-4955-bde4-d9d84951dac8" elementRef="id-b8743b07-38aa-43d7-bbce-d689ca647e55" xsi:type="Element" x="36" y="316" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-a6ef20c3-7845-4048-bc13-721f8dda5737" elementRef="id-1f40e91b-5aa8-4ddb-9223-d1d107643380" xsi:type="Element" x="192" y="251" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-4c791bd7-0518-4339-8288-c3048f413b67" elementRef="id-d77b32dd-4085-4037-be19-d0735b37eab4" xsi:type="Element" x="192" y="316" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-152b3aac-5270-4734-844e-8d17eacb1f08" xsi:type="Label" x="36" y="12" w="185" h="80">
+          <label xml:lang="en">Principales Usuarios y Servicios de Negocio de la Plataforma de Información del SNC​</label>
+          <style>
+            <fillColor r="255" g="255" b="255" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-69d66998-a286-458e-864a-8d9ee864fd3b" elementRef="id-bc9650f3-68af-4bdb-bc52-86d7352a3255" xsi:type="Element" x="444" y="120" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-a108d70b-33b5-4f27-8e4f-28bf2939483a" elementRef="id-acb26682-8dfd-4098-8d84-e6dcccb278c0" xsi:type="Element" x="444" y="185" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-b3531ff2-0140-4dfe-9a72-cbf7f8563ca1" elementRef="id-28bcd6d4-0fa9-4cc1-8f2d-d12193e1290e" xsi:type="Element" x="444" y="251" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-834225cf-a9e0-40e1-a0b3-2a87c6c38958" elementRef="id-ea3b40cc-8bca-43d3-bfe4-efeec8765475" xsi:type="Element" x="444" y="316" w="146" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-df2f4241-cfde-47d0-9107-620fcdd245aa" elementRef="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" xsi:type="Element" x="192" y="641" w="142" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-ae4bc3c8-ec28-4394-863e-22321f7c47b6" elementRef="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" xsi:type="Element" x="342" y="641" w="142" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-e7fb31c8-fe1d-4f41-8bfa-160b699eda99" elementRef="id-4f0a59a9-8380-4964-a3a7-286f64c24950" xsi:type="Element" x="492" y="641" w="142" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-b878ab17-133a-4228-93c7-c87e0328168f" elementRef="id-a28acf67-2644-42b6-b456-77ff109a1ef6" xsi:type="Element" x="98" y="720" w="142" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-e26ddbc0-53e8-411b-8763-afbca25e28ea" elementRef="id-a2261efd-b869-4153-904f-aac3a90fdacc" xsi:type="Element" x="252" y="720" w="142" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-7f962da4-5f08-4d08-a8cd-25d025fb2002" elementRef="id-39e0449b-9789-4798-a5aa-ff176c7d0381" xsi:type="Element" x="98" y="792" w="142" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <node identifier="id-a42f1c46-5534-46e0-aeea-860760913369" elementRef="id-355cc188-d468-4120-b13f-d114de97a653" xsi:type="Element" x="252" y="792" w="142" h="55">
+          <style>
+            <fillColor r="255" g="255" b="181" />
+            <lineColor r="92" g="92" b="92" />
+          </style>
+        </node>
+        <connection identifier="id-a69a0d72-1ed7-455b-9bfc-695f7279d5dc" relationshipRef="id-cf7f9320-f7fb-48df-9a8c-5f121ec458c9" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-c8a9e30a-ec87-4955-bde4-d9d84951dac8">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-8a5cc769-3528-46c0-b32f-dd5e5f303029" relationshipRef="id-f068a4d1-e949-4a7b-832a-809f946bf162" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-a6ef20c3-7845-4048-bc13-721f8dda5737">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-751443a7-279c-4dd3-9f81-7b847aa44fa8" relationshipRef="id-b31dd90d-d174-47ce-b90e-6eafa2478dde" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-a6939f63-ee8c-4935-b3e5-7ad29d7a61e4">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-596c6844-64be-47d4-b567-914381264e89" relationshipRef="id-492db9e1-e09d-4002-a1f8-084388966867" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-e77d6f56-ef04-40e2-92d4-30035b3b18a6">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+          <bendpoint x="228" y="353" />
+        </connection>
+        <connection identifier="id-6a3590c3-d085-4572-a9d3-fd3fb4282878" relationshipRef="id-d69e1cbd-9db4-4dde-9d28-baaa31175804" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-2a4efcab-25ce-4ae4-940b-5483105e2706">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-131ea858-e34d-4179-90ce-ee5e914fa0ae" relationshipRef="id-611e4dcf-5f8f-41d9-ae18-3ec5b64eda31" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-378a339a-28dd-4999-abba-baef03c9fd84">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-cccf5c05-ff40-449c-98ea-04c404973731" relationshipRef="id-e8c9edb3-668a-4d71-90be-b93212e432b7" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-ff722caf-7b3f-4d89-8ae6-2973badc0c8f">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-1a13134d-0666-4a1a-8d87-0471cb380c68" relationshipRef="id-714c9c2c-f37d-40a0-b7da-1e13b67914ed" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-69d66998-a286-458e-864a-8d9ee864fd3b">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-08096604-fd07-458f-a724-8478754dafdc" relationshipRef="id-f0e1be6c-8ca6-4222-9912-2b0e49fec281" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-a108d70b-33b5-4f27-8e4f-28bf2939483a">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-3502824b-d48b-4183-8cd7-ee62d4fb833b" relationshipRef="id-9c3ba2fe-d785-49ce-945f-b8a85f9b0e15" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-b3531ff2-0140-4dfe-9a72-cbf7f8563ca1">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-8a1e430c-93b7-4922-8205-1231874200f2" relationshipRef="id-8ab9fe20-7a4a-4046-9d57-15e60eed91f6" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-834225cf-a9e0-40e1-a0b3-2a87c6c38958">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-191f1c97-c995-476d-a064-7b6272238a8f" relationshipRef="id-22b71522-3aa9-410c-b8c9-38660f96f0f7" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-7f962da4-5f08-4d08-a8cd-25d025fb2002">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-c77b90e1-82fb-44d9-955a-911389732517" relationshipRef="id-09127331-6ea1-4b39-9f9c-6ea8f499b0ad" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-a42f1c46-5534-46e0-aeea-860760913369">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-34503b84-efa4-4b1d-87a8-975212a7bb37" relationshipRef="id-e89e19a4-53a2-422f-85fa-4c48e892bd6d" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-e7fb31c8-fe1d-4f41-8bfa-160b699eda99">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-650d1db4-1a91-4802-a421-0cd5be1da3ac" relationshipRef="id-eb34afd4-688e-4793-8cff-182a2d5fa0b0" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-b878ab17-133a-4228-93c7-c87e0328168f">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-94390ea3-4a5a-4453-9177-5c0f375545de" relationshipRef="id-0317e71d-3cce-4b3c-b5ac-880f385372de" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-e26ddbc0-53e8-411b-8763-afbca25e28ea">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-f9a389be-dcc9-45ce-912a-19d604705551" relationshipRef="id-70958567-2c03-4364-bbad-ffc1032671e9" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-ae4bc3c8-ec28-4394-863e-22321f7c47b6">
+          <style>
+            <lineColor r="0" g="0" b="0" />
+          </style>
+        </connection>
+        <connection identifier="id-42a57fb1-e90b-44bc-a81f-416d51d731c5" relationshipRef="id-4a8d3ad3-b0fa-4b02-9627-4b22787dc488" xsi:type="Relationship" source="id-60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="id-df2f4241-cfde-47d0-9107-620fcdd245aa">
           <style>
             <lineColor r="0" g="0" b="0" />
           </style>

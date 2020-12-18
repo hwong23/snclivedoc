@@ -185,6 +185,66 @@ Respecto a “Evaluación y certificación de competencias”: Diseñar el subsi
     <element xsi:type="archimate:BusinessFunction" name="CMP6. Plataforma de información del Sistema Nacional de Cualificaciones" id="id-58e22046-28c1-46b7-999d-8d7c6a6f2127">
       <documentation>Respecto a la “Plataforma de información del Sistema Nacional de Cualificaciones”: Adelantar la unificación de las clasificaciones de ocupaciones, realizar ajustes normativos e implementar. A su vez, diseñar la arquitectura del Sistema de Información e implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
     </element>
+    <element xsi:type="archimate:BusinessActor" name="US01. Estudiantes y orientadores" id="006efe54-e970-4964-b966-4ca44a598845">
+      <documentation>Son estudiantes de educación media, estudiantes de ETDH, estudiantes de educación superior y aprendices de Formación para el trabajo y del SENA, que están buscando orientación para una toma de decisiones informada. ​</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US02. Proveedores de formación y educación superior" id="a270deaf-66da-42d0-a460-46ecf9e3886a">
+      <documentation>Son todas las instituciones privadas y públicas que ofrecen educación formal (educación media, ETDH y ES), programas de Formación para el trabajo (IETDH, SENA IES) certificación de competencias laborales y reconocimientos de aprendizajes previos. Buscan estructurar y actualizar sus mallas curriculares con pertinencia y calidad​</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US03. Empleadores" id="1e035a66-c360-43d2-b867-cca12dda1299">
+      <documentation>Son las empresas / organizaciones privadas, públicas y mixtas, las cuales están interesados en adquirir información relevante sobre la oferta/demanda educativa y formativa laboral para orientar sus procesos de reclutamiento, selección y capacitación.​</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US04. Trabajadores y Buscadores de Empleo" id="b37da959-a35a-48d7-94ef-5362ee6a8581">
+      <documentation>Hace referencia a la oferta laboral. Son todos aquellos ciudadanos que por alguna razón se encuentran desempleados (cesantes) y que actualmente se encuentran en búsqueda activa de empleo o aquellos ciudadanos que actualmente se encuentran empleados pero que podrían estar interesados en cambiar de empleo u ocupación.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US05. Instituciones del Gobierno" id="1fb64bdc-9438-4e26-ad4d-5501fbcf7f68">
+      <documentation>Son todas las entidades del nivel nacional o territorial a los que la  información gestionada en la plataforma les será de utilidad para el desarrollo y seguimientos de políticas pasivas y activas de empleo. ​</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US07. Ministerio de Trabajo" id="b8743b07-38aa-43d7-bbce-d689ca647e55">
+      <documentation>Será el responsable y administrador de la plataforma. Es el encargado de la toma de decisiones en todo lo que concierne a la plataforma, de su oportuno funcionamiento y de su eventual actualización. Así mismo será responsable de articular y armonizar la información de todos los componentes del Sistema Nacional de Cualificaciones, en coordinación con las entidades competentes.​</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US06. Prestadores del Servicio Público de Empleo" id="1f40e91b-5aa8-4ddb-9223-d1d107643380">
+      <documentation>Son la red de prestadores del Servicio Público de Empleo (SPE), entre los que se encuentran el SENA, agencias de empleo de cajas de compensación familiar, alcaldías, gobernaciones, bolsas de empleo privadas y head hunters, entre otros. ​</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US08. Académicos, Investigadores y Consultores" id="d77b32dd-4085-4037-be19-d0735b37eab4"/>
+    <element xsi:type="archimate:BusinessActor" name="US09. Oferentes de los Programas de la Formación para el trabajo" id="bc9650f3-68af-4bdb-bc52-86d7352a3255">
+      <documentation>Oferentes de los Programas de la Formación para el trabajo - Ministerio del Trabajo a través de la Plataforma de Información del SNC (Índice Sintético).​
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US10. Proveedores de evaluación y certificación de competencias para el Reconocimiento de aprendizajes previos" id="acb26682-8dfd-4098-8d84-e6dcccb278c0">
+      <documentation>Son todas las instituciones/organismos públicos y privados encargados de los procesos de evaluación y certificación de competencias, para el Reconocimiento de Aprendizajes Previos.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US11. Organismos acreditadores, de proveedores de evaluación y certificación de competencias para el Reconocimiento de Aprendizajes Previos" id="28bcd6d4-0fa9-4cc1-8f2d-d12193e1290e">
+      <documentation>Son todas los organismos acreditadores / habilitadores de los proveedores  de evaluación y certificación de competencias, para el Reconocimiento de Aprendizajes Previos​.
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessActor" name="US12. Unidades Sectoriales de Normalización" id="ea3b40cc-8bca-43d3-bfe4-efeec8765475">
+      <documentation>Unidades Sectoriales de Normalización con facultad para la elaboración de Normas de Competencia Laboral: Bajo la estructura del Subsistema Nacional de la Calidad – SICAL la labor de normalización del Icontec se apoya en unidades sectoriales de normalización. La función de las Unidades Sectoriales de Normalización (USN) es la de preparar normas propias de un sector, dentro de los parámetros internacionales establecidos para esta actividad, con la posibilidad de ser sometidas al proceso de adopción y publicación como norma técnica colombiana​.
+
+Asociación Hotelera de Colombia - COTELCO:​ responsable de las competencias laborales, calidad de la operación, calidad de los servicios, categorización por estrellas, calidad del compromiso con el medio ambiente.​
+
+Asociación Colombia de la Industria Gastronómica:​ responsable de las competencias laborales, habilidades y destrezas del recurso humano. Calidad en la operación de establecimientos gastronómicos y calidad en el servicio.​
+
+Servicio Nacional de Aprendizaje (SENA):​ responsable de las competencias Laborales para el Servicio Nacional de Aprendizaje.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessService" name="BS07. Servicios generales de Consulta de Información" id="39e0449b-9789-4798-a5aa-ff176c7d0381">
+      <documentation>A través de un data warehouse con herramientas de analítica avanzada y/o big data los diferentes actores tendrán acceso a servicios de consulta de información que están divididos en cuatro grandes temáticas:​
+
+Mercado laboral: Incluye información sobre demanda laboral referente a los requerimientos y necesidades del sector productivo. Además de información relacionada a la CUOC y sus elementos clave.​
+
+Formación, Educación y Reconocimientos de Aprendizajes Previos: Incluye información sobre la oferta de educación y formación, la certificación de competencias laborales y los procesos de reconocimiento de aprendizajes previos, articulados para configurar las tres vías de cualificación ​
+
+Sistema Nacional de Cualificaciones: Incluye información relacionada con los componentes que conforman el SNC.​
+
+Mecanismos: Esta temática fue propuesta con la intención de diferenciar los servicios específicos que son dinámicos, es decir, los que requieren halar información de otras temáticas (cruces entre temáticas) para alcanzar su objetivo de consulta.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:BusinessService" name="BS08. Servicios generales de Gestión de Información" id="355cc188-d468-4120-b13f-d114de97a653">
+      <documentation>Servicios generales de Gestión de Información: Estos servicios están direccionados a actores que administran la información que servirá de insumo para la Plataforma de Información del SNC.​</documentation>
+    </element>
   </folder>
   <folder name="Application" id="d3b4af77-5cc1-4fd6-9292-5eba3276e81f" type="application">
     <element xsi:type="archimate:ApplicationInteraction" name="GRP. Gestión Empleo y Productividad" id="id-7cd68bd9-fe5b-4b89-9553-1794642bafff"/>
@@ -520,6 +580,12 @@ El aseguramiento de la calidad educativa requiere de un aseguramiento interno re
     </element>
     <element xsi:type="archimate:ApplicationComponent" name="APP. CONACES" id="521e31e2-7ca5-4076-9570-3e303233f47d">
       <documentation>Para este último, la Comisión Nacional Intersectorial de Aseguramiento de la Calidad de la Educación –CONACES es la encargada de la coordinación y orientación del aseguramiento de la calidad de la educación superior y la evaluación del cumplimiento de los requisitos para la creación, transformación y redefinición de instituciones de educación superior y sus programas académicos mediante pares educativos.
+</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationInterface" name="API13. Consultas Mercado Laboral" id="0c2c28bc-5839-4895-9fd6-3d4644d6cc15">
+      <documentation>--Consulta sobre estructuras y perfiles ocupacionales
+--Cosulta sobre análisis cualitativo de las ocupaciones en el mercado laboral
+--Consulta sobre análisis cuantitativo del mercado laboral
 </documentation>
     </element>
   </folder>
@@ -930,11 +996,6 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <element xsi:type="archimate:ServingRelationship" id="id-e8b1b0db-7663-42f9-b93b-651c21d0ab2c" source="id-d912fa4f-1088-473f-b9ea-24c8ca637559" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
     <element xsi:type="archimate:ServingRelationship" id="id-8efeae73-f0d0-413b-ba0f-d5e5aa76784e" source="id-4d2bb23f-9513-4cf6-92d0-b08103dad20d" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
     <element xsi:type="archimate:ServingRelationship" id="id-3fc1b9aa-aee9-4874-bf6f-3ccfb055cebc" source="id-dd9ae622-e0b0-43be-b178-6923f1e152c0" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-fb9f5ca2-f620-4144-9395-4d6f87de125d" source="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec" source="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8" source="id-4f0a59a9-8380-4964-a3a7-286f64c24950" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-a865432d-a062-456e-934a-964f8b40f9bb" source="id-a28acf67-2644-42b6-b456-77ff109a1ef6" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
-    <element xsi:type="archimate:CompositionRelationship" id="id-4e24704c-5783-45af-9b8f-947c8e9441d4" source="id-a2261efd-b869-4153-904f-aac3a90fdacc" target="id-62983d23-5b97-4675-9778-1a47ada24357"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-8df670e6-72a9-46d9-a052-1ea2a002c8b6" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-03b82ef2-a0cc-4e5b-b2be-e31aaeed0688"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-c22bf4a1-e71e-4441-bc07-5ba59621b94f" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1"/>
     <element xsi:type="archimate:CompositionRelationship" id="id-48610a6e-cc0a-4fb3-8038-e6d6aca84142" source="id-a3b20819140b45b1900914f3e7c5681c" target="id-453c204b-a8a6-4089-b65c-a0fe594e9413"/>
@@ -968,6 +1029,25 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <element xsi:type="archimate:RealizationRelationship" id="59a96e5e-e0c9-4993-979e-7ed4060a5c56" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="cbb767f3-a823-4b5a-b7c0-e2a92de4d4ee"/>
     <element xsi:type="archimate:RealizationRelationship" id="3590561f-dabc-41a0-9171-4474e3a66ded" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="3002497d-2d8b-49fc-a3b9-b57c2078a656"/>
     <element xsi:type="archimate:RealizationRelationship" id="6b065703-c77d-4b69-8351-365145e33037" source="id-02d3473b-1d15-4e15-914c-c203ba1ae6f4" target="5f7ea8b0-a922-41a8-84bf-af4dc8d3701a"/>
+    <element xsi:type="archimate:ServingRelationship" id="cf7f9320-f7fb-48df-9a8c-5f121ec458c9" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="b8743b07-38aa-43d7-bbce-d689ca647e55"/>
+    <element xsi:type="archimate:ServingRelationship" id="f068a4d1-e949-4a7b-832a-809f946bf162" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="1f40e91b-5aa8-4ddb-9223-d1d107643380"/>
+    <element xsi:type="archimate:ServingRelationship" id="b31dd90d-d174-47ce-b90e-6eafa2478dde" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="1fb64bdc-9438-4e26-ad4d-5501fbcf7f68"/>
+    <element xsi:type="archimate:ServingRelationship" id="492db9e1-e09d-4002-a1f8-084388966867" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="b37da959-a35a-48d7-94ef-5362ee6a8581"/>
+    <element xsi:type="archimate:ServingRelationship" id="d69e1cbd-9db4-4dde-9d28-baaa31175804" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="a270deaf-66da-42d0-a460-46ecf9e3886a"/>
+    <element xsi:type="archimate:ServingRelationship" id="611e4dcf-5f8f-41d9-ae18-3ec5b64eda31" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="1e035a66-c360-43d2-b867-cca12dda1299"/>
+    <element xsi:type="archimate:ServingRelationship" id="e8c9edb3-668a-4d71-90be-b93212e432b7" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="006efe54-e970-4964-b966-4ca44a598845"/>
+    <element xsi:type="archimate:ServingRelationship" id="714c9c2c-f37d-40a0-b7da-1e13b67914ed" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="bc9650f3-68af-4bdb-bc52-86d7352a3255"/>
+    <element xsi:type="archimate:ServingRelationship" id="f0e1be6c-8ca6-4222-9912-2b0e49fec281" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="acb26682-8dfd-4098-8d84-e6dcccb278c0"/>
+    <element xsi:type="archimate:ServingRelationship" id="9c3ba2fe-d785-49ce-945f-b8a85f9b0e15" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="28bcd6d4-0fa9-4cc1-8f2d-d12193e1290e"/>
+    <element xsi:type="archimate:ServingRelationship" id="8ab9fe20-7a4a-4046-9d57-15e60eed91f6" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="ea3b40cc-8bca-43d3-bfe4-efeec8765475"/>
+    <element xsi:type="archimate:CompositionRelationship" id="22b71522-3aa9-410c-b8c9-38660f96f0f7" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="39e0449b-9789-4798-a5aa-ff176c7d0381"/>
+    <element xsi:type="archimate:CompositionRelationship" id="09127331-6ea1-4b39-9f9c-6ea8f499b0ad" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="355cc188-d468-4120-b13f-d114de97a653"/>
+    <element xsi:type="archimate:CompositionRelationship" id="e89e19a4-53a2-422f-85fa-4c48e892bd6d" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-4f0a59a9-8380-4964-a3a7-286f64c24950"/>
+    <element xsi:type="archimate:CompositionRelationship" id="eb34afd4-688e-4793-8cff-182a2d5fa0b0" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-a28acf67-2644-42b6-b456-77ff109a1ef6"/>
+    <element xsi:type="archimate:CompositionRelationship" id="0317e71d-3cce-4b3c-b5ac-880f385372de" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-a2261efd-b869-4153-904f-aac3a90fdacc"/>
+    <element xsi:type="archimate:CompositionRelationship" id="70958567-2c03-4364-bbad-ffc1032671e9" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1"/>
+    <element xsi:type="archimate:CompositionRelationship" id="4a8d3ad3-b0fa-4b02-9627-4b22787dc488" source="id-62983d23-5b97-4675-9778-1a47ada24357" target="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa"/>
+    <element xsi:type="archimate:ServingRelationship" id="6e728565-2297-400a-8c79-094717d5a6c6" source="0c2c28bc-5839-4895-9fd6-3d4644d6cc15" target="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8"/>
   </folder>
   <folder name="Views" id="26d80260-1dd8-43f0-880f-8d5569a49ee4" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="New ArchiMate View" id="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db">
@@ -2295,29 +2375,24 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="BSN. SNC" id="id-44bec633-5d4d-445c-984e-369a59307fb5">
-      <child xsi:type="archimate:DiagramObject" id="id-b630cc3c-1006-4021-a21d-b2448af437ec" targetConnections="id-56a715ae-c013-4280-8490-027d01519954 id-35453de5-db7a-4482-b4e4-fc8adbd898ad id-eb0f4653-cfb2-48af-a921-7191eb996c3b id-dc82e8e1-912c-4831-b21a-65099279eab2 id-dbf143ca-f6ee-474a-9a92-0d5407df84db id-c1dbbf01-f4de-49af-aac6-cb0c9080a2f5 id-b3850f2c-80e0-4962-90f7-994c66577292 id-b45a08c3-92b5-4a44-93ce-985d050a5546 id-0ce9dd80-ba3b-48bd-8ab0-9849cf4eef42 id-dda6b1db-7131-408d-a7b9-7a32732c5a67 id-86dbee73-c850-41a5-bb25-153cd95f242d id-44b90b85-1826-4935-9511-34671aca55dc id-e297a1bd-7278-4da2-a7a8-7e15f9a286c3" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-62983d23-5b97-4675-9778-1a47ada24357">
+      <child xsi:type="archimate:DiagramObject" id="id-b630cc3c-1006-4021-a21d-b2448af437ec" targetConnections="id-c1dbbf01-f4de-49af-aac6-cb0c9080a2f5 id-b3850f2c-80e0-4962-90f7-994c66577292 id-b45a08c3-92b5-4a44-93ce-985d050a5546 id-0ce9dd80-ba3b-48bd-8ab0-9849cf4eef42 id-dda6b1db-7131-408d-a7b9-7a32732c5a67 id-86dbee73-c850-41a5-bb25-153cd95f242d id-44b90b85-1826-4935-9511-34671aca55dc id-e297a1bd-7278-4da2-a7a8-7e15f9a286c3" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-62983d23-5b97-4675-9778-1a47ada24357">
         <bounds x="36" y="276" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa">
-        <bounds x="498" y="296" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-56a715ae-c013-4280-8490-027d01519954" lineColor="#000000" source="id-1c63edb3-a91c-4c80-8bde-1e82db684a3a" target="id-b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="id-fb9f5ca2-f620-4144-9395-4d6f87de125d"/>
+        <bounds x="498" y="296" width="141" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-9f579188-4b62-4168-bbdd-1851d6e9c255" targetConnections="id-e43e28cb-4ecc-43f1-90f2-bb519c1c4283" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1">
-        <bounds x="648" y="276" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-35453de5-db7a-4482-b4e4-fc8adbd898ad" lineColor="#000000" source="id-9f579188-4b62-4168-bbdd-1851d6e9c255" target="id-b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="id-eb98e5d1-c661-40c4-a3c6-2a938c61c7ec"/>
+        <bounds x="684" y="296" width="141" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-003ab910-8c61-4389-bd90-152355c06f1b" targetConnections="id-29e70051-c389-4b85-bb83-c67c87c866d4" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-4f0a59a9-8380-4964-a3a7-286f64c24950">
-        <bounds x="795" y="324" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-eb0f4653-cfb2-48af-a921-7191eb996c3b" lineColor="#000000" source="id-003ab910-8c61-4389-bd90-152355c06f1b" target="id-b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="id-016da537-a6d8-4dd0-8e47-eda110cf4cf8"/>
+        <bounds x="852" y="296" width="141" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-a28acf67-2644-42b6-b456-77ff109a1ef6">
-        <bounds x="498" y="396" width="120" height="55"/>
+        <bounds x="498" y="396" width="141" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-3373239f-d826-45d8-a134-3172b3209600" lineColor="#000000" source="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="id-d9c915b1-5d9f-40bf-a56b-b1b2e03067f8" archimateRelationship="id-9cdd0bb6-f3a1-4194-9a0c-81400d3f51b4"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-dc82e8e1-912c-4831-b21a-65099279eab2" lineColor="#000000" source="id-cc12cd2c-f33e-4cf7-bfff-647d71c207af" target="id-b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="id-a865432d-a062-456e-934a-964f8b40f9bb"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" targetConnections="id-990383b3-0911-4afb-8165-e56f790664a0" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-a2261efd-b869-4153-904f-aac3a90fdacc">
-        <bounds x="648" y="360" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="id-dbf143ca-f6ee-474a-9a92-0d5407df84db" lineColor="#000000" source="id-cc887e4b-8b55-41d0-847e-1e8a5a3ab395" target="id-b630cc3c-1006-4021-a21d-b2448af437ec" archimateRelationship="id-4e24704c-5783-45af-9b8f-947c8e9441d4"/>
+        <bounds x="684" y="396" width="141" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-d8d5ad62-5a53-4400-9ba2-22e4c55fbf60" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-279534c1-52c4-4972-b7d1-c8c79654d2d9">
         <bounds x="852" y="132" width="120" height="72"/>
@@ -2404,31 +2479,47 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
     <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SNC. API-1" id="id-674de74e-3ad6-4d1c-a780-19c68360783b"/>
     <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SGE. API-1" id="id-2475fdf0-4605-417f-814e-eda1080b9eb8">
       <child xsi:type="archimate:DiagramObject" id="id-3f22f776-9d2a-405d-b16d-0abf2455801f" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d">
-        <bounds x="48" y="72" width="120" height="55"/>
+        <bounds x="48" y="72" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-5f2a7279-b643-4b90-8903-c4613f7ff421" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-cc54de94-e001-42f6-9d4f-528146acafc0">
-        <bounds x="198" y="72" width="120" height="55"/>
+        <bounds x="198" y="72" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-e71ddcb8-cf9c-46a0-906d-64190764b0db" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-a6c977bf-f571-4fa0-b0dd-c4dcd3744403">
-        <bounds x="348" y="72" width="120" height="55"/>
+        <bounds x="348" y="72" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-50406e62-a195-4b10-be8a-20d1878413df" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-4b0a3e19-7e23-4509-86a5-b4d9bf06c0ef">
-        <bounds x="48" y="172" width="120" height="55"/>
+        <bounds x="48" y="172" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-01ea4266-5692-4136-a5cb-72a6c4b7b4ee" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-de2b291e-8721-43c2-8bf3-46d12034ab6e">
-        <bounds x="198" y="172" width="120" height="55"/>
+        <bounds x="198" y="172" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-b9437947-0045-4884-abac-895800132a51" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-b33ff159-2329-4fa2-8406-d1f85bd998f0">
-        <bounds x="348" y="172" width="120" height="55"/>
+        <bounds x="348" y="172" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-c4ca16ed-e2b2-4e80-ae9a-5f3ce0d51b3e" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-2354a493-b807-4377-a98c-d75d38166e9f">
-        <bounds x="48" y="272" width="120" height="55"/>
+        <bounds x="48" y="272" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-1a238d2f-a7c6-4c96-bbeb-d522da4d2aa4" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-76e8a8f4-12cf-4ac0-9d2a-1cc5cd5c4c95">
-        <bounds x="198" y="272" width="120" height="55"/>
+        <bounds x="198" y="272" width="145" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="id-8a744a5e-8732-4b4e-8974-418d64e91f58" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-761e9a24-9350-4de3-a864-e2cad4e21eaa">
-        <bounds x="348" y="272" width="120" height="55"/>
+        <bounds x="348" y="272" width="145" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="4f14ae14-6860-49c0-bd95-4983125256ed" archimateElement="id-4929b266-aa6a-4fb9-bad1-8394b76981d8">
+        <bounds x="48" y="360" width="145" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="53373c3c-e31e-4902-a289-9085dcad248d" archimateElement="id-82602794-e52a-47f4-a6d4-ee43aff7bc1c">
+        <bounds x="198" y="360" width="145" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="a1bbd60a-fef7-4587-9f84-96a8be7bd473" archimateElement="58b59c3a-4b1b-4896-9d44-28ff1a4c6f49">
+        <bounds x="348" y="360" width="145" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="97add1f0-9c6f-4555-9690-cdd57916baf8" targetConnections="e2428986-c519-47c8-861f-48122f3d9e85" archimateElement="id-cc4cd3c7-6e2c-44f7-b90f-22cd81ecd9a8">
+        <bounds x="48" y="460" width="145" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="f490d364-3593-4158-91e7-2f835f12b6b3" archimateElement="0c2c28bc-5839-4895-9fd6-3d4644d6cc15">
+        <bounds x="348" y="460" width="145" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="e2428986-c519-47c8-861f-48122f3d9e85" source="f490d364-3593-4158-91e7-2f835f12b6b3" target="97add1f0-9c6f-4555-9690-cdd57916baf8" archimateRelationship="6e728565-2297-400a-8c79-094717d5a6c6"/>
       </child>
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SNC. Transporte e Integración " id="4b093f1f-63cd-46f6-bd7b-051e239d1e2f">
@@ -2470,6 +2561,95 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
       <child xsi:type="archimate:DiagramObject" id="79296a68-0d76-408e-bda7-b05f5097ccf0" targetConnections="dbb11847-127c-4b10-9214-52503e17d3cd" archimateElement="ca1253d7-f228-43a0-8bb6-9f9faa05c39b">
         <bounds x="-132" y="396" width="120" height="55"/>
       </child>
+    </element>
+    <element xsi:type="archimate:ArchimateDiagramModel" name="BSN. SNC Roles y Servicios" id="c3d39fd9-816c-46de-956f-7f06c3ca727b">
+      <child xsi:type="archimate:DiagramObject" id="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" archimateElement="id-62983d23-5b97-4675-9778-1a47ada24357">
+        <bounds x="120" y="473" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="a69a0d72-1ed7-455b-9bfc-695f7279d5dc" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="c8a9e30a-ec87-4955-bde4-d9d84951dac8" archimateRelationship="cf7f9320-f7fb-48df-9a8c-5f121ec458c9"/>
+        <sourceConnection xsi:type="archimate:Connection" id="8a5cc769-3528-46c0-b32f-dd5e5f303029" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="a6ef20c3-7845-4048-bc13-721f8dda5737" archimateRelationship="f068a4d1-e949-4a7b-832a-809f946bf162"/>
+        <sourceConnection xsi:type="archimate:Connection" id="751443a7-279c-4dd3-9f81-7b847aa44fa8" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="a6939f63-ee8c-4935-b3e5-7ad29d7a61e4" archimateRelationship="b31dd90d-d174-47ce-b90e-6eafa2478dde"/>
+        <sourceConnection xsi:type="archimate:Connection" id="596c6844-64be-47d4-b567-914381264e89" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="e77d6f56-ef04-40e2-92d4-30035b3b18a6" archimateRelationship="492db9e1-e09d-4002-a1f8-084388966867">
+          <bendpoint startX="48" startY="-147" endX="-37" endY="141"/>
+        </sourceConnection>
+        <sourceConnection xsi:type="archimate:Connection" id="6a3590c3-d085-4572-a9d3-fd3fb4282878" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="2a4efcab-25ce-4ae4-940b-5483105e2706" archimateRelationship="d69e1cbd-9db4-4dde-9d28-baaa31175804"/>
+        <sourceConnection xsi:type="archimate:Connection" id="131ea858-e34d-4179-90ce-ee5e914fa0ae" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="378a339a-28dd-4999-abba-baef03c9fd84" archimateRelationship="611e4dcf-5f8f-41d9-ae18-3ec5b64eda31"/>
+        <sourceConnection xsi:type="archimate:Connection" id="cccf5c05-ff40-449c-98ea-04c404973731" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="ff722caf-7b3f-4d89-8ae6-2973badc0c8f" archimateRelationship="e8c9edb3-668a-4d71-90be-b93212e432b7"/>
+        <sourceConnection xsi:type="archimate:Connection" id="1a13134d-0666-4a1a-8d87-0471cb380c68" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="69d66998-a286-458e-864a-8d9ee864fd3b" archimateRelationship="714c9c2c-f37d-40a0-b7da-1e13b67914ed"/>
+        <sourceConnection xsi:type="archimate:Connection" id="08096604-fd07-458f-a724-8478754dafdc" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="a108d70b-33b5-4f27-8e4f-28bf2939483a" archimateRelationship="f0e1be6c-8ca6-4222-9912-2b0e49fec281"/>
+        <sourceConnection xsi:type="archimate:Connection" id="3502824b-d48b-4183-8cd7-ee62d4fb833b" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="b3531ff2-0140-4dfe-9a72-cbf7f8563ca1" archimateRelationship="9c3ba2fe-d785-49ce-945f-b8a85f9b0e15"/>
+        <sourceConnection xsi:type="archimate:Connection" id="8a1e430c-93b7-4922-8205-1231874200f2" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="834225cf-a9e0-40e1-a0b3-2a87c6c38958" archimateRelationship="8ab9fe20-7a4a-4046-9d57-15e60eed91f6"/>
+        <sourceConnection xsi:type="archimate:Connection" id="191f1c97-c995-476d-a064-7b6272238a8f" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="7f962da4-5f08-4d08-a8cd-25d025fb2002" archimateRelationship="22b71522-3aa9-410c-b8c9-38660f96f0f7"/>
+        <sourceConnection xsi:type="archimate:Connection" id="c77b90e1-82fb-44d9-955a-911389732517" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="a42f1c46-5534-46e0-aeea-860760913369" archimateRelationship="09127331-6ea1-4b39-9f9c-6ea8f499b0ad"/>
+        <sourceConnection xsi:type="archimate:Connection" id="34503b84-efa4-4b1d-87a8-975212a7bb37" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="e7fb31c8-fe1d-4f41-8bfa-160b699eda99" archimateRelationship="e89e19a4-53a2-422f-85fa-4c48e892bd6d"/>
+        <sourceConnection xsi:type="archimate:Connection" id="650d1db4-1a91-4802-a421-0cd5be1da3ac" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="b878ab17-133a-4228-93c7-c87e0328168f" archimateRelationship="eb34afd4-688e-4793-8cff-182a2d5fa0b0"/>
+        <sourceConnection xsi:type="archimate:Connection" id="94390ea3-4a5a-4453-9177-5c0f375545de" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="e26ddbc0-53e8-411b-8763-afbca25e28ea" archimateRelationship="0317e71d-3cce-4b3c-b5ac-880f385372de"/>
+        <sourceConnection xsi:type="archimate:Connection" id="f9a389be-dcc9-45ce-912a-19d604705551" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="ae4bc3c8-ec28-4394-863e-22321f7c47b6" archimateRelationship="70958567-2c03-4364-bbad-ffc1032671e9"/>
+        <sourceConnection xsi:type="archimate:Connection" id="42a57fb1-e90b-44bc-a81f-416d51d731c5" source="60bb6dbc-ba9c-40cd-8a2b-0b3d27a50f4f" target="df2f4241-cfde-47d0-9107-620fcdd245aa" archimateRelationship="4a8d3ad3-b0fa-4b02-9627-4b22787dc488"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="ff722caf-7b3f-4d89-8ae6-2973badc0c8f" targetConnections="cccf5c05-ff40-449c-98ea-04c404973731" archimateElement="006efe54-e970-4964-b966-4ca44a598845">
+        <bounds x="36" y="120" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="2a4efcab-25ce-4ae4-940b-5483105e2706" targetConnections="6a3590c3-d085-4572-a9d3-fd3fb4282878" archimateElement="a270deaf-66da-42d0-a460-46ecf9e3886a">
+        <bounds x="36" y="185" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="378a339a-28dd-4999-abba-baef03c9fd84" targetConnections="131ea858-e34d-4179-90ce-ee5e914fa0ae" archimateElement="1e035a66-c360-43d2-b867-cca12dda1299">
+        <bounds x="192" y="120" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="e77d6f56-ef04-40e2-92d4-30035b3b18a6" targetConnections="596c6844-64be-47d4-b567-914381264e89" archimateElement="b37da959-a35a-48d7-94ef-5362ee6a8581">
+        <bounds x="192" y="185" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="a6939f63-ee8c-4935-b3e5-7ad29d7a61e4" targetConnections="751443a7-279c-4dd3-9f81-7b847aa44fa8" archimateElement="1fb64bdc-9438-4e26-ad4d-5501fbcf7f68">
+        <bounds x="36" y="251" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="c8a9e30a-ec87-4955-bde4-d9d84951dac8" targetConnections="a69a0d72-1ed7-455b-9bfc-695f7279d5dc" archimateElement="b8743b07-38aa-43d7-bbce-d689ca647e55">
+        <bounds x="36" y="316" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="a6ef20c3-7845-4048-bc13-721f8dda5737" targetConnections="8a5cc769-3528-46c0-b32f-dd5e5f303029" archimateElement="1f40e91b-5aa8-4ddb-9223-d1d107643380">
+        <bounds x="192" y="251" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="4c791bd7-0518-4339-8288-c3048f413b67" archimateElement="d77b32dd-4085-4037-be19-d0735b37eab4">
+        <bounds x="192" y="316" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:Note" id="152b3aac-5270-4734-844e-8d17eacb1f08" textAlignment="1">
+        <bounds x="36" y="12" width="185" height="80"/>
+        <content>Principales Usuarios y Servicios de Negocio de la Plataforma de Información del SNC​
+</content>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="69d66998-a286-458e-864a-8d9ee864fd3b" targetConnections="1a13134d-0666-4a1a-8d87-0471cb380c68" archimateElement="bc9650f3-68af-4bdb-bc52-86d7352a3255">
+        <bounds x="444" y="120" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="a108d70b-33b5-4f27-8e4f-28bf2939483a" targetConnections="08096604-fd07-458f-a724-8478754dafdc" archimateElement="acb26682-8dfd-4098-8d84-e6dcccb278c0">
+        <bounds x="444" y="185" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="b3531ff2-0140-4dfe-9a72-cbf7f8563ca1" targetConnections="3502824b-d48b-4183-8cd7-ee62d4fb833b" archimateElement="28bcd6d4-0fa9-4cc1-8f2d-d12193e1290e">
+        <bounds x="444" y="251" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="834225cf-a9e0-40e1-a0b3-2a87c6c38958" targetConnections="8a1e430c-93b7-4922-8205-1231874200f2" archimateElement="ea3b40cc-8bca-43d3-bfe4-efeec8765475">
+        <bounds x="444" y="316" width="146" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="df2f4241-cfde-47d0-9107-620fcdd245aa" targetConnections="42a57fb1-e90b-44bc-a81f-416d51d731c5" archimateElement="id-0ec90a5b-d622-49ce-ba6b-25d17acf99aa">
+        <bounds x="192" y="641" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="ae4bc3c8-ec28-4394-863e-22321f7c47b6" targetConnections="f9a389be-dcc9-45ce-912a-19d604705551" archimateElement="id-1b3365bc-5c4c-425f-aa9e-cc9d1b7ddfa1">
+        <bounds x="342" y="641" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="e7fb31c8-fe1d-4f41-8bfa-160b699eda99" targetConnections="34503b84-efa4-4b1d-87a8-975212a7bb37" archimateElement="id-4f0a59a9-8380-4964-a3a7-286f64c24950">
+        <bounds x="492" y="641" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="b878ab17-133a-4228-93c7-c87e0328168f" targetConnections="650d1db4-1a91-4802-a421-0cd5be1da3ac" archimateElement="id-a28acf67-2644-42b6-b456-77ff109a1ef6">
+        <bounds x="98" y="720" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="e26ddbc0-53e8-411b-8763-afbca25e28ea" targetConnections="94390ea3-4a5a-4453-9177-5c0f375545de" archimateElement="id-a2261efd-b869-4153-904f-aac3a90fdacc">
+        <bounds x="252" y="720" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="7f962da4-5f08-4d08-a8cd-25d025fb2002" targetConnections="191f1c97-c995-476d-a064-7b6272238a8f" archimateElement="39e0449b-9789-4798-a5aa-ff176c7d0381">
+        <bounds x="98" y="792" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="a42f1c46-5534-46e0-aeea-860760913369" targetConnections="c77b90e1-82fb-44d9-955a-911389732517" archimateElement="355cc188-d468-4120-b13f-d114de97a653">
+        <bounds x="252" y="792" width="142" height="55"/>
+      </child>
+      <documentation>La definición del alcance de la plataforma de información se llevó a cabo a partir de la identificación de servicios de información requeridos por los usuarios de la plataforma mediante un análisis de los componentes del SNC y su interacción con el mercado laboral y la oferta educativa y formativa. Dos grandes tipos de servicios fueron identificados: (a) servicios de consulta de información y (b) servicios de gestión de información. Los servicios de consulta de información están a su vez agrupados en cuatro grandes temáticas: (i) Mercado Laboral, (ii) Formación, Educación y Reconocimiento de Aprendizajes previos, iii) Sistema Nacional de Cualificaciones y iv) Mecanismos. Posteriormente dentro de cada temática se definieron servicios específicos para finalmente proponer los requerimientos que harán parte de la plataforma. ​
+</documentation>
     </element>
   </folder>
 </archimate:model>
