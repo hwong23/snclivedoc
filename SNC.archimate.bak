@@ -104,7 +104,7 @@ Sus oferentes son el Servicio Nacional de Aprendizaje (SENA), las Instituciones 
 Realizar ajustes normativos a implementar
 Diseñar la arquitectura del Sistema de Información e Implementar la solución tecnológica para la integración de las plataformas que soportan las fuentes de información.</documentation>
     </element>
-    <element xsi:type="archimate:BusinessProcess" name="Ministerio de Trabajo" id="id-858c240e-ab69-47c3-8ebe-7d7d8f2950c8"/>
+    <element xsi:type="archimate:BusinessProcess" name="EADM1. Ministerio de Trabajo" id="id-858c240e-ab69-47c3-8ebe-7d7d8f2950c8"/>
     <element xsi:type="archimate:BusinessCollaboration" name="PL03. Anticipar y proporcionar calificaciones" id="id-a5ae5d8d-13ef-49e6-924e-0d82c109430e">
       <documentation>Anticipar y proporcionar calificaciones que serán necesarias en el futuro</documentation>
     </element>
@@ -245,6 +245,7 @@ Mecanismos: Esta temática fue propuesta con la intención de diferenciar los se
     <element xsi:type="archimate:BusinessService" name="BS08. Servicios generales de Gestión de Información" id="355cc188-d468-4120-b13f-d114de97a653">
       <documentation>Servicios generales de Gestión de Información: Estos servicios están direccionados a actores que administran la información que servirá de insumo para la Plataforma de Información del SNC.​</documentation>
     </element>
+    <element xsi:type="archimate:BusinessProcess" name="EADM2. Ministerio de Educación Nacional (MEN)" id="d0d699e8-32f9-43fa-81da-6b915dc782b4"/>
   </folder>
   <folder name="Application" id="d3b4af77-5cc1-4fd6-9292-5eba3276e81f" type="application">
     <element xsi:type="archimate:ApplicationInteraction" name="GRP. Gestión Empleo y Productividad" id="id-7cd68bd9-fe5b-4b89-9553-1794642bafff"/>
@@ -394,7 +395,7 @@ Este subsistema busca desarrollar estándares reconocidos a nivel nacional media
 
 Definir la bodega de datos para la gestión del empleo junto con su modelo de gobierno de datos, tomando en consideración la normatividad vigente, así como los criterios, reglas de calidad, de integridad y seguridad de los mismos. En todos los casos,  la bodega debe utilizar y aplicar taxonomías y ontologías internacionales relacionadas con el sector laboral.</documentation>
     </element>
-    <element xsi:type="archimate:DataObject" name="DO01. Catálogo Nacional de Cualificaciones" id="id-0c0b600d67f248c8a0ccfbfd6305490c">
+    <element xsi:type="archimate:DataObject" name="DO01. Catálogo Nacional de Cualificaciones CUOC" id="id-0c0b600d67f248c8a0ccfbfd6305490c">
       <documentation>Catálogo Nacional de Cualificaciones: Instrumento en el que se relacionan y ordenan las cualificaciones para cada nivel del MNC por área de cualificación (actualmente en proceso de construcción). Es un referente para la estructuración de la oferta educativa y la evaluación y reconocimiento de competencias adquiridas a través de aprendizaje informales. ​</documentation>
       <property key="Nombre de la ocupacion"/>
       <property key="Código"/>
@@ -406,7 +407,10 @@ Definir la bodega de datos para la gestión del empleo junto con su modelo de go
     <element xsi:type="archimate:DataObject" name="DO20. Catálogos sectoriales de cualificaciones" id="id-02b97ff09dec406dbeaa4e8e64725b31"/>
     <element xsi:type="archimate:DataObject" name="DO11. Saber Pro" id="id-0e20b1580e9e4b5582715584e13c1e9b"/>
     <element xsi:type="archimate:DataObject" name="DO12. Saber TYT" id="id-539ae40b3250451d94f071ad38a572db"/>
-    <element xsi:type="archimate:DataObject" name="DO10. SNIES" id="id-3ea4f3a5b4c542f69ba6f94874d80714"/>
+    <element xsi:type="archimate:DataObject" name="DO10. SNIES" id="id-3ea4f3a5b4c542f69ba6f94874d80714">
+      <documentation>Pertenece al universo de la oferta educativa y representa el segmento de todos los estudiantes de las Instituciones de Educación Superior (IES)  que cursan programas a nivel de pregrado y posgrado. Se encuentra a cargo del Observatorio Laboral para la Educación (OLE). Cuenta con diagnóstico realizado en convenio con el DANE y es información suministrada a través de un repositorio virtual.​
+</documentation>
+    </element>
     <element xsi:type="archimate:DataObject" name="DO04. Instituciones SIET" id="id-a92054736b3f4ebd9e4d29128136309d">
       <documentation>En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
 Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
@@ -459,8 +463,10 @@ La CUOC permite la homologación de la clasificación nacional e internacional d
     <element xsi:type="archimate:DataObject" name="DO07. PILA" id="id-f4579c2e54ff42c08c8ea5589ccea5f2"/>
     <element xsi:type="archimate:DataObject" name="DO08. RUTEC" id="id-3b8321c62fe748ba9fe22073b459faba"/>
     <element xsi:type="archimate:DataObject" name="DO09. SIACET" id="id-f265658d4cd74fb38a78273ea43cf555">
-      <documentation>Para el Ministerio de Educación Nacional es importante fortalecer el acompañamiento y apoyo a las Secretarías de Educación de los entes certificados en educación, en toda la función educativa y en especial en esta oportunidad en los asuntos relacionados con la Educación para el Trabajo y el Desarrollo Humano.&#xD;
-Por esta razón, como es de su conocimiento, se ha formulado el Proyecto 2011011000287 asesoría a las secretarias de educación certificadas e instituciones de educación para el trabajo en la aplicación de estándares de calidad de programas e instituciones en Colombia. Dentro de este proyecto se realizó la construcción del Sistema de Información para el Aseguramiento de la Calidad de la Educación para el Trabajo y el Desarrollo Humano- SIACET, el cual es una herramienta tecnológica que busca soportar y facilitar las acciones previas requeridas para atender las solicitudes de aprobación de licencias de funcionamiento y de registro de programas.&#xD;
+      <documentation>Para el Ministerio de Educación Nacional es importante fortalecer el acompañamiento y apoyo a las Secretarías de Educación de los entes certificados en educación, en toda la función educativa y en especial en esta oportunidad en los asuntos relacionados con la Educación para el Trabajo y el Desarrollo Humano.
+&#xD;
+Por esta razón, como es de su conocimiento, se ha formulado el Proyecto 2011011000287 asesoría a las secretarias de educación certificadas e instituciones de educación para el trabajo en la aplicación de estándares de calidad de programas e instituciones en Colombia. Dentro de este proyecto se realizó la construcción del Sistema de Información para el Aseguramiento de la Calidad de la Educación para el Trabajo y el Desarrollo Humano- SIACET, el cual es una herramienta tecnológica que busca soportar y facilitar las acciones previas requeridas para atender las solicitudes de aprobación de licencias de funcionamiento y de registro de programas.
+&#xD;
 La heterogeneidad y el número de trámites que se relacionadas con Educación para el trabajo y el desarrollo humano son factores que ponen énfasis en la necesidad de fortalecer el sistema de información integrando los ámbitos del otorgamiento de licencias de funcionamiento a instituciones y la aprobación de programas, a cargo de las Secretarías de Educación de los entes certificados.&#xD;
 El ese sentido se tiene la implementación del Sistema de Información con el cual se brindará apoyo a las instituciones y a las Secretarías integrando el proceso previo a lo que actualmente se maneja en el SIET. http://aprende.colombiaaprende.edu.co/es/node/92429&#xD;
 &#xD;
@@ -468,14 +474,14 @@ https://www.mineducacion.gov.co/1621/articles-353336_recurso_6.pdf&#xD;
 &#xD;
 (Ministerio de Educación, 2016)</documentation>
     </element>
-    <element xsi:type="archimate:DataObject" name="DO15. Tabla intermedia programas SIET-CUOC ¿?." id="id-77eeb981c3b441eda3f031d4b8a8fef8">
+    <element xsi:type="archimate:DataObject" name="DO15. Programas SIET-CUOC ¿?." id="id-77eeb981c3b441eda3f031d4b8a8fef8">
       <documentation>Sobre SIET&#xD;
 Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
 &#xD;
 J. J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.</documentation>
     </element>
     <element xsi:type="archimate:DataObject" name="DO03. Estudiantes SIET" id="id-264751761385418d94488a4c3dfbe28f">
-      <documentation>La Circular No. 17 de 2015, emitida por el Viceministeriode Educación Superior aclara queel artículo 5 del Decreto 2685 de 2012 modificado por el artículo 2 del Decreto 916 de 2013, establece las fechas en que las IETDHdeberán reportar al Ministerio  de  Educación  Nacional la  información  actualizada  de  los  estudiantes matriculados. Las Instituciones que ofertan ETDH en el país deben registrar en el SIET los datos de los estudiantes matriculados, el costo total del programa y los   datos   de   los   estudiantes   que   obtuvieron   su   Certificado   de   Aptitud Ocupacional,  dentro  de  los  cinco  días  hábiles  siguientes  a  la  ocurrencia  de  la novedad.&#xD;
+      <documentation>La Circular No. 17 de 2015, emitida por el Viceministeriode Educación Superior aclara queel artículo 5 del Decreto 2685 de 2012 modificado por el artículo 2 del Decreto 916 de 2013, establece las fechas en que las IETDHdeberán reportar al Ministerio de  Educación Nacional la información actualizada de los estudiantes matriculados. Las Instituciones que ofertan ETDH en el país deben registrar en el SIET los datos de los estudiantes matriculados, el costo total del programa y los datos de los   estudiantes   que   obtuvieron  su  Certificado de Aptitud Ocupacional,  dentro  de  los  cinco  días  hábiles  siguientes  a  la  ocurrencia  de  la novedad.&#xD;
 &#xD;
 (Ministerio de Educación, 2017)</documentation>
       <property key="Fecha de ingreso"/>
@@ -496,9 +502,11 @@ J. J. El objetivo es generar información sobre legalidad de las instituciones. 
       <property key="Multiculturalidad"/>
     </element>
     <element xsi:type="archimate:DataObject" name="DO06. Programas SIET" id="id-59824ba4cb1746edb8f201fee8c6ea3d">
-      <documentation>En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;
+      <documentation>En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.
+&#xD;
 Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;
-El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;
+El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.
+&#xD;
 http://aprende.colombiaaprende.edu.co/es/node/92429&#xD;
 &#xD;
 Datos: http://siet.mineducacion.gov.co/consultasiet/programa/index.jsp?codigoInstitucion=4479#&#xD;
@@ -610,10 +618,57 @@ El aseguramiento de la calidad educativa requiere de un aseguramiento interno re
     <element xsi:type="archimate:DataObject" name="DO21. Oferta Educación Superior (copy) (copy)" id="34c25059-c5fa-41df-be66-0b2b475dcfd2"/>
     <element xsi:type="archimate:DataObject" name="DO24. Acreditación de Alta Calidad" id="72b60f89-e2ad-4f8d-bebc-ba54c099f38f"/>
     <element xsi:type="archimate:DataObject" name="DO25. Comparativas de Movilidad" id="ec635a35-937c-4439-9f6c-dc543a504315"/>
-    <element xsi:type="archimate:DataObject" name="DO26. Requisitos para Normalización de Competencias" id="c4f6159c-fe14-4d78-bf51-09d65e0c7cdc"/>
+    <element xsi:type="archimate:DataObject" name="DO26. Requisitos para Normalización de Competencias" id="c4f6159c-fe14-4d78-bf51-09d65e0c7cdc">
+      <documentation>(provisional) Unidad de Observación: Normas sectoriales de competencia laboral generadas en las mesas sectoriales, Estructura Funcional de la Ocupación (EFO). El responsable es el grupo de Gestión de Competencias Laborales  de la Dirección del Sistema Nacional de Formación para el trabajo  (DSNFT). Cuenta con diagnóstico realizado en convenio con el DANE y se trabajó con un archivo de texto txt. La base de datos del registro administrativo es almacenada bajo una estructura relacional.​
+</documentation>
+    </element>
     <element xsi:type="archimate:DataObject" name="DO27. Vías de Cualificación" id="528a0868-e371-412e-9ab5-60ef9cf501d3"/>
     <element xsi:type="archimate:ApplicationInterface" name="API16. Gestión de Información" id="9271dbe6-94ca-4cd2-8114-65ce875167f8">
       <documentation>Servicios generales de Gestión de Información: Estos servicios están direccionados a actores que administran la información que servirá de insumo para la Plataforma de Información del SNC.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO30. SACES" id="b3e9141f-ffe4-445a-9a46-b39c69b20ea7">
+      <documentation>Es un repositorio de archivos PDF con los documentos maestro de los programas de educación superior. Hay importantes restricciones para acceder a la información, la cual no es de dominio público.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO31. Clasificación Internacional Normalizada de la Educación (CINE)​" id="e7bc2a6e-6b31-405b-a022-f70f49ac8748">
+      <documentation>Esta clasificación está a cargo de la Dirección de Regulación, Planeación, Estandarización y Normalización (DIRPEN) del DANE.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO32. Gran Encuesta Integrada de Hogares (GEIH)​" id="549ec53c-9ed2-4abd-bd0c-acaf0a8ff2e8">
+      <documentation>Es una encuesta realizada de manera continua por el DANE a los hogares del país, de la cual se obtienen las cifras del mercado laboral. Está a cargo de la Dirección de Metodología y Producción Estadística (DIMPE) del DANE.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO33. Marco Nacional de Cualificaciones (MNC)​" id="a3aaa75e-cfc6-4113-8c78-8cb233d6c080">
+      <documentation>En la actualidad el Marco Nacional de cualificaciones se encuentra en construcción. Se cuenta con 9 catálogos de cualificaciones para 11 sectores productivos del país.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO34. Encuestas Brecha Laboral" id="53bfb64c-0067-406a-a3ef-0b73746f864a">
+      <documentation>Son entrevistas semiestructuradas que se realizan dentro de los estudios de brechas de capital humano y prospectiva laboral. Son estudios sectoriales pero hasta el momento no se ha abarcado la totalidad de los sectores económicos. ​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO35. Registro administrativo de Normalización de Competencias Laborales " id="46cc6bbd-7996-4bef-857d-a699a1c96c4b">
+      <documentation>Unidad de Observación: Normas sectoriales de competencia laboral generadas en las mesas sectoriales, Estructura Funcional de la Ocupación (EFO). El responsable es el grupo de Gestión de Competencias Laborales  de la Dirección del Sistema Nacional de Formación para el trabajo  (DSNFT). Cuenta con diagnóstico realizado en convenio con el DANE y se trabajó con un archivo de texto txt. La base de datos del registro administrativo es almacenada bajo una estructura relacional.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO36. Egresados del SENA" id="b4c10bf4-fc1c-42c3-9834-e7359279e00a">
+      <documentation>Bases de Datos (Seguimiento a egresados)​. Unidad de observación: Egresados del SENA en programas de formación titulada correspondientes a los niveles de Auxiliar, Técnico, Técnico Profesional, Especialización Técnica, Tecnólogo, Especialización Tecnológica, Operario, Ocupación y Profundización técnica. La entidad responsable es el Observatorio Laboral de las Ocupaciones (OLO). Cuenta con diagnóstico realizado en convenio con el DANE y se trabajó con un archivo de texto .txt. ​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO37. BDD. Programas ofrecidos por el SENA" id="0ccc4474-cbd9-49c5-bdca-03b1dbca98af">
+      <documentation>De SofiaPLUS. Contiene información sobre los programas ofrecidos por el SENA. En la actualidad no es muy fácil tener acceso a esta fuente de información.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:ApplicationComponent" name="APP. SofiaPLUS" id="28f9672a-6dde-4be7-b534-52e5c408a931">
+      <documentation>Contiene información sobre los programas ofrecidos por el SENA. En la actualidad no es muy fácil tener acceso a esta fuente de información.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO38. BDD. Vacantes" id="9d175780-eee1-4806-a65e-b8a5a751fa98">
+      <documentation>En esta base de datos se almacenan todas la vacantes a nivel nacional que han sido cargadas en el Servicio Público de Empleo, es una base de datos que se encuentra en formato .cvs. Representa un porción limitada el universo de demanda del mercado laboral.​
+</documentation>
+    </element>
+    <element xsi:type="archimate:DataObject" name="DO39. BDD. Hojas de Vida" id="f47973d2-2a8f-4ed7-b11a-8f53e5853389">
+      <documentation>En esta base de datos se almacenan todas las hojas de vida registradas en el Servicio Público de Empleo, es una base de datos que se encuentra en formato .cvs. Representa una porción limitada de la oferta del mercado laboral.​
 </documentation>
     </element>
   </folder>
@@ -1087,6 +1142,13 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
     <element xsi:type="archimate:AccessRelationship" id="fb9efec4-00e0-4ebb-989c-938e3e2eaf30" source="076be6d2-a4bf-4cae-a549-36e620fa7046" target="ec635a35-937c-4439-9f6c-dc543a504315"/>
     <element xsi:type="archimate:AccessRelationship" id="66d702ce-7622-4275-9c63-bcf6d60d2d53" source="076be6d2-a4bf-4cae-a549-36e620fa7046" target="c4f6159c-fe14-4d78-bf51-09d65e0c7cdc"/>
     <element xsi:type="archimate:AccessRelationship" id="fc703e10-44ec-43d3-8dc0-444bbc69d6dd" source="076be6d2-a4bf-4cae-a549-36e620fa7046" target="528a0868-e371-412e-9ab5-60ef9cf501d3"/>
+    <element xsi:type="archimate:AccessRelationship" id="6f0598d9-cc2b-4d2e-8493-d3106127e683" source="28f9672a-6dde-4be7-b534-52e5c408a931" target="0ccc4474-cbd9-49c5-bdca-03b1dbca98af"/>
+    <element xsi:type="archimate:AssociationRelationship" id="a82b1d5f-bf0e-4889-940f-2f58a87d3063" source="d0d699e8-32f9-43fa-81da-6b915dc782b4" target="id-77eeb981c3b441eda3f031d4b8a8fef8"/>
+    <element xsi:type="archimate:AssociationRelationship" id="4923acbf-068e-41e9-a00d-97ead0abc199" source="d0d699e8-32f9-43fa-81da-6b915dc782b4" target="id-a92054736b3f4ebd9e4d29128136309d"/>
+    <element xsi:type="archimate:AssociationRelationship" id="3cd91d93-c403-464c-b819-9514f25f8769" source="d0d699e8-32f9-43fa-81da-6b915dc782b4" target="id-59824ba4cb1746edb8f201fee8c6ea3d"/>
+    <element xsi:type="archimate:AssociationRelationship" id="f6667f39-2794-4194-abf2-f5a851668234" source="d0d699e8-32f9-43fa-81da-6b915dc782b4" target="id-264751761385418d94488a4c3dfbe28f"/>
+    <element xsi:type="archimate:AssociationRelationship" id="a36ca986-33f3-4c14-b57c-4218e3725217" source="d0d699e8-32f9-43fa-81da-6b915dc782b4" target="id-3ea4f3a5b4c542f69ba6f94874d80714"/>
+    <element xsi:type="archimate:AssociationRelationship" id="bc9ab683-ad8d-41c0-b0a0-f109d68cd0ba" source="d0d699e8-32f9-43fa-81da-6b915dc782b4" target="id-445c1fd9e32b491caf3709d3357d48b5"/>
   </folder>
   <folder name="Views" id="26d80260-1dd8-43f0-880f-8d5569a49ee4" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="New ArchiMate View" id="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db">
@@ -2756,73 +2818,108 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
     </element>
     <element xsi:type="archimate:ArchimateDiagramModel" name="APP. SNC. Fuentes (copy)" id="5398f39a-9073-49c0-bec7-2ecefc403dcd">
       <child xsi:type="archimate:DiagramObject" id="43215ae9-fd35-4f32-88c3-41300bf1e71a" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-0c0b600d67f248c8a0ccfbfd6305490c">
-        <bounds x="1164" y="156" width="169" height="133"/>
+        <bounds x="696" y="144" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="03941975-b05a-4927-8551-6c6ee788f5fc" source="43215ae9-fd35-4f32-88c3-41300bf1e71a" target="21288ca8-b7b6-4661-99c5-b8cb8fe432f0" archimateRelationship="id-9dc0787922ec478b8f0677dbfe5c5ee0"/>
-        <child xsi:type="archimate:DiagramObject" id="21288ca8-b7b6-4661-99c5-b8cb8fe432f0" targetConnections="03941975-b05a-4927-8551-6c6ee788f5fc 6b5b2f1f-5502-4bfe-ab19-a70550ba2a0f" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-02b97ff09dec406dbeaa4e8e64725b31">
-          <bounds x="24" y="60" width="121" height="61"/>
-        </child>
       </child>
       <child xsi:type="archimate:DiagramObject" id="9c3adac5-6866-4ee1-9075-f8491d684ed1" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-0e20b1580e9e4b5582715584e13c1e9b">
-        <bounds x="1548" y="864" width="120" height="55"/>
+        <bounds x="398" y="516" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="6163aab4-1ae3-4bb5-9181-76610af46c6c" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-539ae40b3250451d94f071ad38a572db">
-        <bounds x="1200" y="756" width="120" height="55"/>
+        <bounds x="696" y="606" width="120" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="ff2bdfc7-3698-457a-bd71-7e2419aecc58" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-3ea4f3a5b4c542f69ba6f94874d80714">
-        <bounds x="1201" y="816" width="120" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="ff2bdfc7-3698-457a-bd71-7e2419aecc58" targetConnections="79ecd6da-be68-4452-8f12-c34337650f45" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-3ea4f3a5b4c542f69ba6f94874d80714">
+        <bounds x="696" y="756" width="120" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="39c63416-85fa-4179-a0c7-3eaf72e45e87" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-445c1fd9e32b491caf3709d3357d48b5">
-        <bounds x="1392" y="756" width="120" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="39c63416-85fa-4179-a0c7-3eaf72e45e87" targetConnections="20601913-89cc-4f51-a87c-fafa1cc38d37" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-445c1fd9e32b491caf3709d3357d48b5">
+        <bounds x="855" y="756" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="4465fe07-bd44-49f8-baa9-b7929a6d8673" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-6d395fcc88a040fda4772bdeaecc5ffc">
-        <bounds x="1392" y="828" width="120" height="55"/>
+        <bounds x="242" y="516" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="82ad0bc9-0b8c-4933-bbe6-545edd199594" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-b916af3b3e724a1a9e0d007d1d6dec9b">
-        <bounds x="1392" y="876" width="120" height="55"/>
+        <bounds x="241" y="587" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="ecce7984-e92e-4ba5-a0e1-69e178983a7a" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-5a504dc501594788850576cee36d3572">
-        <bounds x="1392" y="936" width="120" height="55"/>
+        <bounds x="240" y="660" width="142" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="cc36bf26-d567-464e-b7c2-b53f2b82e116" targetConnections="4bb3e318-e6cd-4053-b062-55483352da88 10060646-9d07-483e-8cc9-4fc91407d42a" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-d4c097ad201c4ade97be1c6c3ed23004">
-        <bounds x="1182" y="302" width="133" height="63"/>
+      <child xsi:type="archimate:DiagramObject" id="cc36bf26-d567-464e-b7c2-b53f2b82e116" targetConnections="4bb3e318-e6cd-4053-b062-55483352da88" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-d4c097ad201c4ade97be1c6c3ed23004">
+        <bounds x="692" y="290" width="133" height="63"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="e7a5f05b-3ff2-449b-9c84-a434605589f0" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-f4579c2e54ff42c08c8ea5589ccea5f2">
-        <bounds x="1548" y="804" width="120" height="55"/>
+        <bounds x="398" y="444" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="6e3c5284-2b5e-49ee-9ce2-1910e21e465f" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-3b8321c62fe748ba9fe22073b459faba">
-        <bounds x="1548" y="953" width="120" height="55"/>
+        <bounds x="398" y="587" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="b75de9ac-9fd0-4452-b914-68b50f654f13" targetConnections="a8e2d727-6da5-4508-b784-c4ebf79c5955" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-f265658d4cd74fb38a78273ea43cf555">
-        <bounds x="1186" y="539" width="120" height="55"/>
+        <bounds x="696" y="527" width="120" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="be1db3f7-0459-4ad3-b138-3d34f15bdc9d" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-77eeb981c3b441eda3f031d4b8a8fef8">
-        <bounds x="1186" y="384" width="126" height="61"/>
+      <child xsi:type="archimate:DiagramObject" id="be1db3f7-0459-4ad3-b138-3d34f15bdc9d" targetConnections="692eacae-69c8-4a2e-9cea-e92cdf91d21f" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-77eeb981c3b441eda3f031d4b8a8fef8">
+        <bounds x="696" y="372" width="126" height="61"/>
         <sourceConnection xsi:type="archimate:Connection" id="4bb3e318-e6cd-4053-b062-55483352da88" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="be1db3f7-0459-4ad3-b138-3d34f15bdc9d" target="cc36bf26-d567-464e-b7c2-b53f2b82e116" archimateRelationship="id-9dedc64d14f94a7ba1b18cc3afee4715"/>
         <sourceConnection xsi:type="archimate:Connection" id="76250f3c-cc3f-439f-be78-9f243b7c79ab" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="be1db3f7-0459-4ad3-b138-3d34f15bdc9d" target="de410270-6ad9-4d67-9bcd-4925f68d2970" archimateRelationship="id-0223e89e84294acdb13b386c40a652dd"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="ecda737a-95a5-464c-85d3-3d7e5d5c4837" targetConnections="1f5bdcd3-bc8e-4267-aa1b-8d6d12a68371 58463901-e5a5-4cfa-8431-6dd236813e04" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-264751761385418d94488a4c3dfbe28f">
-        <bounds x="1356" y="492" width="120" height="55"/>
+      <child xsi:type="archimate:DiagramObject" id="ecda737a-95a5-464c-85d3-3d7e5d5c4837" targetConnections="fcb94129-e0a3-40cb-8617-77e265ec695a" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-264751761385418d94488a4c3dfbe28f">
+        <bounds x="866" y="480" width="120" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="de410270-6ad9-4d67-9bcd-4925f68d2970" targetConnections="76250f3c-cc3f-439f-be78-9f243b7c79ab 6d83addc-115e-4c66-aa09-c08704953406" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-59824ba4cb1746edb8f201fee8c6ea3d">
-        <bounds x="1186" y="468" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="1f5bdcd3-bc8e-4267-aa1b-8d6d12a68371" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="de410270-6ad9-4d67-9bcd-4925f68d2970" target="ecda737a-95a5-464c-85d3-3d7e5d5c4837" archimateRelationship="id-ea2cf0c6633048918f9c3bcad5045257"/>
+      <child xsi:type="archimate:DiagramObject" id="de410270-6ad9-4d67-9bcd-4925f68d2970" targetConnections="76250f3c-cc3f-439f-be78-9f243b7c79ab 4d593a3c-56e2-4366-adc4-4f7e81c60287" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-59824ba4cb1746edb8f201fee8c6ea3d">
+        <bounds x="696" y="456" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="a8e2d727-6da5-4508-b784-c4ebf79c5955" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="de410270-6ad9-4d67-9bcd-4925f68d2970" target="b75de9ac-9fd0-4452-b914-68b50f654f13" archimateRelationship="id-74154bb10e60400185cc2b71cc6a01ba"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="aef2a9c5-e1d1-430c-863c-ff28e467aeef" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-a92054736b3f4ebd9e4d29128136309d">
-        <bounds x="1356" y="408" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="6d83addc-115e-4c66-aa09-c08704953406" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="aef2a9c5-e1d1-430c-863c-ff28e467aeef" target="de410270-6ad9-4d67-9bcd-4925f68d2970" archimateRelationship="id-2bbef83b49524f31a34b47a73183054a"/>
-        <sourceConnection xsi:type="archimate:Connection" id="58463901-e5a5-4cfa-8431-6dd236813e04" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="aef2a9c5-e1d1-430c-863c-ff28e467aeef" target="ecda737a-95a5-464c-85d3-3d7e5d5c4837" archimateRelationship="id-941228fdeab84b22b747109c5eb00c5e"/>
+      <child xsi:type="archimate:DiagramObject" id="aef2a9c5-e1d1-430c-863c-ff28e467aeef" targetConnections="496556f0-aa74-4807-ae3b-566e96169efb" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-a92054736b3f4ebd9e4d29128136309d">
+        <bounds x="866" y="396" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="0e094c6b-e736-40d7-8f94-eb5ddadcb50a" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-2ef748d4f4994576a5e386ff4daa7a81">
-        <bounds x="1196" y="648" width="120" height="55"/>
+        <bounds x="696" y="678" width="120" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="0148d389-1a7a-4887-bca2-d9b654e12a2a" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-06cfd8fe-9ef3-4a57-9b17-d33c2cd593f1">
-        <bounds x="732" y="264" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="6b5b2f1f-5502-4bfe-ab19-a70550ba2a0f" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="0148d389-1a7a-4887-bca2-d9b654e12a2a" target="21288ca8-b7b6-4661-99c5-b8cb8fe432f0" archimateRelationship="id-405dbd9fc2034f928062880cef4dc4d4"/>
+      <child xsi:type="archimate:DiagramObject" id="0012c434-8de6-4ed3-b08b-2b0956466e87" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="b3e9141f-ffe4-445a-9a46-b39c69b20ea7">
+        <bounds x="398" y="660" width="142" height="55"/>
       </child>
-      <child xsi:type="archimate:DiagramObject" id="9046ed22-4f3c-4653-8752-a06ef6cd56d3" lineColor="#5c5c5c" fillColor="#ffffb5" archimateElement="id-22660beb-d85c-4eb0-ac04-a5fe2d1555c8">
-        <bounds x="732" y="330" width="120" height="55"/>
-        <sourceConnection xsi:type="archimate:Connection" id="10060646-9d07-483e-8cc9-4fc91407d42a" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="9046ed22-4f3c-4653-8752-a06ef6cd56d3" target="cc36bf26-d567-464e-b7c2-b53f2b82e116" archimateRelationship="id-168b817f8cf94d83b46b666711b47178"/>
+      <child xsi:type="archimate:DiagramObject" id="2661d50a-d0f3-4c7b-ad80-6fe478892f62" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="e7bc2a6e-6b31-405b-a022-f70f49ac8748">
+        <bounds x="398" y="732" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="b732ee52-6195-446f-8e27-413765fd46f2" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="549ec53c-9ed2-4abd-bd0c-acaf0a8ff2e8">
+        <bounds x="239" y="732" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="21288ca8-b7b6-4661-99c5-b8cb8fe432f0" targetConnections="03941975-b05a-4927-8551-6c6ee788f5fc" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-02b97ff09dec406dbeaa4e8e64725b31">
+        <bounds x="865" y="141" width="121" height="61"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="f69c74aa-1171-4340-be14-0dec252c879f" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="a3aaa75e-cfc6-4113-8c78-8cb233d6c080">
+        <bounds x="239" y="804" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="a7945fd8-c1f3-4021-b8e9-4b42f0b38a5d" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="53bfb64c-0067-406a-a3ef-0b73746f864a">
+        <bounds x="398" y="804" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="f76210b8-7aaa-47b3-9c77-0ade14459c72" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="46cc6bbd-7996-4bef-857d-a699a1c96c4b">
+        <bounds x="238" y="876" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="c813be9f-c0c6-4f03-8355-96665d76db96" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="b4c10bf4-fc1c-42c3-9834-e7359279e00a">
+        <bounds x="398" y="876" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="1c8fd41e-731f-43c8-8e32-01ed9899ca10" targetConnections="302ddec8-a5c8-40e6-b5f4-360a1790aff6" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="0ccc4474-cbd9-49c5-bdca-03b1dbca98af">
+        <bounds x="239" y="948" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="38065dfb-4f76-4ed4-acf3-c0c9115e0cab" archimateElement="28f9672a-6dde-4be7-b534-52e5c408a931">
+        <bounds x="48" y="948" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="302ddec8-a5c8-40e6-b5f4-360a1790aff6" source="38065dfb-4f76-4ed4-acf3-c0c9115e0cab" target="1c8fd41e-731f-43c8-8e32-01ed9899ca10" archimateRelationship="6f0598d9-cc2b-4d2e-8493-d3106127e683"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="34e06f9a-bd23-4a17-ae7c-48c419b3a866" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="9d175780-eee1-4806-a65e-b8a5a751fa98">
+        <bounds x="398" y="948" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="fdc07f66-ec25-449f-9624-b2d11dd16172" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="f47973d2-2a8f-4ed7-b11a-8f53e5853389">
+        <bounds x="238" y="1020" width="142" height="55"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="569562a8-69b2-424b-b9d7-e3552549572a" archimateElement="d0d699e8-32f9-43fa-81da-6b915dc782b4">
+        <bounds x="1116" y="210" width="120" height="55"/>
+        <sourceConnection xsi:type="archimate:Connection" id="692eacae-69c8-4a2e-9cea-e92cdf91d21f" source="569562a8-69b2-424b-b9d7-e3552549572a" target="be1db3f7-0459-4ad3-b138-3d34f15bdc9d" archimateRelationship="a82b1d5f-bf0e-4889-940f-2f58a87d3063"/>
+        <sourceConnection xsi:type="archimate:Connection" id="496556f0-aa74-4807-ae3b-566e96169efb" source="569562a8-69b2-424b-b9d7-e3552549572a" target="aef2a9c5-e1d1-430c-863c-ff28e467aeef" archimateRelationship="4923acbf-068e-41e9-a00d-97ead0abc199"/>
+        <sourceConnection xsi:type="archimate:Connection" id="4d593a3c-56e2-4366-adc4-4f7e81c60287" source="569562a8-69b2-424b-b9d7-e3552549572a" target="de410270-6ad9-4d67-9bcd-4925f68d2970" archimateRelationship="3cd91d93-c403-464c-b819-9514f25f8769"/>
+        <sourceConnection xsi:type="archimate:Connection" id="fcb94129-e0a3-40cb-8617-77e265ec695a" source="569562a8-69b2-424b-b9d7-e3552549572a" target="ecda737a-95a5-464c-85d3-3d7e5d5c4837" archimateRelationship="f6667f39-2794-4194-abf2-f5a851668234"/>
+        <sourceConnection xsi:type="archimate:Connection" id="79ecd6da-be68-4452-8f12-c34337650f45" source="569562a8-69b2-424b-b9d7-e3552549572a" target="ff2bdfc7-3698-457a-bd71-7e2419aecc58" archimateRelationship="a36ca986-33f3-4c14-b57c-4218e3725217"/>
+        <sourceConnection xsi:type="archimate:Connection" id="20601913-89cc-4f51-a87c-fafa1cc38d37" source="569562a8-69b2-424b-b9d7-e3552549572a" target="39c63416-85fa-4179-a0c7-3eaf72e45e87" archimateRelationship="bc9ab683-ad8d-41c0-b0a0-f109d68cd0ba"/>
+      </child>
+      <child xsi:type="archimate:DiagramObject" id="568dd65e-c634-47ab-a649-0ae440ba8111" archimateElement="id-858c240e-ab69-47c3-8ebe-7d7d8f2950c8">
+        <bounds x="82" y="284" width="120" height="55"/>
       </child>
       <documentation>Las dificultades para validar en el mercado de trabajo los aprendizajes o saberes previos (experiencia o auto instrucción) adquiridos por fuera del sector educativo</documentation>
     </element>
