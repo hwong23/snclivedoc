@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="SNC" id="id-911a4eb2-ea1e-406a-9382-faf4f96b0183" version="4.0.0">
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="SNC" id="id-911a4eb2-ea1e-406a-9382-faf4f96b0183" version="4.6.0">
   <folder name="Strategy" id="1d7314a8-3a6a-4be8-8292-72c4c586794b" type="strategy">
     <element xsi:type="archimate:CourseOfAction" name="EST01. Implementación SPE" id="id-51ccb514-c8f3-4af8-9321-c0fcc0a15eec">
       <documentation>La implementación del Sistema de Información del Servicio Público de Empleo el cual automatizará el Modelo de Inclusión Laboral con enfoque de cierre de brechas y permitirá la consolidación de una bolsa única de empleo que permita el acceso y gestión a todas las vacantes en toda la red de prestadores del Servicio Público de Empleo, el fortalecimiento de servicios especializados dirigidos a eliminar las barreras de inclusión laboral y facilitar la colocación de la población colombiana, bajo estándares mínimos de calidad en la atención en la ruta básica de empleo y la definición de un nivel de intervención especializado que incluya acciones y/o ajustes a la ruta básica.</documentation>
@@ -1274,7 +1274,7 @@ Los principales beneficios del proyecto se obtendrán en relación con el aument
         <bounds x="360" y="503" width="157" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-3e5087f7-49b7-4346-8703-b4db4eddcb82" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-7339a485-2520-42d5-83f8-8ceef2cf2377" target="id-baabf7dc-fa88-4854-adc1-a1028d29a039" archimateRelationship="id-c1d20844-7f95-4b9e-b2a9-5d1a51f8abc4"/>
       </child>
-      <child xsi:type="archimate:Group" id="id-7c16fd4c-49e8-4274-afe2-a3fec3cfc4e3" name="Servicios Principales SGE" targetConnections="id-1ca5dd5a-c84d-4636-b961-39a7d18984ec" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#d2d7d7">
+      <child xsi:type="archimate:Group" id="id-7c16fd4c-49e8-4274-afe2-a3fec3cfc4e3" name="Servicios Principales SGE" targetConnections="id-1ca5dd5a-c84d-4636-b961-39a7d18984ec" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" textAlignment="1" fillColor="#d2d7d7">
         <bounds x="576" y="199" width="400" height="845"/>
         <child xsi:type="archimate:DiagramObject" id="id-2ee01010-001b-43c3-b74b-d0feda14fc76" targetConnections="id-ed75fb16-f0cf-4bf7-bbf6-d74773970029 id-926f1640-c076-4c21-a8f1-c09c5cb9cce1 id-054b6dae-222b-42e2-b091-6e33371be13a id-ca414a70-c2bb-4da4-9eda-682212ae2fef id-4221e016-37c3-443c-a0b1-df7ab99b4223 id-06172c0e-6846-4998-97cd-0a3a53285f78" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-32501d01-10b3-430e-a6b4-380829f7b217">
           <bounds x="60" y="60" width="192" height="55"/>
@@ -1397,7 +1397,7 @@ Recolección de fuentes información sobre la oferta y demanda de las políticas
         <bounds x="1104" y="672" width="156" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="id-9cea0bff-ce58-47e2-8793-405f92f65adc" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#000000" source="id-47be1e16-9c7f-40e0-a47d-2308668a378c" target="id-46bc3ac9-7270-46f2-ac02-35b1606d8539" archimateRelationship="id-24a26cfb-4924-4db9-bdf3-6b0abfa91918"/>
       </child>
-      <child xsi:type="archimate:Group" id="id-b55a0ba0-83c5-4e56-b90f-292a02186fca" name="Servicios Principales SNC" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" fillColor="#d2d7d7">
+      <child xsi:type="archimate:Group" id="id-b55a0ba0-83c5-4e56-b90f-292a02186fca" name="Servicios Principales SNC" font="1|Segoe UI|9.0|0|COCOA|1|" fontColor="#000000" lineColor="#5c5c5c" textAlignment="1" fillColor="#d2d7d7">
         <bounds x="540" y="192" width="444" height="828"/>
         <child xsi:type="archimate:DiagramObject" id="id-762c7e38-293e-4484-9836-042e5ac19cf0" targetConnections="id-a5a8be0a-8741-4d3b-9597-9998b1992c8c id-df8c6906-11b0-458e-93b5-d7a93a1eb9d0 id-1f9a4f37-2d87-40bc-b087-0d55f2e8afe8 id-73e725d3-fd6a-417c-a687-4d661e17739f id-fbc5d26c-34ec-46e3-9d34-824760310108 id-95ebb03b-5000-4ef4-b92b-266c8dba205d id-9afaabd8-fe3b-4d11-8ab3-445e0a047ac8 id-4a7bd84d-818b-4e90-a130-478043354965" fontColor="#000000" lineColor="#5c5c5c" fillColor="#b5ffff" archimateElement="id-760bd1e4-8654-40a7-9685-65a3d22ad581">
           <bounds x="204" y="72" width="202" height="55"/>
@@ -2940,7 +2940,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
         <bounds x="238" y="1020" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="569562a8-69b2-424b-b9d7-e3552549572a" archimateElement="d0d699e8-32f9-43fa-81da-6b915dc782b4">
-        <bounds x="1128" y="216" width="120" height="55"/>
+        <bounds x="1140" y="216" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="692eacae-69c8-4a2e-9cea-e92cdf91d21f" source="569562a8-69b2-424b-b9d7-e3552549572a" target="be1db3f7-0459-4ad3-b138-3d34f15bdc9d" archimateRelationship="a82b1d5f-bf0e-4889-940f-2f58a87d3063"/>
         <sourceConnection xsi:type="archimate:Connection" id="496556f0-aa74-4807-ae3b-566e96169efb" source="569562a8-69b2-424b-b9d7-e3552549572a" target="aef2a9c5-e1d1-430c-863c-ff28e467aeef" archimateRelationship="4923acbf-068e-41e9-a00d-97ead0abc199"/>
         <sourceConnection xsi:type="archimate:Connection" id="4d593a3c-56e2-4366-adc4-4f7e81c60287" source="569562a8-69b2-424b-b9d7-e3552549572a" target="de410270-6ad9-4d67-9bcd-4925f68d2970" archimateRelationship="3cd91d93-c403-464c-b819-9514f25f8769"/>
@@ -2981,7 +2981,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
         <sourceConnection xsi:type="archimate:Connection" id="f4af065a-54f8-4fde-a914-81f44be35f4b" source="4382d5eb-a8fd-4e36-b1ff-5d817335d650" target="fdc07f66-ec25-449f-9624-b2d11dd16172" archimateRelationship="70eba203-f367-4921-bc51-e19ecc8a163a"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="93936a91-1fea-4ea6-8eaf-db350239f317" archimateElement="62fbb4ce-bd1b-4cf7-a29f-9c62ea9f7567">
-        <bounds x="1128" y="390" width="120" height="55"/>
+        <bounds x="1140" y="390" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="6cea9360-d60f-4d49-ae80-6b130b5139a0" source="93936a91-1fea-4ea6-8eaf-db350239f317" target="9c3adac5-6866-4ee1-9075-f8491d684ed1" archimateRelationship="bd4432c8-1725-4207-8081-77430a8b1c2c"/>
         <sourceConnection xsi:type="archimate:Connection" id="6f401e3c-7f84-4d0f-afd2-ebeaad28f51c" source="93936a91-1fea-4ea6-8eaf-db350239f317" target="6163aab4-1ae3-4bb5-9181-76610af46c6c" archimateRelationship="924bd6ad-f02c-42e4-b52c-c2c3253dd673"/>
       </child>
@@ -2989,7 +2989,7 @@ Créase el Sistema Nacional de Cualificaciones (SNC) como un conjunto de políti
         <bounds x="855" y="840" width="142" height="55"/>
       </child>
       <child xsi:type="archimate:DiagramObject" id="d59dfec0-f3c6-4cfb-b2b6-8b3b358afc5f" archimateElement="75c8da12-bbec-40b0-83b9-5120755dc6ac">
-        <bounds x="1128" y="840" width="120" height="55"/>
+        <bounds x="1140" y="840" width="120" height="55"/>
         <sourceConnection xsi:type="archimate:Connection" id="ccc9fae0-6b9f-407f-b3a8-9bfc5fcbda9c" source="d59dfec0-f3c6-4cfb-b2b6-8b3b358afc5f" target="3063ab9d-6bf0-44e4-90c1-c2438f01b52a" archimateRelationship="719afbd6-b5cb-4c0c-b34d-e6de030620e6"/>
       </child>
       <documentation>Las dificultades para validar en el mercado de trabajo los aprendizajes o saberes previos (experiencia o auto instrucción) adquiridos por fuera del sector educativo</documentation>
