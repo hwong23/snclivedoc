@@ -19,27 +19,44 @@
 
 <body>
 	<div class="panel panel-default root-panel">
-		<div class="panel-heading root-panel-heading">
-			<b>New ArchiMate View</b>
-			(<span class="i18n-viewpoint-"></span>)
-			<a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
-		</div>
-		<div class="panel-body root-panel-body">
-			<img class="diagram" src="../images/id-3007a6bf-6ef9-46dd-8388-94e5f1b246db.png" alt="New ArchiMate View" usemap="#id-3007a6bf-6ef9-46dd-8388-94e5f1b246dbmap">
-			<map name="id-3007a6bf-6ef9-46dd-8388-94e5f1b246dbmap">
-						<area shape="rect" coords="10,10,130,65" href="../elements/id-eaa00c8a-521e-435b-83fd-565230b9f809.html"  target="element">
-						<area shape="rect" coords="181,72,301,127" href="../elements/id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a.html"  target="element">
-						<area shape="rect" coords="11,72,131,127" href="../elements/id-bf414e26-2032-4ff7-b811-b94cd621c518.html"  target="element">
-						<area shape="rect" coords="183,207,303,262" href="../elements/id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f.html"  target="element">
-						<area shape="rect" coords="175,276,295,331" href="../elements/id-282dce6b-bf1a-4454-b4db-f685636ff44b.html"  target="element">
 
-			</map>
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>New ArchiMate View</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-viewpoint-"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-viewpoint_" target="hint"></a>
+            <!-- Or if a model (i.e has Purpose method) -->
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+			   <img class="diagram" src="../images/id-3007a6bf-6ef9-46dd-8388-94e5f1b246db.png" alt="New ArchiMate View" usemap="#id-3007a6bf-6ef9-46dd-8388-94e5f1b246dbmap"/>
+			   <map name="id-3007a6bf-6ef9-46dd-8388-94e5f1b246dbmap">
+				  		<area shape="rect" coords="313,10,433,65" href="../elements/id-43b384bc-b535-45da-93e7-da60e248e125.html"  target="element">
+				  		<area shape="rect" coords="160,10,280,65" href="../elements/id-be65ba54-c58a-422a-a03f-0de04b8baa6a.html"  target="element">
+				  		<area shape="rect" coords="10,10,130,65" href="../elements/id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf.html"  target="element">
+				  		<area shape="rect" coords="223,402,343,457" href="../elements/id-282dce6b-bf1a-4454-b4db-f685636ff44b.html"  target="element">
+				  		<area shape="rect" coords="231,333,351,388" href="../elements/id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f.html"  target="element">
+				  		<area shape="rect" coords="59,198,179,253" href="../elements/id-bf414e26-2032-4ff7-b811-b94cd621c518.html"  target="element">
+				  		<area shape="rect" coords="229,198,349,253" href="../elements/id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a.html"  target="element">
+				  		<area shape="rect" coords="58,136,178,191" href="../elements/id-eaa00c8a-521e-435b-83fd-565230b9f809.html"  target="element">
+
+			   </map>
+
 			<div role="tabpanel">
 				<!-- Nav tabs -->
 				<ul class="nav nav-tabs" role="tablist">
-					<li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
-					<li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
-					<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+						<li role="presentation"><a href="#elements" aria-controls="elements" role="tab" data-toggle="tab" class="i18n-elements"></a></li>
+						<li role="presentation"><a href="#relationships" aria-controls="relationships" role="tab" data-toggle="tab" class="i18n-relationships"></a></li>
+                    <!-- Model, Query Tab -->
 				</ul>
 
 				<!-- Tab panes -->
@@ -60,24 +77,73 @@
 							</tbody>
 						</table>
 					</div>
-					<div role="tabpanel" class="tab-pane" id="elements">
-						<table class="table table-striped table-hover table-condensed">
-							<thead>
-								<tr>
-									<th class="i18n-name"></th>
-									<th class="i18n-type"></th>
-								</tr>
-							</thead>
-							<tbody>
-										<tr><td> <a href="../elements/id-eaa00c8a-521e-435b-83fd-565230b9f809.html" target="element"> Dise&#241;o de soluci&#243;n </a> </td><td class="i18n-elementtype-WorkPackage"></td></tr>
-										<tr><td> <a href="../elements/id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a.html" target="element"> Dise&#241;o de datos y gobierno </a> </td><td class="i18n-elementtype-WorkPackage"></td></tr>
-										<tr><td> <a href="../elements/id-bf414e26-2032-4ff7-b811-b94cd621c518.html" target="element"> Dise&#241;o de infraestructura </a> </td><td class="i18n-elementtype-WorkPackage"></td></tr>
-										<tr><td> <a href="../elements/id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f.html" target="element"> Modelo operacional y sostenibilidad </a> </td><td class="i18n-elementtype-WorkPackage"></td></tr>
-										<tr><td> <a href="../elements/id-282dce6b-bf1a-4454-b4db-f685636ff44b.html" target="element"> Estructuraci&#243;n de proceso (RFP) </a> </td><td class="i18n-elementtype-WorkPackage"></td></tr>
+						<div role="tabpanel" class="tab-pane" id="elements">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+									</tr>
+								</thead>
+								<tbody>
+											<tr>
+											    <td> <a href="../elements/id-eaa00c8a-521e-435b-83fd-565230b9f809.html" target="element"> ENT04. Dise&#241;o de soluci&#243;n </a> </td>
+											    <td> <a href="../elements/id-eaa00c8a-521e-435b-83fd-565230b9f809.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+											</tr>
 
-							</tbody>
-						</table>
-					</div>
+											<tr>
+											    <td> <a href="../elements/id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a.html" target="element"> ENT06. Dise&#241;o de datos y gobierno </a> </td>
+											    <td> <a href="../elements/id-53af5d5f-588d-40df-bcc2-38dcb46f3c3a.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-bf414e26-2032-4ff7-b811-b94cd621c518.html" target="element"> ENT05. Dise&#241;o de infraestructura </a> </td>
+											    <td> <a href="../elements/id-bf414e26-2032-4ff7-b811-b94cd621c518.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f.html" target="element"> ENT07. Modelo operacional y sostenibilidad </a> </td>
+											    <td> <a href="../elements/id-e4f17276-0f21-45ac-bf63-0fedd53c7f0f.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-282dce6b-bf1a-4454-b4db-f685636ff44b.html" target="element"> ENT08. Estructuraci&#243;n de proceso (RFP) </a> </td>
+											    <td> <a href="../elements/id-282dce6b-bf1a-4454-b4db-f685636ff44b.html" target="element" class="i18n-elementtype-WorkPackage"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf.html" target="element"> ENT01. Servicio de informaci&#243;n </a> </td>
+											    <td> <a href="../elements/id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-be65ba54-c58a-422a-a03f-0de04b8baa6a.html" target="element"> ENT02. Servicio de orientaci&#243;n laboral y ocupacional </a> </td>
+											    <td> <a href="../elements/id-be65ba54-c58a-422a-a03f-0de04b8baa6a.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+											</tr>
+
+											<tr>
+											    <td> <a href="../elements/id-43b384bc-b535-45da-93e7-da60e248e125.html" target="element"> ENT03. Servicio de asistencia t&#233;cnica para el fortalecimiento de la red de prestadores del SPE </a> </td>
+											    <td> <a href="../elements/id-43b384bc-b535-45da-93e7-da60e248e125.html" target="element" class="i18n-elementtype-Deliverable"> </a> </td>
+											</tr>
+
+
+								</tbody>
+							</table>
+						</div>
+						<div role="tabpanel" class="tab-pane" id="relationships">
+							<table class="table table-striped table-hover table-condensed">
+								<thead>
+									<tr>
+										<th class="i18n-name"></th>
+										<th class="i18n-type"></th>
+										<th class="i18n-source"></th>
+										<th class="i18n-target"></th>
+									</tr>
+								</thead>
+								<tbody>
+								</tbody>
+							</table>
+						</div>
 			  </div>
 			</div>
 		</div>
