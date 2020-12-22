@@ -1,0 +1,39 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO03. Estudiantes SIET"
+    id="id-264751761385418d94488a4c3dfbe28f"
+    documentation="La Circular No. 17 de 2015, emitida por el Viceministeriode Educación Superior aclara queel artículo 5 del Decreto 2685 de 2012 modificado por el artículo 2 del Decreto 916 de 2013, establece las fechas en que las IETDHdeberán reportar al Ministerio de  Educación Nacional la información actualizada de los estudiantes matriculados. Las Instituciones que ofertan ETDH en el país deben registrar en el SIET los datos de los estudiantes matriculados, el costo total del programa y los datos de los   estudiantes   que   obtuvieron  su  Certificado de Aptitud Ocupacional,  dentro  de  los  cinco  días  hábiles  siguientes  a  la  ocurrencia  de  la novedad.&#xD;&#xA;&#xD;&#xA;(Ministerio de Educación, 2017)">
+  <properties
+      key="Fecha de ingreso"/>
+  <properties
+      key="Jornada"/>
+  <properties
+      key="Tipo de identificación"/>
+  <properties
+      key="Número de identificación"
+      value="Identificador"/>
+  <properties
+      key="Nombres"/>
+  <properties
+      key="Apellidos"/>
+  <properties
+      key="Género"/>
+  <properties
+      key="Estado civil"/>
+  <properties
+      key="Fecha de nacimiento"/>
+  <properties
+      key="Lugar de residencia"/>
+  <properties
+      key="Estrato"/>
+  <properties
+      key="Régimen de salud"/>
+  <properties
+      key="Nivel de formación"/>
+  <properties
+      key="Ocupación"/>
+  <properties
+      key="Discapacidad"/>
+  <properties
+      key="Multiculturalidad"/>
+</archimate:DataObject>
