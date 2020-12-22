@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP4. CIE"
-    id="id-55e498e3-c59b-4b1a-8e81-718b98732c4e"
-    documentation="Centro de Datos de la Gestión del Empleo.&#xA;&#xA;Definir la bodega de datos para la gestión del empleo junto con su modelo de gobierno de datos, tomando en consideración la normatividad vigente, así como los criterios, reglas de calidad, de integridad y seguridad de los mismos. En todos los casos,  la bodega debe utilizar y aplicar taxonomías y ontologías internacionales relacionadas con el sector laboral."/>

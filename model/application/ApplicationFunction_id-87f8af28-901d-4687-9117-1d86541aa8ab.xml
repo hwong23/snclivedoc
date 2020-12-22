@@ -1,5 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recolección Oferta Laboral (SPE)"
-    id="id-87f8af28-901d-4687-9117-1d86541aa8ab"
-    documentation="Información de oferta laboral a partir de las hojas de vida registradas en el Servicio Público de Empleo, de donde sólo se extrae información de experiencia laboral, formación y perfil laboral de la persona."/>
