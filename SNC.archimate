@@ -535,7 +535,6 @@ J. El objetivo es generar información sobre legalidad de las instituciones. Por
       <property key="Duración horas"/>
     </element>
     <element xsi:type="archimate:DataObject" name="DO22. CONACES" id="id-2ef748d4f4994576a5e386ff4daa7a81"/>
-    <element xsi:type="archimate:ApplicationComponent" name="Plataforma de información" id="id-d06e75f4bf7c40ae8517e226c2bc603f"/>
     <element xsi:type="archimate:ApplicationService" name="Información sobre Demanda laboral" id="id-d510c4e2214447e5969afd13c9f516bf"/>
     <element xsi:type="archimate:ApplicationService" name="Información sobre Oferta laboral" id="id-bffcfc7fdcf74f1d82c6a90fe1f39645"/>
     <element xsi:type="archimate:ApplicationService" name="Información sobre Oferta de formación para el trabajo" id="id-6271a0c788a7471e84a218a5042fde24"/>
