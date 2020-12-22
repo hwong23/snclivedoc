@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API5. Información de brechas de capital humano"
+    id="id-b33ff159-2329-4fa2-8406-d1f85bd998f0"
+    documentation="Información de brechas de capital humano en términos de brechas de cantidad, brechas de pertinencia, brechas de calidad, brechas de perfilamiento y brechas de competencias."/>

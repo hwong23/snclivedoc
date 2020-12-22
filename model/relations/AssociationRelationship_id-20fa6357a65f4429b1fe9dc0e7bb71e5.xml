@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="¿?"
+    id="id-20fa6357a65f4429b1fe9dc0e7bb71e5"
+    documentation="No es claro, de acuerdo a la revisión de la CUOC, que existan ocupaciones equivalentes en SIET. Por lo menos no en la información pública.">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-a92054736b3f4ebd9e4d29128136309d.xml#id-a92054736b3f4ebd9e4d29128136309d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-d4c097ad201c4ade97be1c6c3ed23004.xml#id-d4c097ad201c4ade97be1c6c3ed23004"/>
+</archimate:AssociationRelationship>
