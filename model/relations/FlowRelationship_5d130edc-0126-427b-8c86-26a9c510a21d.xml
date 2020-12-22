@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catálogo Nacional de Cualif."
+    id="5d130edc-0126-427b-8c86-26a9c510a21d"
+    documentation="Integración SNC y CUOC. Datos: Catálogo Nacional de Cualif.&#xA;">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-82602794-e52a-47f4-a6d4-ee43aff7bc1c.xml#id-82602794-e52a-47f4-a6d4-ee43aff7bc1c"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
+</archimate:FlowRelationship>

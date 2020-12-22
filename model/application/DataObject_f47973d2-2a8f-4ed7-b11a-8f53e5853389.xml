@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO39. BDD. Hojas de Vida"
+    id="f47973d2-2a8f-4ed7-b11a-8f53e5853389"
+    documentation="En esta base de datos se almacenan todas las hojas de vida registradas en el Servicio Público de Empleo, es una base de datos que se encuentra en formato .cvs. Representa una porción limitada de la oferta del mercado laboral.​&#xA;"/>
