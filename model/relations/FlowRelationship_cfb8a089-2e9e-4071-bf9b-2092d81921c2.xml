@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO42. Información de Demanda Laboral"
+    id="cfb8a089-2e9e-4071-bf9b-2092d81921c2">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d.xml#id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
+</archimate:FlowRelationship>

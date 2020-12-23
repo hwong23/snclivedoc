@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APP. SNC. API - Colaboración.2"
     id="b73178e6-ae2b-472e-b24e-0e25e2544bec"
-    documentation="La implementación del Sistema de Información para la gestión del empleo y la productividad como herramienta tecnológica de información debe integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, a través de la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC).&#xA;&#xA;La plataforma tendrá la capacidad de registrar, almacenar, administrar, procesar, actualizar y generar reportes sobre la demanda de cualificaciones y la oferta de formación para el trabajo, a partir de los siguientes elementos:&#xA;&#xA;--Información de demanda laboral relacionada con las ocupaciones y sus descriptores, es decir, funciones, conocimientos y destrezas (competencias técnicas), competencias transversales y número de vacantes asociadas a cada una de las ocupaciones, información de nivel educativo requerido y programas educativos y formativos asociados, experiencia laboral requerida, información de las competencias más demandadas, entre otras.  Se publicarán resultados de análisis con datos administrativos (por ejemplo, vacantes del SPE) o procesos consultivos con empresarios (por ejemplo, ejercicios de prospectiva y mesas sectoriales).&#xA;&#xA;--Información de oferta laboral a partir de las hojas de vida registradas en el Servicio Público de Empleo, de donde sólo se extrae información de experiencia laboral, formación y perfil laboral de la persona.&#xA;&#xA;--Información de oferta educativa y formativa cuantitativa y cualitativa de todos los programas de educación superior (técnicos profesionales, tecnólogos, pregrado universitario, especialización universitaria y especialización tecnológica) y los programas de Educación para el Trabajo y el Desarrollo Humano – ETDH (técnicos laborales).  En lo que respecta a información sobre la oferta de ETDH, se describirán programas y centros y, según la disponibilidad, resultados en empleabilidad y calidad de aprendizaje. Se incorporará un enfoque de género, para diseminar los resultados de empleabilidad de mujeres que ingresan a programas de ETDH altamente masculinizados, como beneficios adicionales que se describen más adelante.&#xA;&#xA;--Información de brechas de capital humano en términos de brechas de cantidad, brechas de pertinencia, brechas de calidad, brechas de perfilamiento y brechas de competencias.&#xA;&#xA;--Información del componente de evaluación y certificación de competencias (componente del SNC): instancias evaluadoras y certificadoras, número de personas evaluadas, tipos de certificaciones, número de personas certificadas por tipo de certificación (caracterizadas por sector y características de la población como edad, sexo, escolaridad, entre otros).&#xA;&#xA;--Información del componente de acreditación y calidad de las ETDH (componente del SNC): certificados de acreditación, instituciones acreditadas, actos administrativos de aprobación, habilitación o negación.&#xA;&#xA;--Información del componente de normalización de competencias (componente del SNC): normas de competencia laboral, instancias normalizadoras, mapas funcionales, entre otros.&#xA;&#xA;--Información del componente del Marco Nacional de Cualificaciones: catálogos de cualificaciones de las diferentes áreas de cualificación.">
+    documentation="La implementación del Sistema de Información para la gestión del empleo y la productividad como herramienta tecnológica de información debe integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, a través de la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC).&#xA;&#xA;La plataforma tendrá la capacidad de registrar, almacenar, administrar, procesar, actualizar y generar reportes sobre la demanda de cualificaciones y la oferta de formación para el trabajo, a partir de los siguientes elementos:&#xA;&#xA;--Información de demanda laboral relacionada con las ocupaciones y sus descriptores, es decir, funciones, conocimientos y destrezas (competencias técnicas), competencias transversales y número de vacantes asociadas a cada una de las ocupaciones, información de nivel educativo requerido y programas educativos y formativos asociados, experiencia laboral requerida, información de las competencias más demandadas, entre otras.  Se publicarán resultados de análisis con datos administrativos (por ejemplo, vacantes del SPE) o procesos consultivos con empresarios (por ejemplo, ejercicios de prospectiva y mesas sectoriales).&#xA;&#xA;--Información de oferta laboral a partir de las hojas de vida registradas en el Servicio Público de Empleo, de donde sólo se extrae información de experiencia laboral, formación y perfil laboral de la persona.&#xA;&#xA;--Información de oferta educativa y formativa cuantitativa y cualitativa de todos los programas de educación superior (técnicos profesionales, tecnólogos, pregrado universitario, especialización universitaria y especialización tecnológica) y los programas de Educación para el Trabajo y el Desarrollo Humano – ETDH (técnicos laborales).  En lo que respecta a información sobre la oferta de ETDH, se describirán programas y centros y, según la disponibilidad, resultados en empleabilidad y calidad de aprendizaje. Se incorporará un enfoque de género, para diseminar los resultados de empleabilidad de mujeres que ingresan a programas de ETDH altamente masculinizados, como beneficios adicionales que se describen más adelante.&#xA;&#xA;--Información de brechas de capital humano en términos de brechas de cantidad, brechas de pertinencia, brechas de calidad, brechas de perfilamiento y brechas de competencias.&#xA;&#xA;--Información del componente de evaluación y certificación de competencias (componente del SNC): instancias evaluadoras y certificadoras, número de personas evaluadas, tipos de certificaciones, número de personas certificadas por tipo de certificación (caracterizadas por sector y características de la población como edad, sexo, escolaridad, entre otros).&#xA;&#xA;--Información del componente de acreditación y calidad de las ETDH (componente del SNC): certificados de acreditación, instituciones acreditadas, actos administrativos de aprobación, habilitación o negación.&#xA;&#xA;--Información del componente de normalización de competencias (componente del SNC): normas de competencia laboral, instancias normalizadoras, mapas funcionales, entre otros.&#xA;&#xA;--Información del componente del Marco Nacional de Cualificaciones: catálogos de cualificaciones de las diferentes áreas de cualificación."
+    viewpoint="application_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="687845e6-ada9-4d32-8118-e09ea521a500"
@@ -17,7 +18,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="93e70f94-c7a9-40a5-b4ab-66d7060bc0cf"
-        targetConnections="bc6b3c5c-95ef-4433-bed3-ce85bf2f01fa 0033c871-b346-4e29-9f03-811879be8765 0102c18a-3841-4a2d-bca6-2d2272d7a12d 2a7d0ffb-1822-49f7-b8ed-14994d6b81ec b6fc6a36-8845-49c5-8e8f-8f3321b1ae21 85d0c417-5e8c-4ccd-bd28-b2053ddc5ade f5ee805d-4b00-43c4-8d88-4ee0909be70a"
+        targetConnections="bc6b3c5c-95ef-4433-bed3-ce85bf2f01fa 0033c871-b346-4e29-9f03-811879be8765 0102c18a-3841-4a2d-bca6-2d2272d7a12d 2a7d0ffb-1822-49f7-b8ed-14994d6b81ec b6fc6a36-8845-49c5-8e8f-8f3321b1ae21 85d0c417-5e8c-4ccd-bd28-b2053ddc5ade f5ee805d-4b00-43c4-8d88-4ee0909be70a f11691f7-ac04-4990-b66c-7d8d3f5a2f95 25f67652-47ce-46fc-843e-bb719894b42a 1719df4c-33f4-4cc4-8965-0dd5521e083d 82f64062-343e-4afc-ba73-08b677e5dd7e"
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
@@ -63,7 +64,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="e94636c7-f932-4124-a867-77083d557c96"
-        targetConnections="b77d2685-a336-41df-90ed-35275a95da95 595ad53e-74be-47a9-b30d-f2c0112efc6e">
+        targetConnections="b77d2685-a336-41df-90ed-35275a95da95">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="34720d0d-3b79-49ea-88a1-2ec346c3c1cf"
@@ -113,7 +114,7 @@
             href="AssociationRelationship_616f4712-4d04-44a1-8d08-1342e937b748.xml#616f4712-4d04-44a1-8d08-1342e937b748"/>
       </sourceConnections>
       <bounds
-          x="143"
+          x="108"
           y="420"
           width="120"
           height="55"/>
@@ -316,9 +317,18 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="25f67652-47ce-46fc-843e-bb719894b42a"
+        source="d190e15c-6a1b-4d67-badc-e4c0885853fc"
+        target="93e70f94-c7a9-40a5-b4ab-66d7060bc0cf">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_cfb8a089-2e9e-4071-bf9b-2092d81921c2.xml#cfb8a089-2e9e-4071-bf9b-2092d81921c2"/>
+    </sourceConnections>
     <bounds
-        x="744"
-        y="1104"
+        x="574"
+        y="864"
         width="121"
         height="55"/>
     <archimateElement
@@ -338,7 +348,7 @@
           href="FlowRelationship_f2840585-596e-4518-8f72-fbaef52a2d48.xml#f2840585-596e-4518-8f72-fbaef52a2d48"/>
     </sourceConnections>
     <bounds
-        x="393"
+        x="576"
         y="300"
         width="120"
         height="55"/>
@@ -358,17 +368,8 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_5d130edc-0126-427b-8c86-26a9c510a21d.xml#5d130edc-0126-427b-8c86-26a9c510a21d"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="595ad53e-74be-47a9-b30d-f2c0112efc6e"
-        source="96325ae0-763f-4767-8e75-ea9a26e3ac2a"
-        target="e94636c7-f932-4124-a867-77083d557c96">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_a086e8ec-fb71-45c5-b9a0-14ea6d189465.xml#a086e8ec-fb71-45c5-b9a0-14ea6d189465"/>
-    </sourceConnections>
     <bounds
-        x="393"
+        x="576"
         y="468"
         width="120"
         height="55"/>
@@ -419,7 +420,7 @@
           href="AccessRelationship_3df4b0f7-fbe4-4c26-8c4f-46d09da10e8b.xml#3df4b0f7-fbe4-4c26-8c4f-46d09da10e8b"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="747"
         y="120"
         width="120"
         height="55"/>
@@ -466,9 +467,18 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_bcd1dbca-5cb1-4699-94a6-d1c6f741e39e.xml#bcd1dbca-5cb1-4699-94a6-d1c6f741e39e"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f11691f7-ac04-4990-b66c-7d8d3f5a2f95"
+        source="74719267-a0ff-4814-8495-ba9f90c9af9c"
+        target="93e70f94-c7a9-40a5-b4ab-66d7060bc0cf">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_904848a1-84cd-4887-b894-423cdba2f667.xml#904848a1-84cd-4887-b894-423cdba2f667"/>
+    </sourceConnections>
     <bounds
-        x="894"
-        y="1104"
+        x="576"
+        y="588"
         width="120"
         height="55"/>
     <archimateElement
@@ -526,9 +536,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="62b1ce39-a2dc-4e11-98b1-d6ec65fdee28">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1719df4c-33f4-4cc4-8965-0dd5521e083d"
+        source="62b1ce39-a2dc-4e11-98b1-d6ec65fdee28"
+        target="93e70f94-c7a9-40a5-b4ab-66d7060bc0cf">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_1c7ba937-0f10-4160-b878-77dde9d0506b.xml#1c7ba937-0f10-4160-b878-77dde9d0506b"/>
+    </sourceConnections>
     <bounds
-        x="894"
-        y="1304"
+        x="575"
+        y="678"
         width="120"
         height="55"/>
     <archimateElement
@@ -538,9 +557,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="d4a91b03-1b72-460f-877b-a22718a12a39">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="82f64062-343e-4afc-ba73-08b677e5dd7e"
+        source="d4a91b03-1b72-460f-877b-a22718a12a39"
+        target="93e70f94-c7a9-40a5-b4ab-66d7060bc0cf">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_16254fa6-9914-4e87-bbfa-72331e2d2c94.xml#16254fa6-9914-4e87-bbfa-72331e2d2c94"/>
+    </sourceConnections>
     <bounds
-        x="594"
-        y="1404"
+        x="575"
+        y="780"
         width="120"
         height="55"/>
     <archimateElement
@@ -606,7 +634,7 @@
           href="ServingRelationship_id-34236b55-da2d-4c83-9965-7401fbb22f9c.xml#id-34236b55-da2d-4c83-9965-7401fbb22f9c"/>
     </sourceConnections>
     <bounds
-        x="393"
+        x="576"
         y="120"
         width="120"
         height="55"/>
@@ -812,8 +840,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="68c235ad-057f-465f-9c69-0b4e1e6dbcd6">
     <bounds
-        x="1272"
-        y="564"
+        x="1116"
+        y="864"
         width="120"
         height="55"/>
     <archimateElement
@@ -825,7 +853,7 @@
       id="e2bce66f-648f-4934-b2c8-fb55dc1d3ffd"
       targetConnections="af080390-0c11-46fc-8042-7256c3bbd0be">
     <bounds
-        x="1422"
+        x="1272"
         y="564"
         width="120"
         height="55"/>
@@ -851,7 +879,7 @@
       id="705c1d4a-c4ff-42e8-bfd1-5cede789052c">
     <bounds
         x="1272"
-        y="664"
+        y="764"
         width="120"
         height="55"/>
     <archimateElement
@@ -863,8 +891,8 @@
       id="3cc16d6c-764a-4739-b62b-3f288e8fa81d"
       targetConnections="17bee02e-f42d-495a-9c0b-58b6c89ee3c1">
     <bounds
-        x="1422"
-        y="664"
+        x="1272"
+        y="660"
         width="120"
         height="55"/>
     <archimateElement
@@ -889,8 +917,8 @@
       id="6d27bacb-91f2-4642-8706-ec1e645e303b"
       targetConnections="34720d0d-3b79-49ea-88a1-2ec346c3c1cf">
     <bounds
-        x="393"
-        y="756"
+        x="96"
+        y="1080"
         width="120"
         height="55"/>
     <archimateElement
@@ -902,8 +930,8 @@
       id="e906afd8-add3-4094-9f10-5f375dd26939"
       targetConnections="75f0123e-a98f-4f47-93e8-435765f0b279">
     <bounds
-        x="393"
-        y="672"
+        x="96"
+        y="996"
         width="120"
         height="55"/>
     <archimateElement
@@ -915,8 +943,8 @@
       id="3f41c04b-3787-4f5d-a482-43ed0902d746"
       targetConnections="6b3d6bf8-396a-4748-b996-ccf6f1e9df32">
     <bounds
-        x="393"
-        y="852"
+        x="96"
+        y="1176"
         width="120"
         height="55"/>
     <archimateElement

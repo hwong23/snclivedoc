@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO43. Información de Oferta Laboral"
+    id="1c7ba937-0f10-4160-b878-77dde9d0506b">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-de2b291e-8721-43c2-8bf3-46d12034ab6e.xml#id-de2b291e-8721-43c2-8bf3-46d12034ab6e"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
+</archimate:FlowRelationship>

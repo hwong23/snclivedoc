@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO44. Información de brechas de capital humano"
+    id="16254fa6-9914-4e87-bbfa-72331e2d2c94">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-b33ff159-2329-4fa2-8406-d1f85bd998f0.xml#id-b33ff159-2329-4fa2-8406-d1f85bd998f0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
+</archimate:FlowRelationship>

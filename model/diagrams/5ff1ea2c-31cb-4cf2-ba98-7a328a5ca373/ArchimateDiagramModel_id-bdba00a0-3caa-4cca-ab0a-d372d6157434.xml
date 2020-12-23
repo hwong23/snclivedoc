@@ -47,9 +47,9 @@
           href="ServingRelationship_id-2fce996e-05cc-4278-b41c-677b7e294a7a.xml#id-2fce996e-05cc-4278-b41c-677b7e294a7a"/>
     </sourceConnections>
     <bounds
-        x="584"
-        y="12"
-        width="400"
+        x="744"
+        y="24"
+        width="192"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -93,7 +93,7 @@
     <bounds
         x="1104"
         y="264"
-        width="157"
+        width="182"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -119,9 +119,9 @@
           href="AssociationRelationship_id-4f8146d8-ec05-45ce-8e50-ca50f3b5d3fa.xml#id-4f8146d8-ec05-45ce-8e50-ca50f3b5d3fa"/>
     </sourceConnections>
     <bounds
-        x="1272"
-        y="300"
-        width="157"
+        x="1308"
+        y="264"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -439,7 +439,7 @@
     <bounds
         x="1103"
         y="384"
-        width="157"
+        width="182"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -466,7 +466,7 @@
     <bounds
         x="1103"
         y="444"
-        width="157"
+        width="182"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -494,7 +494,7 @@
     <bounds
         x="1103"
         y="324"
-        width="157"
+        width="182"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -519,9 +519,9 @@
           href="AssociationRelationship_id-e9ddee9d-c37f-419e-86fe-be58806cad6c.xml#id-e9ddee9d-c37f-419e-86fe-be58806cad6c"/>
     </sourceConnections>
     <bounds
-        x="1272"
-        y="360"
-        width="157"
+        x="1308"
+        y="324"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -546,9 +546,9 @@
           href="AssociationRelationship_id-1d87290b-bba6-4e8e-919b-8c4afba96e9c.xml#id-1d87290b-bba6-4e8e-919b-8c4afba96e9c"/>
     </sourceConnections>
     <bounds
-        x="1272"
-        y="420"
-        width="157"
+        x="1308"
+        y="384"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -573,9 +573,9 @@
           href="AssociationRelationship_id-7801cc13-b589-4fc5-90e0-b8b55b8256c0.xml#id-7801cc13-b589-4fc5-90e0-b8b55b8256c0"/>
     </sourceConnections>
     <bounds
-        x="1272"
-        y="480"
-        width="157"
+        x="1308"
+        y="444"
+        width="181"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
@@ -590,7 +590,7 @@
     <bounds
         x="1103"
         y="504"
-        width="157"
+        width="182"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationFunction"

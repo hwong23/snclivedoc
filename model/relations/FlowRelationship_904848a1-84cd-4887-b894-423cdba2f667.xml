@@ -1,0 +1,13 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Información de oferta laboral"
+    id="904848a1-84cd-4887-b894-423cdba2f667"
+    documentation="--Consulta sobre oferta de educación superior&#xA;--Consulta sobre oferta de certificación de competencias laborales y requisitos para el reconocimiento de aprendizajes previos&#xA;--Acceso a procedimientos para acreditación de alta calidad en educación superior&#xA;&#xA;">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_c4f45e61-025c-42da-8c59-dc01340bc0cb.xml#c4f45e61-025c-42da-8c59-dc01340bc0cb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
+</archimate:FlowRelationship>
