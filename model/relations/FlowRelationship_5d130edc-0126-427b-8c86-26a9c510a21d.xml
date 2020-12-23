@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Catálogo Nacional de Cualif."
+    name="DO01. Catálogo Nacional de Cualificaciones CUOC"
     id="5d130edc-0126-427b-8c86-26a9c510a21d"
     documentation="Integración SNC y CUOC. Datos: Catálogo Nacional de Cualif.&#xA;">
   <source

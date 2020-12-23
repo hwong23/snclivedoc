@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Matriz de descriptores"
+    name="DO17. Matriz de descriptores"
     id="f2840585-596e-4518-8f72-fbaef52a2d48">
   <source
       xsi:type="archimate:ApplicationInterface"

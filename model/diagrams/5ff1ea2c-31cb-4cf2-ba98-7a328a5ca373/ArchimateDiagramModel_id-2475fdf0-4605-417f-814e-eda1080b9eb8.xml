@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP. SGE. API"
+    name="APP. SNC. API - Datos"
     id="id-2475fdf0-4605-417f-814e-eda1080b9eb8"
     documentation="El Mapa de API de la Plataforma de Información del SNC.  Presenta operaciones de consulta de información y acceso a  servicios de gestión de información dirigidos a los grupos de interés. &#xA;">
   <children
