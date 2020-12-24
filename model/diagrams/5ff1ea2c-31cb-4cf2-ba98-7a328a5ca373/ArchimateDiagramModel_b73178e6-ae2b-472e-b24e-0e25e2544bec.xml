@@ -147,7 +147,7 @@
     <bounds
         x="-516"
         y="-132"
-        width="358"
+        width="402"
         height="204"/>
   </children>
   <children
@@ -580,7 +580,7 @@
       id="bfa3acaa-7ba1-4304-a162-6a26d534891f">
     <bounds
         x="744"
-        y="1404"
+        y="1104"
         width="120"
         height="55"/>
     <archimateElement
@@ -592,7 +592,7 @@
       id="36872483-9976-4ac5-b196-4e19f7321e36">
     <bounds
         x="894"
-        y="1404"
+        y="1104"
         width="120"
         height="55"/>
     <archimateElement
@@ -1087,8 +1087,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b03e02a4-e58d-4089-8207-9adff11ce505">
     <bounds
-        x="1122"
-        y="1264"
+        x="1422"
+        y="764"
         width="120"
         height="55"/>
     <archimateElement
