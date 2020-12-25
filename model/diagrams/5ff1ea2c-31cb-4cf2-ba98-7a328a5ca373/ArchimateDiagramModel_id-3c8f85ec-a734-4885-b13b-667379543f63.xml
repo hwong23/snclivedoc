@@ -20,9 +20,9 @@
           href="ServingRelationship_16879115-ad05-4349-953a-e18add1682e2.xml#16879115-ad05-4349-953a-e18add1682e2"/>
     </sourceConnections>
     <bounds
-        x="252"
+        x="276"
         y="12"
-        width="589"
+        width="565"
         height="253"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -31,7 +31,7 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="80"
+          x="56"
           y="96"
           width="120"
           height="55"/>
@@ -46,7 +46,7 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="81"
+          x="57"
           y="157"
           width="120"
           height="55"/>
@@ -61,7 +61,7 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="240"
+          x="216"
           y="96"
           width="120"
           height="55"/>
@@ -88,7 +88,7 @@
             href="ServingRelationship_id-816449d7-a5b5-4bc1-8fc9-1059f59672e8.xml#id-816449d7-a5b5-4bc1-8fc9-1059f59672e8"/>
       </sourceConnections>
       <bounds
-          x="396"
+          x="372"
           y="156"
           width="120"
           height="55"/>
@@ -104,7 +104,7 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="240"
+          x="216"
           y="157"
           width="120"
           height="55"/>
@@ -119,7 +119,7 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="396"
+          x="372"
           y="36"
           width="120"
           height="55"/>
@@ -134,7 +134,7 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="396"
+          x="372"
           y="96"
           width="120"
           height="55"/>
@@ -149,7 +149,7 @@
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
       <bounds
-          x="240"
+          x="216"
           y="36"
           width="120"
           height="55"/>
@@ -565,7 +565,7 @@
     <bounds
         x="-24"
         y="12"
-        width="253"
-        height="252"/>
+        width="289"
+        height="300"/>
   </children>
 </archimate:ArchimateDiagramModel>
