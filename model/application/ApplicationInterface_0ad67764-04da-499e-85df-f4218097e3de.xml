@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API21. Web SNC"
+    id="0ad67764-04da-499e-85df-f4218097e3de"
+    documentation="Es un instrumento que permite clasificar las cualificaciones en los niveles del MNC de acuerdo con un conjunto de descriptores que indican los resultados de aprendizaje pertinentes en 8 niveles de cualificación. Los descriptores son: conocimientos, habilidades, destrezas y actitudes (responsabilidad y autonomía)."/>

@@ -1,11 +1,10 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intermediación laboral"
-    id="e3c97bc7-bdc8-4373-9c91-e082971334fa">
+    id="a4a5945e-d330-454e-9996-00c7a1d9a3b2">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-40a56c7e-f90a-466c-a97b-b9296cd98cf6.xml#id-40a56c7e-f90a-466c-a97b-b9296cd98cf6"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-360850dc-ec0e-4faa-91f1-48a81aed72c8.xml#id-360850dc-ec0e-4faa-91f1-48a81aed72c8"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
