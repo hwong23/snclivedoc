@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO10. SNIES"
     id="18c42881-09be-45f9-8d6a-648599b9a905">
   <source
       xsi:type="archimate:ApplicationComponent"

@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO08. RUTEC"
     id="c0fcff1a-8dc2-4d65-9616-a4309cbfe23c">
   <source
       xsi:type="archimate:ApplicationComponent"

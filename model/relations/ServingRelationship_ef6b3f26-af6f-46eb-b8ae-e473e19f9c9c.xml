@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO07. Planilla Integrada de Liquidación de Aportes (PILA)"
     id="ef6b3f26-af6f-46eb-b8ae-e473e19f9c9c">
   <source
       xsi:type="archimate:ApplicationComponent"
