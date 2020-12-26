@@ -11,7 +11,7 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="393"
+        x="492"
         y="60"
         width="120"
         height="55"/>
@@ -27,7 +27,7 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="429"
+        x="492"
         y="120"
         width="120"
         height="55"/>
@@ -43,7 +43,7 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="480"
+        x="492"
         y="192"
         width="120"
         height="55"/>
@@ -75,7 +75,7 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="512"
+        x="492"
         y="336"
         width="148"
         height="54"/>
@@ -91,7 +91,7 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="498"
+        x="492"
         y="396"
         width="145"
         height="73"/>
@@ -107,7 +107,7 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="477"
+        x="492"
         y="480"
         width="126"
         height="61"/>
@@ -272,7 +272,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="60"
+        x="48"
         y="696"
         width="120"
         height="55"/>
