@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO08. RUTEC"
-    id="id-3b8321c62fe748ba9fe22073b459faba"/>
+    id="id-3b8321c62fe748ba9fe22073b459faba"
+    documentation="Cuenta con el registro de población migrante y puede validar los datos del migrante que se registra en el sistema público de empleo​"/>

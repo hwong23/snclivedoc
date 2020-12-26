@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DO07. PILA"
-    id="id-f4579c2e54ff42c08c8ea5589ccea5f2"/>
+    name="DO07. Planilla Integrada de Liquidación de Aportes (PILA)"
+    id="id-f4579c2e54ff42c08c8ea5589ccea5f2"
+    documentation="El objetivo del registro es el de consolidar la información de la autoliquidación del pago de los aportes a la seguridad social integral y parafiscales. ​&#xA;&#xA;Esta fuente permite detectar poblaciones Cesantes, Colocación, Movimientos  y monitoreo sectorial, de aquí se pueden realizar los análisis de efectividad de las políticas activas y pasivas de empleo"/>
