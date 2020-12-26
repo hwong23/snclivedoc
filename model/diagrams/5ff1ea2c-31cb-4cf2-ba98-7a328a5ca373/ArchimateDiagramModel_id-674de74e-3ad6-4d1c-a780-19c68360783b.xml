@@ -6,17 +6,18 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9b73f5c2-72d0-4a01-80a9-234420061272"
+      targetConnections="2d77a1c0-5fe5-4f34-9097-163c98506087 9f59120d-b625-4870-b5c5-4bd73ef4b699"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9e61df64-4d74-47d7-b909-f995e88a4f7b"
+        id="472ce9b2-096f-441a-bdfc-4ff48a1ecd63"
         source="9b73f5c2-72d0-4a01-80a9-234420061272"
-        target="5912e9c4-1c24-4176-9927-0f2c868a548e">
+        target="3c11afe1-847f-41fb-922b-6d9b706b13a2">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_16879115-ad05-4349-953a-e18add1682e2.xml#16879115-ad05-4349-953a-e18add1682e2"/>
+          href="ServingRelationship_3ca838b6-b99c-43a2-86f2-50835f7846dd.xml#3ca838b6-b99c-43a2-86f2-50835f7846dd"/>
     </sourceConnections>
     <bounds
         x="324"
@@ -40,21 +41,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="4ae38081-ceb1-4cc3-a21b-f8715050e0db"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <bounds
-          x="57"
-          y="157"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-40a56c7e-f90a-466c-a97b-b9296cd98cf6.xml#id-40a56c7e-f90a-466c-a97b-b9296cd98cf6"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="c5be7e8c-d107-47f7-ae79-311cba29f14b"
         fontColor="#000000"
         lineColor="#5c5c5c"
@@ -70,35 +56,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="ae502532-0646-4224-89f9-68753b3a4d46"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="1ca82ef1-f0d9-40d2-92fe-d8ee71b9f203"
-          font="1|Segoe UI|9.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="ae502532-0646-4224-89f9-68753b3a4d46"
-          target="ac66541c-a1c5-4b7d-b431-872971eb8257">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-816449d7-a5b5-4bc1-8fc9-1059f59672e8.xml#id-816449d7-a5b5-4bc1-8fc9-1059f59672e8"/>
-      </sourceConnections>
-      <bounds
-          x="372"
-          y="156"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-802dfc0a-c6b0-470d-8fe1-eea64523e869.xml#id-802dfc0a-c6b0-470d-8fe1-eea64523e869"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="ac66541c-a1c5-4b7d-b431-872971eb8257"
-        targetConnections="1ca82ef1-f0d9-40d2-92fe-d8ee71b9f203"
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#b5ffff">
@@ -128,10 +86,37 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="5fcf68b1-bed1-435c-8a2e-15b8829d6f38"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
+        id="1bb6fb55-de1e-483d-9ce0-28082b438430">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="2d77a1c0-5fe5-4f34-9097-163c98506087"
+          source="1bb6fb55-de1e-483d-9ce0-28082b438430"
+          target="9b73f5c2-72d0-4a01-80a9-234420061272">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_3179a920-32fc-47b0-953f-2fecad4503ed.xml#3179a920-32fc-47b0-953f-2fecad4503ed"/>
+      </sourceConnections>
+      <bounds
+          x="57"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_cdbe5aa7-4f08-4fb7-8812-1ef819e052dd.xml#cdbe5aa7-4f08-4fb7-8812-1ef819e052dd"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="de58be6d-b6bd-4d1d-a65f-837334fc09f5">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="9f59120d-b625-4870-b5c5-4bd73ef4b699"
+          source="de58be6d-b6bd-4d1d-a65f-837334fc09f5"
+          target="9b73f5c2-72d0-4a01-80a9-234420061272">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_e4a9a056-dd08-4df4-b0b2-e8a783800a47.xml#e4a9a056-dd08-4df4-b0b2-e8a783800a47"/>
+      </sourceConnections>
       <bounds
           x="372"
           y="96"
@@ -139,22 +124,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-01765bbf-be50-48f0-8ca3-8919222e3aa5.xml#id-01765bbf-be50-48f0-8ca3-8919222e3aa5"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="579bf7b7-ef01-4125-aa90-e37d31531997"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <bounds
-          x="216"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_521e31e2-7ca5-4076-9570-3e303233f47d.xml#521e31e2-7ca5-4076-9570-3e303233f47d"/>
+          href="ApplicationComponent_b3f92f1f-4541-45e0-a3a7-dbab44d28385.xml#b3f92f1f-4541-45e0-a3a7-dbab44d28385"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationInteraction"
@@ -163,7 +133,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5912e9c4-1c24-4176-9927-0f2c868a548e"
-      targetConnections="9e61df64-4d74-47d7-b909-f995e88a4f7b"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -180,7 +149,7 @@
           href="ServingRelationship_id-4e1aaf81-6a00-438c-8d1c-7251c4fb4f40.xml#id-4e1aaf81-6a00-438c-8d1c-7251c4fb4f40"/>
     </sourceConnections>
     <bounds
-        x="540"
+        x="420"
         y="336"
         width="120"
         height="55"/>
@@ -191,12 +160,12 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3c11afe1-847f-41fb-922b-6d9b706b13a2"
-      targetConnections="713f8013-44de-47f9-8527-2d3b90a15b1d 6d86b801-4eb5-4266-9ebb-4b25a26e2fac"
+      targetConnections="713f8013-44de-47f9-8527-2d3b90a15b1d 6d86b801-4eb5-4266-9ebb-4b25a26e2fac 472ce9b2-096f-441a-bdfc-4ff48a1ecd63 39fd3835-b9c2-4fbf-a539-91d8e8604704"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="708"
+        x="588"
         y="336"
         width="120"
         height="55"/>
@@ -208,7 +177,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="193adeb1-17e9-4583-a658-7a43548599f2"
       textAlignment="1"
-      content="Colaboración del SNC y sistemas de información.&#xA;&#xA;La implementación del Sistema de Información para la gestión del empleo y la productividad como herramienta tecnológica de información debe integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, a través de la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC)">
+      content="Colaboración del SGE y sistemas de información.&#xA;&#xA;La implementación del Sistema de Información para la gestión del empleo y la productividad como herramienta tecnológica de información debe integrar, interoperar, coordinar y focalizar los instrumentos de políticas activas y pasivas de empleo para el seguimiento y análisis de las estrategias de inserción laboral y la efectividad de los recursos destinados a la política de empleo, a través de la articulación del sistema del Servicio Público de Empleo, la planilla integrada de liquidación de aportes (PILA), el sistema de seguimiento del mecanismo de protección al cesante (SIMPC), del sistema nacional de cualificaciones (SNC)">
     <bounds
         x="24"
         y="12"
@@ -368,5 +337,29 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_0a54fa87-39b0-4006-8db6-a554c2351c37.xml#0a54fa87-39b0-4006-8db6-a554c2351c37"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4ae38081-ceb1-4cc3-a21b-f8715050e0db"
+      fontColor="#000000"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="39fd3835-b9c2-4fbf-a539-91d8e8604704"
+        source="4ae38081-ceb1-4cc3-a21b-f8715050e0db"
+        target="3c11afe1-847f-41fb-922b-6d9b706b13a2">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-ce4c1c17-8b5b-4405-9b84-9f212c2e8d0e.xml#id-ce4c1c17-8b5b-4405-9b84-9f212c2e8d0e"/>
+    </sourceConnections>
+    <bounds
+        x="744"
+        y="336"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-40a56c7e-f90a-466c-a97b-b9296cd98cf6.xml#id-40a56c7e-f90a-466c-a97b-b9296cd98cf6"/>
   </children>
 </archimate:ArchimateDiagramModel>
