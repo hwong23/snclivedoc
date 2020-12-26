@@ -508,7 +508,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="362"
+        x="361"
         y="850"
         width="144"
         height="55"/>
@@ -525,8 +525,8 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="325"
-        y="922"
+        x="361"
+        y="924"
         width="144"
         height="55"/>
     <archimateElement
@@ -559,8 +559,8 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="485"
-        y="922"
+        x="521"
+        y="924"
         width="144"
         height="55"/>
     <archimateElement
@@ -725,7 +725,7 @@
         x="24"
         y="48"
         width="288"
-        height="240"/>
+        height="144"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

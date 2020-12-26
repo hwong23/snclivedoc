@@ -6,9 +6,335 @@
     documentation="Este servicio está orientado a brindar soluciones tecnológicas para la gestión eficiente del empleo, a partir de un seguimiento y monitoreo de resultados de las políticas activas y pasivas que lidera el sector trabajo incluyendo un análisis de su intervención institucional y de los lineamientos técnicos de política de empleo relacionados con la oferta laboral, la demanda laboral y la oferta educativa y formativa, cuya efectividad rara vez es evaluada a pesar de la gran cantidad de recursos destinada para estos fines.  &#xA;&#xA;Por tanto, este servicio de información se consolida como el articulador de los otros dos servicios de información contemplados en el presente proyecto.  Por un lado, recoge y analiza toda la información de la intermediación laboral que realiza la Red de Prestadores del SPE, y por el otro, la información sobre la oferta y demanda de cualificaciones.  Asimismo, es un sistema que articula otras fuentes de información relevantes que puedan aportar en aspectos como la capacitación, incentivos de cesantías, seguimiento y verificación de requisitos para la oferta laboral colombiana que permita el análisis y seguimiento a las políticas de empleo, el fortalecimiento en la gestión del empleo y la orientación institucional para la toma de decisiones de política pública de empleo y de formación para el trabajo a nivel nacional.&#xA;&#xA;Este nuevo servicio de información permitirá consolidar una plataforma tecnológica que facilite el seguimiento a los usuarios de los servicios ofrecidos por el Sector Trabajo, junto con la creación de capacidades a los funcionarios involucrados en la administración, soporte y operación de los diferentes sistemas de información y, la realización de definiciones en relación con la gobernanza de los datos del sistema, la seguridad y la ética de acceso y procesamiento de la información, a partir de los lineamientos normativos y técnicos del PND 2019 -2022 y las disposiciones legales vigentes en materia de empleo.  Por lo anterior, con el presente proyecto el Ministerio del Trabajo contará con un servicio de información gerencial que le permitirá centralizar y procesar gran cantidad de información administrativa para generar reportes, analítica y visualizaciones que informen frente a la política de empleo y de formación para el trabajo.&#xA;&#xA;&#xA;El sistema de información gerencial centraliza y procesa información administrativa para generar reportes, analítica y visualizaciones que informen frente a la política de empleo y de formación para el trabajo.&#xA;&#xA;&#xA;Objetivos de la Plataforma de Información del SNC&#xA;--Brindar información de forma agregada y detallada sobre las ocupaciones, la oferta y la demanda laboral actuales y futuras del país, y las competencias requeridas por el mercado de trabajo &#xA;--Proveer información para mejorar los procesos de gestión del talento humano basados en competencias &#xA;--Dar información sobre estándares, procesos y requerimientos para la acreditación de calidad de la oferta educativa y formativa y la oferta acreditada existente con el fin de orientar la elección para el desarrollo de capital humano hacia los oferentes acreditados &#xA;--Brindar información sobre las características y contenidos de catálogos de cualificaciones y la oferta de programas de Formación para el trabajo, educación formal y procesos de reconocimiento de aprendizajes previos &#xA;--Brindar información sobre los procesos de certificación de competencias laborales y los requerimientos para alcanzar estas certificaciones &#xA;--Brindar orientación para la elección de trayectorias formativas, educativas y laborales, procesos de certificación de competencia y rutas de servicios para mejorar la empleabilidad &#xA;--Brindar información a los proveedores de Formación para el trabajo y educación superior sobre ajustes necesarios a su oferta para la mejora de la calidad y la pertinencia &#xA;--Proveer información para facilitar la identificación de brechas de calidad, de pertinencia y de cantidad de la formación laboral/educativa con respecto a la demanda y oferta laboral &#xA;&#xA;&#xA;Components&#xA;Análisis de Intervención y Cumplimiento de Empleo&#xA;Seguimiento Políticas Públicas de Empleo&#xA;Alertas de Seguimiento&#xA;Recolección de fuentes información sobre la oferta y demanda de las políticas">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="b929a526-602a-4a8f-aafe-04018198992d"
+      targetConnections="70db0c0b-fef3-45cc-bf2d-5589405cf9dc"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f594de87-c2e4-4c3a-9248-6c9cdd7b19d6"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-3f1bc32f-64ed-4de3-a656-e10fc0435843">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_bc44e1b9-9dcd-4dfb-8330-c09236f17789.xml#bc44e1b9-9dcd-4dfb-8330-c09236f17789"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1acd99dd-f7a6-43ae-a89e-4e7273afa47e"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-ef365bc6-d2ea-42c9-a572-4ad31766699c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_a2688d45-a7b2-42fd-afeb-b03a642c375c.xml#a2688d45-a7b2-42fd-afeb-b03a642c375c"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9dc323d4-4a73-43bf-bc35-4731400254f0"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_76249772-e5ac-4bbf-8d88-e977b235c8b4.xml#76249772-e5ac-4bbf-8d88-e977b235c8b4"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="9e67c1f5-144e-454b-8681-f1fda5e93e4e"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-2ee01010-001b-43c3-b74b-d0feda14fc76">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_e70091d5-561f-44ce-ae24-12639a76a8ce.xml#e70091d5-561f-44ce-ae24-12639a76a8ce"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="61add152-3d5f-4eba-a79d-12363606a1f0"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-d9f0adbd-a074-4dca-a93f-7d6c0ad05512">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_bca48452-11c4-4568-9f02-90ed19d431a0.xml#bca48452-11c4-4568-9f02-90ed19d431a0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="04b1d009-cc52-4fec-8365-acdcbd8fbfd8"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-01975582-076c-4983-91e1-65b42a1f7f37">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_348ce30f-4ac0-4d65-9696-56309a9b4fec.xml#348ce30f-4ac0-4d65-9696-56309a9b4fec"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="20316df2-3cf0-43d1-9106-7e03d31128b0"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-6a287f3e-ab25-4cc2-9ab0-3013404af71d">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_c4073446-5592-4002-9033-8e1835406e90.xml#c4073446-5592-4002-9033-8e1835406e90"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6317f3a4-5867-4421-bfbb-8bd4d6cfcc39"
+        source="b929a526-602a-4a8f-aafe-04018198992d"
+        target="id-7339a485-2520-42d5-83f8-8ceef2cf2377">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_9e944135-595e-4caa-a99d-86e4a5fab2d1.xml#9e944135-595e-4caa-a99d-86e4a5fab2d1"/>
+    </sourceConnections>
+    <bounds
+        x="310"
+        y="157"
+        width="519"
+        height="960"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3f1bc32f-64ed-4de3-a656-e10fc0435843"
+        targetConnections="id-83dbc04e-0e95-48a1-a8b9-3f0c4627c884 id-526433cc-676b-4b79-b159-917ecdc2f571 id-8054c683-1677-4f6d-bfc6-faf7790765fd id-0dbab220-3953-4287-9825-2bc6ed4be28d id-d34b9d46-2c9c-483a-ac28-62caa505b294 id-ca4a18f7-0ad1-4186-95ef-fefabfda4e5c id-9976fb61-3eea-4233-9053-2d4d09bfb18c f594de87-c2e4-4c3a-9248-6c9cdd7b19d6"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-a247fc5f-9438-403e-95c3-126161225883"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-3f1bc32f-64ed-4de3-a656-e10fc0435843"
+          target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-3b88f1e8-8028-4921-b2a7-1128bf8ba4d3.xml#id-3b88f1e8-8028-4921-b2a7-1128bf8ba4d3"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-ca414a70-c2bb-4da4-9eda-682212ae2fef"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-3f1bc32f-64ed-4de3-a656-e10fc0435843"
+          target="id-2ee01010-001b-43c3-b74b-d0feda14fc76">
+        <bendpoints
+            startX="-33"
+            startY="-304"
+            endX="-9"
+            endY="296"/>
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-5daba70e-c5b3-4d6f-ab21-3378cb98a7e6.xml#id-5daba70e-c5b3-4d6f-ab21-3378cb98a7e6"/>
+      </sourceConnections>
+      <bounds
+          x="264"
+          y="708"
+          width="192"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-b2849d99-5b11-444f-9044-e88728f35255.xml#id-b2849d99-5b11-444f-9044-e88728f35255"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-ef365bc6-d2ea-42c9-a572-4ad31766699c"
+        targetConnections="id-76b8f262-cfd3-416b-9018-73a26737d1fb id-1a15a3f2-7611-43ad-a540-4dd16fb67e7c 1acd99dd-f7a6-43ae-a89e-4e7273afa47e"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <bounds
+          x="336"
+          y="588"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-9b83d9ec-d0fd-447b-8e80-9bf55e685327.xml#id-9b83d9ec-d0fd-447b-8e80-9bf55e685327"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-baabf7dc-fa88-4854-adc1-a1028d29a039"
+        targetConnections="id-d04ce74f-f6de-426b-9fc3-bef090243ba0 id-364ec8e5-944a-4502-96d8-62c891ffe3cd id-22e08da5-df27-44f7-b0bb-66a71935b31d id-70fe66d1-7ac8-4227-aed5-c56a84e4daa3 id-3e5087f7-49b7-4346-8703-b4db4eddcb82 id-04ff665d-2535-4506-b7d5-0c3a4eadd8a5 id-a247fc5f-9438-403e-95c3-126161225883 id-c68c4a62-39f1-4f09-91be-64c4ae971d21 id-485ed423-5be5-4494-b5c5-b85eb754a52e 9dc323d4-4a73-43bf-bc35-4731400254f0"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-76b8f262-cfd3-416b-9018-73a26737d1fb"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-baabf7dc-fa88-4854-adc1-a1028d29a039"
+          target="id-ef365bc6-d2ea-42c9-a572-4ad31766699c">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-6195952b-5932-48b7-a154-bd46ab84a1b5.xml#id-6195952b-5932-48b7-a154-bd46ab84a1b5"/>
+      </sourceConnections>
+      <bounds
+          x="264"
+          y="348"
+          width="192"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1.xml#id-0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2ee01010-001b-43c3-b74b-d0feda14fc76"
+        targetConnections="id-ed75fb16-f0cf-4bf7-bbf6-d74773970029 id-926f1640-c076-4c21-a8f1-c09c5cb9cce1 id-054b6dae-222b-42e2-b091-6e33371be13a id-ca414a70-c2bb-4da4-9eda-682212ae2fef id-4221e016-37c3-443c-a0b1-df7ab99b4223 id-06172c0e-6846-4998-97cd-0a3a53285f78 9e67c1f5-144e-454b-8681-f1fda5e93e4e"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-04ff665d-2535-4506-b7d5-0c3a4eadd8a5"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-2ee01010-001b-43c3-b74b-d0feda14fc76"
+          target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-544d8bbf-9f83-447e-b42b-7896679eb7c6.xml#id-544d8bbf-9f83-447e-b42b-7896679eb7c6"/>
+      </sourceConnections>
+      <bounds
+          x="240"
+          y="108"
+          width="192"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-32501d01-10b3-430e-a6b4-380829f7b217.xml#id-32501d01-10b3-430e-a6b4-380829f7b217"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-d9f0adbd-a074-4dca-a93f-7d6c0ad05512"
+        targetConnections="id-cf944723-c73c-484b-8e90-23edda274a2a 61add152-3d5f-4eba-a79d-12363606a1f0"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-4221e016-37c3-443c-a0b1-df7ab99b4223"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-d9f0adbd-a074-4dca-a93f-7d6c0ad05512"
+          target="id-2ee01010-001b-43c3-b74b-d0feda14fc76">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-9aae638b-807d-4e19-a11d-3648d938273a.xml#id-9aae638b-807d-4e19-a11d-3648d938273a"/>
+      </sourceConnections>
+      <bounds
+          x="48"
+          y="108"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-8f3c3428-62f8-4099-82cd-b0be133c4875.xml#id-8f3c3428-62f8-4099-82cd-b0be133c4875"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-01975582-076c-4983-91e1-65b42a1f7f37"
+        targetConnections="id-e686a1d9-42e9-40bb-9131-fa0b01379f02 04b1d009-cc52-4fec-8365-acdcbd8fbfd8"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-9976fb61-3eea-4233-9053-2d4d09bfb18c"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-01975582-076c-4983-91e1-65b42a1f7f37"
+          target="id-3f1bc32f-64ed-4de3-a656-e10fc0435843">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-7f609369-538c-4763-91dd-802ad430ab65.xml#id-7f609369-538c-4763-91dd-802ad430ab65"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-6d1f693a-32b6-4877-bd02-91eb2ddeb02e"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-01975582-076c-4983-91e1-65b42a1f7f37"
+          target="id-6a287f3e-ab25-4cc2-9ab0-3013404af71d">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-f101de75-5e45-45ff-ac16-1b3e7f5930a6.xml#id-f101de75-5e45-45ff-ac16-1b3e7f5930a6"/>
+      </sourceConnections>
+      <bounds
+          x="48"
+          y="708"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-ea9ee90c-de64-48d0-b126-07e290e9bbe1.xml#id-ea9ee90c-de64-48d0-b126-07e290e9bbe1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-6a287f3e-ab25-4cc2-9ab0-3013404af71d"
+        targetConnections="id-6d1f693a-32b6-4877-bd02-91eb2ddeb02e 20316df2-3cf0-43d1-9106-7e03d31128b0"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-c68c4a62-39f1-4f09-91be-64c4ae971d21"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-6a287f3e-ab25-4cc2-9ab0-3013404af71d"
+          target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-96494b61-b31f-4399-add1-09d2aa7357d5.xml#id-96494b61-b31f-4399-add1-09d2aa7357d5"/>
+      </sourceConnections>
+      <bounds
+          x="48"
+          y="420"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-6728a6a1-7861-4473-afb5-09c0ddedac2a.xml#id-6728a6a1-7861-4473-afb5-09c0ddedac2a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7339a485-2520-42d5-83f8-8ceef2cf2377"
+        targetConnections="6317f3a4-5867-4421-bfbb-8bd4d6cfcc39"
+        fontColor="#000000"
+        lineColor="#5c5c5c"
+        fillColor="#b5ffff">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3e5087f7-49b7-4346-8703-b4db4eddcb82"
+          font="1|Segoe UI|9.0|0|COCOA|1|"
+          fontColor="#000000"
+          lineColor="#000000"
+          source="id-7339a485-2520-42d5-83f8-8ceef2cf2377"
+          target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-c1d20844-7f95-4b9e-b2a9-5d1a51f8abc4.xml#id-c1d20844-7f95-4b9e-b2a9-5d1a51f8abc4"/>
+      </sourceConnections>
+      <bounds
+          x="48"
+          y="348"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-929a66a2-11a3-4883-9ef8-e53b2cf5b94c.xml#id-929a66a2-11a3-4883-9ef8-e53b2cf5b94c"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_545b0ba7-2c2e-4940-b052-427356c27e64.xml#545b0ba7-2c2e-4940-b052-427356c27e64"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-986fdcd3-24c2-4ea2-aa55-258e5634d9e7"
       targetConnections="id-9184f513-7bbd-45ef-89d4-736ac142cad5"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -36,7 +362,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5bbf7f13-3e24-4b50-97d6-5c5f0a7ace33"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -64,7 +389,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-61b69a21-7393-48bf-98c1-e2ab38f9c0cc"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -93,7 +417,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aa0d2243-a723-4b2c-8941-4bacbead59e2"
       targetConnections="id-e8a73f14-1d68-425d-82a5-2d51ca64967c"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -121,7 +444,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bd3e2c16-b499-41de-84f1-c8ee4ca344ac"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -149,7 +471,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dccbbf4c-b6d9-4e1d-843f-259eb157aae7"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -178,7 +499,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ec6a9ee7-dd57-44d6-9ee4-3d21913779d5"
       targetConnections="id-c8da4603-bd57-4b2a-ac2a-7361acfb6042"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -206,7 +526,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-02f981e0-7291-4a7a-9012-3e39cd5dabf0"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -234,7 +553,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-800b381d-ee06-4737-8b9d-f4d3b17f89ae"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -262,7 +580,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6344a192-d7f4-422c-833d-d993c3d3d759"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -319,7 +636,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3be61e01-10c6-4254-b689-5a718f11650f"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -347,7 +663,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-112ed989-7107-47ea-ba44-cc43b4c05b0a"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -364,8 +679,8 @@
           href="AssociationRelationship_id-108f471f-d82d-4ec4-b5da-328e973468a1.xml#id-108f471f-d82d-4ec4-b5da-328e973468a1"/>
     </sourceConnections>
     <bounds
-        x="1212"
-        y="900"
+        x="1211"
+        y="864"
         width="130"
         height="55"/>
     <archimateElement
@@ -375,7 +690,6 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-20cea330-37c0-4a65-86e8-fee564093e2f"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
@@ -396,269 +710,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-01975582-076c-4983-91e1-65b42a1f7f37"
-      targetConnections="id-e686a1d9-42e9-40bb-9131-fa0b01379f02"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-9976fb61-3eea-4233-9053-2d4d09bfb18c"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-01975582-076c-4983-91e1-65b42a1f7f37"
-        target="id-3f1bc32f-64ed-4de3-a656-e10fc0435843">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-7f609369-538c-4763-91dd-802ad430ab65.xml#id-7f609369-538c-4763-91dd-802ad430ab65"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6d1f693a-32b6-4877-bd02-91eb2ddeb02e"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-01975582-076c-4983-91e1-65b42a1f7f37"
-        target="id-6a287f3e-ab25-4cc2-9ab0-3013404af71d">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-f101de75-5e45-45ff-ac16-1b3e7f5930a6.xml#id-f101de75-5e45-45ff-ac16-1b3e7f5930a6"/>
-    </sourceConnections>
-    <bounds
-        x="360"
-        y="852"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-ea9ee90c-de64-48d0-b126-07e290e9bbe1.xml#id-ea9ee90c-de64-48d0-b126-07e290e9bbe1"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-7339a485-2520-42d5-83f8-8ceef2cf2377"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3e5087f7-49b7-4346-8703-b4db4eddcb82"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-7339a485-2520-42d5-83f8-8ceef2cf2377"
-        target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-c1d20844-7f95-4b9e-b2a9-5d1a51f8abc4.xml#id-c1d20844-7f95-4b9e-b2a9-5d1a51f8abc4"/>
-    </sourceConnections>
-    <bounds
-        x="360"
-        y="503"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-929a66a2-11a3-4883-9ef8-e53b2cf5b94c.xml#id-929a66a2-11a3-4883-9ef8-e53b2cf5b94c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-7c16fd4c-49e8-4274-afe2-a3fec3cfc4e3"
-      name="Servicios Principales SGE"
-      targetConnections="id-1ca5dd5a-c84d-4636-b961-39a7d18984ec"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      textAlignment="1"
-      fillColor="#d2d7d7"
-      documentation="Este servicio está orientado a brindar soluciones tecnológicas para la gestión eficiente del empleo, a partir de un seguimiento y monitoreo de resultados de las políticas activas y pasivas que lidera el sector trabajo incluyendo un análisis de su intervención institucional y de los lineamientos técnicos de política de empleo relacionados con la oferta laboral, la demanda laboral y la oferta educativa y formativa, cuya efectividad rara vez es evaluada a pesar de la gran cantidad de recursos destinada para estos fines.  &#xA;&#xA;Por tanto, este servicio de información se consolida como el articulador de los otros dos servicios de información contemplados en el presente proyecto.  Por un lado, recoge y analiza toda la información de la intermediación laboral que realiza la Red de Prestadores del SPE, y por el otro, la información sobre la oferta y demanda de cualificaciones.  Asimismo, es un sistema que articula otras fuentes de información relevantes que puedan aportar en aspectos como la capacitación, incentivos de cesantías, seguimiento y verificación de requisitos para la oferta laboral colombiana que permita el análisis y seguimiento a las políticas de empleo, el fortalecimiento en la gestión del empleo y la orientación institucional para la toma de decisiones de política pública de empleo y de formación para el trabajo a nivel nacional.&#xA;&#xA;Este nuevo servicio de información permitirá consolidar una plataforma tecnológica que facilite el seguimiento a los usuarios de los servicios ofrecidos por el Sector Trabajo, junto con la creación de capacidades a los funcionarios involucrados en la administración, soporte y operación de los diferentes sistemas de información y, la realización de definiciones en relación con la gobernanza de los datos del sistema, la seguridad y la ética de acceso y procesamiento de la información, a partir de los lineamientos normativos y técnicos del PND 2019 -2022 y las disposiciones legales vigentes en materia de empleo.  Por lo anterior, con el presente proyecto el Ministerio del Trabajo contará con un servicio de información gerencial que le permitirá centralizar y procesar gran cantidad de información administrativa para generar reportes, analítica y visualizaciones que informen frente a la política de empleo y de formación para el trabajo.">
-    <bounds
-        x="576"
-        y="199"
-        width="400"
-        height="845"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-2ee01010-001b-43c3-b74b-d0feda14fc76"
-        targetConnections="id-ed75fb16-f0cf-4bf7-bbf6-d74773970029 id-926f1640-c076-4c21-a8f1-c09c5cb9cce1 id-054b6dae-222b-42e2-b091-6e33371be13a id-ca414a70-c2bb-4da4-9eda-682212ae2fef id-4221e016-37c3-443c-a0b1-df7ab99b4223 id-06172c0e-6846-4998-97cd-0a3a53285f78"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-04ff665d-2535-4506-b7d5-0c3a4eadd8a5"
-          font="1|Segoe UI|9.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="id-2ee01010-001b-43c3-b74b-d0feda14fc76"
-          target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-544d8bbf-9f83-447e-b42b-7896679eb7c6.xml#id-544d8bbf-9f83-447e-b42b-7896679eb7c6"/>
-      </sourceConnections>
-      <bounds
-          x="60"
-          y="60"
-          width="192"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-32501d01-10b3-430e-a6b4-380829f7b217.xml#id-32501d01-10b3-430e-a6b4-380829f7b217"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-baabf7dc-fa88-4854-adc1-a1028d29a039"
-        targetConnections="id-d04ce74f-f6de-426b-9fc3-bef090243ba0 id-364ec8e5-944a-4502-96d8-62c891ffe3cd id-22e08da5-df27-44f7-b0bb-66a71935b31d id-70fe66d1-7ac8-4227-aed5-c56a84e4daa3 id-3e5087f7-49b7-4346-8703-b4db4eddcb82 id-04ff665d-2535-4506-b7d5-0c3a4eadd8a5 id-a247fc5f-9438-403e-95c3-126161225883 id-c68c4a62-39f1-4f09-91be-64c4ae971d21 id-485ed423-5be5-4494-b5c5-b85eb754a52e"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-76b8f262-cfd3-416b-9018-73a26737d1fb"
-          font="1|Segoe UI|9.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="id-baabf7dc-fa88-4854-adc1-a1028d29a039"
-          target="id-ef365bc6-d2ea-42c9-a572-4ad31766699c">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-6195952b-5932-48b7-a154-bd46ab84a1b5.xml#id-6195952b-5932-48b7-a154-bd46ab84a1b5"/>
-      </sourceConnections>
-      <bounds
-          x="108"
-          y="300"
-          width="192"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1.xml#id-0adb8dcf-d3fc-424a-9bea-2f7bf937e9b1"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-3f1bc32f-64ed-4de3-a656-e10fc0435843"
-        targetConnections="id-83dbc04e-0e95-48a1-a8b9-3f0c4627c884 id-526433cc-676b-4b79-b159-917ecdc2f571 id-8054c683-1677-4f6d-bfc6-faf7790765fd id-0dbab220-3953-4287-9825-2bc6ed4be28d id-d34b9d46-2c9c-483a-ac28-62caa505b294 id-ca4a18f7-0ad1-4186-95ef-fefabfda4e5c id-9976fb61-3eea-4233-9053-2d4d09bfb18c"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-a247fc5f-9438-403e-95c3-126161225883"
-          font="1|Segoe UI|9.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="id-3f1bc32f-64ed-4de3-a656-e10fc0435843"
-          target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-3b88f1e8-8028-4921-b2a7-1128bf8ba4d3.xml#id-3b88f1e8-8028-4921-b2a7-1128bf8ba4d3"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-ca414a70-c2bb-4da4-9eda-682212ae2fef"
-          font="1|Segoe UI|9.0|0|COCOA|1|"
-          fontColor="#000000"
-          lineColor="#000000"
-          source="id-3f1bc32f-64ed-4de3-a656-e10fc0435843"
-          target="id-2ee01010-001b-43c3-b74b-d0feda14fc76">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-5daba70e-c5b3-4d6f-ab21-3378cb98a7e6.xml#id-5daba70e-c5b3-4d6f-ab21-3378cb98a7e6"/>
-      </sourceConnections>
-      <bounds
-          x="60"
-          y="660"
-          width="192"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-b2849d99-5b11-444f-9044-e88728f35255.xml#id-b2849d99-5b11-444f-9044-e88728f35255"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-ef365bc6-d2ea-42c9-a572-4ad31766699c"
-        targetConnections="id-76b8f262-cfd3-416b-9018-73a26737d1fb id-1a15a3f2-7611-43ad-a540-4dd16fb67e7c"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#5c5c5c"
-        fillColor="#b5ffff">
-      <bounds
-          x="204"
-          y="540"
-          width="157"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ApplicationService"
-          href="ApplicationService_id-9b83d9ec-d0fd-447b-8e80-9bf55e685327.xml#id-9b83d9ec-d0fd-447b-8e80-9bf55e685327"/>
-    </children>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6a287f3e-ab25-4cc2-9ab0-3013404af71d"
-      targetConnections="id-6d1f693a-32b6-4877-bd02-91eb2ddeb02e"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c68c4a62-39f1-4f09-91be-64c4ae971d21"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-6a287f3e-ab25-4cc2-9ab0-3013404af71d"
-        target="id-baabf7dc-fa88-4854-adc1-a1028d29a039">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-96494b61-b31f-4399-add1-09d2aa7357d5.xml#id-96494b61-b31f-4399-add1-09d2aa7357d5"/>
-    </sourceConnections>
-    <bounds
-        x="360"
-        y="575"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-6728a6a1-7861-4473-afb5-09c0ddedac2a.xml#id-6728a6a1-7861-4473-afb5-09c0ddedac2a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d9f0adbd-a074-4dca-a93f-7d6c0ad05512"
-      targetConnections="id-cf944723-c73c-484b-8e90-23edda274a2a"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
-      fontColor="#000000"
-      lineColor="#5c5c5c"
-      fillColor="#b5ffff">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4221e016-37c3-443c-a0b1-df7ab99b4223"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
-        source="id-d9f0adbd-a074-4dca-a93f-7d6c0ad05512"
-        target="id-2ee01010-001b-43c3-b74b-d0feda14fc76">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-9aae638b-807d-4e19-a11d-3648d938273a.xml#id-9aae638b-807d-4e19-a11d-3648d938273a"/>
-    </sourceConnections>
-    <bounds
-        x="360"
-        y="264"
-        width="157"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-8f3c3428-62f8-4099-82cd-b0be133c4875.xml#id-8f3c3428-62f8-4099-82cd-b0be133c4875"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-29b2a678-9d8d-4978-96ef-26bb43647f53"
       targetConnections="id-78e9bdf1-8f05-4eed-829d-c16992ac35de"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -686,28 +739,24 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-895122db-3e6b-46cd-bd15-22e9e3ddea1c"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
       content="El sistema de información gerencial centraliza y procesa información administrativa para generar reportes, analítica y visualizaciones que informen frente a la política de empleo y de formación para el trabajo">
     <sourceConnections
-        id="id-1ca5dd5a-c84d-4636-b961-39a7d18984ec"
-        font="1|Segoe UI|9.0|0|COCOA|1|"
-        fontColor="#000000"
-        lineColor="#000000"
+        id="70db0c0b-fef3-45cc-bf2d-5589405cf9dc"
         source="id-895122db-3e6b-46cd-bd15-22e9e3ddea1c"
-        target="id-7c16fd4c-49e8-4274-afe2-a3fec3cfc4e3"/>
+        target="b929a526-602a-4a8f-aafe-04018198992d"/>
     <bounds
-        x="576"
+        x="12"
+        y="12"
         width="233"
         height="114"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-1e373096-4206-471d-9408-2695e5f89180"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
@@ -729,7 +778,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b905864e-7681-4e3a-8f78-8ee0c2e8ed8a"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -757,7 +805,6 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-8877d715-ad45-4d3e-8570-94bb728c10f9"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
@@ -779,7 +826,6 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-11d9f680-9ee4-4c6d-8171-e616d0e6d568"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       textAlignment="1"
@@ -807,7 +853,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8cdcac30-67b2-4a81-a6eb-ee3b5a52006b"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -848,8 +893,8 @@
           href="ServingRelationship_id-be641539-96de-48e5-bd26-25f6c7397dc6.xml#id-be641539-96de-48e5-bd26-25f6c7397dc6"/>
     </sourceConnections>
     <bounds
-        x="576"
-        y="1260"
+        x="429"
+        y="1248"
         width="400"
         height="55"/>
     <archimateElement
@@ -876,7 +921,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bd00d920-ffa3-4d73-b0f6-2482cfa20946"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
