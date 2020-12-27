@@ -1,0 +1,82 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>APP. FILCO</title>
+
+	<!-- JQUERY (use 1.x branch to be compatible with IE 6/7/8) -->
+	<script type="text/javascript" src="../../lib/jquery/js/jquery-1.11.2.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-3.3.2.min.css">
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap-theme-3.3.2.min.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>APP. FILCO</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-ApplicationComponent"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-ApplicationComponent" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<textarea id="docsrc" style="display:none">Fuente de Informaci&#243;n Laboral de Colombia.
+
+En el Ministerio del Trabajo velamos d&#237;a a d&#237;a para promover empleo digno, construir acuerdos laborales y fomentar la calidad de talento humano; adem&#225;s trabajamos para fortalecer las instituciones del sector trabajo con el fin de contribuir al mejoramiento de los procesos de toma de decisiones y el fortalecimiento de la capacidad t&#233;cnica del Estado colombiano que permita hacer seguimiento a la din&#225;mica del mercado de trabajo. Es as&#237; como el Ministerio del Trabajo crea la Fuente de Informaci&#243;n Laboral de Colombia &#8211; FILCO, una herramienta que re&#250;ne en un espacio web estad&#237;sticas e informaci&#243;n del mercado laboral, &#250;tiles para la toma de decisiones y conocimiento de trabajadores, academia, empresarios y p&#250;blico en general.
+
+Servicios
+* Encontrar&#225; las &#250;ltimas estad&#237;sticas, indicadores e informaci&#243;n de la din&#225;mica del sector trabajo en aspectos como: empleo, desempleo, formalizaci&#243;n, trabajo infantil, protecci&#243;n social y el contexto econ&#243;mico y social, din&#225;mica de oferta laboral a partir de tasas de vida activa, a nivel nacional y regional
+* FILCO provee informaci&#243;n que permite identificar los perfiles de trabajadores en diferentes sectores de la econom&#237;a y por regiones, identificaci&#243;n de la din&#225;mica del empleo formal desde las empresas y las personas afiliadas a seguridad social, proyecciones de las din&#225;micas de la oferta y la demanda laboral y las &#250;ltimas novedades en las actividades de an&#225;lisis desarrolladas por el Ministerio del Trabajo con las regiones
+* Estudios Laborales
+* Datos Abiertos
+
+Estad&#237;sticas
+Las estad&#237;sticas e indicadores de la Fuente de Informaci&#243;n Laboral de Colombia &#8211; FILCO, se construyen a partir de informaci&#243;n suministrada por entidades como el DANE, registros administrativos provenientes de la Planilla Integrada de Aportes PILA, Superintendencia de Subsidio Familiar, el propio Ministerio del trabajo entre otros.
+</textarea>
+						<div id="doctgt" style="white-space:pre-wrap"></div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>

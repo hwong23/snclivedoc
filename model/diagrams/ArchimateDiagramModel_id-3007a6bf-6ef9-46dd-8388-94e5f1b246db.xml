@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="IPML. Entregables"
     id="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -90,7 +90,7 @@
         x="141"
         y="78"
         width="120"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf.xml#id-19c24d30-7cd1-4597-98f5-deaf2cc71dcf"/>
@@ -102,7 +102,7 @@
         x="291"
         y="78"
         width="120"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-be65ba54-c58a-422a-a03f-0de04b8baa6a.xml#id-be65ba54-c58a-422a-a03f-0de04b8baa6a"/>
@@ -114,7 +114,7 @@
         x="444"
         y="78"
         width="120"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:Deliverable"
         href="Deliverable_id-43b384bc-b535-45da-93e7-da60e248e125.xml#id-43b384bc-b535-45da-93e7-da60e248e125"/>
