@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APP. PILA"
-    id="id-64a726f8-5978-412a-8a14-03c1fab76439"/>
+    id="id-64a726f8-5978-412a-8a14-03c1fab76439"
+    documentation="El objetivo del registro es el de consolidar la información de la autoliquidación del pago de los aportes a la seguridad social integral y parafiscales. ​&#xA;&#xA;Este sistema permite, mediante sus datos, detectar poblaciones Cesantes, Colocación, Movimientos  y monitoreo sectorial, de aquí se pueden realizar los análisis de efectividad de las políticas activas y pasivas de empleo.&#xA;"/>
