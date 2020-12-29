@@ -403,7 +403,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="fb7330ed-97bf-481c-9498-f4ef0f093246"
       textAlignment="1"
-      content="Colaboración de las Aplicaciones del Programa.&#xA;Consolidación de sistemas gerencial de gestión del empleo, centro de inteligencia, bodega de datos (DWH) que articulará unificará otros sistemas de información necesarios para la revisión de la efectividad entre la política activa y pasiva mostrada a través de resultados, y se espera entre otros tener la información del sistema del Servicio Público de Empleo, la Planilla Integrada de Liquidación de Aportes (PILA), el Sistema Nacional de Cualificaciones (SNC) y otras fuentes de información relevantes.&#xA;">
+      content="Requerimientos principales de las Aplicaciones del Programa.&#xA;&#xA;El mapa requerimientos funcionales de las aplicaciones del Programa relacionados con componentes de aplicación.">
     <bounds
         x="24"
         y="12"
