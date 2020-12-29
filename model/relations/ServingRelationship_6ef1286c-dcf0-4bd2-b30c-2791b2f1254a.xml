@@ -1,11 +1,10 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CIE. Datos de trabajo para gestión "
-    id="1d106e89-ce1b-4e3a-bfe6-6af63bdcaacb">
+    id="6ef1286c-dcf0-4bd2-b30c-2791b2f1254a">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-55e498e3-c59b-4b1a-8e81-718b98732c4e.xml#id-55e498e3-c59b-4b1a-8e81-718b98732c4e"/>
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-360850dc-ec0e-4faa-91f1-48a81aed72c8.xml#id-360850dc-ec0e-4faa-91f1-48a81aed72c8"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-93ef34ca-4ab3-4d52-90f3-841a15e28af0.xml#id-93ef34ca-4ab3-4d52-90f3-841a15e28af0"/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SGE. Datos de trabajo estadísticas"
+    id="7de9ecee-5c09-49a9-a9ac-03da8ccc4378">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-93ef34ca-4ab3-4d52-90f3-841a15e28af0.xml#id-93ef34ca-4ab3-4d52-90f3-841a15e28af0"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_0afe0ef9-aa86-489f-aae4-e94f38ef5e5b.xml#0afe0ef9-aa86-489f-aae4-e94f38ef5e5b"/>
+</archimate:ServingRelationship>

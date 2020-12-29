@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNC. Response"
     id="3e254596-52e9-4a0a-a2f2-c789bfd6672d">
   <source
       xsi:type="archimate:ApplicationInterface"

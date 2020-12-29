@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SNC. Datos de trabajo para gestión "
     id="id-4e1aaf81-6a00-438c-8d1c-7251c4fb4f40">
   <source
       xsi:type="archimate:ApplicationComponent"

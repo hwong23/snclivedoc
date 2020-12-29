@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="WebSNC. Datos de entrada gestión"
     id="77bbde92-bab2-4c61-8140-1750803be0f7">
   <source
       xsi:type="archimate:ApplicationComponent"

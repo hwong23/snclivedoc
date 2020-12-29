@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SPE. Datos de trabajo para gestión "
     id="id-ce4c1c17-8b5b-4405-9b84-9f212c2e8d0e">
   <source
       xsi:type="archimate:ApplicationComponent"

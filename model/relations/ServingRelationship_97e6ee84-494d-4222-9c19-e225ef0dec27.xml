@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CIE. Datos de trabajo para análisis"
     id="97e6ee84-494d-4222-9c19-e225ef0dec27">
   <source
       xsi:type="archimate:ApplicationComponent"
