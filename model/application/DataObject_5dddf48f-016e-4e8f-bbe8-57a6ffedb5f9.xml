@@ -1,0 +1,28 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO48. Ficha Estructura funcional de la ocupación"
+    id="5dddf48f-016e-4e8f-bbe8-57a6ffedb5f9"
+    documentation="certificados.sena.edu.co/claborales/saveas.asp?var1=291501076">
+  <properties
+      key="Mesa sectorial"/>
+  <properties
+      key="Nombre de la estructura funcional de la ocupación"/>
+  <properties
+      key="Área de desempeño"/>
+  <properties
+      key="Nivel de cualificación"/>
+  <properties
+      key="Nombre de la ocupación"/>
+  <properties
+      key="NSCL asociadas a la ocupación"/>
+  <properties
+      key="Código de estructura funcional de la ocupación"/>
+  <properties
+      key="Correlación de la ocupación con otras clasificaciones"/>
+  <properties
+      key="Otras denominaciones en clasificación de referencia"/>
+  <properties
+      key="Funciones que se desempeñan en la ocupación"/>
+  <properties
+      key="Funciones que se desempeñan en las denominaciones, empleos y cargos"/>
+</archimate:DataObject>

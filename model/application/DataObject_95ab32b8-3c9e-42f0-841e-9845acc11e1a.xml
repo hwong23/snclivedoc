@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DO49. Ficha Norma sectorial de competencia laboral"
+    id="95ab32b8-3c9e-42f0-841e-9845acc11e1a"
+    documentation="certificados.sena.edu.co/claborales/saveas.asp?var1=291501076">
+  <properties
+      key="Mesa sectorial"/>
+  <properties
+      key="Código de mesa"/>
+  <properties
+      key="Título de norma sectorial"/>
+  <properties
+      key="Diagrama de norma funcional"/>
+  <properties
+      key="Criterios de desempeño específicos"/>
+  <properties
+      key="Criterios de desempeño generales"/>
+  <properties
+      key="Evidencias"/>
+  <properties
+      key="Código NSCL"/>
+  <properties
+      key="Versión NSCL"/>
+  <properties
+      key="Norma sectorial de competencia laboral"/>
+  <properties
+      key="Código Norma Sectorial de Comptencia Laboral"/>
+  <properties
+      key="Otras denominaciones en clasificación de referencia"/>
+  <properties
+      key="Correlación de la clasificación con otras clasificaciones"/>
+</archimate:DataObject>

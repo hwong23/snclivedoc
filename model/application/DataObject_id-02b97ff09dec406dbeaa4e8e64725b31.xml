@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO20. Catálogos sectoriales de cualificaciones"
-    id="id-02b97ff09dec406dbeaa4e8e64725b31"/>
+    id="id-02b97ff09dec406dbeaa4e8e64725b31"
+    documentation="Sector aeronaútico&#xA;Sector agropecuario&#xA;Sector cultura&#xA;Sector electricidad y electrónica&#xA;Sector Minería&#xA;Sector TIC&#xA;Sector transporte y logística&#xA;Sector educación&#xA;&#xA;1. Nombre de la cualificación&#xA;2. Nivel: 1 de 7."/>
