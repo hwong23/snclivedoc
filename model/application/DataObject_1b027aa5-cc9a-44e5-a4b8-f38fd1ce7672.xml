@@ -1,0 +1,32 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema Nacional Acumulación y Transferencia Créditos"
+    id="1b027aa5-cc9a-44e5-a4b8-f38fd1ce7672"
+    documentation="certificados.sena.edu.co/claborales/saveas.asp?var1=291501076">
+  <properties
+      key="Mesa sectorial"/>
+  <properties
+      key="Código de mesa"/>
+  <properties
+      key="Título de norma sectorial"/>
+  <properties
+      key="Diagrama de norma funcional"/>
+  <properties
+      key="Criterios de desempeño específicos"/>
+  <properties
+      key="Criterios de desempeño generales"/>
+  <properties
+      key="Evidencias"/>
+  <properties
+      key="Código NSCL"/>
+  <properties
+      key="Versión NSCL"/>
+  <properties
+      key="Norma sectorial de competencia laboral"/>
+  <properties
+      key="Código Norma Sectorial de Comptencia Laboral"/>
+  <properties
+      key="Otras denominaciones en clasificación de referencia"/>
+  <properties
+      key="Correlación de la clasificación con otras clasificaciones"/>
+</archimate:DataObject>

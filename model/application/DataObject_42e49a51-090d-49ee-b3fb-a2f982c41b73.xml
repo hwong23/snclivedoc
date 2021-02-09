@@ -1,0 +1,16 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fichas de cualificaciones"
+    id="42e49a51-090d-49ee-b3fb-a2f982c41b73"
+    documentation="certificados.sena.edu.co/claborales/saveas.asp?var1=291501076">
+  <properties
+      key="Nombre de la cualificación"/>
+  <properties
+      key="Nivel"/>
+  <properties
+      key="Competencia general"/>
+  <properties
+      key="Ocupaciones"/>
+  <properties
+      key="Unidades de competencia"/>
+</archimate:DataObject>

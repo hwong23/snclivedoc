@@ -1,0 +1,47 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instituciones SIET"
+    id="57376e10-1765-4379-9b1b-2a6fc07e651a"
+    documentation="En el 2010 se diseñó e implemento el Sistema de Información de la Educación para el Trabajo y el Desarrollo Humano (SIET) el cual es una herramienta informática creada para que las secretarías de educación de las entidades territoriales certificadas ingresen la información de las instituciones y los programas de educación para el trabajo y el desarrollo humano (antes educación no formal) que tengan licencia de funcionamiento y registro.&#xD;&#xA;Este sistema busca brindar información confiable a la comunidad educativa sobre la legalidad de estas instituciones y programas, es decir, que toda la información allí consignada esté aprobada por las secretarías de educación y avalada por el Ministerio de Educación Nacional. El SIET actualmente les permite a los ciudadanos tener información sobre estos programas e instituciones, la duración de los mismos, su certificación de calidad y costos educativos.&#xD;&#xA;El proceso de registro en el Sistema SIET de Instituciones de Formación para el Trabajo y Desarrollo Humano –IETDH- y Programas de Formación es realizado directamente por las Secretarías de Educación Certificadas luego de realizar las respectivas evaluaciones y aprobaciones. Después de esto las IETDH son las encargadas de subir su información de matrícula, certificados y costos.&#xD;&#xA;http://aprende.colombiaaprende.edu.co/es/node/92429&#xD;&#xA;&#xD;&#xA;Datos: http://siet.mineducacion.gov.co/consultasiet/programa/index.jsp?codigoInstitucion=4479#&#xD;&#xA;&#xD;&#xA;El contenido, tal como está,no permite vinculación con la CUOC&#xD;&#xA;&#xD;&#xA;J. El objetivo es generar información sobre legalidad de las instituciones. Por tanto, no está centrado en desagregar los programas. Queda faltando una tabla intermedia que vincule programas con CUOC.">
+  <properties
+      key="Código institución"/>
+  <properties
+      key="Nombre institución"/>
+  <properties
+      key="Licencia de funcionamiento"
+      value="Número de la licencia"/>
+  <properties
+      key="Fecha licencia de funcionamiento"/>
+  <properties
+      key="Estado"/>
+  <properties
+      key="Cantidad de programas"/>
+  <properties
+      key="¿Certificada en calidad?"/>
+  <properties
+      key="Secretaría"/>
+  <properties
+      key="Departamento"/>
+  <properties
+      key="Municipio"/>
+  <properties
+      key="Dirección"/>
+  <properties
+      key="Barrio"/>
+  <properties
+      key="Teléfono"/>
+  <properties
+      key="Correo electrónico"/>
+  <properties
+      key="Página web"/>
+  <properties
+      key="Naturaleza"/>
+  <properties
+      key="Personalidad jurídica"/>
+  <properties
+      key="Nombre director"/>
+  <properties
+      key="Nombre representante legal"/>
+  <properties
+      key="Sedes"/>
+</archimate:DataObject>
