@@ -1,0 +1,17 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Catálogos sectoriales de cualificaciones"
+    id="087078e8-cb55-4e77-9005-17802fa070cb"
+    documentation="Sector aeronaútico&#xD;&#xA;Sector agropecuario&#xD;&#xA;Sector cultura&#xD;&#xA;Sector electricidad y electrónica&#xD;&#xA;Sector Minería&#xD;&#xA;Sector TIC&#xD;&#xA;Sector transporte y logística&#xD;&#xA;Sector educación&#xD;&#xA;&#xD;&#xA;1. Nombre de la cualificación&#xD;&#xA;2. Nivel: 1 de 7.">
+  <properties
+      key="Nombre de la cualificación"/>
+  <properties
+      key="Nivel"
+      value="1. Ejecuta; 2. Realiza; 3. Aplica; 4. Implementa; 5. Propone ; 6. Gestiona: 7. Resuelve problemas aplicados; 8. Resuelve problemas con alto nivel de autonomía."/>
+  <properties
+      key="Competencia general"/>
+  <properties
+      key="Ocupaciones"/>
+  <properties
+      key="Unidades de competencia"/>
+</archimate:DataObject>
