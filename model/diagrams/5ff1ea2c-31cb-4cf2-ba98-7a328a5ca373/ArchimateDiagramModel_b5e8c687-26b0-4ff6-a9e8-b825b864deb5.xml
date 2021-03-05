@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP. Aplicaciones y Requerimientos. PERF"
+    id="b5e8c687-26b0-4ff6-a9e8-b825b864deb5"
+    documentation="El mapa requerimientos funcionales de las aplicaciones del Programa relacionados con componentes de aplicación. El siguiente cuadro presenta las temáticas sobre las cuales los usuarios del Sistema pueden formular preguntas a los sistemas del Programa para accedar, procesar, analizar y presentar información de carácter estratégico. &#xA;&#xA;Con esta plataforma tecnológica se consolidará un sistema gerencial de gestión del empleocentro de inteligencia con un DWH que articulará unificará otros sistemas de información necesarios para la revisión de la efectividad entre la política activa y pasiva mostrada a través de resultados, y se espera entre otros tener la información del sistema del Servicio Público de Empleo, la Planilla Integrada de Liquidación de Aportes (PILA), el Sistema Nacional de Cualificaciones (SNC) y otras fuentes de información relevantes.&#xA;&#xA;Adicionalmente, la plataforma tendrá herramientas que permiten centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo y migración. &#xA;&#xA;Finalmente, este nuevo servicio de información permitirá consolidar una plataforma tecnológica que facilitará el seguimiento a los usuarios de los servicios ofrecidos por el Sector Trabajo y el análisis de los resultados de política que permitan orientar la toma de decisiones del Ministerio Trabajo en términos de la política de empleo, de formación para el trabajo y migración laboral. Asimismo, se contempla la creación de capacidades (capacitaciones, acompañamiento y demás actividades que aseguren el uso y apropiación de la herramienta por parte a los funcionarios del sector trabajo), involucrados en la administración, soporte y operación de los diferentes sistemas de información y, la realización de definiciones en relación con la gobernanza de los datos del sistema, la seguridad y la ética de acceso y procesamiento de la información.&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="fd37be31-2675-48d1-9568-10fb0c16a56f"
+      textAlignment="1"
+      content="Requerimientos Funcionales de la Herramienta Perfilamiento.&#xA;&#xA;Mapa de requerimientos funcionales de las aplicaciones del Programa. Relación con componentes de aplicación.">
+    <bounds
+        x="-312"
+        y="6"
+        width="276"
+        height="114"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="aee6a20f-0599-4bd3-a680-3ca530e52e19">
+    <bounds
+        x="-156"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_1e7c90b8-a321-4141-bfdc-ac2f3a51106e.xml#1e7c90b8-a321-4141-bfdc-ac2f3a51106e"/>
+  </children>
+</archimate:ArchimateDiagramModel>
