@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APP10. CTLG"
-    id="a8d14ba9-6930-4b88-bba3-8926c4078e8f"/>
+    id="a8d14ba9-6930-4b88-bba3-8926c4078e8f"
+    documentation="El Catálogo de Ocupaciones, visto como una aplicación consiste en ) un aplicativo web para la disposición de información de la Clasificación de Ocupaciones, su relación con otras tablas paramétricas, así como datos sobre programas de educación formal, educación para el trabajo y procesos de reconocimiento de aprendizajes previos, e información estadística asociada. Las herramientas deben soportar: funciones de analítica de datos, aplicaciónes interactivas de consulta, un tablero de control, y un formulario web para recolección de datos. &#xD;&#xA; "/>
