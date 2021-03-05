@@ -64,7 +64,7 @@
           href="RealizationRelationship_c00466fb-34b6-4783-8abd-e292b46e11c1.xml#c00466fb-34b6-4783-8abd-e292b46e11c1"/>
     </sourceConnections>
     <bounds
-        x="-156"
+        x="-312"
         y="192"
         width="120"
         height="55"/>
@@ -77,7 +77,7 @@
       id="fb9ebf71-2510-45a0-8fb5-35539bf250a3"
       targetConnections="521ca101-c500-4aef-b055-77780249371b">
     <bounds
-        x="14"
+        x="-142"
         y="369"
         width="120"
         height="55"/>
@@ -90,7 +90,7 @@
       id="26f5293b-5bc5-4f04-9602-3c6038226e39"
       targetConnections="35e8f530-81d7-445a-b6a9-45a6f6a4cb4e">
     <bounds
-        x="164"
+        x="8"
         y="369"
         width="120"
         height="55"/>
@@ -103,7 +103,7 @@
       id="0450816a-fd41-4a9e-b798-8ad98a9045b9"
       targetConnections="ed441e4f-0b59-4eef-a9c5-ef8676981cbd">
     <bounds
-        x="314"
+        x="158"
         y="369"
         width="120"
         height="55"/>
@@ -115,7 +115,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="09fa2740-262e-4e28-8616-292b551470c3">
     <bounds
-        x="14"
+        x="-142"
         y="469"
         width="120"
         height="55"/>
@@ -128,7 +128,7 @@
       id="99e20ae2-c93b-43bd-96c1-583c8fecc381"
       targetConnections="64a3ba65-4ddc-44c1-84d0-9338fc05e165">
     <bounds
-        x="164"
+        x="8"
         y="469"
         width="120"
         height="55"/>
@@ -141,7 +141,7 @@
       id="37a7d5af-d267-4667-bb0c-442d302a0f7d"
       targetConnections="31b31fb3-26c0-4f0d-a0be-2276483e29ae">
     <bounds
-        x="314"
+        x="158"
         y="469"
         width="120"
         height="55"/>
