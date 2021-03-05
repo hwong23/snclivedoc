@@ -403,10 +403,10 @@
       xsi:type="archimate:DiagramModelNote"
       id="fb7330ed-97bf-481c-9498-f4ef0f093246"
       textAlignment="1"
-      content="Principales Requerimientos Funcionales de las Aplicaciones del Programa.&#xA;&#xA;El mapa requerimientos funcionales de las aplicaciones del Programa relacionados con componentes de aplicación.">
+      content="Principales Requerimientos Funcionales de las Aplicaciones del Programa.&#xA;&#xA;El mapa requerimientos funcionales de las aplicaciones del Programa. Relación con componentes de aplicación.">
     <bounds
-        x="24"
-        y="12"
+        x="-312"
+        y="6"
         width="324"
         height="168"/>
   </children>

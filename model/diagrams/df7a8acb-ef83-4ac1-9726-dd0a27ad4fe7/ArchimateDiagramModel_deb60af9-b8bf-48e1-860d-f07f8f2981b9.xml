@@ -1,0 +1,44 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="123. Ctlgo"
+    id="deb60af9-b8bf-48e1-860d-f07f8f2981b9"
+    viewpoint="requirements_realization">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="06b2b69c-5248-41dc-bd6f-10c5e9ee1206"
+      textAlignment="1">
+    <bounds
+        x="12"
+        y="108"
+        width="190"
+        height="377"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_3327d3a3-136b-4e7e-adab-41e8889b2581.xml#3327d3a3-136b-4e7e-adab-41e8889b2581"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2e6057c9-4d0f-4117-8d2d-f583c6c5b691"
+      textAlignment="1">
+    <bounds
+        x="213"
+        y="108"
+        width="289"
+        height="377"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_c7402354-cb79-4ad3-acd1-cf0501411367.xml#c7402354-cb79-4ad3-acd1-cf0501411367"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="81f789df-d60c-4ddf-ab19-af2f940caa3f"
+      textAlignment="1"
+      content="Vista General. Sistema (herramienta) Catálogo de Ocupaciones. SNC. Componente 2. Programa FT">
+    <bounds
+        x="12"
+        y="12"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
