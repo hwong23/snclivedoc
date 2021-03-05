@@ -1,14 +1,14 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP. Aplicaciones y Requerimientos. PERF"
-    id="b5e8c687-26b0-4ff6-a9e8-b825b864deb5"
+    name="APP. Aplicaciones y Requerimientos. CTLG"
+    id="6c005e6c-9355-4561-b60e-8472522f0662"
     documentation="El mapa requerimientos funcionales de las aplicaciones del Programa relacionados con componentes de aplicación. El siguiente cuadro presenta las épicas de usuario que la herramienta realizará para accedar, procesar, analizar y presentar los perfiles de las personas nacionales y migrantes.&#xA;&#xA;*Certificación*&#xA;    Certificación. Autoevaluación&#xA;&#x9;Certificación. Validación de terceros&#xA;&#x9;Certificación. Autocertificación básica&#xA;&#xA;*Perfil descargable*&#xA;&#x9;Perfil descargable. Perfil descargable general&#xA;&#x9;Perfil descargable. Personalizar formato&#xA;&#x9;Perfil descargable. Personalizar contenido&#xA;&#x9;Perfil descargable. Adaptación por ocupación&#xA;&#x9;Perfil descargable. Adaptación por vacante&#xA;&#x9;Perfil descargable. Compartir por redes sociales&#xA;&#x9;Perfil descargable. Destacar fortalezas&#xA;&#xA;*Navegación y entendimiento*&#xA;&#x9;Navegación. Objetivos y audiencias&#xA;&#x9;Navegación. Cómo usar la plataforma&#xA;&#x9;Entendimiento. Mercado laboral&#xA;&#x9;Entendimiento. Test de autoconocimiento y fortalezas&#xA;&#x9;Entendimiento. Quiero intermediación&#xA;&#x9;Entendimiento. Sobre el SPE&#xA;&#xA;*Login y creación de perfil*&#xA;&#x9;Login. Login&#xA;&#x9;Quién eres. Información básica&#xA;&#x9;Qué sabes. Experiencia laboral&#xA;&#x9;Qué sabes. Formación&#xA;&#x9;Qué sabes. Hobbies y otros&#xA;&#x9;Qué quieres hacer. Aspiraciones&#xA;&#x9;Qué quieres hacer. Competencias favoritas&#xA;&#x9;Qué quieres hacer. Preferencias&#xA;&#x9;Integración. Integración con otras páginas&#xA;&#x9;Subida de archivos Documentos&#xA;&#x9;Subida de archivos Vídeos y otros&#xA;&#x9;Referencias. Referencias&#xA;&#xA;*Recomendaciones*&#xA;&#x9;Carreras y ocupaciones. Recomendaciones de carreras generales&#xA;&#x9;Carreras y ocupaciones. Información adicional sobre carreras&#xA;&#x9;Carreras y ocupaciones. Recomendaciones de carreras específicas&#xA;&#x9;Brecha de competencias. Brecha de competencias&#xA;&#x9;Oportunidades de aprendizaje. Generales&#xA;&#x9;Oportunidades de aprendizaje. Reales&#xA;&#x9;Oportunidades de reconocimiento de aprendizajes previos. Generales&#xA;&#x9;Oportunidades de reconocimiento de aprendizajes previos. Reales&#xA;&#x9;Checklist de acciones. Lista&#xA;&#x9;Checklist de acciones. Tracker&#xA;&#x9;Destaques. Fortalezas&#xA;&#x9;Destaques. Competencias &quot;únicas&quot;&#xA;&#x9;Destaques. Competencias transferibles&#xA;&#x9;Destaques. Aspiraciones&#xA;&#x9;Destaques. Competencias favoritas&#xA;&#x9;Coaching. Virtual&#xA;&#x9;Coaching. Presencial&#xA;&#xA;*Visualización y analítica*&#xA;&#x9;Visualización. Ver perfiles individuales&#xA;&#x9;Visualización. Búsqueda por competencias&#xA;&#x9;Visualización. Probabilidad de empleabilidad por perfil&#xA;&#x9;Visualización. Notas del orientador&#xA;&#x9;Analítica. Número de perfiles por sector, ocupación o competencia&#xA;&#x9;Analítica. Segmentación / clustering de perfiles&#xA;&#x9;Analítica. Carreras y ocupaciones más y menos comunes&#xA;&#x9;Analítica. Competencias más y menos comunes&#xA;&#x9;Analítica. Competencias transferibles más y menos comunies&#xA;&#x9;Analítica. Factores de influencia en probabilidad de empleabilidad&#xA;&#x9;Reportes. Creación a medida&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="fd37be31-2675-48d1-9568-10fb0c16a56f"
+      id="d2c1abe0-191e-44e9-afb5-9fb96672627f"
       textAlignment="1"
-      content="Requerimientos Funcionales de la Herramienta Perfilamiento.&#xA;&#xA;Mapa de requerimientos funcionales de las aplicaciones del Programa. Relación con componentes de aplicación.">
+      content="Requerimientos Funcionales de la Herramienta Perfilamiento.&#xA;&#xA;Mapa de requerimientos funcionales de las aplicaciones del Programa. Relación con componentes de aplicación.xxx&#xA;">
     <bounds
         x="-312"
         y="6"
@@ -17,136 +17,102 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="aee6a20f-0599-4bd3-a680-3ca530e52e19">
+      id="9dfa8626-8c94-4cfc-bd63-0b0e5cd19dd8">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="521ca101-c500-4aef-b055-77780249371b"
-        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
-        target="fb9ebf71-2510-45a0-8fb5-35539bf250a3">
+        id="47d1f5df-c717-48e7-ab78-77bbd24c5149"
+        source="9dfa8626-8c94-4cfc-bd63-0b0e5cd19dd8"
+        target="4fe3b64c-ca1c-4021-8c19-ed28b198f80a">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_4d3649e0-81b4-4e77-9858-abe69d47ef1b.xml#4d3649e0-81b4-4e77-9858-abe69d47ef1b"/>
+          href="RealizationRelationship_941fa3d8-c174-498b-b5ee-f66507d32848.xml#941fa3d8-c174-498b-b5ee-f66507d32848"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="35e8f530-81d7-445a-b6a9-45a6f6a4cb4e"
-        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
-        target="26f5293b-5bc5-4f04-9602-3c6038226e39">
+        id="45dc7b48-bdaf-4d62-af6b-e36b40e2db2e"
+        source="9dfa8626-8c94-4cfc-bd63-0b0e5cd19dd8"
+        target="4cefbd9c-81ff-45a9-b222-8810098a5046">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_3132616e-ca15-4c1d-b13e-d9f7c2d649b0.xml#3132616e-ca15-4c1d-b13e-d9f7c2d649b0"/>
+          href="RealizationRelationship_f3ee9c21-ed8f-4510-a188-52836e75c716.xml#f3ee9c21-ed8f-4510-a188-52836e75c716"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="ed441e4f-0b59-4eef-a9c5-ef8676981cbd"
-        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
-        target="0450816a-fd41-4a9e-b798-8ad98a9045b9">
+        id="cb9aea4a-6212-4c19-992c-730484582056"
+        source="9dfa8626-8c94-4cfc-bd63-0b0e5cd19dd8"
+        target="a30d3b8a-d366-46ae-b1db-0405c4ec348e">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_127eb412-7fe2-4a17-8270-7fcaf4a104c1.xml#127eb412-7fe2-4a17-8270-7fcaf4a104c1"/>
+          href="RealizationRelationship_7062667e-e3de-47c8-84e1-013011bc5b55.xml#7062667e-e3de-47c8-84e1-013011bc5b55"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="64a3ba65-4ddc-44c1-84d0-9338fc05e165"
-        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
-        target="99e20ae2-c93b-43bd-96c1-583c8fecc381">
+        id="153de9fc-e37d-42e3-8938-55cc889a3fbd"
+        source="9dfa8626-8c94-4cfc-bd63-0b0e5cd19dd8"
+        target="354f6c38-95e2-4036-a2b7-703905855a8e">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_da84453c-1829-454e-a4e7-a499155ca2bb.xml#da84453c-1829-454e-a4e7-a499155ca2bb"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="31b31fb3-26c0-4f0d-a0be-2276483e29ae"
-        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
-        target="37a7d5af-d267-4667-bb0c-442d302a0f7d">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_c00466fb-34b6-4783-8abd-e292b46e11c1.xml#c00466fb-34b6-4783-8abd-e292b46e11c1"/>
+          href="RealizationRelationship_56f6348d-518f-42de-b1e7-fe985e596fad.xml#56f6348d-518f-42de-b1e7-fe985e596fad"/>
     </sourceConnections>
     <bounds
-        x="-312"
-        y="192"
+        x="-252"
+        y="180"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_1e7c90b8-a321-4141-bfdc-ac2f3a51106e.xml#1e7c90b8-a321-4141-bfdc-ac2f3a51106e"/>
+        href="ApplicationComponent_a8d14ba9-6930-4b88-bba3-8926c4078e8f.xml#a8d14ba9-6930-4b88-bba3-8926c4078e8f"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="fb9ebf71-2510-45a0-8fb5-35539bf250a3"
-      targetConnections="521ca101-c500-4aef-b055-77780249371b">
+      id="4fe3b64c-ca1c-4021-8c19-ed28b198f80a"
+      targetConnections="47d1f5df-c717-48e7-ab78-77bbd24c5149">
     <bounds
-        x="-180"
-        y="369"
-        width="157"
+        x="-115"
+        y="385"
+        width="128"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_cd73a57b-52a7-4526-b2f8-14b6f4bec449.xml#cd73a57b-52a7-4526-b2f8-14b6f4bec449"/>
+        xsi:type="archimate:Goal"
+        href="Goal_ea383ee9-5167-4921-9339-35c6efec209b.xml#ea383ee9-5167-4921-9339-35c6efec209b"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="26f5293b-5bc5-4f04-9602-3c6038226e39"
-      targetConnections="35e8f530-81d7-445a-b6a9-45a6f6a4cb4e">
+      id="4cefbd9c-81ff-45a9-b222-8810098a5046"
+      targetConnections="45dc7b48-bdaf-4d62-af6b-e36b40e2db2e">
     <bounds
-        x="-6"
-        y="369"
-        width="133"
+        x="35"
+        y="385"
+        width="128"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_4ba15954-5873-400d-99a1-a5196a124b9e.xml#4ba15954-5873-400d-99a1-a5196a124b9e"/>
+        xsi:type="archimate:Goal"
+        href="Goal_754e154f-37b6-4186-a414-6329a96d86ec.xml#754e154f-37b6-4186-a414-6329a96d86ec"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="0450816a-fd41-4a9e-b798-8ad98a9045b9"
-      targetConnections="ed441e4f-0b59-4eef-a9c5-ef8676981cbd">
+      id="a30d3b8a-d366-46ae-b1db-0405c4ec348e"
+      targetConnections="cb9aea4a-6212-4c19-992c-730484582056">
     <bounds
-        x="144"
-        y="369"
-        width="133"
+        x="185"
+        y="385"
+        width="128"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_8dbb7b6e-ceb6-4e70-b10a-84ec19b145a7.xml#8dbb7b6e-ceb6-4e70-b10a-84ec19b145a7"/>
+        xsi:type="archimate:Goal"
+        href="Goal_221c6f5f-5546-4b56-9db0-f61e54224cf9.xml#221c6f5f-5546-4b56-9db0-f61e54224cf9"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="09fa2740-262e-4e28-8616-292b551470c3">
+      id="354f6c38-95e2-4036-a2b7-703905855a8e"
+      targetConnections="153de9fc-e37d-42e3-8938-55cc889a3fbd">
     <bounds
-        x="-180"
-        y="444"
-        width="157"
+        x="-115"
+        y="468"
+        width="128"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_76ba080b-a8e9-4f2c-9c1c-164380600130.xml#76ba080b-a8e9-4f2c-9c1c-164380600130"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="99e20ae2-c93b-43bd-96c1-583c8fecc381"
-      targetConnections="64a3ba65-4ddc-44c1-84d0-9338fc05e165">
-    <bounds
-        x="-6"
-        y="444"
-        width="133"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_9c810bae-5f21-4e13-8a1c-fd16c43fbf0b.xml#9c810bae-5f21-4e13-8a1c-fd16c43fbf0b"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="37a7d5af-d267-4667-bb0c-442d302a0f7d"
-      targetConnections="31b31fb3-26c0-4f0d-a0be-2276483e29ae">
-    <bounds
-        x="144"
-        y="444"
-        width="133"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Outcome"
-        href="Outcome_5dffc859-b5eb-4a7d-860c-2a0515353425.xml#5dffc859-b5eb-4a7d-860c-2a0515353425"/>
+        xsi:type="archimate:Goal"
+        href="Goal_f97a122a-1acc-43a5-93ff-59a03f3389e5.xml#f97a122a-1acc-43a5-93ff-59a03f3389e5"/>
   </children>
 </archimate:ArchimateDiagramModel>
