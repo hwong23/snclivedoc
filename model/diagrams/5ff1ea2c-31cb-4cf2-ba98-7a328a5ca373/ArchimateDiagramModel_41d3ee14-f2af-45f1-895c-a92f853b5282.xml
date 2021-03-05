@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP4. PERF"
+    id="41d3ee14-f2af-45f1-895c-a92f853b5282">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="086f97cf-692e-466b-8a1f-8cc719db5d7c">
+    <bounds
+        x="61"
+        y="52"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_1e7c90b8-a321-4141-bfdc-ac2f3a51106e.xml#1e7c90b8-a321-4141-bfdc-ac2f3a51106e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

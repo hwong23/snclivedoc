@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="APP5. CTLG"
+    id="412f1dfc-c723-4681-b553-02b976722295">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d78e0829-a73f-4e7f-8910-0d6e2eea4285">
+    <bounds
+        x="24"
+        y="36"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_a8d14ba9-6930-4b88-bba3-8926c4078e8f.xml#a8d14ba9-6930-4b88-bba3-8926c4078e8f"/>
+  </children>
+</archimate:ArchimateDiagramModel>
