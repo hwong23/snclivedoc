@@ -9,7 +9,7 @@
       targetConnections="17166fb7-1388-4882-a754-882150c2ab20 f3a5220b-d5ac-49c4-85ca-27abd9308264 f0d85e2d-be33-4507-aeea-29bd33405a0d">
     <bounds
         x="228"
-        y="492"
+        y="516"
         width="120"
         height="55"/>
     <archimateElement
@@ -22,7 +22,7 @@
       targetConnections="3810c9f1-73c2-4fc3-a264-2d8929a79685 7abad27b-aaeb-4a7c-9e97-393b4094c556 85886786-b18e-44a3-927d-3f0742af7d68">
     <bounds
         x="228"
-        y="264"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -35,7 +35,7 @@
       targetConnections="74c08565-7d7c-4334-b662-065c278d0847 5491a133-8a10-4ce5-a525-9b8d18e654de 7476420c-3385-4866-925d-1e13b40de9ed">
     <bounds
         x="228"
-        y="675"
+        y="699"
         width="120"
         height="55"/>
     <archimateElement
@@ -48,7 +48,7 @@
       targetConnections="510115fb-a769-4405-88f8-d7ecb8fdfeca dffe71ce-dea7-4f37-9fa1-dad8b582df1c">
     <bounds
         x="228"
-        y="600"
+        y="624"
         width="120"
         height="55"/>
     <archimateElement
@@ -61,7 +61,7 @@
       targetConnections="cbc908bd-4b82-4bab-9a09-13c84b42a7fc edb142f3-6f98-41a5-8a1c-cdfaa83b168d 7fe96b0a-4584-4a2e-84f4-cd2bcf1f318d">
     <bounds
         x="228"
-        y="336"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
@@ -91,7 +91,7 @@
     </sourceConnections>
     <bounds
         x="480"
-        y="348"
+        y="372"
         width="120"
         height="55"/>
     <archimateElement
@@ -130,7 +130,7 @@
     </sourceConnections>
     <bounds
         x="480"
-        y="600"
+        y="624"
         width="120"
         height="55"/>
     <archimateElement
@@ -187,7 +187,7 @@
     </sourceConnections>
     <bounds
         x="420"
-        y="120"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -235,7 +235,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="120"
+        y="144"
         width="120"
         height="55"/>
     <archimateElement
@@ -246,11 +246,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="46d7c0c0-c511-490d-a66d-76f71e54fd08"
       textAlignment="1"
-      content="Vista Física. Sistemas Perfilamiento y Catálogo Ocupacional. SNC. Componente 2. Programa FT">
+      content="Propuesta. Vista Física. Sistemas Perfilamiento y Catálogo Ocupacional. SNC. Componente 2. Programa FT&#xA;&#xA;&#xA;No Aprobada.">
     <bounds
         x="24"
-        y="12"
+        y="24"
         width="185"
-        height="80"/>
+        height="108"/>
   </children>
 </archimate:ArchimateDiagramModel>
