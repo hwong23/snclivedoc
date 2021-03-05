@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APP. Aplicaciones y Requerimientos. PERF"
     id="b5e8c687-26b0-4ff6-a9e8-b825b864deb5"
-    documentation="El mapa requerimientos funcionales de las aplicaciones del Programa relacionados con componentes de aplicación. El siguiente cuadro presenta las temáticas sobre las cuales los usuarios del Sistema pueden formular preguntas a los sistemas del Programa para accedar, procesar, analizar y presentar información de carácter estratégico. &#xA;&#xA;Con esta plataforma tecnológica se consolidará un sistema gerencial de gestión del empleocentro de inteligencia con un DWH que articulará unificará otros sistemas de información necesarios para la revisión de la efectividad entre la política activa y pasiva mostrada a través de resultados, y se espera entre otros tener la información del sistema del Servicio Público de Empleo, la Planilla Integrada de Liquidación de Aportes (PILA), el Sistema Nacional de Cualificaciones (SNC) y otras fuentes de información relevantes.&#xA;&#xA;Adicionalmente, la plataforma tendrá herramientas que permiten centralizar y procesar información de volumen para generar reportes, análisis y visualizaciones que informen la política de empleo y migración. &#xA;&#xA;Finalmente, este nuevo servicio de información permitirá consolidar una plataforma tecnológica que facilitará el seguimiento a los usuarios de los servicios ofrecidos por el Sector Trabajo y el análisis de los resultados de política que permitan orientar la toma de decisiones del Ministerio Trabajo en términos de la política de empleo, de formación para el trabajo y migración laboral. Asimismo, se contempla la creación de capacidades (capacitaciones, acompañamiento y demás actividades que aseguren el uso y apropiación de la herramienta por parte a los funcionarios del sector trabajo), involucrados en la administración, soporte y operación de los diferentes sistemas de información y, la realización de definiciones en relación con la gobernanza de los datos del sistema, la seguridad y la ética de acceso y procesamiento de la información.&#xA;">
+    documentation="El mapa requerimientos funcionales de las aplicaciones del Programa relacionados con componentes de aplicación. El siguiente cuadro presenta las épicas de usuario que la herramienta realizará para accedar, procesar, analizar y presentar los perfiles de las personas nacionales y migrantes.&#xA;&#xA;&#xA;PERF&#x9;&#xA;    Navegación. Objetivos y audiencias&#x9;1&#xA;&#x9;Navegación. Cómo usar la plataforma&#x9;1&#xA;&#x9;Entendimiento. Mercado laboral&#x9;1&#xA;&#x9;Entendimiento. Test de autoconocimiento y fortalezas&#x9;1&#xA;&#x9;Entendimiento. Quiero intermediación&#x9;1&#xA;&#x9;Entendimiento. Sobre el SPE&#x9;1&#xA;&#x9;Login. Login&#x9;1&#xA;&#x9;Quién eres. Información básica&#x9;1&#xA;&#x9;Qué sabes. Experiencia laboral&#x9;1&#xA;&#x9;Qué sabes. Formación&#x9;1&#xA;&#x9;Qué sabes. Hobbies y otros&#x9;1&#xA;&#x9;Qué quieres hacer. Aspiraciones&#x9;1&#xA;&#x9;Qué quieres hacer. Competencias favoritas&#x9;1&#xA;&#x9;Qué quieres hacer. Preferencias&#x9;1&#xA;&#x9;Integración. Integración con otras páginas&#x9;1&#xA;&#x9;&quot;Subida de archivos Documentos&quot;&#x9;1&#xA;&#x9;&quot;Subida de archivos Vídeos y otros&quot;&#x9;1&#xA;&#x9;Referencias. Referencias&#x9;1&#xA;&#x9;Certificación. Autoevaluación&#x9;1&#xA;&#x9;Certificación. Validación de terceros&#x9;1&#xA;&#x9;Certificación. Autocertificación básica&#x9;1&#xA;&#x9;Perfil descargable. Perfil descargable general&#x9;1&#xA;&#x9;Perfil descargable. Personalizar formato&#x9;1&#xA;&#x9;Perfil descargable. Personalizar contenido&#x9;1&#xA;&#x9;Perfil descargable. Adaptación por ocupación&#x9;1&#xA;&#x9;Perfil descargable. Adaptación por vacante&#x9;1&#xA;&#x9;Perfil descargable. Compartir por redes sociales&#x9;1&#xA;&#x9;Perfil descargable. Destacar fortalezas&#x9;1&#xA;&#x9;Carreras y ocupaciones. Recomendaciones de carreras generales&#x9;1&#xA;&#x9;Carreras y ocupaciones. Información adicional sobre carreras&#x9;1&#xA;&#x9;Carreras y ocupaciones. Recomendaciones de carreras específicas&#x9;1&#xA;&#x9;Brecha de competencias. Brecha de competencias&#x9;1&#xA;&#x9;Oportunidades de aprendizaje. Generales&#x9;1&#xA;&#x9;Oportunidades de aprendizaje. Reales&#x9;1&#xA;&#x9;Oportunidades de reconocimiento de aprendizajes previos. Generales&#x9;1&#xA;&#x9;Oportunidades de reconocimiento de aprendizajes previos. Reales&#x9;1&#xA;&#x9;Checklist de acciones. Lista&#x9;1&#xA;&#x9;Checklist de acciones. Tracker&#x9;1&#xA;&#x9;Destaques. Fortalezas&#x9;1&#xA;&#x9;Destaques. Competencias &quot;únicas&quot;&#x9;1&#xA;&#x9;Destaques. Competencias transferibles&#x9;1&#xA;&#x9;Destaques. Aspiraciones&#x9;1&#xA;&#x9;Destaques. Competencias favoritas&#x9;1&#xA;&#x9;Coaching. Virtual&#x9;1&#xA;&#x9;Coaching. Presencial&#x9;1&#xA;&#x9;Visualización. Ver perfiles individuales&#x9;1&#xA;&#x9;Visualización. Búsqueda por competencias&#x9;1&#xA;&#x9;Visualización. Probabilidad de empleabilidad por perfil&#x9;1&#xA;&#x9;Visualización. Notas del orientador&#x9;1&#xA;&#x9;Analítica. Número de perfiles por sector, ocupación o competencia&#x9;1&#xA;&#x9;Analítica. Segmentación / clustering de perfiles&#x9;1&#xA;&#x9;Analítica. Carreras y ocupaciones más y menos comunes&#x9;1&#xA;&#x9;Analítica. Competencias más y menos comunes&#x9;1&#xA;&#x9;Analítica. Competencias transferibles más y menos comunies&#x9;1&#xA;&#x9;Analítica. Factores de influencia en probabilidad de empleabilidad&#x9;1&#xA;&#x9;Reportes. Creación a medida&#x9;1&#xA;&#xA;Total PERF&#x9;&#x9;56&#xA;&#xA;&#xA;Certificación&#x9;Certificación. Autoevaluación&#xA;&#x9;Certificación. Validación de terceros&#xA;&#x9;Certificación. Autocertificación básica&#xA;Total Certificación&#x9;&#xA;Perfil descargable&#x9;Perfil descargable. Perfil descargable general&#xA;&#x9;Perfil descargable. Personalizar formato&#xA;&#x9;Perfil descargable. Personalizar contenido&#xA;&#x9;Perfil descargable. Adaptación por ocupación&#xA;&#x9;Perfil descargable. Adaptación por vacante&#xA;&#x9;Perfil descargable. Compartir por redes sociales&#xA;&#x9;Perfil descargable. Destacar fortalezas&#xA;Total Perfil descargable&#x9;&#xA;Navegación y entendimiento&#x9;Navegación. Objetivos y audiencias&#xA;&#x9;Navegación. Cómo usar la plataforma&#xA;&#x9;Entendimiento. Mercado laboral&#xA;&#x9;Entendimiento. Test de autoconocimiento y fortalezas&#xA;&#x9;Entendimiento. Quiero intermediación&#xA;&#x9;Entendimiento. Sobre el SPE&#xA;Total Navegación y entendimiento&#x9;&#xA;Login y creación de perfil&#x9;Login. Login&#xA;&#x9;Quién eres. Información básica&#xA;&#x9;Qué sabes. Experiencia laboral&#xA;&#x9;Qué sabes. Formación&#xA;&#x9;Qué sabes. Hobbies y otros&#xA;&#x9;Qué quieres hacer. Aspiraciones&#xA;&#x9;Qué quieres hacer. Competencias favoritas&#xA;&#x9;Qué quieres hacer. Preferencias&#xA;&#x9;Integración. Integración con otras páginas&#xA;&#x9;&quot;Subida de archivos&#xA;. Documentos&quot;&#xA;&#x9;&quot;Subida de archivos&#xA;. Vídeos y otros&quot;&#xA;&#x9;Referencias. Referencias&#xA;Total Login y creación de perfil&#x9;&#xA;Recomendaciones&#x9;Carreras y ocupaciones. Recomendaciones de carreras generales&#xA;&#x9;Carreras y ocupaciones. Información adicional sobre carreras&#xA;&#x9;Carreras y ocupaciones. Recomendaciones de carreras específicas&#xA;&#x9;Brecha de competencias. Brecha de competencias&#xA;&#x9;Oportunidades de aprendizaje. Generales&#xA;&#x9;Oportunidades de aprendizaje. Reales&#xA;&#x9;Oportunidades de reconocimiento de aprendizajes previos. Generales&#xA;&#x9;Oportunidades de reconocimiento de aprendizajes previos. Reales&#xA;&#x9;Checklist de acciones. Lista&#xA;&#x9;Checklist de acciones. Tracker&#xA;&#x9;Destaques. Fortalezas&#xA;&#x9;Destaques. Competencias &quot;únicas&quot;&#xA;&#x9;Destaques. Competencias transferibles&#xA;&#x9;Destaques. Aspiraciones&#xA;&#x9;Destaques. Competencias favoritas&#xA;&#x9;Coaching. Virtual&#xA;&#x9;Coaching. Presencial&#xA;Total Recomendaciones&#x9;&#xA;Visualización y analítica&#x9;Visualización. Ver perfiles individuales&#xA;&#x9;Visualización. Búsqueda por competencias&#xA;&#x9;Visualización. Probabilidad de empleabilidad por perfil&#xA;&#x9;Visualización. Notas del orientador&#xA;&#x9;Analítica. Número de perfiles por sector, ocupación o competencia&#xA;&#x9;Analítica. Segmentación / clustering de perfiles&#xA;&#x9;Analítica. Carreras y ocupaciones más y menos comunes&#xA;&#x9;Analítica. Competencias más y menos comunes&#xA;&#x9;Analítica. Competencias transferibles más y menos comunies&#xA;&#x9;Analítica. Factores de influencia en probabilidad de empleabilidad&#xA;&#x9;Reportes. Creación a medida&#xA;Total Visualización y analítica&#x9;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="fd37be31-2675-48d1-9568-10fb0c16a56f"
@@ -18,6 +18,51 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="aee6a20f-0599-4bd3-a680-3ca530e52e19">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="521ca101-c500-4aef-b055-77780249371b"
+        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
+        target="fb9ebf71-2510-45a0-8fb5-35539bf250a3">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_4d3649e0-81b4-4e77-9858-abe69d47ef1b.xml#4d3649e0-81b4-4e77-9858-abe69d47ef1b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="35e8f530-81d7-445a-b6a9-45a6f6a4cb4e"
+        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
+        target="26f5293b-5bc5-4f04-9602-3c6038226e39">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_3132616e-ca15-4c1d-b13e-d9f7c2d649b0.xml#3132616e-ca15-4c1d-b13e-d9f7c2d649b0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="ed441e4f-0b59-4eef-a9c5-ef8676981cbd"
+        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
+        target="0450816a-fd41-4a9e-b798-8ad98a9045b9">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_127eb412-7fe2-4a17-8270-7fcaf4a104c1.xml#127eb412-7fe2-4a17-8270-7fcaf4a104c1"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="64a3ba65-4ddc-44c1-84d0-9338fc05e165"
+        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
+        target="99e20ae2-c93b-43bd-96c1-583c8fecc381">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_da84453c-1829-454e-a4e7-a499155ca2bb.xml#da84453c-1829-454e-a4e7-a499155ca2bb"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="31b31fb3-26c0-4f0d-a0be-2276483e29ae"
+        source="aee6a20f-0599-4bd3-a680-3ca530e52e19"
+        target="37a7d5af-d267-4667-bb0c-442d302a0f7d">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_c00466fb-34b6-4783-8abd-e292b46e11c1.xml#c00466fb-34b6-4783-8abd-e292b46e11c1"/>
+    </sourceConnections>
     <bounds
         x="-156"
         y="192"
@@ -26,5 +71,82 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_1e7c90b8-a321-4141-bfdc-ac2f3a51106e.xml#1e7c90b8-a321-4141-bfdc-ac2f3a51106e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fb9ebf71-2510-45a0-8fb5-35539bf250a3"
+      targetConnections="521ca101-c500-4aef-b055-77780249371b">
+    <bounds
+        x="14"
+        y="369"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_cd73a57b-52a7-4526-b2f8-14b6f4bec449.xml#cd73a57b-52a7-4526-b2f8-14b6f4bec449"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="26f5293b-5bc5-4f04-9602-3c6038226e39"
+      targetConnections="35e8f530-81d7-445a-b6a9-45a6f6a4cb4e">
+    <bounds
+        x="164"
+        y="369"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_4ba15954-5873-400d-99a1-a5196a124b9e.xml#4ba15954-5873-400d-99a1-a5196a124b9e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0450816a-fd41-4a9e-b798-8ad98a9045b9"
+      targetConnections="ed441e4f-0b59-4eef-a9c5-ef8676981cbd">
+    <bounds
+        x="314"
+        y="369"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_8dbb7b6e-ceb6-4e70-b10a-84ec19b145a7.xml#8dbb7b6e-ceb6-4e70-b10a-84ec19b145a7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="09fa2740-262e-4e28-8616-292b551470c3">
+    <bounds
+        x="14"
+        y="469"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_76ba080b-a8e9-4f2c-9c1c-164380600130.xml#76ba080b-a8e9-4f2c-9c1c-164380600130"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="99e20ae2-c93b-43bd-96c1-583c8fecc381"
+      targetConnections="64a3ba65-4ddc-44c1-84d0-9338fc05e165">
+    <bounds
+        x="164"
+        y="469"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_9c810bae-5f21-4e13-8a1c-fd16c43fbf0b.xml#9c810bae-5f21-4e13-8a1c-fd16c43fbf0b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="37a7d5af-d267-4667-bb0c-442d302a0f7d"
+      targetConnections="31b31fb3-26c0-4f0d-a0be-2276483e29ae">
+    <bounds
+        x="314"
+        y="469"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Outcome"
+        href="Outcome_5dffc859-b5eb-4a7d-860c-2a0515353425.xml#5dffc859-b5eb-4a7d-860c-2a0515353425"/>
   </children>
 </archimate:ArchimateDiagramModel>
