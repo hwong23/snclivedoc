@@ -416,9 +416,9 @@
       targetConnections="e7f6a3fb-fc66-49bf-9f46-367d2f98fb3a">
     <bounds
         x="420"
-        y="744"
+        y="708"
         width="193"
-        height="55"/>
+        height="91"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_8792dbd7-4ace-4c0d-85d4-ae428466c231.xml#8792dbd7-4ace-4c0d-85d4-ae428466c231"/>
@@ -431,7 +431,7 @@
         x="420"
         y="809"
         width="193"
-        height="55"/>
+        height="80"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_86c9e217-10d9-4a2c-9c83-43e13ace5fae.xml#86c9e217-10d9-4a2c-9c83-43e13ace5fae"/>
@@ -441,10 +441,10 @@
       id="4d62af98-fe31-4320-8742-d8389421ec82"
       targetConnections="b37843e9-23c9-4eab-b8ac-d8e2affa8ee3">
     <bounds
-        x="420"
+        x="12"
         y="869"
         width="193"
-        height="55"/>
+        height="80"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_e6f2bb0e-b4bf-470d-9f5a-01ec3f413599.xml#e6f2bb0e-b4bf-470d-9f5a-01ec3f413599"/>

@@ -55,10 +55,10 @@
           href="CompositionRelationship_321895e8-79ba-43f1-a8ec-d277d7ed4615.xml#321895e8-79ba-43f1-a8ec-d277d7ed4615"/>
     </sourceConnections>
     <bounds
-        x="250"
+        x="276"
         y="226"
-        width="229"
-        height="309"/>
+        width="192"
+        height="279"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="7cfa61ab-6e4e-4773-a4b7-fad696ee38d4"
@@ -80,7 +80,7 @@
             href="AssociationRelationship_992542ea-cebe-4df7-979e-8939afaf232b.xml#992542ea-cebe-4df7-979e-8939afaf232b"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="10"
           y="60"
           width="157"
           height="61"/>
@@ -109,7 +109,7 @@
             href="AssociationRelationship_45c7e904-5f2f-4c87-8d54-9249da0e5186.xml#45c7e904-5f2f-4c87-8d54-9249da0e5186"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="10"
           y="132"
           width="157"
           height="49"/>
@@ -138,7 +138,7 @@
             href="AssociationRelationship_5e9f969e-4656-41f3-a0fb-66d71887f318.xml#5e9f969e-4656-41f3-a0fb-66d71887f318"/>
       </sourceConnections>
       <bounds
-          x="48"
+          x="22"
           y="204"
           width="120"
           height="55"/>
@@ -240,8 +240,8 @@
             href="CompositionRelationship_4fec5fb2-7452-4ba0-8546-780e7fd59934.xml#4fec5fb2-7452-4ba0-8546-780e7fd59934"/>
       </sourceConnections>
       <bounds
-          x="53"
-          y="36"
+          x="45"
+          y="48"
           width="176"
           height="73"/>
       <archimateElement
@@ -364,7 +364,7 @@
         fillColor="#ffffb5">
       <bounds
           x="69"
-          y="132"
+          y="144"
           width="144"
           height="96"/>
       <archimateElement
@@ -790,8 +790,8 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="214"
-        y="646"
+        x="276"
+        y="540"
         width="157"
         height="73"/>
     <archimateElement
