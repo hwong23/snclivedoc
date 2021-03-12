@@ -405,8 +405,8 @@
       textAlignment="1"
       content="Principales Requerimientos Funcionales de las Aplicaciones del Programa.&#xA;&#xA;El mapa requerimientos funcionales de las aplicaciones del Programa. Relación con componentes de aplicación.">
     <bounds
-        x="-312"
-        y="6"
+        x="24"
+        y="-5"
         width="324"
         height="168"/>
   </children>

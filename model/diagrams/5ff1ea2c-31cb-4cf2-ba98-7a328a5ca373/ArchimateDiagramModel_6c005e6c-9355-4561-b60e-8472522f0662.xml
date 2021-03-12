@@ -8,7 +8,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="d2c1abe0-191e-44e9-afb5-9fb96672627f"
       textAlignment="1"
-      content="Requerimientos Funcionales de la Herramienta Perfilamiento.&#xA;&#xA;Mapa de requerimientos funcionales de las aplicaciones del Programa. Relación con componentes de aplicación.&#xA;">
+      content="Requerimientos Funcionales del Catálogo de Ocupaciones (SAMPL)&#xA;&#xA;Mapa de requerimientos funcionales de las aplicaciones del Programa. Relación épicas y la aplicación.&#xA;">
     <bounds
         x="-312"
         y="6"
@@ -53,6 +53,24 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_56f6348d-518f-42de-b1e7-fe985e596fad.xml#56f6348d-518f-42de-b1e7-fe985e596fad"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="b2ba8986-8039-45ff-a55e-416af877dcee"
+        source="9dfa8626-8c94-4cfc-bd63-0b0e5cd19dd8"
+        target="0cd6a676-4396-4e68-a9d0-51c2ad7a7a80">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_e03111ae-28d6-4a46-8126-c4b03d130d52.xml#e03111ae-28d6-4a46-8126-c4b03d130d52"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="cb9f075c-204d-42a6-8ff4-7ef8d814368c"
+        source="9dfa8626-8c94-4cfc-bd63-0b0e5cd19dd8"
+        target="2601594b-ad2d-4070-b970-8e067c00313d">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_deae67d0-7aec-40ce-8cba-74d4fe85ca6d.xml#deae67d0-7aec-40ce-8cba-74d4fe85ca6d"/>
     </sourceConnections>
     <bounds
         x="-252"
@@ -114,5 +132,31 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_f97a122a-1acc-43a5-93ff-59a03f3389e5.xml#f97a122a-1acc-43a5-93ff-59a03f3389e5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0cd6a676-4396-4e68-a9d0-51c2ad7a7a80"
+      targetConnections="b2ba8986-8039-45ff-a55e-416af877dcee">
+    <bounds
+        x="35"
+        y="468"
+        width="128"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_985b7a3a-4553-46bf-aa78-746488c01e19.xml#985b7a3a-4553-46bf-aa78-746488c01e19"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2601594b-ad2d-4070-b970-8e067c00313d"
+      targetConnections="cb9f075c-204d-42a6-8ff4-7ef8d814368c">
+    <bounds
+        x="185"
+        y="468"
+        width="128"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_ef35a9ee-e9dd-4b23-9c81-10d3baa70c5e.xml#ef35a9ee-e9dd-4b23-9c81-10d3baa70c5e"/>
   </children>
 </archimate:ArchimateDiagramModel>
