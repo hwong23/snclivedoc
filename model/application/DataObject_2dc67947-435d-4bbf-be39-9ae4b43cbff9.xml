@@ -1,10 +1,10 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DO54. LinkedIn"
-    id="efe848bd-ebca-45a2-8777-55be5c182edf">
+    name="DO56. ElEmpleo"
+    id="2dc67947-435d-4bbf-be39-9ae4b43cbff9">
   <properties
       key="Tamaño_GB"
-      value="3.6"/>
+      value="1"/>
   <properties
       key="Periodo"
       value="2 años"/>

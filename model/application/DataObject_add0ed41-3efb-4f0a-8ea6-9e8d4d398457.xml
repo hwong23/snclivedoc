@@ -1,4 +1,11 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO55. Computrabajo"
-    id="add0ed41-3efb-4f0a-8ea6-9e8d4d398457"/>
+    id="add0ed41-3efb-4f0a-8ea6-9e8d4d398457">
+  <properties
+      key="Tamaño_GB"
+      value="1"/>
+  <properties
+      key="Periodo"
+      value="2 años"/>
+</archimate:DataObject>

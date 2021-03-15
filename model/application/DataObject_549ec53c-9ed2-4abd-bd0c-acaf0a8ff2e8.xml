@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO32. Gran Encuesta Integrada de Hogares (GEIH)​"
     id="549ec53c-9ed2-4abd-bd0c-acaf0a8ff2e8"
-    documentation="Es una encuesta realizada de manera continua por el DANE a los hogares del país, de la cual se obtienen las cifras del mercado laboral. Está a cargo de la Dirección de Metodología y Producción Estadística (DIMPE) del DANE.​&#xA;"/>
+    documentation="Es una encuesta realizada de manera continua por el DANE a los hogares del país, de la cual se obtienen las cifras del mercado laboral. Está a cargo de la Dirección de Metodología y Producción Estadística (DIMPE) del DANE.​&#xA;">
+  <properties
+      key="Tamaño_GB"
+      value="2"/>
+  <properties
+      key="Periodo"
+      value="2 años"/>
+</archimate:DataObject>

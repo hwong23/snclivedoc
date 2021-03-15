@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO38. SPE. Vacantes"
     id="9d175780-eee1-4806-a65e-b8a5a751fa98"
-    documentation="En esta base de datos se almacenan todas la vacantes a nivel nacional que han sido cargadas en el Servicio Público de Empleo, es una base de datos que se encuentra en formato .cvs. Representa un porción limitada el universo de demanda del mercado laboral.​&#xA;"/>
+    documentation="En esta base de datos se almacenan todas la vacantes a nivel nacional que han sido cargadas en el Servicio Público de Empleo, es una base de datos que se encuentra en formato .cvs. Representa un porción limitada el universo de demanda del mercado laboral.​&#xA;">
+  <properties
+      key="Tamaño_GB"
+      value="40"/>
+  <properties
+      key="Periodo"
+      value="2 años"/>
+</archimate:DataObject>
