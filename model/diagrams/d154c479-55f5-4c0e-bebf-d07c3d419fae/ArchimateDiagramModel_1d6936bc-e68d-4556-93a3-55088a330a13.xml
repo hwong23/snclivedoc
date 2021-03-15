@@ -9,7 +9,7 @@
     <bounds
         x="24"
         y="168"
-        width="120"
+        width="138"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Product"
@@ -19,9 +19,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="474e406a-8333-4a89-be3a-902fcb266cae">
     <bounds
-        x="409"
-        y="151"
-        width="120"
+        x="192"
+        y="168"
+        width="138"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -31,9 +31,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2c0ba1c3-65d8-4cbd-85f7-4603d8de3af3">
     <bounds
-        x="559"
-        y="151"
-        width="120"
+        x="371"
+        y="168"
+        width="138"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -52,9 +52,9 @@
           href="CompositionRelationship_b1ea47cd-2171-4230-8f10-701905a688a0.xml#b1ea47cd-2171-4230-8f10-701905a688a0"/>
     </sourceConnections>
     <bounds
-        x="409"
-        y="251"
-        width="120"
+        x="192"
+        y="268"
+        width="138"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -65,9 +65,9 @@
       id="c3caa0bd-0a22-444b-b01c-74fcd215f908"
       targetConnections="556afafa-3c22-450b-899f-83def5a8e9ae">
     <bounds
-        x="559"
-        y="251"
-        width="120"
+        x="372"
+        y="268"
+        width="138"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"

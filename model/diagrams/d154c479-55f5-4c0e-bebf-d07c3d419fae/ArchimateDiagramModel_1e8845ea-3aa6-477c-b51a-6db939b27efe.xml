@@ -16,9 +16,9 @@
           href="CompositionRelationship_id-405dbd9fc2034f928062880cef4dc4d4.xml#id-405dbd9fc2034f928062880cef4dc4d4"/>
     </sourceConnections>
     <bounds
-        x="60"
+        x="38"
         y="240"
-        width="120"
+        width="141"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Product"
@@ -48,9 +48,9 @@
           href="CompositionRelationship_id-9dc0787922ec478b8f0677dbfe5c5ee0.xml#id-9dc0787922ec478b8f0677dbfe5c5ee0"/>
     </sourceConnections>
     <bounds
-        x="288"
+        x="252"
         y="132"
-        width="120"
+        width="188"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -61,9 +61,9 @@
       id="15bc699d-96d3-4f3e-ae69-ee7a06dfda42"
       targetConnections="9ccffc9d-649a-489a-94ea-a19c427a7835 154596c8-2d37-4f37-be47-f5e495b8e2ca">
     <bounds
-        x="288"
+        x="252"
         y="243"
-        width="120"
+        width="188"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -75,7 +75,7 @@
     <bounds
         x="449"
         y="132"
-        width="120"
+        width="200"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -87,7 +87,7 @@
     <bounds
         x="449"
         y="243"
-        width="120"
+        width="200"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -102,9 +102,9 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="289"
+        x="253"
         y="456"
-        width="120"
+        width="188"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -130,9 +130,9 @@
           href="CompositionRelationship_b1ea47cd-2171-4230-8f10-701905a688a0.xml#b1ea47cd-2171-4230-8f10-701905a688a0"/>
     </sourceConnections>
     <bounds
-        x="288"
+        x="252"
         y="360"
-        width="120"
+        width="188"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"

@@ -21,9 +21,9 @@
           href="CompositionRelationship_id-9dc0787922ec478b8f0677dbfe5c5ee0.xml#id-9dc0787922ec478b8f0677dbfe5c5ee0"/>
     </sourceConnections>
     <bounds
-        x="696"
+        x="676"
         y="144"
-        width="120"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -53,9 +53,9 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="696"
+        x="676"
         y="606"
-        width="120"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -69,9 +69,9 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="696"
+        x="676"
         y="756"
-        width="120"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -87,7 +87,7 @@
     <bounds
         x="855"
         y="756"
-        width="142"
+        width="166"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -146,9 +146,9 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="692"
+        x="672"
         y="290"
-        width="133"
+        width="153"
         height="63"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -163,7 +163,7 @@
     <bounds
         x="398"
         y="444"
-        width="142"
+        width="167"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -178,7 +178,7 @@
     <bounds
         x="398"
         y="587"
-        width="142"
+        width="167"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -192,9 +192,9 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="696"
+        x="676"
         y="527"
-        width="120"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -232,9 +232,9 @@
           href="AssociationRelationship_id-0223e89e84294acdb13b386c40a652dd.xml#id-0223e89e84294acdb13b386c40a652dd"/>
     </sourceConnections>
     <bounds
-        x="696"
+        x="676"
         y="372"
-        width="126"
+        width="146"
         height="61"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -276,9 +276,9 @@
           href="AssociationRelationship_id-74154bb10e60400185cc2b71cc6a01ba.xml#id-74154bb10e60400185cc2b71cc6a01ba"/>
     </sourceConnections>
     <bounds
-        x="696"
+        x="676"
         y="456"
-        width="120"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -307,9 +307,9 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="696"
+        x="676"
         y="678"
-        width="120"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -323,9 +323,9 @@
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
     <bounds
-        x="696"
+        x="676"
         y="840"
-        width="142"
+        width="140"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -341,7 +341,7 @@
     <bounds
         x="398"
         y="732"
-        width="142"
+        width="167"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -405,7 +405,7 @@
     <bounds
         x="398"
         y="804"
-        width="142"
+        width="167"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -437,7 +437,7 @@
     <bounds
         x="398"
         y="876"
-        width="142"
+        width="167"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -490,7 +490,7 @@
     <bounds
         x="398"
         y="948"
-        width="142"
+        width="167"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -690,7 +690,7 @@
     <bounds
         x="398"
         y="660"
-        width="141"
+        width="166"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
@@ -821,7 +821,7 @@
     <bounds
         x="855"
         y="840"
-        width="142"
+        width="166"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
