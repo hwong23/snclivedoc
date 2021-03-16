@@ -1,4 +1,14 @@
 <archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EPC9. Visualizar CUOC"
-    id="d582ed9b-4eb3-46bb-bfe6-a5781e964560"/>
+    id="d582ed9b-4eb3-46bb-bfe6-a5781e964560">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Outcome>

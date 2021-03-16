@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ123. Gestion de usuarios"
     id="6022597d-aae4-4bfb-817e-65bacaf4f39d"
-    documentation="Requerimiento del Catalogo de Ocupaciones"/>
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Requirement>

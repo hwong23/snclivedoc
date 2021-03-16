@@ -1,5 +1,15 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ113. Mostrar tendencias por ocupaci��_��__n"
+    name="RQ113. Mostrar tendencias por ocupaci��_��__��_��___n"
     id="4541c9dd-84f4-404a-86fa-64985db7e724"
-    documentation="Requerimiento del Catalogo de Ocupaciones"/>
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Requirement>

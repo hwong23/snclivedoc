@@ -1,4 +1,14 @@
 <archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EPC11. Seguridad"
-    id="0ff24c4b-b9ec-42ed-a600-01c153f8a237"/>
+    id="0ff24c4b-b9ec-42ed-a600-01c153f8a237">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Outcome>

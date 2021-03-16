@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ111. Informacion de contexto del mercado laboral"
     id="79f11dbf-bc94-4bd4-8ed3-cea21191abfb"
-    documentation="Requerimiento del Catalogo de Ocupaciones"/>
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Requirement>

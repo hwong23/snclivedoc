@@ -1,4 +1,14 @@
 <archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EPC12. Interoperabilidad"
-    id="58745ee1-e0fa-47d9-ba9f-ea85197e9aaf"/>
+    id="58745ee1-e0fa-47d9-ba9f-ea85197e9aaf">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Outcome>

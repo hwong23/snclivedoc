@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ124. Sincronizacion"
     id="4c0a140b-88b1-4c12-874f-95d2ee4e0d91"
-    documentation="Requerimiento del Catalogo de Ocupaciones"/>
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Requirement>

@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ125. Envio de informacion"
     id="f04e7315-9f60-4c9c-9d2e-da6638761b56"
-    documentation="Requerimiento del Catalogo de Ocupaciones"/>
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Requirement>

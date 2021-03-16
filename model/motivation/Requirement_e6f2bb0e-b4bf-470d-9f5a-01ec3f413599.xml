@@ -1,5 +1,15 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ11. Promover el empleo, construcci�_n de m��s y mejores empresas"
+    name="RQ11. Promover el empleo, construcci��__n de m��_��_s y mejores empresas"
     id="e6f2bb0e-b4bf-470d-9f5a-01ec3f413599"
-    documentation="Requerimiento del Catalogo de Ocupaciones"/>
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Zorro"/>
+  <properties
+      key="Resultado"
+      value="Zorro"/>
+  <properties
+      key="Fuentes"
+      value="Zorro"/>
+</archimate:Requirement>
