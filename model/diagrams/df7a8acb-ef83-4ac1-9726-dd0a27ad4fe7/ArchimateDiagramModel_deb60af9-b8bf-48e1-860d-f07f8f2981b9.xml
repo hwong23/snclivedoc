@@ -48,15 +48,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="07493917-d9ed-41be-8c7c-4696206e4c6c"
-        source="06b2b69c-5248-41dc-bd6f-10c5e9ee1206"
-        target="3ff7b9e9-dc74-4e4c-a273-6e05fcd5403f">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_044f64d8-5c3a-4ce8-b786-4ea30a9dbfec.xml#044f64d8-5c3a-4ce8-b786-4ea30a9dbfec"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="278d5362-697a-47bb-99aa-a7aa55e69198"
         source="06b2b69c-5248-41dc-bd6f-10c5e9ee1206"
         target="26784e91-373d-45b1-8371-c3cb6deaa667">
@@ -97,7 +88,7 @@
         targetConnections="8a2afce7-df05-4592-8049-51a19d4a4865">
       <bounds
           x="24"
-          y="240"
+          y="180"
           width="180"
           height="55"/>
       <archimateElement
@@ -110,7 +101,7 @@
         targetConnections="9f2ad437-fabd-4cf4-90f2-4945bc25fe07">
       <bounds
           x="24"
-          y="432"
+          y="384"
           width="180"
           height="55"/>
       <archimateElement
@@ -123,7 +114,7 @@
         targetConnections="02bcbf47-af59-4f5e-bced-32592724a861">
       <bounds
           x="24"
-          y="300"
+          y="252"
           width="180"
           height="55"/>
       <archimateElement
@@ -132,24 +123,11 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="3ff7b9e9-dc74-4e4c-a273-6e05fcd5403f"
-        targetConnections="07493917-d9ed-41be-8c7c-4696206e4c6c">
-      <bounds
-          x="24"
-          y="180"
-          width="180"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Outcome"
-          href="Outcome_5dffc859-b5eb-4a7d-860c-2a0515353425.xml#5dffc859-b5eb-4a7d-860c-2a0515353425"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="26784e91-373d-45b1-8371-c3cb6deaa667"
         targetConnections="278d5362-697a-47bb-99aa-a7aa55e69198">
       <bounds
           x="24"
-          y="366"
+          y="318"
           width="180"
           height="55"/>
       <archimateElement
