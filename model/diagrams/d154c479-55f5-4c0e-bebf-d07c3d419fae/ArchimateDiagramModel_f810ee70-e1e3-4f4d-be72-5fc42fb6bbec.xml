@@ -95,9 +95,9 @@
       id="bd8fbb64-36c5-49ae-ad3c-4aa41a1ce6b1"
       targetConnections="f730e47c-47f0-48e7-a089-ffa2b76bf334">
     <bounds
-        x="432"
-        y="288"
-        width="193"
+        x="192"
+        y="432"
+        width="217"
         height="55"/>
     <archimateElement
         xsi:type="archimate:DataObject"
