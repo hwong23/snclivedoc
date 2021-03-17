@@ -6,7 +6,8 @@
     documentation="En el Programa de Certificación y Capacitación para la Población Nacional y Migrante, existe el objetivo diseñar e implementar una ruta para la población nacional y migrante, que favorezca el reconocimiento de sus aprendizajes previos y el fortalecimiento de sus competencias. Esta ruta incluye&#xA; &#xA;* La divulgación del Programa&#xA;* La identificación de aliados clave&#xA;* La convocatoria y sensibilización a los participantes&#xA;* El diagnóstico y el perfilamiento laboral de los beneficiarios &#xA;* Los procesos de evaluación y certificación de competencias &#xA;* La capacitación&#xA;* La orientación ocupacional&#xA;* La articulación con las empresas que se vinculen al Programa&#xA;* La intermediación laboral&#xA;* El seguimiento y la evaluación &#xA;&#xA;Para soportar parte de esta ruta, surge la necesidad de contar con una herramienta de perfilamiento de competencias y de orientación ocupacional, que responda a estos requerimientos y sirva para orientar a los buscadores de empleo, nacionales o migrantes, en ocupaciones pertinentes y con oportunidades de inserción laboral, así como para facilitar la toma de decisiones de política pública, en este caso en el Ministerio del Trabajo. &#xA;&#xA;Se pretende que la herramienta se centre en las competencias de las personas adquiridas por diferentes vías a lo largo de la vida y en la configuración de un perfil integral, y no únicamente en los conocimientos, en la experiencia laboral o en los títulos obtenidos.   &#xA; &#xA;A su vez, se espera que la herramienta tome como referente la Clasificación Única de Ocupaciones (CUOC) actual al momento del diseño y que el desarrollo de la herramienta esté vigente en el Sistema Nacional de Cualificaciones. &#xA;&#xA;Además, la herramienta deberá ser parte de la Plataforma de Información del Sistema Nacional de Cualificaciones y estar armonizada con sus propósitos y funciones. &#xA;&#xA;La herramienta de perfilamiento y orientación ocupacional será fundamental para el desarrollo del Programa de certificación y capacitación para la población nacional y migrante, dado que permitirá caracterizar la población que acceda a ella, en términos de competencias, y a su vez brindará elementos para identificar la ruta que los beneficiarios deben continuar, una vez se cuente con su perfilamiento, entendiendo esto, como: &#xA;&#xA;* Opción 1: Directamente a un proceso de evaluación de competencias, cuando su perfil y experiencia cumplan con los requerimientos, de forma tal que el beneficiario pueda obtener la certificación, según los resultados obtenidos luego de la evaluación. &#xA;* Opción 2: Desarrollo de un proceso de capacitación, si el beneficiario no logra obtener la certificación en el proceso anterior (1) o no cumple con los requisitos para acceder directamente al proceso de evaluación. La capacitación permitirá fortalecer o complementar las competencias del beneficiario y brindarle mayores elementos para un nuevo proceso de evaluación, así como para desempeñarse en las ocupaciones que más se ajusten a su perfil. &#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="086f97cf-692e-466b-8a1f-8cc719db5d7c">
+      id="086f97cf-692e-466b-8a1f-8cc719db5d7c"
+      targetConnections="2793c3e5-2707-472c-84a6-606f849d29bd">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="22e6b467-811b-4906-9aaa-b3d2fe82188f"
@@ -158,5 +159,26 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="12b68b54-9452-492d-8d97-a095c808d1f2">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="2793c3e5-2707-472c-84a6-606f849d29bd"
+        source="12b68b54-9452-492d-8d97-a095c808d1f2"
+        target="086f97cf-692e-466b-8a1f-8cc719db5d7c">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_db26f929-a68d-4a7d-91c3-0b53a0547d92.xml#db26f929-a68d-4a7d-91c3-0b53a0547d92"/>
+    </sourceConnections>
+    <bounds
+        x="660"
+        y="540"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-01765bbf-be50-48f0-8ca3-8919222e3aa5.xml#id-01765bbf-be50-48f0-8ca3-8919222e3aa5"/>
   </children>
 </archimate:ArchimateDiagramModel>
