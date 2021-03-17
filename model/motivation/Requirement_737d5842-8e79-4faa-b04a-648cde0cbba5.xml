@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ204. Entendimiento. Quiero intermediacian"
     id="737d5842-8e79-4faa-b04a-648cde0cbba5"
-    documentation="Requerimientos de la H. de Perfilamiento">
+    documentation="&quot;Como migrante, quiero poder acceder, a trav�s de un enlace de redireccionamiento a la p�gina del Servicio P�blico de Empleo, para hacer b�squedas r�pidas de empleo en ciertas ocupaciones (como las que me recomienda el test de autoconomiento y fortalezas) y entender si hay vacantes, donde est�n, que piden, etc. y as� poder empezar a entender mejor el mercado laboral colombiano, especialmente para las ocupaciones que son de inter�s inicial para mi. Enlace posible (a confirmar) de redireccionamiento: https://www.buscadordeempleo.gov.co/ &quot;">
   <properties
       key="Restricciones"
-      value="En progreso"/>
+      value="&quot;Ejempo: --V�nculo externo al SPE&quot;"/>
   <properties
       key="Resultado"
       value="En progreso"/>

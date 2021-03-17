@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ250. Visualizacion. Notas del orientador"
     id="03d811fe-fd3b-4d07-a243-eff4fb93ec1f"
-    documentation="Requerimientos de la H. de Perfilamiento">
+    documentation="&quot;Como orientador, quiero poder anotarle sugerencias al usuario en su perfil para ayudarle a completar mejor su perfil y prepararse mejor de cara a presentar su hoja de vida con posibles empleadores. &quot;">
   <properties
       key="Restricciones"
       value="En progreso"/>

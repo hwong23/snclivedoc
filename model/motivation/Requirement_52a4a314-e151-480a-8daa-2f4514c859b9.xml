@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ212. Que quieres hacer. Competencias favoritas"
     id="52a4a314-e151-480a-8daa-2f4514c859b9"
-    documentation="Requerimientos de la H. de Perfilamiento">
+    documentation="&quot;Como migrante, quiero poder indicar cuales son mis competencias favoritas de todas las que fueron documentadas mientras completaba mi perfil (u otras nuevas), tanto t�cnicas como socioemocionales, para que la herramienta tome esto en consideraci�n en sus recomendaciones sobre posibles carreras y ocupaciones, y para poder resaltarlos despu�s en mi perfil descargable para los empleadores. &quot;">
   <properties
       key="Restricciones"
       value="En progreso"/>

@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ208. Que sabes. Experiencia laboral"
     id="e72c31d2-7657-4ba7-a0a5-101aa574875f"
-    documentation="Requerimientos de la H. de Perfilamiento">
+    documentation="&quot;Como migrante, quiero incluir informaci�n sobre todo mi historial laboral o emprendedor (sea formal o informal), incluyendo quien es el empleador, lugar de trabajo, cuanto tiempo trabaj� all�, responsabilidades y actividades, y competencias t�cnicas y blandas que adquir� durante esa experiencia, para incluir en mi hoja de vida y para que esto influya en las recomendaciones de la herramienta sobre posibles carreras y ocupaciones, y en mi brecha en competencias para esas carreras y ocupaciones. &quot;">
   <properties
       key="Restricciones"
-      value="En progreso"/>
+      value="&quot;Ejemplo: --El historial es un formulario de 4 o 5 �reas de informaci�n sobre la formaci�n y trabajos --Pueden ser im�genes de diplomas, grados, etc.. Tiene ser que ser texto &quot;"/>
   <properties
       key="Resultado"
       value="En progreso"/>

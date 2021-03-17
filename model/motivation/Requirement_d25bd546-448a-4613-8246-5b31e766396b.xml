@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ237. Oportunidades de reconocimiento de aprendizajes previos. Reales"
     id="d25bd546-448a-4613-8246-5b31e766396b"
-    documentation="Requerimientos de la H. de Perfilamiento">
+    documentation="&quot;Como migrante, si la herramienta me recomienda certificarme en alguna ocupaci�n o competencias, quiero saber donde me podr�a certificar, cuanto me costar�a y como ser�a el proceso para poder ir a completar esa certificaci�n y as� fortalecer mi perfil de cara a los empleadores. &quot;">
   <properties
       key="Restricciones"
-      value="En progreso"/>
+      value="--Debe ser extensible cuando haya m�s informaci�n de certificaci�n"/>
   <properties
       key="Resultado"
       value="En progreso"/>

@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ235. Oportunidades de aprendizaje. Reales"
     id="9730f1f3-230f-4f59-a2ab-d3159d7d3323"
-    documentation="Requerimientos de la H. de Perfilamiento">
+    documentation="&quot;Como migrante, si la herramienta me recomienda capacitarme en ciertas competencias para fortalecer mi perfil como candidata para ocupaciones/vacantes, quiero saber donde podr�a capacitarme, si son en linea o presenciales, cuanto me costar�a y tener enlaces a esas capacitaciones para empezar el proceso de registrarme en ellas. &quot;">
   <properties
       key="Restricciones"
-      value="En progreso"/>
+      value="--Debe ser extensible cuando haya m�s informaci�n de certificaciones y capacitaci�n"/>
   <properties
       key="Resultado"
       value="En progreso"/>
