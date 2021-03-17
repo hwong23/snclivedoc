@@ -1,7 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO55. Computrabajo"
-    id="add0ed41-3efb-4f0a-8ea6-9e8d4d398457">
+    id="add0ed41-3efb-4f0a-8ea6-9e8d4d398457"
+    documentation="Computrabajo es un portal privado de de búsqueda de empleo.  Esta fuente es un ejercicio de web scrapping sobre las ofertas publicadas en dicho portal. ">
   <properties
       key="Tamaño_GB"
       value="1"/>

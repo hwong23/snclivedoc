@@ -1,7 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO54. LinkedIn"
-    id="efe848bd-ebca-45a2-8777-55be5c182edf">
+    id="efe848bd-ebca-45a2-8777-55be5c182edf"
+    documentation="LinkedIn es una red social que tiene como misión &quot;Conectar a profesionales de todo el mundo para ayudarles a ser más productivos y a alcanzar todas sus metas laborales&quot;. Dado que su foco es el laboral, es una fuente potencial para examinar el mercado laboral, especialmente para obtener información de nuevas ocupaciones.">
   <properties
       key="Tamaño_GB"
       value="3.6"/>
