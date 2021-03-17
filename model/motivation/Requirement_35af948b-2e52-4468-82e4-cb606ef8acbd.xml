@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ247. Visualizacion. Ver perfiles individuales"
+    id="35af948b-2e52-4468-82e4-cb606ef8acbd"
+    documentation="Requerimientos de la H. de Perfilamiento">
+  <properties
+      key="Restricciones"
+      value="En progreso"/>
+  <properties
+      key="Resultado"
+      value="En progreso"/>
+  <properties
+      key="Fuentes"
+      value="En progreso"/>
+</archimate:Requirement>

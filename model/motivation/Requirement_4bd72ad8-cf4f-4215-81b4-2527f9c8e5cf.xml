@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ222. Certificacion. AutoCertificacion basica"
+    id="4bd72ad8-cf4f-4215-81b4-2527f9c8e5cf"
+    documentation="Requerimientos de la H. de Perfilamiento">
+  <properties
+      key="Restricciones"
+      value="En progreso"/>
+  <properties
+      key="Resultado"
+      value="En progreso"/>
+  <properties
+      key="Fuentes"
+      value="En progreso"/>
+</archimate:Requirement>

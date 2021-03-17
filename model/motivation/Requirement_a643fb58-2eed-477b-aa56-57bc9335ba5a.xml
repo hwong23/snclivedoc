@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ238. Checklist de acciones. Lista"
+    id="a643fb58-2eed-477b-aa56-57bc9335ba5a"
+    documentation="Requerimientos de la H. de Perfilamiento">
+  <properties
+      key="Restricciones"
+      value="En progreso"/>
+  <properties
+      key="Resultado"
+      value="En progreso"/>
+  <properties
+      key="Fuentes"
+      value="En progreso"/>
+</archimate:Requirement>

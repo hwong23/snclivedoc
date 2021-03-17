@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ230. Carreras y ocupaciones. Recomendaciones de carreras generales"
+    id="b9611af9-d765-4982-8fdb-53a28673ae3f"
+    documentation="Requerimientos de la H. de Perfilamiento">
+  <properties
+      key="Restricciones"
+      value="En progreso"/>
+  <properties
+      key="Resultado"
+      value="En progreso"/>
+  <properties
+      key="Fuentes"
+      value="En progreso"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ209. Que sabes. Formacion"
+    id="bd770f6f-cbe3-434f-aa1f-17a84e1ccc43"
+    documentation="Requerimientos de la H. de Perfilamiento">
+  <properties
+      key="Restricciones"
+      value="En progreso"/>
+  <properties
+      key="Resultado"
+      value="En progreso"/>
+  <properties
+      key="Fuentes"
+      value="En progreso"/>
+</archimate:Requirement>
