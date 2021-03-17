@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dshbrd_Catálogo"
-    id="d22c8bff-ca6e-4e61-a7e6-87bfe880b471"/>
+    id="d22c8bff-ca6e-4e61-a7e6-87bfe880b471"
+    documentation="Interfaz gráfica, web, para presentar el tableros de indicadores del mercado labora: números ocupaciones más y menos solictadas, números competencias más requeridas por las ocupaciones, etc.&#xA;"/>

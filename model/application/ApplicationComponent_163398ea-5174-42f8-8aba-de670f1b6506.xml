@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rpstrio_ctlgo"
-    id="163398ea-5174-42f8-8aba-de670f1b6506"/>
+    id="163398ea-5174-42f8-8aba-de670f1b6506"
+    documentation="Módulo de publicación y descarga de documentos de divulgación de los resultados del Mercado Laboral.&#xA;&#xA;"/>

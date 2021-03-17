@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT. Fuentes Perfilamiento y Catalogo"
-    id="f810ee70-e1e3-4f4d-be72-5fc42fb6bbec">
+    id="f810ee70-e1e3-4f4d-be72-5fc42fb6bbec"
+    documentation="Descripción de las fuentes internas del Ministerio del Trabajo requeridas por los sistemas de información del Programa de Formación para el Trabajo.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ff817d26-ca57-40f9-8d92-2fa17612d90d"

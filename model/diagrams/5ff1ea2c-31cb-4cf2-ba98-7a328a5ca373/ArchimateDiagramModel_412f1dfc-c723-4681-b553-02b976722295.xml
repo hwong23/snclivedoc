@@ -1,19 +1,162 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="APP10. CTLG"
+    name="APP. CTLG"
     id="412f1dfc-c723-4681-b553-02b976722295"
     documentation="El Plan Nacional de Desarrollo definió el Sistema Nacional de Cualificaciones fue concebido como “un como un conjunto de instrumentos, políticas, procesos y arreglos institucionales dirigidos a alinear la educación y formación con las necesidades sociales y productivas del país; facilitando la adecuación entre la oferta y la demanda del mercado de trabajo, la promoción de la educación y formación a lo largo de la vida, y el fomento de la movilidad educativa, formativa y laboral de las personas”. Al mismo tiempo, definió a la Plataforma de Información del Sistema Nacional de Cualificaciones –PSNC- como uno de sus componentes.  &#xD;&#xA;&#xD;&#xA;El objetivo general de la PSNC es el de “Poner a disposición del público y diseñadores de política pública, información relevante, articulada, de calidad y actualizada sobre oferta y demanda educativa, formativa y laboral, relacionada con los componentes del Sistema Nacional de Cualificaciones.  Orientada a la toma de decisiones referentes a educación, formación, empleabilidad, reconocimiento del aprendizaje a lo largo de la vida, desarrollo de políticas activas de empleo, gestión de capital humano, entre otros a través de la articulación de los diferentes componentes del SNC. &#xD;&#xA;&#xD;&#xA;De acuerdo con la Subdirección de Análisis, Monitoreo y Prospectiva Laboral –SAMPL-, la PSNC ha sido pensada para ser desarrollada en una estructura de 4 capas, de las cualees el núcleo es la Clasificación Única de Ocupacinones para Colombia –CUOC-. Las clasificaciones de ocupaciones constituyen un marco para el análisis, la agregación y la descripción de los contenidos del trabajo según la estructura ocupacional del país. Documento de Diseño y Alcance de la Plataforma del Sistema Nacional de Cualificaciones (Ernst &amp; Young, 2020). Si bien la CUOC no hace parte de la definición del SNC en el PND, a través de las diferentes sesiones de trabajo que se llevaron en la etapa cero del Programa para el Fortalecimiento de las Políticas de Empleo, se determinó que una vez construida la CUOC será un elemento central del SNC porque fungirá como “llave” para asociar la información proveniente de cada componente. Con esta clasificación se espera ir más allá del desarrollo y procesamiento de estadísticas más consistentes y potenciar el intercambio y cruce de información entre las plataformas y sistemas que tienen algún interés con el mercado laboral (Ernst &amp; Young, 2020). &#xD;&#xA;&#xD;&#xA;La segunda capa está constituida por el Catálogo Nacional de Cualificaciones, que contiene información detallada de las ocupaciones y cargos (identificados o no dentro de la estructura de la CUOC) proveniente de múltiples fuentes de información, estructuradas y no estructuradas, referentes a salarios, vacantes, hojas de vida, programas de educación y formación relacionados.  &#xD;&#xA;&#xD;&#xA;Esta capa tiene varios propósitos fundamentales: &#xD;&#xA;&#xD;&#xA;-Generar la información de las brechas detectadas, a nivel de ocupación y cargo &#xD;&#xA;-Detectar ocupaciones y cargos emergentes, así como nuevas competencias (que alimentarían potencialmente la columna vertebral de la CUOC) &#xD;&#xA;-Detectar los cambios y/o evoluciones en el comportamiento de las ocupaciones y sus principales características, en el tiempo &#xD;&#xA;-Determinar los programas de educación y de formación que está asociada a las ocupaciones del catálogo &#xD;&#xA;-Incorporar una herramienta de captura on-line de necesidades de talento humano que permita identificar las caracteristicas y cambios en la demanda laboral  &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="d78e0829-a73f-4e7f-8910-0d6e2eea4285">
+      id="d78e0829-a73f-4e7f-8910-0d6e2eea4285"
+      targetConnections="8b972cfd-90a3-4bcd-a09d-d3bf35557ad5">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="268edf89-5162-4e89-9386-ecfe1282efde"
+        source="d78e0829-a73f-4e7f-8910-0d6e2eea4285"
+        target="38fe592c-7d47-4ac1-aaef-8d5976e0adc7">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_21528be3-cc37-4fa3-92a3-19318482b365.xml#21528be3-cc37-4fa3-92a3-19318482b365"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="0747be79-da30-44c5-b5bb-cb65ae4faa17"
+        source="d78e0829-a73f-4e7f-8910-0d6e2eea4285"
+        target="0a159fce-212c-47f3-9be1-76c2cdf12093">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_9e4a5ecd-f72d-4dd0-a77e-454ccfc40058.xml#9e4a5ecd-f72d-4dd0-a77e-454ccfc40058"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1c8f523b-594c-45ce-a34f-2f6cf3221036"
+        source="d78e0829-a73f-4e7f-8910-0d6e2eea4285"
+        target="49f0ab7e-c2df-45c1-a5fd-6e9b13c8d916">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_37a057d6-fd33-42ad-91a9-16a727022a3f.xml#37a057d6-fd33-42ad-91a9-16a727022a3f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="1dfd53c4-5bbb-4132-94d1-8ee46898372b"
+        source="d78e0829-a73f-4e7f-8910-0d6e2eea4285"
+        target="348764f6-c777-40f3-9ba3-9945e52b17b6">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_53010561-6954-4ab0-b725-887d7d05a887.xml#53010561-6954-4ab0-b725-887d7d05a887"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="33a6d17e-0a74-4557-8493-c1d1d0b70ee2"
+        source="d78e0829-a73f-4e7f-8910-0d6e2eea4285"
+        target="7017ba94-9747-44e5-aa6c-98c5f8db3b34">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_7cf91489-d57c-47af-98cd-cda201f85322.xml#7cf91489-d57c-47af-98cd-cda201f85322"/>
+    </sourceConnections>
     <bounds
         x="24"
-        y="36"
+        y="168"
+        width="445"
+        height="277"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="38fe592c-7d47-4ac1-aaef-8d5976e0adc7"
+        targetConnections="268edf89-5162-4e89-9386-ecfe1282efde">
+      <bounds
+          x="36"
+          y="48"
+          width="144"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_4f35e095-4cd7-44d1-9d96-57d432482589.xml#4f35e095-4cd7-44d1-9d96-57d432482589"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="0a159fce-212c-47f3-9be1-76c2cdf12093"
+        targetConnections="0747be79-da30-44c5-b5bb-cb65ae4faa17">
+      <bounds
+          x="192"
+          y="48"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_d22c8bff-ca6e-4e61-a7e6-87bfe880b471.xml#d22c8bff-ca6e-4e61-a7e6-87bfe880b471"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="49f0ab7e-c2df-45c1-a5fd-6e9b13c8d916"
+        targetConnections="1c8f523b-594c-45ce-a34f-2f6cf3221036">
+      <bounds
+          x="192"
+          y="120"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_163398ea-5174-42f8-8aba-de670f1b6506.xml#163398ea-5174-42f8-8aba-de670f1b6506"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="348764f6-c777-40f3-9ba3-9945e52b17b6"
+        targetConnections="1dfd53c4-5bbb-4132-94d1-8ee46898372b">
+      <bounds
+          x="36"
+          y="120"
+          width="145"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_c9ffd0c2-2169-4abe-b380-f470fa027256.xml#c9ffd0c2-2169-4abe-b380-f470fa027256"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_a8d14ba9-6930-4b88-bba3-8926c4078e8f.xml#a8d14ba9-6930-4b88-bba3-8926c4078e8f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="2667cace-3037-4c55-96e0-bcb91c47fd4f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="8b972cfd-90a3-4bcd-a09d-d3bf35557ad5"
+        source="2667cace-3037-4c55-96e0-bcb91c47fd4f"
+        target="d78e0829-a73f-4e7f-8910-0d6e2eea4285">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-24892aba-31c7-49bc-a561-085b27314961.xml#id-24892aba-31c7-49bc-a561-085b27314961"/>
+    </sourceConnections>
+    <bounds
+        x="528"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_a8d14ba9-6930-4b88-bba3-8926c4078e8f.xml#a8d14ba9-6930-4b88-bba3-8926c4078e8f"/>
+        href="ApplicationComponent_id-01765bbf-be50-48f0-8ca3-8919222e3aa5.xml#id-01765bbf-be50-48f0-8ca3-8919222e3aa5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="241f136c-78aa-4471-9353-f93e84464aa9"
+      textAlignment="1"
+      content="Módulos del sistema Catálogo de Ocupaciones (SAMPL)&#xA;&#xA;Relación con la Plataforma Nacional de Cualificaciones (PSNC)">
+    <bounds
+        x="24"
+        y="36"
+        width="217"
+        height="116"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="7017ba94-9747-44e5-aa6c-98c5f8db3b34"
+      targetConnections="33a6d17e-0a74-4557-8493-c1d1d0b70ee2">
+    <bounds
+        x="585"
+        y="328"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-02d3473b-1d15-4e15-914c-c203ba1ae6f4.xml#id-02d3473b-1d15-4e15-914c-c203ba1ae6f4"/>
   </children>
 </archimate:ArchimateDiagramModel>
