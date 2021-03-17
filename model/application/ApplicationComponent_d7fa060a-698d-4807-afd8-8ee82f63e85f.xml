@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visualizacion"
+    id="d7fa060a-698d-4807-afd8-8ee82f63e85f"
+    documentation="Interfaz gráfica, web, del tablero de indicadores para la administración de los perfiles: visualizar el números de perfiles, entender los tipos de perfiles, y competencias de los usuarios.&#xA;"/>

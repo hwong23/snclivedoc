@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ209. Que sabes. Formacion"
     id="bd770f6f-cbe3-434f-aa1f-17a84e1ccc43"
-    documentation="Requerimientos de la H. de Perfilamiento">
+    documentation="&quot;Como migrante, quiero incluir informaci�n sobre todo mi historial de formaci�n (sea formal o informal), incluyendo la instituci�n acad�mica o fuente de la educaci�n (ej. Youtube), lugar de aprendizaje, tema de aprendizaje, credenciales/acreditaciones si las hay, cuanto tiempo, y competencias t�cnicas y blandas que adquir� a trav�s de esa formaci�n, para incluir en mi hoja de vida y para que esto influya en las recomendaciones de la herramienta sobre posibles carreras y ocupaciones, y mi brecha en competencias para esas carreras y ocupaciones. &quot;">
   <properties
       key="Restricciones"
-      value="En progreso"/>
+      value="&quot;--Evitar la creaci�n de usuarios para los Terceros --Los accesos de los terceros son temporales&quot;"/>
   <properties
       key="Resultado"
       value="En progreso"/>

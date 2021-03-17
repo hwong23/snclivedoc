@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prflmto Web"
-    id="2d04b82c-4e6c-4ce1-8f7b-820f7eb018ef"/>
+    name="Evaluación Web"
+    id="2d04b82c-4e6c-4ce1-8f7b-820f7eb018ef"
+    documentation="Interfaz grafica, web, de recolección y distinción de fortalezas de las competencias de los ciudadanos.&#xA;"/>
