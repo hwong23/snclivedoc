@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DO56. ElEmpleo"
     id="2dc67947-435d-4bbf-be39-9ae4b43cbff9"
-    documentation="ElEmpleo  es un portal privado de de búsqueda de empleo.  Esta fuente es un ejercicio de web scrapping sobre las ofertas publicadas en dicho portal. ">
+    documentation="ElEmpleo es un portal privado de búsqueda de empleo. Esta fuente es un ejercicio de web scrapping sobre las ofertas publicadas en dicho portal. ">
   <properties
       key="Tamaño_GB"
       value="1"/>

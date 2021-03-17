@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logines y perfiles"
-    id="18383f5e-c8e4-4fd7-9641-adaab11e9f0a"/>
+    id="18383f5e-c8e4-4fd7-9641-adaab11e9f0a"
+    documentation="Interfaz gráfica, web, para la creación de usuarios internos de inicio de sesión en la aplicación y de sus perfiles ocupacionales. &#xA;"/>
