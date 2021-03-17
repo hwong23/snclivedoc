@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Navegación web perfil"
-    id="615a0bc5-8629-4701-a2aa-0919af4e779f"/>
+    id="615a0bc5-8629-4701-a2aa-0919af4e779f"
+    documentation="Interfaz gráfica, web, de presentación de información general del mercado del mercado laboral colombiano: tasa de desempleo, sectores y ocupaciones importantes, etc., y localización dentro del mismo.&#xA;"/>

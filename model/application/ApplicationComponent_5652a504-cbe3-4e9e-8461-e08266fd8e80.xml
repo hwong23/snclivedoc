@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Recomendaciones"
-    id="5652a504-cbe3-4e9e-8461-e08266fd8e80"/>
+    id="5652a504-cbe3-4e9e-8461-e08266fd8e80"
+    documentation="Interfaz gráfica, web, de identificación ocupaciones que resulten de las competencias y las brechas de competencias  (competencias requeridas) que tenga el ciudadano.&#xA;"/>
