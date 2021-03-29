@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IMPL. Entregables"
+    name="IMPL. Entregas"
     id="id-3007a6bf-6ef9-46dd-8388-94e5f1b246db">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -86,8 +86,17 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3a3ac2d6-96a7-4db7-8d24-b3635ee9d2e0">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="f388d8e2-48e0-4777-bcff-ffbeba32e099"
+        source="3a3ac2d6-96a7-4db7-8d24-b3635ee9d2e0"
+        target="ee5c7dfd-90ec-44d4-9f62-f4727a2161fa">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_b1dda407-900f-4460-80b2-c77743c46360.xml#b1dda407-900f-4460-80b2-c77743c46360"/>
+    </sourceConnections>
     <bounds
-        x="141"
+        x="72"
         y="78"
         width="120"
         height="67"/>
@@ -97,7 +106,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="ee5c7dfd-90ec-44d4-9f62-f4727a2161fa">
+      id="ee5c7dfd-90ec-44d4-9f62-f4727a2161fa"
+      targetConnections="f388d8e2-48e0-4777-bcff-ffbeba32e099">
     <bounds
         x="291"
         y="78"
