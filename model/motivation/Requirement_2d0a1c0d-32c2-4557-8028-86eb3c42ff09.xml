@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ100. Busqueda de ocupaciones por codigo CUOC"
+    name="RQ100. Búsqueda de ocupaciones por código CUOC"
     id="2d0a1c0d-32c2-4557-8028-86eb3c42ff09"
     documentation="Requerimiento del Catalogo de Ocupaciones">
   <properties

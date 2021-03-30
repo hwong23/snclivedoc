@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ109. Calcular tendencias por ocupacion"
+    name="RQ109. Calcular tendencias por ocupación"
     id="001f4dd4-5039-495b-95d2-0a0581f89516"
     documentation="Requerimiento del Catalogo de Ocupaciones">
   <properties
