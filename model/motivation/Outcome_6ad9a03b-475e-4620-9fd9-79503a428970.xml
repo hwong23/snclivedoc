@@ -1,7 +1,7 @@
-<archimate:Requirement
+<archimate:Outcome
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ12. Proteger derechos"
-    id="e63da3ab-92db-4307-9026-bf2fe82c9f79"
+    name="EPC16. Proteger derechos"
+    id="6ad9a03b-475e-4620-9fd9-79503a428970"
     documentation="Requerimiento del Catalogo de Ocupaciones">
   <properties
       key="Restricciones"
@@ -12,4 +12,4 @@
   <properties
       key="Fuentes"
       value="Zorro"/>
-</archimate:Requirement>
+</archimate:Outcome>
