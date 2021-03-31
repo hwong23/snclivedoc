@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ229. Información adicional sobre carreras"
+    id="fad9b50d-3938-419f-8c0d-45de83e97a82"
+    documentation="Como migrante, quiero conocer más sobre las ocupaciones que me recomienda la herramienta, incluyendo información de los cargos típicos, salarios, tipos de empleadores, en qué regiones se da más ese tipo de carreras, cómo sería un día típico en un cargo, tareas y actividades de esa ocupación, cómo es el crecimiento profesional dentro de esa carrera, etc. para poder entender mejor mis opciones de carreras y empezar a escoger algunos focos para mis postulaciones y posibles capacitaciones.&#xA;">
+  <properties
+      key="Restricciones"
+      value="--Debe estar conectado a herramienta de visualización del catálogo&#xA;--La herramienta de visualización del catálogo debe contener esta información"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

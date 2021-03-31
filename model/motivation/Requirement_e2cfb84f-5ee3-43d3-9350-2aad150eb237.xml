@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ222. Personalizar formato"
+    id="e2cfb84f-5ee3-43d3-9350-2aad150eb237"
+    documentation="Como migrante, quiero poder adaptar el formato de mi hoja de vida, escogiendo entre opciones que me ofrezca la herramienta, colores, fuentes, tamaño de fuentes, el orden de la información, etc. para poder presentar la hoja de vida más profesional posible y de la que me siento más orgullosa a los empleadores o cuando me postule a vacantes (por fuera de esta herramienta).&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

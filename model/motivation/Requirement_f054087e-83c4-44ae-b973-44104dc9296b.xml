@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ225. Adaptación por vacante"
+    id="f054087e-83c4-44ae-b973-44104dc9296b"
+    documentation="Como migrante, quiero poder adaptar el contenido de mi hoja de vida, escogiendo que experiencias, formaciones, competencias, información básica y otro contenido aparece en él, para poder presentar la versión de mí y de mis experiencias más adecuadas a la vacante espefífica a la que me estoy postulando (por fuera de esta herramieta).&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

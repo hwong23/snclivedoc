@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ255. Creación a medida"
+    id="af43d391-adbb-470b-aec4-dfaae2c87261"
+    documentation="Como administrador, quiero poder crear reportes a medida con las visualizaciones y analítica disponible en la herramienta para poder entender ciertas tendencias, tenerlas guardadas y sobre todo compartirlas con usuarios externos.Por ejemplo, quiero poder publicar reportes mensuales de las ocupaciones y competencias más y menos comúnes con comparaciones a meses anteriores.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="Reportes"/>
+  <properties
+      key="Fuentes"
+      value=" informe."/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ216. Vídeos y otros"
+    id="e298d181-4397-45be-ba0d-9d8c31119827"
+    documentation="Como migrante, quiero poder subir/adjuntar otra información sobre mi perfíl (ej. videos, portafolios online, etc.) para fortalecer mi perfil y para que lo vean y lo aprecien posibles empleadores.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

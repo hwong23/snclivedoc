@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ246. Búsqueda por competencias"
+    id="8d1d2f81-f38f-4871-aa46-3bc9f58e91d4"
+    documentation="Como administrador, orientador o reclutador, quiero poder filtrar los perfiles por competencias (ej. ver todos los perfiles de usuarios que tengan la competencia de gestión de proyectos) para poder buscar candidatos para vacantes específicas.&#xA;">
+  <properties
+      key="Restricciones"
+      value="Desarrollo de las mismas funciones que tiene el SPE:&#xA;buscar candidatos para vacantes específicas."/>
+  <properties
+      key="Resultado"
+      value="Búsqueda y filtro de perfiles por competencias asociadas a las ocupaciones de la CUOC."/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

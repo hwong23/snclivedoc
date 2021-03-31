@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ203. Test de autoconocimiento y fortalezas"
+    id="e5325d58-9b1c-4b6a-bd18-f2d4dc4f1aff"
+    documentation="Como migrante, quiero entender cuáles son mi competencias y por tanto recibir recomendaciones de ocupaciones de forma rápida sin tener que hacer login y registrarme en la herramienta. El usuario podria escoger una ocupación y validar que tiene las competencias asociadas (a través de la CUOC) para que la herramienta le haga recomendaciones de otras ocupaciones que usan esas competencias. Alternativamente la herramienta podría recomendar ocupaciones con competencias parecidas cuando el usuario simplemente escoge una ocupación (también se basa sobre la CUOC).&#xA;">
+  <properties
+      key="Restricciones"
+      value="Ejemplo:&#xA;&#xA;--(restringir a) Formulario de 15 preguntas de selección de respuestas prestablecidas"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

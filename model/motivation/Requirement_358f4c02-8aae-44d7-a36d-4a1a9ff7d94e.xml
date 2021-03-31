@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ224. Adaptación por ocupación"
+    id="358f4c02-8aae-44d7-a36d-4a1a9ff7d94e"
+    documentation="Como migrante, quiero poder adaptar el contenido de mi hoja de vida, escogiendo que experiencias, formaciones, competencias, información básica y otro contenido aparece en él, para poder presentar la versión de mí y de mis experiencias más adecuadas a distintos tipos de ocupaciones para las que puedo ser una buena candidata (ej. tengo experiencias, formaciones y competencias que servirían tanto para mesero como para conductor de buses).&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

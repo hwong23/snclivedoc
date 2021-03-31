@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ227. Destacar fortalezas"
+    id="4fc46839-fb23-46bf-b734-bf68165a7815"
+    documentation="Como migrante, quiero poder identificar cuales son las competencias que siento que son en las que soy más fuerte, tengo más experiencia o más me gustan, para que lo puedan ver posibles empleadores y tener una mejor idea si yo sería una candidata ideal para la vacante que están buscando llenar.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

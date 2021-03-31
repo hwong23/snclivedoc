@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ254. Factores de influencia en probabilidad de empleabilidad"
+    id="a7f50fc9-a2ff-4d56-bc49-50e9bf08c4e1"
+    documentation="Como administrador, quiero entender cuáles son los factores más comunes que mejorarían la probabilidad de empleabilidad de los usuarios para poder informar el diseño de programas y políticas públicas.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

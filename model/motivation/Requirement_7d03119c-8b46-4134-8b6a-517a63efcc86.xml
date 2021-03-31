@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ250. Segmentación / clustering de perfiles"
+    id="7d03119c-8b46-4134-8b6a-517a63efcc86"
+    documentation="Como administrador, quiero segmentar perfiles por dimensiones como el tipo de acciones que necesitarían para mejorar su probabilidad de empleabilidad u otros que me permitan más fácilmente diseñar programas y políticas públicas.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

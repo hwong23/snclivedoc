@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ215. Documentos"
+    id="4d216d5c-6caa-404a-967e-a3a9e296e270"
+    documentation="Como migrante, quiero poder subir/adjuntar información sobre mi perfíl (ej. hoja de vida en formato Word o PDF) para acelerar el proceso de completar mi perfil y no tener que volver a incluir información que ya he subido en otras páginas&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

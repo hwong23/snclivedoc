@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ247. Probabilidad de empleabilidad por perfil"
+    id="5698a2d8-64ed-4017-a78f-50737236e5b2"
+    documentation="Como administrador u orientador, quiero entender la probabilidad de empleabilidad de cada perfil para poder dirigir mejor mis acciones en apoyo hacia ellos (ej. trabajar más de cerca con aquellos perfiles con menor probabilidad de empleabilidad).">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="Información para toma de decisiones relacionadas con las acciones de apoyo."/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

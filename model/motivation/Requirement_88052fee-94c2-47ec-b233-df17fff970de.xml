@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ240. Competencias transferibles"
+    id="88052fee-94c2-47ec-b233-df17fff970de"
+    documentation="Como migrante, quiero saber si tengo competencias transferibles y cuales son (es decir, que muchas ocupaciones las requieren / también es una definición dentro de algunas taxonomias de competencias) y ver en que ocupaciones recomendadas se usan para así poder tomar eso en consideración cuando estoy explorando y escogiendo ocupaciones de enfoque y capacitaciones. Si me faltan ciertas competencias transferibles que se necesitan para muchas ocupaciones aspiracionales que ya había identificado en la herramienta, también me gustaría saberlo para poder capacitarme en ellas.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

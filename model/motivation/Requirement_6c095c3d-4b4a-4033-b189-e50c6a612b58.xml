@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ228. Recomendaciones de carreras generales"
+    id="6c095c3d-4b4a-4033-b189-e50c6a612b58"
+    documentation="Como migrante, quiero saber en qué ocupaciones debería pensar como posibles carreras en Colombia para mí, dónde sería una buena candidata por las experiencias, formaciones y competencias que tengo, para direccionar mis esfuerzos de postulaciones a vacantes (sabiendo que tipo de vacantes buscar, con que tipo de empleadores hablar o investigar, etc.), para abrir mis horizontes de posibilidades de carreras, empleadores y postulaciones (y no restringirme sólo a lo que pensaba yo con lo que hacía en Venezuela) y para poder capacitarme en esas áreas.">
+  <properties
+      key="Restricciones"
+      value="Ejemplo:&#xA;&#xA;--Las recomendaciones no deberían tomar más de 4 segs."/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

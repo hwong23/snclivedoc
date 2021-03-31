@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ200. Objetivos y&#xA;audiencias"
+    id="68f6f478-4e04-46b4-b532-34d9094c1400"
+    documentation="Como migrante, quiero entender cuales son los objetivos de la herramienta (es decir, para que sirve) y para quienes está diseñado (es decir, las audiencias) para poder decidir si a mí me sería útil y que puedo esperar si lo uso, y entonces deciri si lo uso, me registro y creo mi perfil con él.&#xA;">
+  <properties
+      key="Restricciones"
+      value="Aclarar el qué del requerimiento, sin entrar a definir el cómo&#xA;Ejemplo:&#xA;&#xA;Guía textual, sin videos, máximo 1 página (corta), accesible por menú."/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

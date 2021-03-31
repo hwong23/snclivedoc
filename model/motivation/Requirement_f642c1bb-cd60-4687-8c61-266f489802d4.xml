@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ236. Lista"
+    id="f642c1bb-cd60-4687-8c61-266f489802d4"
+    documentation="Como migrante, quiero una lista de acciones (tipo checklist) que la herramienta me recomienda hacer para fortalecer mi perfil y explorar las recomendaciones ocupacionales y de capacitaciones, para hacer un monitoreo más fácilmente de mis avances y asegurarme que estoy aprovechando la herramienta al máximo.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

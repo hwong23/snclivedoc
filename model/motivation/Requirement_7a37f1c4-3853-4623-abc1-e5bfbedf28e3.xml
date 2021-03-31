@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ218. Autoevaluación"
+    id="7a37f1c4-3853-4623-abc1-e5bfbedf28e3"
+    documentation="Como migrante, quiero poder distinguir entre las competencias que tengo como más o menos fuertes (o que he usado anteriormente con más o menos frecuencia) (ej. siento que soy buena en gestión de proyectos pero no tan fuerte en preparar presentaciones con PowerPoint) para que eso pueda influir en las recomendaciones que me de la herramienta (ej. recomendarme más esas ocupaciones donde se necesiten las competencias que mejor se me dan) y así sentirme más cómoda con las recomendaciones y orientación de la herramienta.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ210. Hobbies y otros"
+    id="4a33f2a9-3077-4fa0-a048-a38484764ea5"
+    documentation="Como migrante, quiero incluir información sobre mis actividades extra-curriculares y otras experiencias donde he podido adquirir experiencias (que no sean experiencias laborales o formativas), incluyendo con qué organización (si la hay) o con quienes, lugar, cuanto tiempo, responsabilidades y actividades, y competencias técnicas y blandas que adquirí durante esa experiencia, para incluir en mi hoja de vida y para que esto influya en las recomendaciones de la herramienta sobre posibles carreras y ocupaciones, y en mi brecha en competencias para esas carreras y ocupaciones.&#xA;">
+  <properties
+      key="Restricciones"
+      value="--La información básica debe tener un almacenamiento máximo en MB, p.e., 4 MB de información máxima&#xA;"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

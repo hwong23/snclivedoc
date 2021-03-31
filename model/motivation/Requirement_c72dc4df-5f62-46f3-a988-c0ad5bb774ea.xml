@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ214. Integración con otras páginas"
+    id="c72dc4df-5f62-46f3-a988-c0ad5bb774ea"
+    documentation="Como migrante, quiero poder traer información sobre mi perfíl de otras páginas como LinkedIn para acelerar el proceso de completar mi perfil y no tener que volver a incluir información que ya he subido en otras páginas.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

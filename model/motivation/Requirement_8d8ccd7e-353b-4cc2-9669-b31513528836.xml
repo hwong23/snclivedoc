@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ219. Validación de terceros"
+    id="8d8ccd7e-353b-4cc2-9669-b31513528836"
+    documentation="Como migrante, quiero que mis colegas de trabajo y sobre todo mis jefes (actuales o anteriores) puedan validar mis competencias para sustanciar que las tengo y que se me dan bien de cara a postulaciones futuras y para influir en las recomendaciones que me de de la herramienta (ej. recomendarme más esas ocupaciones donde tenga competencias validadas por terceros) y así sentirme más cómoda con las recomendaciones y orientación de la herramienta.&#xA;">
+  <properties
+      key="Restricciones"
+      value="--Evitar la creación de usuarios para los Terceros&#xA;--Los accesos de los terceros son temporales"/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>

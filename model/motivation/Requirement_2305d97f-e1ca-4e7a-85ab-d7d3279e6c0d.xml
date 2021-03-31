@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ245. Ver perfiles individuales"
+    id="2305d97f-e1ca-4e7a-85ab-d7d3279e6c0d"
+    documentation="Como administrador, orientador o reclutador, quiero poder visualizar cada perfil de cada usuario que esté usando la herramienta para entender en profundidad los perfiles que podrían servir para diferentes empleadores/vacantes, para ver como están progresando los perfiles de los usuarios y para profundizar en los resultados de la búsqueda por competencias y analítica que haga.&#xA;">
+  <properties
+      key="Restricciones"
+      value="Desarrollo de las mismas funciones que tiene el SPE:&#xA;entender en profundidad los perfiles que podrían servir para diferentes empleadores/vacantes"/>
+  <properties
+      key="Resultado"
+      value="Visualización de perfiles de los usuarios."/>
+  <properties
+      key="Fuentes"
+      value="Información brindada por el usuario"/>
+</archimate:Requirement>

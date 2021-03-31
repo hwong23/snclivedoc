@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ251. Carreras y ocupaciones más y menos comunes"
+    id="6ace1c83-e8ea-451b-ac09-9c0c5377ebae"
+    documentation="Como administrador, quiero entender cuáles son las ocupaciones más y menos comunes para saber hacia donde orientar e informar el diseño de programas y políticas públicas.&#xA;">
+  <properties
+      key="Restricciones"
+      value="0"/>
+  <properties
+      key="Resultado"
+      value="Caracterización de ocupaciones según perfiles."/>
+  <properties
+      key="Fuentes"
+      value="0"/>
+</archimate:Requirement>
