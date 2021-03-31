@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ107. Navegar ocupaciones asociadas en función de similitud en funciones, destrezas, conocimientos y afinidades"
+    id="191f3839-bef0-4949-ad38-a4812aae311d"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--Listados desplegables del catálogo de ocupaciones de acuerdo con las desagregación y relaciones según los siguientes criterios: funciones, conocimientos, destrezas y afines."/>
+  <properties
+      key="Resultado"
+      value="ok"/>
+  <properties
+      key="Fuentes"
+      value="ok"/>
+</archimate:Requirement>

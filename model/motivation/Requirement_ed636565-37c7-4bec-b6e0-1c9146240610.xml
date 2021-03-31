@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ116. Mostrar tendencias, participación y proyecciones por ocupaciones"
+    id="ed636565-37c7-4bec-b6e0-1c9146240610"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Definir herramientas visuales: gráficas, tablas sobre las tendencias que tiene cada ocupación de acuerdo con la información disponible y las degregaciones que permita según las cacrateristicas de las fuentes de información.&#xD;&#xA;Gráficas interactivas&#xD;&#xA;Opción de descarga de datos"/>
+  <properties
+      key="Resultado"
+      value="Tableros de gráficas interactivas con tendencias y análisis sobre las ocupaciones."/>
+</archimate:Requirement>
