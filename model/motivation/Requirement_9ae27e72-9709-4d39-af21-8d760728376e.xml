@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ111. Identificar sectores CIIU en los que la ocupación se ejerce con mayor frecuencia"
+    id="9ae27e72-9709-4d39-af21-8d760728376e"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Realizar cruces de información entre ocupaciones y sectores económicos para determinar el grado de ocupación y evaluar la pertinencia de la información de las fuentes disponibles según criterios estadísticos: representatividad"/>
+  <properties
+      key="Resultado"
+      value=" periodicidad y disponibilidad."/>
+  <properties
+      key="Fuentes"
+      value="Bases de datos resultado del cruce de fuentes de información con resultados con la desagregación y calidad pertinente por ocupaciones y actividad económica."/>
+</archimate:Requirement>

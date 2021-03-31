@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ108. Generar reportes por ocupación"
+    id="91d74cf2-f201-4d8f-a36c-1bb8f660db95"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Listados desplegables del catalogo de ocupaciones que permita obtener información para cada ocupación o conglomerado definido según la información asociada a cada una de estas. "/>
+  <properties
+      key="Resultado"
+      value="Obtener reportes de fuentes de información que permitan desagregar la información asociada a cada ocupación o conglomerado definido."/>
+</archimate:Requirement>

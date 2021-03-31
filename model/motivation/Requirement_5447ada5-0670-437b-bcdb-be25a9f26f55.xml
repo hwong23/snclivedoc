@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ125. Carga y sincronización de datos de trabajo para procesos internos de la aplicación"
+    id="5447ada5-0670-437b-bcdb-be25a9f26f55"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--Frecuencia mensual&#xD;&#xA;--Incremental (no vuelve a cargar datos ya existentes, o sobreescribe datos anteriores)"/>
+  <properties
+      key="Resultado"
+      value="Los datos de trabajo se actualizan y quedan listos para los demás procesos&#xD;&#xA;"/>
+</archimate:Requirement>

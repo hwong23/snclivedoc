@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ120. Reporte resumen por variable"
+    id="93395ed7-8c81-4c2b-8db9-356aa2b560fd"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Generación de reporte, consulta de ocupaciones por variables.&#xD;&#xA;&#xD;&#xA;--Variables predefinidas"/>
+</archimate:Requirement>

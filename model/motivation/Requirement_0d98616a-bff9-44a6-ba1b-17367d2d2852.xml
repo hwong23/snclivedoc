@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ104. Navegar la estructura jerárquica de la CUOC"
+    id="0d98616a-bff9-44a6-ba1b-17367d2d2852"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--Navegación horizontal y vertical de todos los niveles de la estructura jerárquica&#xD;&#xA;--Guías de navegación para el usuario: ventanas/textos flotantes de ayuda&#xD;&#xA;--Visualizar la ubicación del usuario dentro de la estructura"/>
+  <properties
+      key="Resultado"
+      value="Desagregar las categorías de la estructura, hasta el máximo nivel de profundidad&#xD;&#xA;"/>
+</archimate:Requirement>

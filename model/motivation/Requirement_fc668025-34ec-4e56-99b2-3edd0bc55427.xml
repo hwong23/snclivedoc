@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ110. Generar categorías de agrupación a partir de metodologías de clusterización"
+    id="fc668025-34ec-4e56-99b2-3edd0bc55427"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Obtener inventario de fuentes de información que permitan realizar conjuntos relaciones diferentes a la propia CUOC.&#xD;&#xA;Identificar si con la CUOC se pueden derivar conjuntos relacionales. "/>
+  <properties
+      key="Resultado"
+      value="Encontrar agrupaciones nuevas según el uso de la estructura jerárquica&#xD;&#xA;"/>
+</archimate:Requirement>

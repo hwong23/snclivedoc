@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ118. Seguridad en el acceso a la información"
+    id="05060533-4dae-48f5-9454-e2ed22554428"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--Uso de cuenta de inicio de sesión, por ejemplo, usuario / contraseña, o la que determinada para inicio de sesión en la aplicación&#xD;&#xA;"/>
+</archimate:Requirement>

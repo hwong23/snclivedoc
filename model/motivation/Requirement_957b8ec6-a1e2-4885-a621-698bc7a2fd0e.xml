@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ115. Calcular tabla de indicadores para dashboard"
+    id="957b8ec6-a1e2-4885-a621-698bc7a2fd0e"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="**programación de cálculo de indicadores para el tablero de control&#xD;&#xA;**El cálculo se hace en formato reproducible.&#xD;&#xA;**Se puede ejecutar automáticamente cada mes."/>
+</archimate:Requirement>

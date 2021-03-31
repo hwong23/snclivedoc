@@ -1,15 +1,12 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ109. Calcular tendencias por ocupación"
-    id="001f4dd4-5039-495b-95d2-0a0581f89516"
+    name="REQ122. Sincronización de datos de seguridad"
+    id="ef6cb596-4166-486f-ba1e-c7783bc72453"
     documentation="Requerimiento del Catalogo de Ocupaciones">
   <properties
       key="Restricciones"
-      value="Zorro"/>
+      value="--No es requerido"/>
   <properties
       key="Resultado"
-      value="Zorro"/>
-  <properties
-      key="Fuentes"
-      value="Zorro"/>
+      value="NA"/>
 </archimate:Requirement>

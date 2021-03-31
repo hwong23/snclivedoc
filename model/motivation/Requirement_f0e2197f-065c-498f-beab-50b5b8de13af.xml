@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ113. Explorar la viabilidad de generar información estadística utilizando fuentes no tradicionales"
+    id="f0e2197f-065c-498f-beab-50b5b8de13af"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="**Conexión con redes sociales para fuentes de empleo                                                                                                                                                                                                                                                               **Obtención de bases de datos de redes sociales con base en Conexión a redes sociales. Específicamente linkedin y facebook.&#xD;&#xA;**Extracción de ocupaciones y usuarios únicos.                                                                                                                                                                                                                                                             **Homologación de ocupaciones con ocupaciones de la CUOC o grupos de ocupaciones.                                                                                                                                                                                                                                    **Medición de estimación de la información en términos de sesgo, variabilidad y consistencia&#xD;&#xA;** Recomendaciones sobre información que es viable generar con fuentes no tradicionales"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ101. Búsqueda de ocupaciones por palabra clave"
+    id="173db992-faeb-4653-8c69-8129507c293a"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--No buscar directamente por código CUOC. Buscar por código irá en la búsqueda avanzada&#xD;&#xA;--Detectar búsqueda de categorías relacionadas con palabra clave, según palabra clave introducida"/>
+  <properties
+      key="Resultado"
+      value="Datos de las ocupaciones: descripción, accesos a información relacionada, cantidades, etc.&#xD;&#xA;"/>
+</archimate:Requirement>

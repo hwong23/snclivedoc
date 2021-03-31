@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ103. Guía de uso / Sistema de ayuda del catálogo"
+    id="41e6c6bc-af3b-4e78-a6cf-0f1b839582a0"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--Ventanas o mensaje emergentes/flotantes de ayuda para funcionales complejas (no más de 10 ayudas)"/>
+  <properties
+      key="Resultado"
+      value=" de tipo textual"/>
+  <properties
+      key="Fuentes"
+      value=" según el elemento en el que el cursor se encuentre"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ100. Búsqueda rápida de ocupaciones"
+    id="8e346389-d58d-49f2-8d26-11d90eb9df0b"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Dar contexto al requerimiento. Aclarar el qué, sin entrar en el cómo.&#xD;&#xA;&#xD;&#xA;--Velocidad de la búsqueda: 3 segundos&#xD;&#xA;--Entrada máxima, por ejemplo, 3, 4, 5... palabras&#xD;&#xA;--Limitar la búsqueda al contenido de la CUOC&#xD;&#xA;--Limitar la profundidad de la búsqueda rápida a... "/>
+  <properties
+      key="Resultado"
+      value="Mostrar datos de las ocupaciones: descripción, accesos a información relacionada, cantidades, etc.&#xD;&#xA;"/>
+</archimate:Requirement>

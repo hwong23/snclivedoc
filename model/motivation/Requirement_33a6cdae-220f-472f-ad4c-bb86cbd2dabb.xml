@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ121. Gestión de usuarios"
+    id="33a6cdae-220f-472f-ad4c-bb86cbd2dabb"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--El módulo de encuesta de empresas requiere gestión de cuentas de usuarios externos al MT: usuario, clave y recuperación&#xD;&#xA;--Requiere personal para mantenimiento y adaptaciones técnicas"/>
+  <properties
+      key="Resultado"
+      value="Que el usuario gestione sus propios datos de inicio de sesión y contraseñas&#xD;&#xA;"/>
+</archimate:Requirement>

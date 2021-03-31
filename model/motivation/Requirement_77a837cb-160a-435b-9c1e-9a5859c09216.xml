@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ124. Recepción de datos de otros sistemas"
+    id="77a837cb-160a-435b-9c1e-9a5859c09216"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--Uso formatos estándares para el intercambio y los regidos por el marco de interoperabilidad del MT&#xD;&#xA;"/>
+  <properties
+      key="Resultado"
+      value="Que el formato de datos para interoperar sea estándar para el MT. No uno nuevo que cargue esfuerzo de administración y gestión&#xD;&#xA;"/>
+</archimate:Requirement>

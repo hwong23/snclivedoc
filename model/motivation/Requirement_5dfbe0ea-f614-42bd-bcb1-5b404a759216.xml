@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ117. Diseñar e implementar el formulario de captura de información."
+    id="5dfbe0ea-f614-42bd-bcb1-5b404a759216"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Resultado"
+      value="Que el usuario pueda acceder mediante el inicio de sesión (p.e. usuario y contraseña), y únicamente pueda ver sus datos (no los de otro)&#xD;&#xA;"/>
+</archimate:Requirement>

@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ114. Información de contexto del mercado laboral"
+    id="3c52acfe-e813-4cd5-b7ca-37ba29a4a278"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Realizar tableros de indicadores sobre el contexto del mercado laboral con los principales indicadores y con las desagregaciones que permita analisis básico en el ámbito nacional y por ciudades."/>
+  <properties
+      key="Resultado"
+      value="Tableros de principales indicadores relacionados el ámbito nacional y por ciudades."/>
+</archimate:Requirement>

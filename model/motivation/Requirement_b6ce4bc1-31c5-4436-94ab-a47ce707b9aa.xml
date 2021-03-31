@@ -1,0 +1,12 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ123. Envío de información"
+    id="b6ce4bc1-31c5-4436-94ab-a47ce707b9aa"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="--Uso formatos estándares para el intercambio y los regidos por el marco de interoperabilidad del MT&#xD;&#xA;"/>
+  <properties
+      key="Resultado"
+      value="Que el formato de datos para interoperar sea estándar para el MT. No uno nuevo que cargue esfuerzo de administración y gestión&#xD;&#xA;"/>
+</archimate:Requirement>

@@ -1,0 +1,15 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ112. Calcular tendencias y participación por ocupación y actividades económicas"
+    id="6685602e-79c6-4696-aa3d-ef7a031d589c"
+    documentation="Requerimiento del Catalogo de Ocupaciones">
+  <properties
+      key="Restricciones"
+      value="Realizar calculo de indicadores sobre ocupados"/>
+  <properties
+      key="Resultado"
+      value=" vacantes y oferentes en el SPE en un periodo determinado que permita dar cuenta de la tendencia de las ocupaciones."/>
+  <properties
+      key="Fuentes"
+      value="Series de datos desagregado por ocupaciones"/>
+</archimate:Requirement>
