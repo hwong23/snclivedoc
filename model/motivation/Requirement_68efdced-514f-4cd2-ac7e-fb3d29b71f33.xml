@@ -1,6 +1,6 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ201. Cómo usar la&#xA;plataforma"
+    name="RQ201. Cómo usar la plataforma"
     id="68efdced-514f-4cd2-ac7e-fb3d29b71f33"
     documentation="Como migrante, quiero entender cómo usar la plataforma, con descripción de funcionalidades, botones, etc. para poder aprovecharla al máximo y no confundirme o perderme con ella.&#xA;">
   <properties

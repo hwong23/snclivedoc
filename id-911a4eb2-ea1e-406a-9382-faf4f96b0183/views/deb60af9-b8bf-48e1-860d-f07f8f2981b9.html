@@ -88,21 +88,18 @@
 				<!-- Tab panes -->
 				<div class="tab-content">
 					<div role="tabpanel" class="tab-pane active" id="documentation">
-						<textarea id="docsrc" style="display:none">El Plan Nacional de Desarrollo defini&#243; el Sistema Nacional de Cualificaciones fue concebido como &#8220;un como un conjunto de instrumentos, pol&#237;ticas, procesos y arreglos institucionales dirigidos a alinear la educaci&#243;n y formaci&#243;n con las necesidades sociales y productivas del pa&#237;s; facilitando la adecuaci&#243;n entre la oferta y la demanda del mercado de trabajo, la promoci&#243;n de la educaci&#243;n y formaci&#243;n a lo largo de la vida, y el fomento de la movilidad educativa, formativa y laboral de las personas&#8221;. Al mismo tiempo, defini&#243; a la Plataforma de Informaci&#243;n del Sistema Nacional de Cualificaciones &#8211;PSNC- como uno de sus componentes.  
-
-El objetivo general de la PSNC es el de &#8220;Poner a disposici&#243;n del p&#250;blico y dise&#241;adores de pol&#237;tica p&#250;blica, informaci&#243;n relevante, articulada, de calidad y actualizada sobre oferta y demanda educativa, formativa y laboral, relacionada con los componentes del Sistema Nacional de Cualificaciones.  Orientada a la toma de decisiones referentes a educaci&#243;n, formaci&#243;n, empleabilidad, reconocimiento del aprendizaje a lo largo de la vida, desarrollo de pol&#237;ticas activas de empleo, gesti&#243;n de capital humano, entre otros a trav&#233;s de la articulaci&#243;n de los diferentes componentes del SNC. 
-
-De acuerdo con la Subdirecci&#243;n de An&#225;lisis, Monitoreo y Prospectiva Laboral &#8211;SAMPL-, la PSNC ha sido pensada para ser desarrollada en una estructura de 4 capas, de las cuales es el n&#250;cleo es la Clasificaci&#243;n &#218;nica de Ocupaciones para Colombia &#8211;CUOC-. Las clasificaciones de ocupaciones constituyen un marco para el an&#225;lisis, la agregaci&#243;n y la descripci&#243;n de los contenidos del trabajo seg&#250;n la estructura ocupacional del pa&#237;s. Documento de Dise&#241;o y Alcance de la Plataforma del Sistema Nacional de Cualificaciones (Ernst &amp; Young, 2020). Si bien la CUOC no hace parte de la definici&#243;n del SNC en el PND, a trav&#233;s de las diferentes sesiones de trabajo que se llevaron en la etapa cero del Programa para el Fortalecimiento de las Pol&#237;ticas de Empleo, se determin&#243; que una vez construida la CUOC ser&#225; un elemento central del SNC porque fungir&#225; como &#8220;llave&#8221; para asociar la informaci&#243;n proveniente de cada componente. Con esta clasificaci&#243;n se espera ir m&#225;s all&#225; del desarrollo y procesamiento de estad&#237;sticas m&#225;s consistentes y potenciar el intercambio y cruce de informaci&#243;n entre las plataformas y sistemas que tienen alg&#250;n inter&#233;s con el mercado laboral (Ernst &amp; Young, 2020). 
+						<textarea id="docsrc" style="display:none">De acuerdo con la Subdirecci&#243;n de An&#225;lisis, Monitoreo y Prospectiva Laboral &#8211;SAMPL-, la PSNC ha sido pensada para ser desarrollada en una estructura de 4 capas, de las cuales es el n&#250;cleo es la Clasificaci&#243;n &#218;nica de Ocupaciones para Colombia &#8211;CUOC-. Las clasificaciones de ocupaciones constituyen un marco para el an&#225;lisis, la agregaci&#243;n y la descripci&#243;n de los contenidos del trabajo seg&#250;n la estructura ocupacional del pa&#237;s. Si bien la CUOC no hace parte de la definici&#243;n del SNC en el PND, a trav&#233;s de las diferentes sesiones de trabajo que se llevaron en la etapa cero del Programa para el Fortalecimiento de las Pol&#237;ticas de Empleo, se determin&#243; que una vez construida la CUOC ser&#225; un elemento central del SNC porque fungir&#225; como &#8220;llave&#8221; para asociar la informaci&#243;n proveniente de cada componente. Con esta clasificaci&#243;n se espera ir m&#225;s all&#225; del desarrollo y procesamiento de estad&#237;sticas m&#225;s consistentes y potenciar el intercambio y cruce de informaci&#243;n entre las plataformas y sistemas que tienen alg&#250;n inter&#233;s con el mercado laboral.
 
 La segunda capa est&#225; constituida por el Cat&#225;logo Nacional de Cualificaciones, que contiene informaci&#243;n detallada de las ocupaciones y cargos (identificados o no dentro de la estructura de la CUOC) proveniente de m&#250;ltiples fuentes de informaci&#243;n, estructuradas y no estructuradas, referentes a salarios, vacantes, hojas de vida, programas de educaci&#243;n y formaci&#243;n relacionados.  
 
 Esta capa tiene varios prop&#243;sitos fundamentales: 
-
 * Generar la informaci&#243;n de las brechas detectadas, a nivel de ocupaci&#243;n y cargo 
 * Detectar ocupaciones y cargos emergentes, as&#237; como nuevas competencias (que alimentar&#237;an potencialmente la columna vertebral de la CUOC) 
 * Detectar los cambios y/o evoluciones en el comportamiento de las ocupaciones y sus principales caracter&#237;sticas, en el tiempo 
 * Determinar los programas de educaci&#243;n y de formaci&#243;n que est&#225; asociada a las ocupaciones del cat&#225;logo 
-* Incorporar una herramienta de captura on-line de necesidades de talento humano que permita identificar las caracter&#237;sticas y cambios en la demanda laboral  
+* Incorporar una herramienta de captura on-line de necesidades de talento humano que permita identificar las caracteristicas y cambios en la demanda laboral Incorporar una herramienta de captura on-line de necesidades de talento humano que permita identificar las caracter&#237;sticas y cambios en la demanda laboral  
+
+La estructura tecnol&#243;gica que el Cat&#225;logos requiere para soportar sus &#233;picas es la siguiente: para ejecuci&#243;n de los m&#243;dulos web de la aplicaci&#243;n requiere de un &#250;nico servidor de aplicaciones est&#225;ndar, no transaccional. Requiere adem&#225;s de tres servidores de anal&#237;tica: uno para ejecutar modelos de Python, otro para los de R, y el de datos de los modelos de anal&#237;tica. Para exponer y recibir datos de otros sistemas y/o funcionalidades requiere un servidor de integraci&#243;n general, en donde tambi&#233;n puede ubicarse los servicios de preparaci&#243;n de datos para el motor de visualizaci&#243;n de negocio (BI). Finalmente, los datos de trabajo y de las fuentes de informaci&#243;n requeridas por la herramienta requerir&#225;n de dos servidores de datos relacionales.
 </textarea>
 						<div id="doctgt" style="white-space:pre-wrap"></div>
 					</div>
@@ -133,7 +130,7 @@ Esta capa tiene varios prop&#243;sitos fundamentales:
 											</tr>
 
 													<tr>
-													    <td> <a href="../elements/d83ed35f-c5ab-4e6f-a2c4-35764b2c528a.html" target="element"> EPC10. Recoleccion Informacion </a> </td>
+													    <td> <a href="../elements/d83ed35f-c5ab-4e6f-a2c4-35764b2c528a.html" target="element"> EPC10. Recolecci&#243;n Informaci&#243;n </a> </td>
 													    <td> <a href="../elements/d83ed35f-c5ab-4e6f-a2c4-35764b2c528a.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
 													</tr>
 
@@ -143,7 +140,7 @@ Esta capa tiene varios prop&#243;sitos fundamentales:
 													</tr>
 
 													<tr>
-													    <td> <a href="../elements/400a1070-1cdb-4a8f-aacf-465f3cb140e2.html" target="element"> EPC8. Generacion informacion asociada a la CUOC </a> </td>
+													    <td> <a href="../elements/400a1070-1cdb-4a8f-aacf-465f3cb140e2.html" target="element"> EPC8. Generaci&#243;n informaci&#243;n asociada a la CUOC </a> </td>
 													    <td> <a href="../elements/400a1070-1cdb-4a8f-aacf-465f3cb140e2.html" target="element" class="i18n-elementtype-Outcome"> </a> </td>
 													</tr>
 
@@ -308,7 +305,7 @@ Esta capa tiene varios prop&#243;sitos fundamentales:
 																		<td> <a href="../elements/ba73723d-fe94-40ce-ae0b-6fdd88842d59.html" target="element">  </a> </td>
 																		<td> <a href="../elements/ba73723d-fe94-40ce-ae0b-6fdd88842d59.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
 																		<td> <a href="../elements/3327d3a3-136b-4e7e-adab-41e8889b2581.html" target="element"> GRP. &#201;picas </a> </td>
-																		<td> <a href="../elements/d83ed35f-c5ab-4e6f-a2c4-35764b2c528a.html" target="element"> EPC10. Recoleccion Informacion </a> </td>
+																		<td> <a href="../elements/d83ed35f-c5ab-4e6f-a2c4-35764b2c528a.html" target="element"> EPC10. Recolecci&#243;n Informaci&#243;n </a> </td>
 																	</tr>
 																	<tr>
 																		<td> <a href="../elements/73038776-1748-4db1-9a12-206ce6111d45.html" target="element">  </a> </td>
@@ -320,7 +317,7 @@ Esta capa tiene varios prop&#243;sitos fundamentales:
 																		<td> <a href="../elements/abd3a55e-4fcd-4b1e-be8a-d5332ae0a9bb.html" target="element">  </a> </td>
 																		<td> <a href="../elements/abd3a55e-4fcd-4b1e-be8a-d5332ae0a9bb.html" target="element" class="i18n-elementtype-CompositionRelationship"></a> </td>
 																		<td> <a href="../elements/3327d3a3-136b-4e7e-adab-41e8889b2581.html" target="element"> GRP. &#201;picas </a> </td>
-																		<td> <a href="../elements/400a1070-1cdb-4a8f-aacf-465f3cb140e2.html" target="element"> EPC8. Generacion informacion asociada a la CUOC </a> </td>
+																		<td> <a href="../elements/400a1070-1cdb-4a8f-aacf-465f3cb140e2.html" target="element"> EPC8. Generaci&#243;n informaci&#243;n asociada a la CUOC </a> </td>
 																	</tr>
 																	<tr>
 																		<td> <a href="../elements/8b81c5e3-7f99-46ac-b7bb-47348bf7238d.html" target="element">  </a> </td>
