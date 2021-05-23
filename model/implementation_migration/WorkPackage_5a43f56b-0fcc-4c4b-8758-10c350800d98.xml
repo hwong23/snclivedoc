@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENT15. Especificaciones de interoperabilidad"
+    id="5a43f56b-0fcc-4c4b-8758-10c350800d98"
+    documentation="Documento de especificaciones de interoperabilidad, constituido por las API, las interacciones, y los diagramas de transporte de datos entre las herramientas del proyecto y con sistemas externos relacionados"/>

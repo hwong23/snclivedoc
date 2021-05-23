@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENT5. Especificaciones de Diseño"
+    id="40ebb141-70e2-4ed1-95ef-c88e1bed4672"
+    documentation="Documentos de especificaciones de diseño detallado de los componentes misionales de ambas herramientas del proyecto, de acuerdo a especificaciones del Ministerio del Trabajo. Documento de diseño de requerimientos de nube pública incluyendo definición de lenguajes de programación. Documento de diseño de gobierno de las aplicaciones. Diseño de la base de datos. Diagrama entidad Relación. Diagrama relacional. Normalizaciones de la base de datos 3FN. Diccionario de datos. Diagrama estructural (diagrama de clases con sus relaciones). Especificación del modelo dinámico del software (Diagramas de secuencia y colaboración). Diagramas de componentes y de despliegue. Diseño de la base de datos No Relacional. Diseño de reportes y salidas de información"/>
