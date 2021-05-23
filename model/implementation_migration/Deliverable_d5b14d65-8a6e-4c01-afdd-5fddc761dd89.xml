@@ -1,0 +1,5 @@
+<archimate:Deliverable
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENT1.2 Levantamiento y análisis requerimientos no funcionales"
+    id="d5b14d65-8a6e-4c01-afdd-5fddc761dd89"
+    documentation="Documento levantamiento y análisis de requerimientos no funcionales de las herramientas del proyecto (Catálogo de Ocupaciones y Herramienta de Perfilamiento), incluyendo rendimento, seguridad, consumo de servicios de infraestructura, excepciones de falla y correspondencia entre los objetivos misionales de las herramientas y las especificaciones de requerimientos.&#xA;&#xA;Capítulos:  &#xA;* Requerimientos del sistema (no funcionales, seguridad, control de excepciones) &#xA;* Requerimientos de analítica &#xA;"/>
