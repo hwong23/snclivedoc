@@ -1,5 +1,5 @@
-<archimate:WorkPackage
+<archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ENT29. Administración de configuración"
-    id="92165ab4-7f45-4f28-bd30-f451be9e241c"
+    id="c85aec47-9a05-4388-a032-b98f1cc5b50b"
     documentation="Documento de administración de configuración de los ambientes de desarrollo, pruebas y producción. Para cada ambiente el documento incluirá el inventario de recursos y servicios aprovisionados para las soluciones implementadas , la configuración de cadenas de integración continua, las plantillas ARM (Azure Resource Manager) de aprovisionamiento, la administración de código fuente (ramas), la ejecución de revisión estática del código y el procedimientos de paso a producción"/>

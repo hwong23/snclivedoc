@@ -1,5 +1,5 @@
-<archimate:WorkPackage
+<archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ENT17. Análisis de capacidades de cómputo"
-    id="9a7260d5-bec3-475c-afb0-bb4cc8da6a12"
+    id="96cb0ecc-9020-446b-bb8b-5e9b02f9e5d3"
     documentation="Documento con análisis de capacidades de cómputo actuales y estimación futura de procesamiento, red y crecimiento de datos de ambas herramientas del proyecto"/>

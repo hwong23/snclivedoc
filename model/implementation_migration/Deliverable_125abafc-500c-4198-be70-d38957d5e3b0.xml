@@ -1,5 +1,5 @@
-<archimate:WorkPackage
+<archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ENT9. Análisis de calidad de fuentes"
-    id="7d0ca23d-66c1-4277-8d78-9f40d3e2784f"
+    id="125abafc-500c-4198-be70-d38957d5e3b0"
     documentation="Documento reproducible con análisis de calidad de fuentes, así como procesos de limpieza e imputación de datos necesarios para el cumplimiento de las funcionalidades de las herramientas."/>

@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BSN. HP y CO. Obligaciones"
-    id="7d59d9aa-277d-4b32-ab39-dce85ca6e3ca"/>
+    id="7d59d9aa-277d-4b32-ab39-dce85ca6e3ca">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8d5ec967-d6fc-40ab-9524-70f68c4b767d">
+    <bounds
+        x="41"
+        y="73"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_cb54a891-096b-4136-8211-a2f860d00399.xml#cb54a891-096b-4136-8211-a2f860d00399"/>
+  </children>
+</archimate:ArchimateDiagramModel>

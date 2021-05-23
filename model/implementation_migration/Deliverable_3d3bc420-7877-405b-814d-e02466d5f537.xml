@@ -1,5 +1,5 @@
-<archimate:WorkPackage
+<archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ENT1. Plan de Proyecto"
-    id="3bb57330-119d-4b22-bfc2-ebe7cbbf19ac"
+    id="3d3bc420-7877-405b-814d-e02466d5f537"
     documentation="Documento de plan de proyecto que debe incluir como mínimo: documento de visión y alcance del proyecto, plan de gestión de integración, plan de gestión del alcance, plan de gestión de costo, plan de gestión del tiempo, plan de gestión de calidad, plan de gestión de riesgo y plan de gestión de recursos humanos. Documento del detalle del alcance y requerimientos funcionales de ambas herramientas (Catálogo de Ocupaciones y Herramienta de Perfilamiento), incluyendo las necesidades de analítica descriptiva, predictiva y/o prescriptiva y visualización de datos. Documento con la metodología de trabajo propuesta para el proyecto.  Documento de metodología de desarrollo de software"/>
