@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OBL18. Analítica y procesamiento de datos"
+    id="2a2245e6-f98f-41ce-8dcd-7e9672be2575"
+    documentation="La analítica y procesamiento de datos deben ser implementados aparte de las aplicaciones que los usan, en una bodega de datos desacoplada de las herramientas, independiente y extensible"/>

@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OBL45. Pruebas de seguridad"
+    id="e6a73425-6bcf-4d75-80f1-17f60f438d9f"
+    documentation="Los sistemas deben ser sometido a una evaluación de Ethical Hacking de manera que se garantice la seguridad de la aplicación, esta actividad debe ser adelantada por el contratista como parte de la entrega de la solución"/>
