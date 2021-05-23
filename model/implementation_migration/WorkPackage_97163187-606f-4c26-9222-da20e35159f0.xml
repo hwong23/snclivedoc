@@ -1,5 +1,5 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OBL11. Análisis, diseño, implementación y garantía HP"
+    name="OBL11. Análisis, diseño, implementación y garantía (HP y CO)"
     id="97163187-606f-4c26-9222-da20e35159f0"
-    documentation="Elaborar, validar y entregar el análisis, diseño, implementación y garantía de calidad de un aplicativo web y movil que mejor implemente las funcionalidades de perfilamiento para los colombianos y migrantes en términos de sus competencias y las ocupaciones de la Clasificación Única de Ocupaciones para Colombia (CUOC)"/>
+    documentation="*Elaborar, validar y entregar el análisis, diseño, implementación y garantía de calidad de un aplicativo web y movil que mejor implemente las funcionalidades de perfilamiento para los colombianos y migrantes en términos de sus competencias y las ocupaciones de la Clasificación Única de Ocupaciones para Colombia (CUOC)&#xA;&#xA;*Elaborar, validar y entregar el análisis, diseño, implementación y garantía de calidad de un aplicativo web y movil que mejor implemente las funcionalidades de explorar y navegar el Catálogo Único de Ocupaciones a los colombianos (CUOC)&#xA;"/>
