@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ232. Generales"
     id="0457659d-27d4-4312-a768-759fbc32e713"
-    documentation="Como migrante, quiero saber en qué competencias tendría que capacitarme para fortalecer mi perfil para una cierta ocupación y ser un mejor candidato para vacantes de esa ocupación.&#xA;">
+    documentation="Como nacional o migrante, quiero saber en qué competencias tendría que adquirir  para fortalecer mi perfil para una cierta ocupación y ser un mejor candidato para vacantes de esa ocupación.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

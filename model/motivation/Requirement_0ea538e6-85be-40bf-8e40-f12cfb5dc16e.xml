@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ233. Reales"
     id="0ea538e6-85be-40bf-8e40-f12cfb5dc16e"
-    documentation="Como migrante, si la herramienta me recomienda capacitarme en ciertas competencias para fortalecer mi perfil como candidata para ocupaciones/vacantes, quiero saber donde podría capacitarme, si son en linea o presenciales, cuanto me costaría y tener enlaces a esas capacitaciones para empezar el proceso de registrarme en ellas.&#xA;">
+    documentation="Como nacional o migrante, si la herramienta me recomienda ciertas competencias para fortalecer mi perfil como candidata para ocupaciones/vacantes, quiero tener un link a un sitio que me permita ver opciones de capacitación">
   <properties
       key="Restricciones"
-      value="--Debe ser extensible cuando haya más información de certificaciones y capacitación"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="--'Se propone un enfoque hacia las 5 capacitaciones que se quieran promocionar desde el Ministerio&#xA;- Se pueden subir a una página estas 5 específicas o un enlace a una página.&#xA;- No se integrará, accederá a aplicaciones externas"/>
 </archimate:Requirement>

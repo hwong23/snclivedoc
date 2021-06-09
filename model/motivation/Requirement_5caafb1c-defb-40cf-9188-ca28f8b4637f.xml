@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ212. Competencias favoritas"
     id="5caafb1c-defb-40cf-9188-ca28f8b4637f"
-    documentation="Como migrante, quiero poder indicar cuales son mis competencias favoritas de todas las que fueron documentadas mientras completaba mi perfil (u otras nuevas), tanto técnicas como socioemocionales, para que la herramienta tome esto en consideración en sus recomendaciones sobre posibles carreras y ocupaciones, y para poder resaltarlos después en mi perfil descargable para los empleadores.&#xA;">
+    documentation="Como nacional o migrante, quiero poder indicar cuales son mis competencias favoritas de todas las que fueron documentadas mientras completaba mi perfil (u otras nuevas), tanto técnicas como blandas, para que la herramienta tome esto en consideración en sus recomendaciones sobre posibles estudios y ocupaciones, y para poder resaltarlos después en mi perfil descargable.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ201. Cómo usar la plataforma"
     id="68efdced-514f-4cd2-ac7e-fb3d29b71f33"
-    documentation="Como migrante, quiero entender cómo usar la plataforma, con descripción de funcionalidades, botones, etc. para poder aprovecharla al máximo y no confundirme o perderme con ella.&#xA;">
+    documentation="Como nacional y migrante, quiero entender cómo usar la plataforma, con descripción de funcionalidades, botones, etc. para poder aprovecharla al máximo y no confundirme o perderme con ella.&#xA;">
   <properties
       key="Restricciones"
       value="Aclarar el qué del requerimiento, sin entrar a definir el cómo&#xA;Ejemplo:&#xA;&#xA;Textos de ayuda asociado a cada elemento. Sin videos, máximo 1 párrafo&#xA;"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
 </archimate:Requirement>

@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ226. Compartir por redes sociales"
     id="623b4dc0-8518-418e-82ee-cc8ffc8b599c"
-    documentation="Como migrante, quiero poder compartir mi hoja de vida por redes sociales (ej. WhatsApp) para poder compartirlo con amigos, colegas y mentores que la puedan revisar o con empleadores con los que tengo conexión directa.&#xA;">
+    documentation="Como nacional o migrante, quiero poder compartir mi hoja de vida por redes sociales (ej. WhatsApp) para poder compartirlo con amigos, colegas y mentores que la puedan revisar o con empleadores con los que tengo conexión directa.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="No se tendrá integración  con aplicativos externos en el alcance inicial.&#xA;Sin embargo este requerimiento se podría hacer, sujeto a validación utilizando las integraciones estándares que ofrece Whatsapp"/>
 </archimate:Requirement>

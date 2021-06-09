@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ206. Login"
     id="a34ba5e0-7a41-43bc-8ddb-420012a973ec"
-    documentation="Como migrante, quiero poder hacer login a la herramienta para completar mi perfil, recibir recomendaciones de carreras y ocupaciones y las brechas en competencias que tengo en esas recomendaciones, y todo lo demás que me pueda aportar la herramienta.&#xA;">
+    documentation="Como nacional o migrante, quiero poder hacer login a la herramienta para completar mi perfil, recibir recomendaciones de estudios y ocupaciones y las brechas en competencias que tengo en esas recomendaciones, y todo lo demás que me pueda aportar la herramienta.&#xA;">
   <properties
       key="Restricciones"
       value="--Usuario internos del Pefilamiento, no relacionados con otros sistemas&#xA;--Usuarios basados en cuentas, ej. 'dgomez'. Sin cédula, pasaporte, etc.&#xA;--El sistema deberá ser extensible para cuando se tenga más información&#xA;&#xA;&#xA;&#xA;(Nombre):&#xA;mis restricciones"/>
-  <properties
-      key="Resultado"
-      value="Un registro del inicio de sesión del usuario en la lista de sesiones activas de la herramienta&#xA;"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
 </archimate:Requirement>

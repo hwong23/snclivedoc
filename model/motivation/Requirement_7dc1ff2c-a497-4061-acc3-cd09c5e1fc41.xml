@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ234. Generales"
     id="7dc1ff2c-a497-4061-acc3-cd09c5e1fc41"
-    documentation="Como migrante, quiero entender si podría certificarme en alguna ocupación/competencias que tengo para poder fortalecer mi perfil de cara a los empleadores.&#xA;">
+    documentation="Como nacional o migrante, quiero entender si podría certificarme en alguna ocupación/competencias que tengo para poder fortalecer mi perfil. Para ello se le debe dar acceso a un link a una página (que tenga esta información),  o que el administrador ingrese  en la aplicación algunas certificaciones clave&#xA;">
   <properties
       key="Restricciones"
-      value="--Debe ser extensible cuando haya más información de certificaciones y capacitación"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="--Debe ser extensible cuando haya más información de certificaciones y capacitación&#xA;-- Dependiente de la información de otras fuentes&#xA;- No se integrará ni accederá a aplicaciones externas.  "/>
 </archimate:Requirement>

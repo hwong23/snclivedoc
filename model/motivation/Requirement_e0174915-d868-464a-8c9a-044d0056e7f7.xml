@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ213. Preferencias"
     id="e0174915-d868-464a-8c9a-044d0056e7f7"
-    documentation="Como migrante, quiero poder indicar cuales son mis preferencias laborales (ej. horarios, lugar de trabajo, etc.) para que la herramienta tome esto en consideración en sus recomendaciones sobre posibles carreras y ocupaciones.&#xA;">
+    documentation="Como nacional o migrante, quiero poder indicar cuales son mis preferencias laborales (ej. horarios, lugar de trabajo, etc.) para que la herramienta tome esto en consideración en sus recomendaciones sobre posibles estudios y ocupaciones.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ204. Quiero intermediación"
     id="d85efe17-b464-4b50-8de6-c8f66d54748b"
-    documentation="Como migrante, quiero poder acceder, a través de un enlace de redireccionamiento a la página del Servicio Público de Empleo, para hacer búsquedas rápidas de empleo en ciertas ocupaciones (como las que me recomienda el test de autoconomiento y fortalezas) y entender si hay vacantes, donde están, que piden, etc. y así poder empezar a entender mejor el mercado laboral colombiano, especialmente para las ocupaciones que son de interés inicial para mi. Enlace posible (a confirmar) de redireccionamiento: https://www.buscadordeempleo.gov.co/&#xA;">
+    documentation="Como nacional o migrante, quiero poder acceder, a través de un enlace de redireccionamiento a la página del Servicio Público de Empleo, para hacer búsquedas rápidas de empleo en ciertas ocupaciones (como las que me recomienda el test de autoconomiento y fortalezas) y entender si hay vacantes, donde están, que piden, etc. y así poder empezar a entender mejor el mercado laboral colombiano, especialmente para las ocupaciones que son de interés inicial para mi. Enlace posible (a confirmar) de redireccionamiento: https://www.buscadordeempleo.gov.co/&#xA;">
   <properties
       key="Restricciones"
       value="Ejempo:&#xA;&#xA;--Vínculo externo al SPE"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
 </archimate:Requirement>

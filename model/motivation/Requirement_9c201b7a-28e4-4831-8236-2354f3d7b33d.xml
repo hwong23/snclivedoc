@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ241. Aspiraciones"
     id="9c201b7a-28e4-4831-8236-2354f3d7b33d"
-    documentation="Como migrante, me gustaría distinguir las ocupaciones recomendadas de las ocupaciones que yo identifique como aspiracionales, para así poder tomar eso en consideración cuando estoy explorando y escogiendo ocupaciones de enfoque y capacitaciones.&#xA;">
+    documentation="Como nacional o migrante, me gustaría distinguir las ocupaciones recomendadas de las ocupaciones que yo identifique como aspiracionales, para así poder tomar eso en consideración cuando estoy explorando y escogiendo ocupaciones&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

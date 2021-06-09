@@ -6,10 +6,4 @@
   <properties
       key="Restricciones"
       value="Desarrollo de las mismas funciones que tiene el SPE:&#xA;entender en profundidad los perfiles que podrían servir para diferentes empleadores/vacantes"/>
-  <properties
-      key="Resultado"
-      value="Visualización de perfiles de los usuarios."/>
-  <properties
-      key="Fuentes"
-      value="Información brindada por el usuario"/>
 </archimate:Requirement>

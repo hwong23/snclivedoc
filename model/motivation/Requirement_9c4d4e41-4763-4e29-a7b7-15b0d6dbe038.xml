@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ205. Sobre el SPE"
     id="9c4d4e41-4763-4e29-a7b7-15b0d6dbe038"
-    documentation="Como migrante, quiero saber qué es el Servicio Público de Empleo, como funciona, que servicios presta, donde puedo acceder a ellos, por qué debería usarlo y cómo lo puedo aprovechar para así poder apalancar todos los mecanismos que tengo a mi alcance en Colombia para insertarme en el mercado laboral colombiano. Esta información se proveería a tráves de un enlace a la página principal del Servicio Público de Empleo: https://www.serviciodeempleo.gov.co/&#xA;">
+    documentation="Como nacional o migrante, quiero saber qué es el Servicio Público de Empleo, como funciona, que servicios presta, donde puedo acceder a ellos, por qué debería usarlo y cómo lo puedo aprovechar para así poder apalancar todos los mecanismos que tengo a mi alcance en Colombia para insertarme en el mercado laboral colombiano. Esta información se proveería a tráves de un enlace a la página principal del Servicio Público de Empleo: https://www.serviciodeempleo.gov.co/&#xA;">
   <properties
       key="Restricciones"
       value="--Una hoja de texto&#xA;--Vínculo al portal SPE"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
 </archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ230. Recomendaciones de rutas laborales específicas"
+    id="c3af4562-1304-4731-a6b5-74d25d0dba70"
+    documentation="Como nacional o migrante, quiero conocer vacantes específicas dentro de las ocupaciones que me recomienda la herramienta e incluso tener enlaces a esas vacantes para poder conocer tanto que tipo de cargos estaría ocupando en esa ruta laboral (es decir, tener una idea más aterrizada de la recomendación de ocupación de la herramienta) como para poder empezar a postularme a esas vacantes.&#xA;">
+  <properties
+      key="Restricciones"
+      value="--Debe estar conectado a herramienta de vacantes del SPE&#xA;-- Dependiente del desarrollo de la nueva herramienta del SISE&#xA;(Una funcionalidad no priorizada para este alcance)"/>
+</archimate:Requirement>

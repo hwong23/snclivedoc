@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ217. Referencias"
     id="e83b2d1a-e7b9-45a6-a148-e82abaae98ad"
-    documentation="Como migrante, quiero que mis referencias laborales / profesionales y personales puedan incluir un comentario sobre mí para fortalecer mi hoja de vida y para que lo vean y lo aprecien posibles empleadores.&#xA;">
+    documentation="Como nacional o migrante, quiero que mis referencias laborales / profesionales y personales puedan incluir un comentario sobre mí para fortalecer mi hoja de vida.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

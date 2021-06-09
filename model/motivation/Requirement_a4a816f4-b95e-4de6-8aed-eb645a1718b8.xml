@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ231. Brecha de competencias"
     id="a4a816f4-b95e-4de6-8aed-eb645a1718b8"
-    documentation="Como migrante, quiero entender que competencias tengo y no tengo de las que se requieren (obligatoriamente u opcionalmente) para esas ocupaciones que me recomienda la herramienta para saber para cuales estoy mejor preparada o tengo mayor match, para tomar decisiones sobre en cuales debería enfocarme y para empezar a ver en qué competencias/áreas me tendría que capacitar.&#xA;">
+    documentation="Como nacional o migrante, quiero entender que competencias tengo y no tengo de las que se requieren (obligatoriamente u opcionalmente) para esas ocupaciones que me recomienda la herramienta para saber para cuales estoy mejor preparada o tengo mayor match, para tomar decisiones sobre en cuales debería enfocarme y para empezar a ver en qué competencias/áreas me tendría que capacitar.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

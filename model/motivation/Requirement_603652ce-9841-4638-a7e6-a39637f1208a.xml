@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ221. Perfil descargable general"
     id="603652ce-9841-4638-a7e6-a39637f1208a"
-    documentation="Como migrante, quiero descargar mi hoja de vida con un formato profesional para poder mandarselo a empleadores y postularme (por fuera de la herramienta) a vacantes.&#xA;">
+    documentation="Como nacional o migrante, quiero descargar mi hoja de vida con un formato profesional para poder mandarselo a empleadores y postularme (por fuera de la herramienta) a vacantes.&#xA;">
   <properties
       key="Restricciones"
       value="--La descarga simultánea de documentos no debe desestabilizar a las otras funcionalidades"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
 </archimate:Requirement>

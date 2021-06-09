@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ208. Experiencia laboral"
     id="0f6520dd-cf48-4987-8fd4-f4ba4454435d"
-    documentation="Como migrante, quiero incluir información sobre todo mi historial laboral o emprendedor (sea formal o informal), incluyendo quien es el empleador, lugar de trabajo, cuanto tiempo trabajé allí, responsabilidades y actividades, y competencias técnicas y blandas que adquirí durante esa experiencia, para incluir en mi hoja de vida y para que esto influya en las recomendaciones de la herramienta sobre posibles carreras y ocupaciones, y en mi brecha en competencias para esas carreras y ocupaciones.&#xA;">
+    documentation="Como nacional o migrante, quiero incluir información sobre todo mi historial laboral o emprendedor (sea formal o informal), incluyendo quien es el empleador, lugar de trabajo, cuanto tiempo trabajé allí, responsabilidades y actividades,  para incluir en mi hoja de vida y para que esto influya en las recomendaciones de la herramienta sobre posibles estudios y ocupaciones, y en mi brecha en competencias para esos estudios y ocupaciones.&#xA;">
   <properties
       key="Restricciones"
-      value="Ejemplo:&#xA;&#xA;--El historial es un formulario de 4 o 5 áreas de información sobre la formación y trabajos&#xA;--Pueden ser imágenes de diplomas, grados, etc.. Tiene ser que ser texto&#xA;"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="El historial es un formulario de 4 o 5 áreas de información sobre la formación y trabajos&#xA;&#xA;"/>
 </archimate:Requirement>

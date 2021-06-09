@@ -5,11 +5,5 @@
     documentation="Como orientador, quiero poder anotarle sugerencias al usuario en su perfil para ayudarle a completar mejor su perfil y prepararse mejor de cara a presentar su hoja de vida con posibles empleadores.">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="Función de la herramienta que brinde sugerencias automáticas al usuario."/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="--Gráficos de rápido entendimiento, sin ayudas extensivas, ni demasiada explicación&#xA;- Entender bien exactamente como es la interacción con el orientador y acotar"/>
 </archimate:Requirement>

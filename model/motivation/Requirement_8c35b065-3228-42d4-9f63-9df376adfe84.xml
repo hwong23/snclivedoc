@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ202. Mercado laboral"
     id="8c35b065-3228-42d4-9f63-9df376adfe84"
-    documentation="Como migrante, especialmente recién llegado a Colombia o con poco conocimiento del mercado laboral colombiano al cual estoy intentando acceder, me gustaría entender mejor el mercado laboral colombiano, incluyendo la tasa de desempleo, cuales son los sectores y las ocupaciones en crecimiento y decrecimiento, cuales son los sectores más importantes por regiones geográficas, etc. para poder situarme mejor, entender que significa esa información para mi y mi familia, y después entender también mejor las recomendaciones que reciba de la herramienta.&#xA;">
+    documentation="Como nacional y migrante, especialmente recién llegado a Colombia o con poco conocimiento del mercado laboral colombiano al cual estoy intentando acceder, me gustaría entender mejor el mercado laboral colombiano. Para ello es necesario tener un vinculo al catalogo y aquellos estudios que se harán con base en los requerimientos del catalogo&#xA;">
   <properties
       key="Restricciones"
-      value="--Vínculo a visualización de Catálogo&#xA;--La visualización del Catálogo debe implementar esta visualizcn."/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="--Vínculo a visualización de Catálogo&#xA;--La visualización del Catálogo debe implementar esta visualización y no debe ir mas allá de lo que proporciona el catálogo"/>
 </archimate:Requirement>

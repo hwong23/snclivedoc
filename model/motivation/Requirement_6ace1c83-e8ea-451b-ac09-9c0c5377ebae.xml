@@ -5,11 +5,11 @@
     documentation="Como administrador, quiero entender cuáles son las ocupaciones más y menos comunes para saber hacia donde orientar e informar el diseño de programas y políticas públicas.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
+      value="--Gráficos de rápido entendimiento"/>
   <properties
       key="Resultado"
-      value="Caracterización de ocupaciones según perfiles."/>
+      value=" sin ayudas extensivas"/>
   <properties
       key="Fuentes"
-      value="0"/>
+      value=" ni demasiada explicación"/>
 </archimate:Requirement>

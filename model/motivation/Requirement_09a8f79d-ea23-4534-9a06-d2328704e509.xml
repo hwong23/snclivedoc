@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQ229. Información adicional sobre rutas laborales"
+    id="09a8f79d-ea23-4534-9a06-d2328704e509"
+    documentation="Como nacional o migrante, quiero conocer más sobre las ocupaciones que me recomienda la herramienta, incluyendo información del número de vacantes, , en qué regiones se da más ese tipo de vacantes,  para poder entender mejor mis opciones de rutas laborales y empezar a escoger algunos focos para mis postulaciones y posibles capacitaciones.  Para ello es necesario tener un vinculo al catalogo y aquellos estudios que se harán con base en los requerimientos del catalogo&#xA;">
+  <properties
+      key="Restricciones"
+      value="--Debe estar conectado a herramienta de visualización del catálogo&#xA;--La visualización del Catálogo debe implementar esta visualización y no debe ir mas allá de lo que proporciona el catálogo"/>
+</archimate:Requirement>

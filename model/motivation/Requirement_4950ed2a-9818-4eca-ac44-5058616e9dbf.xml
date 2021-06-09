@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ235. Reales"
     id="4950ed2a-9818-4eca-ac44-5058616e9dbf"
-    documentation="Como migrante, si la herramienta me recomienda certificarme en alguna ocupación o competencias, quiero saber donde me podría certificar, cuanto me costaría y como sería el proceso para poder ir a completar esa certificación y así fortalecer mi perfil de cara a los empleadores.&#xA;">
+    documentation="Como nacional o migrante, quiero saber donde me podría certificar, cuanto me costaría y como sería el proceso para poder ir a completar esa certificación y así fortalecer mi perfil. Para ello se  dará acceso  a una página donde se encuentre esa información (si se tiene), o se creará una pantalla de consulta donde el administrador puede ingresar la info de algunas certificacioens clave">
   <properties
       key="Restricciones"
-      value="--Debe ser extensible cuando haya más información de certificación"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="--Debe ser extensible cuando haya más información de certificación&#xA;-- Dependiente de la información de otras fuentes&#xA;- No se integrará ni accederá a aplicaciones externas.  "/>
 </archimate:Requirement>

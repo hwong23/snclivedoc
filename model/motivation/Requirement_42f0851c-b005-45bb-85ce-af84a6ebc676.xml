@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ242. Competencias favoritas"
     id="42f0851c-b005-45bb-85ce-af84a6ebc676"
-    documentation="Como migrante, quiero poder ver en que ocupaciones recomendadas se usan mis competencias favoritas que ya había identificado en la herramienta, para así poder tomar eso en consideración cuando estoy explorando y escogiendo ocupaciones de enfoque y capacitaciones.&#xA;">
+    documentation="Como nacional o migrante, quiero poder ver en que ocupaciones recomendadas se usan mis competencias favoritas que ya había identificado en la herramienta, para así poder tomar eso en consideración cuando estoy explorando y escogiendo ocupaciones de enfoque y capacitaciones.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ249. Número de perfiles por sector, ocupación o competencia"
     id="d1df2858-7b9f-4027-aeb6-7d17301c0d07"
-    documentation="Como administrador, quiero tener un entendimiento de cuántos perfiles existen por sector/industria, ocupación y competencia para poder informar el diseño de programas y políticas públicas.&#xA;">
+    documentation="Como administrador, quiero tener un entendimiento de cuántos perfiles existen por sector/industria, ocupación y competencia para poder informar el diseño de programas y políticas públicas.">
   <properties
       key="Restricciones"
-      value="0"/>
+      value="--Gráficos de rápido entendimiento"/>
   <properties
       key="Resultado"
-      value="Número y tipos de perfiles. Caracterización de los perfiles."/>
+      value=" sin ayudas extensivas"/>
   <properties
       key="Fuentes"
-      value="CUOC - Cualificaciones"/>
+      value=" ni demasiada explicación"/>
 </archimate:Requirement>

@@ -5,11 +5,11 @@
     documentation="Como administrador, quiero poder crear reportes a medida con las visualizaciones y analítica disponible en la herramienta para poder entender ciertas tendencias, tenerlas guardadas y sobre todo compartirlas con usuarios externos.Por ejemplo, quiero poder publicar reportes mensuales de las ocupaciones y competencias más y menos comúnes con comparaciones a meses anteriores.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
+      value="--Gráficos de rápido entendimiento"/>
   <properties
       key="Resultado"
-      value="Reportes"/>
+      value=" sin ayudas extensivas"/>
   <properties
       key="Fuentes"
-      value=" informe."/>
+      value=" ni demasiada explicación"/>
 </archimate:Requirement>

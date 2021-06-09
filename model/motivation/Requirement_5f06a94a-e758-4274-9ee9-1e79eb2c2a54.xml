@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ223. Personalizar contenido"
     id="5f06a94a-e758-4274-9ee9-1e79eb2c2a54"
-    documentation="Como migrante, quiero poder adaptar el contenido de mi hoja de vida, escogiendo que experiencias, formaciones, competencias, información básica y otro contenido aparece en él, para poder presentar la versión de mí o con la que yo me siento más comóda (ej. quizá no quiero que aparezca mi experiencia de ama de casa).&#xA;">
+    documentation="Como nacional o migrante, quiero poder adaptar el contenido de mi hoja de vida, escogiendo que experiencias, formaciones, competencias, información básica y otro contenido aparece en él, para poder presentar la versión de mí o con la que yo me siento más comóda&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
       value="0"/>
 </archimate:Requirement>

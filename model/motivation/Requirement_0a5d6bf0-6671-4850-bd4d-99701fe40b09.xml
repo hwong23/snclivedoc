@@ -2,14 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ237. Tracker"
     id="0a5d6bf0-6671-4850-bd4d-99701fe40b09"
-    documentation="Como migrante, quiero ver mi progreso en la lista de acciones que me recomienda la herramienta, pudiendo también actualizar en el progreso que he tenido en esas acciones, para hacer un monitoreo más de cerca de mi progreso y saber cuáles son mis próximos pasos, sin perderme en todo lo que tengo que hacer.&#xA;">
+    documentation="Como nacional o migrante, quiero ver mi progreso en la lista de acciones que me recomienda la herramienta, pudiendo también actualizar en el progreso que he tenido en esas acciones, para hacer un monitoreo más de cerca de mi progreso y saber cuáles son mis próximos pasos, sin perderme en todo lo que tengo que hacer.&#xA;">
   <properties
       key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
+      value="Definir un Chequeo particular (pocas acciones)  de lo  que tiene que hacer el buscador de empleo."/>
 </archimate:Requirement>

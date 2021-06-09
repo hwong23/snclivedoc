@@ -2,14 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQ244. Presencial"
     id="fa2b977a-357c-4e67-80ca-2e5ff14ef443"
-    documentation="Como migrante, quiero un enlace para pedir sesiones de asesoramiento personales presenciales para poder hablar con un orientador que me guie en fortalecer mi perfil y tener la hoja de vida más robusta posible, que me guie en entender los resultados de las recomendaciones que me dio la herramienta y que me ayude a entender mejor el mercado laboral colombiano. (Un enlace, a definir, del Servicio Público de Empleo o de un prestador específico en la región donde se encuentra el usuario.)&#xA;">
-  <properties
-      key="Restricciones"
-      value="0"/>
-  <properties
-      key="Resultado"
-      value="0"/>
-  <properties
-      key="Fuentes"
-      value="0"/>
-</archimate:Requirement>
+    documentation="Como migrante, quiero un enlace para pedir sesiones de asesoramiento personales para poder hablar con un orientador que me guie en fortalecer mi perfil y tener la hoja de vida más robusta posible, que me guie en entender los resultados de las recomendaciones que me dio la herramienta y que me ayude a entender mejor el mercado laboral colombiano.&quot;,,requirement,&quot;Ejemplo:&#xA;- Podría ser un correo a alguien pero hay que delimitar bien este alcance (no se creará un flujo de trabajo)&#xA;--Cómo se dan turnos?&#xA;--Perfil del otientador quién lo dispone?&#xA;"/>
