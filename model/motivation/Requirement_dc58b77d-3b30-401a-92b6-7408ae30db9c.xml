@@ -2,8 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQ106. Presentar información que caracterice los diferentes niveles del código CUOC"
     id="dc58b77d-3b30-401a-92b6-7408ae30db9c"
-    documentation="Requerimiento del Catalogo de Ocupaciones">
+    documentation="Presentar información que caracterice los diferentes niveles del código CUOC">
   <properties
       key="Restricciones"
-      value="--Presentar información estadística asociada a los niveles de la CUOC&#xD;&#xA;--Para el nivel de desagregación ocupación presentar información asociada sobre: destrezas, funciones , ocupaciones afines, niveles de competencia y demás caracteristicas asociadas al perfil ocupacional."/>
+      value="--Presentar información estadística asociada a los niveles de la CUOC&#xA;--Para el nivel de desagregación ocupación presentar información asociada sobre: destrezas, funciones , ocupaciones afines, niveles de competencia y demás caracteristicas asociadas al perfil ocupacional."/>
+  <properties
+      key="Resultado"
+      value="0"/>
+  <properties
+      key="Fuentes"
+      value="0"/>
 </archimate:Requirement>

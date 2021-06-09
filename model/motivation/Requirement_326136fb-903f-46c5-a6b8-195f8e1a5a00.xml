@@ -2,14 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQ102. Búsqueda avanzada"
     id="326136fb-903f-46c5-a6b8-195f8e1a5a00"
-    documentation="Requerimiento del Catalogo de Ocupaciones">
+    documentation="Búsqueda avanzada">
   <properties
       key="Restricciones"
-      value="--Incluye búsqueda por código CUOC&#xD;&#xA;--Aquí se espera realizar una búsqueda por distintos filtros, que pueden darse por categorías de la estructura jerárquica de la CUOC (gran grupo, subgrupo, subgrupo ppal, grupo primario y ocupación), código, área de cualificación, entre otros.&#xD;&#xA;--Mayor zoom y especificidad en la búsqueda&#xD;&#xA;--Importante incluir denominaciones de las ocupaciones"/>
+      value="--Incluye búsqueda por código CUOC&#xA;--Aquí se espera realizar una búsqueda por distintos filtros, que pueden darse por categorías de la estructura jerárquica de la CUOC (gran grupo, subgrupo, subgrupo ppal, grupo primario y ocupación), código, área de cualificación, entre otros.&#xA;--Mayor zoom y especificidad en la búsqueda&#xA;--Importante incluir denominaciones de las ocupaciones"/>
   <properties
       key="Resultado"
       value="Datos de los campos clave de cada ocupación"/>
   <properties
       key="Fuentes"
-      value=" conexión con otros datos e información relacionada"/>
+      value="0"/>
 </archimate:Requirement>

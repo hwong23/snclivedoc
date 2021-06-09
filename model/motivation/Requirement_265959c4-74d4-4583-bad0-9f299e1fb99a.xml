@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REQ105. Navegar ocupaciones por conglomerados"
     id="265959c4-74d4-4583-bad0-9f299e1fb99a"
-    documentation="Requerimiento del Catalogo de Ocupaciones">
+    documentation="Navegar ocupaciones por conglomerados">
   <properties
       key="Restricciones"
       value="Listados desplegables del catálogo de ocupaciones de acuerdo con las desagregación y relaciones según los siguientes criterios: listado propio de la cuoc"/>
