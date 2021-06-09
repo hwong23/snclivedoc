@@ -1,12 +1,9 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RQ253. Competencias transferibles más y menos comunies"
+    name="RQ253. Competencias transferibles más y menos comunes"
     id="591fbc23-e637-43d4-9cec-04b8eef5993c"
-    documentation="Como administrador">
+    documentation="Como administrador, quiero entender cuáles son las competencias transferibles más y menos comunes (sean técnicas o socioemocionales) para saber hacia donde orientar e informar el diseño de programas y políticas públicas">
   <properties
       key="Restricciones"
-      value="requirement"/>
-  <properties
-      key="Resultado"
-      value="La CUOC comtempla competencias socioemocionales?&#xA;--Gráficos de rápido entendimiento, sin ayudas extensivas, ni demasiada explicación"/>
+      value="La CUOC comtempla competencias socioemocionales?&#xD;&#xA;--Gráficos de rápido entendimiento, sin ayudas extensivas, ni demasiada explicación"/>
 </archimate:Requirement>
