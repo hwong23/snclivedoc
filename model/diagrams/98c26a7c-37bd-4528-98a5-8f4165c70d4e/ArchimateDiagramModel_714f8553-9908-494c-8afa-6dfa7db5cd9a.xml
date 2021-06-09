@@ -326,7 +326,7 @@
     <bounds
         x="612"
         y="768"
-        width="120"
+        width="192"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -357,7 +357,7 @@
     <bounds
         x="348"
         y="768"
-        width="120"
+        width="192"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -397,7 +397,7 @@
     <bounds
         x="48"
         y="768"
-        width="120"
+        width="192"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -410,7 +410,7 @@
     <bounds
         x="48"
         y="996"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -423,7 +423,7 @@
     <bounds
         x="48"
         y="1068"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -436,7 +436,7 @@
     <bounds
         x="48"
         y="1140"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -449,7 +449,7 @@
     <bounds
         x="348"
         y="996"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -462,7 +462,7 @@
     <bounds
         x="348"
         y="1068"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -475,7 +475,7 @@
     <bounds
         x="612"
         y="996"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -488,7 +488,7 @@
     <bounds
         x="612"
         y="1068"
-        width="120"
+        width="156"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
