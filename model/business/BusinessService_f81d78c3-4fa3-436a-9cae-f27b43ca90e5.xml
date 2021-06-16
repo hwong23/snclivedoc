@@ -1,4 +1,8 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS15. Promover el empleo, construcción de más y mejores empresas"
-    id="f81d78c3-4fa3-436a-9cae-f27b43ca90e5"/>
+    id="f81d78c3-4fa3-436a-9cae-f27b43ca90e5">
+  <properties
+      key="Fuente"
+      value="Mapa capacidades EY"/>
+</archimate:BusinessService>
