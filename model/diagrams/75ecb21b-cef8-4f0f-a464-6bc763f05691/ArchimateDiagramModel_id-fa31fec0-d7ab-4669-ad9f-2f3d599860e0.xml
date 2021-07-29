@@ -109,7 +109,7 @@
           href="RealizationRelationship_id-79d1ed30-0a0c-4e4b-83c1-bc6befb14817.xml#id-79d1ed30-0a0c-4e4b-83c1-bc6befb14817"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="366"
         width="180"
         height="55"/>
@@ -136,7 +136,7 @@
           href="RealizationRelationship_id-9bd15c5f-4cca-4842-86e5-315f7af78a60.xml#id-9bd15c5f-4cca-4842-86e5-315f7af78a60"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="612"
         width="180"
         height="55"/>
@@ -163,7 +163,7 @@
           href="RealizationRelationship_id-e0909c55-0ded-4e6d-bf6c-631c7079e395.xml#id-e0909c55-0ded-4e6d-bf6c-631c7079e395"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="432"
         width="180"
         height="55"/>
@@ -190,7 +190,7 @@
           href="RealizationRelationship_id-750c475c-fde5-45e5-a7ba-bdc09b5c9c81.xml#id-750c475c-fde5-45e5-a7ba-bdc09b5c9c81"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="492"
         width="180"
         height="55"/>
@@ -230,7 +230,7 @@
           href="CompositionRelationship_id-86cb0644-8872-4ae9-9765-09c3c661a180.xml#id-86cb0644-8872-4ae9-9765-09c3c661a180"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="444"
         y="108"
         width="187"
         height="55"/>
@@ -306,7 +306,7 @@
           href="CompositionRelationship_id-4680ea38-b375-4d0e-9e62-723c1e0ae626.xml#id-4680ea38-b375-4d0e-9e62-723c1e0ae626"/>
     </sourceConnections>
     <bounds
-        x="312"
+        x="324"
         y="212"
         width="204"
         height="445"/>
@@ -387,7 +387,7 @@
       fillColor="#ffffff"
       content="Programa para Fortalecer Políticas de Empleo&#xD;&#xA;&#xD;&#xA;Acciones y Productos del objetivo global 2 (GLO2). Fortalecer calidad oferta formativa, reconocimiento, valoración aprendizajes&#xD;&#xA;&#xD;&#xA;version 0.02">
     <bounds
-        x="12"
+        x="24"
         width="227"
         height="181"/>
   </children>
@@ -410,7 +410,7 @@
           href="RealizationRelationship_id-b91fb4a8-bff3-4ed2-98f8-55e417269532.xml#id-b91fb4a8-bff3-4ed2-98f8-55e417269532"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="552"
         width="180"
         height="55"/>
@@ -426,7 +426,7 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="564"
+        x="576"
         y="212"
         width="180"
         height="55"/>
@@ -463,7 +463,7 @@
           href="RealizationRelationship_id-1ff5dd85-6d9c-4d57-a9be-c7bcd53b7766.xml#id-1ff5dd85-6d9c-4d57-a9be-c7bcd53b7766"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="444"
         width="192"
         height="55"/>
     <archimateElement
