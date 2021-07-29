@@ -7,7 +7,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-56d1b507-03d0-48bb-a37e-3f18aeebd15f"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -36,7 +35,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2669737f-b786-47fb-a7eb-14ca6dc5aa6e"
       targetConnections="id-0ec8ca45-a4f3-4ba7-b614-8cc667a0a149 id-cdbded36-c06a-42ad-a14c-10d16993a3c3"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -65,7 +63,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7e356f55-391c-40c0-99cf-3d90343df80c"
       targetConnections="id-2641239d-2fc3-4e86-85cb-533bad7cb138 id-a063deb6-d403-4d39-a655-efdb73db7661"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -81,7 +78,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-150809ea-c25a-418a-9dbd-9995c86e1402"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -110,7 +106,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ce31300e-2c11-43e3-8ee8-30fd5a50c287"
       targetConnections="id-e03a61d5-5dbd-4586-a36b-f9cfa0477662"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
