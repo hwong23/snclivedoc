@@ -7,7 +7,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9dd506ca-efd3-463f-ab15-3f97a16288dc"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -36,7 +35,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-83068494-d72c-40b4-8a9d-8c72846eb6cd"
       targetConnections="id-d645d8e0-0c22-43f4-be89-8fd61304c552"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -52,7 +50,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d0444660-8574-46da-ab1d-f027c7ec679f"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -81,7 +78,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2d2a5750-be1c-4689-9e98-faf3dc3243ce"
       targetConnections="id-ca1953f9-125b-4ddd-9d5a-f819fc988131"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
@@ -113,7 +109,7 @@
           href="RealizationRelationship_id-79d1ed30-0a0c-4e4b-83c1-bc6befb14817.xml#id-79d1ed30-0a0c-4e4b-83c1-bc6befb14817"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="366"
         width="180"
         height="55"/>
@@ -140,7 +136,7 @@
           href="RealizationRelationship_id-9bd15c5f-4cca-4842-86e5-315f7af78a60.xml#id-9bd15c5f-4cca-4842-86e5-315f7af78a60"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="612"
         width="180"
         height="55"/>
@@ -167,7 +163,7 @@
           href="RealizationRelationship_id-e0909c55-0ded-4e6d-bf6c-631c7079e395.xml#id-e0909c55-0ded-4e6d-bf6c-631c7079e395"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="432"
         width="180"
         height="55"/>
@@ -194,7 +190,7 @@
           href="RealizationRelationship_id-750c475c-fde5-45e5-a7ba-bdc09b5c9c81.xml#id-750c475c-fde5-45e5-a7ba-bdc09b5c9c81"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="492"
         width="180"
         height="55"/>
@@ -206,7 +202,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-98de2d1d-5b7a-4711-8461-35ac68c7aa84"
       targetConnections="id-e26ee109-31f5-4ec3-b46a-d590ab9abad1"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -235,7 +230,7 @@
           href="CompositionRelationship_id-86cb0644-8872-4ae9-9765-09c3c661a180.xml#id-86cb0644-8872-4ae9-9765-09c3c661a180"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="444"
         y="108"
         width="187"
         height="55"/>
@@ -247,7 +242,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e9fc0604-3a55-465e-9796-ef428c5ed22a"
       targetConnections="id-279355a8-7a5d-4387-8808-cb4a3624c199 id-7fbd9a07-a5dc-40d6-8cf6-0844c5efdc56"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -312,7 +306,7 @@
           href="CompositionRelationship_id-4680ea38-b375-4d0e-9e62-723c1e0ae626.xml#id-4680ea38-b375-4d0e-9e62-723c1e0ae626"/>
     </sourceConnections>
     <bounds
-        x="312"
+        x="324"
         y="212"
         width="204"
         height="445"/>
@@ -320,7 +314,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-85b07dc9-97ef-4bda-bb6a-78b5701aa499"
         targetConnections="id-f1a028ba-1a24-4ff2-a435-505fc8d76fff f954d700-d8d8-44fb-b9ae-b08e34af1bcc"
-        font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#ccccff">
@@ -337,7 +330,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-47c67328-2c1f-4a83-a546-fd0eb56caf10"
         targetConnections="id-90c19f5e-ef42-4fc3-b285-5441bc58ac8f id-07572ff7-be57-4f65-b5c1-997902d6d097 9b0d1ad3-393c-4712-a2fb-0efac136b5c4"
-        font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#ccccff">
@@ -354,7 +346,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-56704802-19c2-47e5-b86a-a695349217a5"
         targetConnections="id-656b50ac-859c-47c6-acc7-07697fce5a6a id-6b80c268-b7f1-41a4-9d5e-2fd83e6786f1 id-b446129a-2289-4360-a417-caa9236dbac1 e4c8fe24-0a6b-41bf-a54f-a4fefb8ff121"
-        font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#ccccff">
@@ -371,7 +362,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-67740747-ec3f-488a-a7a6-b1806282a378"
         targetConnections="id-ac8efcc1-342d-4dc8-8fb2-d3268d084f30 aaf0a186-2825-498b-abb4-7e15e6cb499f"
-        font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
         fontColor="#000000"
         lineColor="#5c5c5c"
         fillColor="#ccccff">
@@ -395,9 +385,9 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Programa para Fortalecer Políticas de Empleo&#xA;&#xA;Objetivos.&#xA;&#xA;Acciones y Productos del objetivo global 2 (GLO2). Fortalecer calidad oferta formativa, reconocimiento, valoración aprendizajes&#xA;&#xA;version 0.02">
+      content="Programa para Fortalecer Políticas de Empleo&#xD;&#xA;&#xD;&#xA;Acciones y Productos del objetivo global 2 (GLO2). Fortalecer calidad oferta formativa, reconocimiento, valoración aprendizajes&#xD;&#xA;&#xD;&#xA;version 0.02">
     <bounds
-        x="12"
+        x="24"
         width="227"
         height="181"/>
   </children>
@@ -420,7 +410,7 @@
           href="RealizationRelationship_id-b91fb4a8-bff3-4ed2-98f8-55e417269532.xml#id-b91fb4a8-bff3-4ed2-98f8-55e417269532"/>
     </sourceConnections>
     <bounds
-        x="564"
+        x="576"
         y="552"
         width="180"
         height="55"/>
@@ -432,12 +422,11 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6705ae89-f883-4808-b427-7f84636e76fe"
       targetConnections="id-4c3bcf5d-fd54-4ef4-9cbc-4475592b51b5"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="564"
+        x="576"
         y="212"
         width="180"
         height="55"/>
@@ -474,7 +463,7 @@
           href="RealizationRelationship_id-1ff5dd85-6d9c-4d57-a9be-c7bcd53b7766.xml#id-1ff5dd85-6d9c-4d57-a9be-c7bcd53b7766"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="442"
         width="192"
         height="55"/>
     <archimateElement
@@ -499,7 +488,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-86c8f0c6-ac1e-4326-81c5-edfb8fb2eff9"
-      font="1|Lucida Sans|11.0|0|COCOA|1|LucidaSans"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#f5deaa">
