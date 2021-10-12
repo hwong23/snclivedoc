@@ -88,7 +88,7 @@
     <bounds
         x="215"
         y="396"
-        width="120"
+        width="134"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
