@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ306. Análisis agregados de población migrante"
+    id="id-aa2ffe7e71c948b7abfd9a9f794f36bd"
+    documentation="El SGE debe permitir elaborar analisis agregados de la población migrante frente a las politicas activas y pasivas de empleo de las cuales tienen acceso."/>

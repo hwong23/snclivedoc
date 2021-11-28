@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ301. Identicación de la demanda laboral"
+    id="id-0b4c4565405a4d75b29b6c5cb0767984"
+    documentation="El SGE debe permitir identificar en la demanda laboral (vacantes) los requerimientos a nivel de cualificaciones, habilidades, capacidades y experiencia de esa demanda.&quot;requirement&#xD;&#xA;REQ302. Análisis de demanda laboral,&quot;El SGE debe generar informes de análisis de demanda laboral e identificar cuales son las habilidades, capacidades cualificaciones mas demandadas."/>

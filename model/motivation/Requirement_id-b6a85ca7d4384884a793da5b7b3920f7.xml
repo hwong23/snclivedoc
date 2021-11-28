@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ310. Identificación de vacantes de difícil colocación"
+    id="id-b6a85ca7d4384884a793da5b7b3920f7"
+    documentation="El SGE debe permitir identificar cuales son las vacantes de dificil colocación e identificar la principal brecha de esa colocación, ya sea por parte de la oferta o de la demanda."/>

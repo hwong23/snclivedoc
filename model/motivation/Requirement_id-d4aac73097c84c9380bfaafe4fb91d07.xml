@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ302. Análisis de demanda laboral"
+    id="id-d4aac73097c84c9380bfaafe4fb91d07"
+    documentation="El SGE debe generar informes de análisis de demanda laboral e identificar cuales son las habilidades, capacidades cualificaciones mas demandadas."/>

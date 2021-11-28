@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ308. Reporte de cualificaciones obtenidas mediante programas educativos"
+    id="id-0f2ac1f753374a8388573104c8715c61"
+    documentation="El SGE debe permitir obtener reportes asociados a las cualificaciones que se obtienen mediante los distintos programas educativos certificados y aprobados por el ministerio de educación y de trabajo."/>

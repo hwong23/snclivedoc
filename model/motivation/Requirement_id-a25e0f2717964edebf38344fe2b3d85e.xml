@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ303. Análisis de habilidades, capacidades y experiencias"
+    id="id-a25e0f2717964edebf38344fe2b3d85e"
+    documentation="El SGE debe permitir analizar lo solicitado en terminos de habilidades, capacidades y experiencia en la oferta y la demanda laboral y determinar cuales habilidades,capacidades y formación es clave para cerrar la brecha en cualificaciones entre oferta y demanda laboral."/>

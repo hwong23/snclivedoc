@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ307. Reporte de principales cualificaciones y habilidades de la oferta laboral"
+    id="id-58c5affc72f249319fda8793f5bfabd2"
+    documentation="El SGE debe permitir obtener reportes de las principales cualificaciones y habilidades de la oferta laboral segmentada por grupos objetivos."/>

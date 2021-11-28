@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ305. Análisis de ruta ocupacional formativa"
+    id="id-7eb33bf328904b7393bb783a1517f128"
+    documentation="El SGE debe permitir elaborar analisis agregados de la ruta ocupacional formativa de los grupos focos del gobienro en difernetes fuentes de datos  (SPE, PILA, RUTER, DANE, OLE)."/>

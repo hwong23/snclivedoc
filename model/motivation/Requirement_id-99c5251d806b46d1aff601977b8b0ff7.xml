@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="REQ309. Reporte de impacto de las cualificaciones"
+    id="id-99c5251d806b46d1aff601977b8b0ff7"
+    documentation="El SGE debe permitir obtener reportes del impacto de las cualificaciones recien obtenidas por los ciudadanos en la busqueda de empleo."/>
