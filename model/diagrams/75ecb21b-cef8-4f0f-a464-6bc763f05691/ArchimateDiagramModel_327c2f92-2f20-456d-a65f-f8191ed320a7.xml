@@ -64,16 +64,16 @@
           href="CompositionRelationship_be5dffcc-429e-4f18-a046-dcd8096c4e7a.xml#be5dffcc-429e-4f18-a046-dcd8096c4e7a"/>
     </sourceConnections>
     <bounds
-        x="492"
-        y="672"
-        width="800"
+        x="12"
+        y="684"
+        width="824"
         height="228"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c4063d18-d32a-45a3-b794-ad790a122ba8"
         targetConnections="f4a02cc8-6162-4576-aff1-9fc856346d64">
       <bounds
-          x="11"
+          x="35"
           y="60"
           width="180"
           height="55"/>
@@ -86,7 +86,7 @@
         id="83161e48-2b52-43cf-9572-45d2ddcc38d4"
         targetConnections="bef55a17-d8c0-4d85-b376-13d58e0c4092">
       <bounds
-          x="11"
+          x="35"
           y="120"
           width="180"
           height="55"/>
@@ -99,7 +99,7 @@
         id="dc5577d1-1ba0-4c8d-a19a-85ce7bf90b01"
         targetConnections="4a5490e3-1afc-4673-bdb0-2c7eb20e3046">
       <bounds
-          x="203"
+          x="227"
           y="120"
           width="180"
           height="55"/>
@@ -112,7 +112,7 @@
         id="c7efe931-52c1-4834-a4c9-a392044f462a"
         targetConnections="88812041-d4d6-420f-9360-ea1e717678d4">
       <bounds
-          x="203"
+          x="227"
           y="60"
           width="180"
           height="55"/>
@@ -125,7 +125,7 @@
         id="9f453a3f-d0d3-462d-a646-73a561f2cc91"
         targetConnections="2b64097a-09f8-4d52-be25-53bcae0c06e1">
       <bounds
-          x="387"
+          x="411"
           y="60"
           width="180"
           height="55"/>
@@ -138,7 +138,7 @@
         id="393cd094-442f-43a6-a902-8de2cd9d453f"
         targetConnections="c100a201-ec23-49e2-a8e7-fc50eee12a82">
       <bounds
-          x="576"
+          x="600"
           y="60"
           width="180"
           height="55"/>
@@ -154,7 +154,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="c0bf24c8-0373-4665-b44f-19bb2d4edd93"
       textAlignment="1"
-      content="Contexto estratégico del Ministerio de Trabajo. &#xA;&#xA;(en línea con...) El Ministerio de Trabajo ha definido objetivos estratégicos para el periodo 2020-2022, cada uno con agrupaciones de iniciativas estratégicas.&#xA;">
+      content="Contexto estratégico del Ministerio de Trabajo. &#xD;&#xA;&#xD;&#xA;El Ministerio de Trabajo ha definido objetivos estratégicos para el periodo 2020-2022, cada uno con agrupaciones de iniciativas estratégicas.&#xD;&#xA;">
     <bounds
         x="12"
         y="24"
@@ -174,8 +174,8 @@
           href="AssociationRelationship_id-3850c1ca-bb58-4bbe-8a84-5861cdb15865.xml#id-3850c1ca-bb58-4bbe-8a84-5861cdb15865"/>
     </sourceConnections>
     <bounds
-        x="1008"
-        y="1002"
+        x="552"
+        y="1014"
         width="163"
         height="55"/>
     <archimateElement
@@ -195,8 +195,8 @@
           href="AssociationRelationship_id-de431c7f96244071b892066f50323b4e.xml#id-de431c7f96244071b892066f50323b4e"/>
     </sourceConnections>
     <bounds
-        x="480"
-        y="1002"
+        x="24"
+        y="1014"
         width="163"
         height="55"/>
     <archimateElement
@@ -217,8 +217,8 @@
           href="AssociationRelationship_id-1f4e47b80c5d4a718ff62f087d46ec8f.xml#id-1f4e47b80c5d4a718ff62f087d46ec8f"/>
     </sourceConnections>
     <bounds
-        x="828"
-        y="1002"
+        x="372"
+        y="1014"
         width="163"
         height="55"/>
     <archimateElement
@@ -238,9 +238,9 @@
           href="RealizationRelationship_id-b541470b96f6429aa375d4cd8cb0852a.xml#id-b541470b96f6429aa375d4cd8cb0852a"/>
     </sourceConnections>
     <bounds
-        x="780"
+        x="684"
         y="540"
-        width="120"
+        width="152"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -297,7 +297,7 @@
     <bounds
         x="12"
         y="540"
-        width="744"
+        width="660"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -377,7 +377,7 @@
     <bounds
         x="12"
         y="300"
-        width="804"
+        width="824"
         height="168"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -461,8 +461,8 @@
           href="AssociationRelationship_id-4d49e37ba32a49cdb576cf994374af03.xml#id-4d49e37ba32a49cdb576cf994374af03"/>
     </sourceConnections>
     <bounds
-        x="654"
-        y="1002"
+        x="198"
+        y="1014"
         width="163"
         height="55"/>
     <archimateElement
