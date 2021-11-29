@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SGE. Productos contractuales"
+    id="id-5b2f892b998146fc896209216b808e91">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c02e6b5053c044c5a0776e6abbbc8045">
+    <bounds
+        x="48"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-93ef34ca-4ab3-4d52-90f3-841a15e28af0.xml#id-93ef34ca-4ab3-4d52-90f3-841a15e28af0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e21446d24d744bed8665d2a5fd8a888c">
+    <bounds
+        x="240"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-aa8db203f5e949d38a248d4dcb0e2f92.xml#id-aa8db203f5e949d38a248d4dcb0e2f92"/>
+  </children>
+</archimate:ArchimateDiagramModel>
