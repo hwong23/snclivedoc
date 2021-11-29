@@ -1,0 +1,5 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Producto 2: Modelo detallado de datos e información del Sector Laboral por Entidad"
+    id="id-c323d07ab0fb4506a490d74abb6ff656"
+    documentation="a.&#x9;Diseño detallado de datos e información del sector que contiene:&#xD;&#xA;i.&#x9;Entidades de datos con sus respectivos atributos. &#xD;&#xA;ii.&#x9;Definición del atributo hasta su tipo y estructura de dato.&#xD;&#xA;iii.&#x9;Vistas gráficas que reflejen las diferentes relaciones entre entidades de datos del modelo.&#xD;&#xA;iv.&#x9;Modelo sistémico de fuentes que identifique sus relaciones e importancia en función del cumplimiento de los objetivos del programa.&#xD;&#xA;v.&#x9;Caracterización de las fuentes en función de los procesos que deben surtirse para integrarse correctamente en el modelo sistémico de fuentes.&#xD;&#xA;vi.&#x9;Bitácora de decisiones de diseño (documento público, navegable, o consideraciones y patrones de diseño)&#xD;&#xA;vii.&#x9;Especificaciones técnicas detalladas de los componentes sistémicos y de infraestructura&#xD;&#xA;"/>
