@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-14e2fd533e724988b8cb70f4f809324d"
+    documentation="Nivel 0 de refinamiento de los datos, flujo hacia arriba">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-e72e91ab17dd48cc97081de3fde3cebb.xml#id-e72e91ab17dd48cc97081de3fde3cebb"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-3d968ac9229f49cb89d49407648999d3.xml#id-3d968ac9229f49cb89d49407648999d3"/>
+</archimate:ServingRelationship>

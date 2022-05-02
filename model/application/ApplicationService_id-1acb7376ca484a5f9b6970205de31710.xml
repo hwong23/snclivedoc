@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Crear y mantener la infraestructura de extracción de datos"
+    id="id-1acb7376ca484a5f9b6970205de31710"
+    documentation="Crear y mantener la infraestructura de extracción, creación, limpieza, vigencia (actualización) de los datos de las fuentes y entidades de datos para la gestión de las políticas."/>
