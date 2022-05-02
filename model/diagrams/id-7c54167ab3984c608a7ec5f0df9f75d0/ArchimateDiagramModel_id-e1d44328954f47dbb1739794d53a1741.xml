@@ -62,6 +62,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ec902fa8503b40d3bb2a6d5394d67b66"
       targetConnections="id-d3fa9c171589412ebfcf69e2634aa12c id-ba6f2eb6e3274dcba8cd5663a538b919"
+      fontColor="#0432ff"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -114,7 +115,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a5026890ae2f4477aa3ffa765cd7f654"
-        targetConnections="id-00a43222558e4058bc35ae3da12e517e">
+        targetConnections="id-00a43222558e4058bc35ae3da12e517e"
+        fontColor="#0432ff">
       <bounds
           x="12"
           y="36"
@@ -132,6 +134,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e866416e0d9e4731bec033f9094245ae"
       targetConnections="id-49aa4684d1eb4b918cd29779eacda972 id-da8ec92fce014c148468a8894f285de5"
+      fontColor="#0432ff"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -184,7 +187,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-85a1619e2d56406c958318a03bb0820e"
-        targetConnections="id-c2d55ec0a01f491b9483e16644fe4e4b">
+        targetConnections="id-c2d55ec0a01f491b9483e16644fe4e4b"
+        fontColor="#0432ff">
       <bounds
           x="12"
           y="36"
@@ -339,7 +343,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c9d1f18642a442fab6ca04b8ca3292db"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Vista conceptual&#xA;&#xA;versión 0.5">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Vista conceptual. Módulos 3 y 4&#xA;&#xA;versión 0.7">
     <bounds
         x="24"
         y="-48"
