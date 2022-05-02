@@ -452,4 +452,7 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_e3d93e71-826e-4b4f-b00b-5dd5084c8fa8.xml#e3d93e71-826e-4b4f-b00b-5dd5084c8fa8"/>
   </children>
+  <properties
+      key="Sistema"
+      value="SGE"/>
 </archimate:ArchimateDiagramModel>

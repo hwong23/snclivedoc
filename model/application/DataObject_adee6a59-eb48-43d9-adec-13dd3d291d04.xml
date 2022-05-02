@@ -12,19 +12,9 @@
   <properties
       key="Estado"/>
   <properties
-      key="¿Certificación en calidad?"/>
-  <properties
       key="Número de registro"/>
   <properties
-      key="Fecha de registro"/>
-  <properties
       key="Tipo de certificado"/>
-  <properties
-      key="Subtipo de ceritificado"/>
-  <properties
-      key="Área desempeño"/>
-  <properties
-      key="Jornada"/>
   <properties
       key="Metodología"/>
   <properties

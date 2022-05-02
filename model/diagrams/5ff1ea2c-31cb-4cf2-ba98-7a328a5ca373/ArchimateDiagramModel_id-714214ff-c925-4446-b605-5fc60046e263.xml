@@ -945,4 +945,7 @@
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-0e6caf76-1aff-40ad-b6be-1d6daeaf06fa.xml#id-0e6caf76-1aff-40ad-b6be-1d6daeaf06fa"/>
   </children>
+  <properties
+      key="Sistema"
+      value="SGE"/>
 </archimate:ArchimateDiagramModel>
