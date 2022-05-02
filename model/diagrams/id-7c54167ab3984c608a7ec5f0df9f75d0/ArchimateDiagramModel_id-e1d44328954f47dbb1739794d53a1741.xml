@@ -290,6 +290,20 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-e296626766ff47e196624526bac87c92.xml#id-e296626766ff47e196624526bac87c92"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-180f90420e584ded8747e3fa2902297b"
+        source="id-5d02cb359b524b92b22cc223ce7c0f95"
+        target="id-cf7ff71cc6c44851ba6c71334070b5f1">
+      <bendpoints
+          startX="328"
+          startY="-18"
+          endX="-332"
+          endY="-36"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-f78be9376a53422181a30ab51b009f41.xml#id-f78be9376a53422181a30ab51b009f41"/>
+    </sourceConnections>
     <bounds
         x="252"
         y="163"
@@ -343,7 +357,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c9d1f18642a442fab6ca04b8ca3292db"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Vista conceptual. Módulos 3 y 4&#xA;&#xA;versión 0.7">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Vista conceptual. Módulos 3 y 4&#xA;&#xA;versión 0.8">
     <bounds
         x="24"
         y="-48"
@@ -461,6 +475,42 @@
         y="84"
         width="169"
         height="60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-cf7ff71cc6c44851ba6c71334070b5f1"
+      targetConnections="id-180f90420e584ded8747e3fa2902297b"
+      textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d90f5ccf048642e3beba7437afa18f3c"
+        source="id-cf7ff71cc6c44851ba6c71334070b5f1"
+        target="id-081214e90aee44809534f9b8ae8b966a">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-3f2093a6439a443d8ef99f5b2d0b50f5.xml#id-3f2093a6439a443d8ef99f5b2d0b50f5"/>
+    </sourceConnections>
+    <bounds
+        x="912"
+        y="163"
+        width="400"
+        height="120"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-081214e90aee44809534f9b8ae8b966a"
+        targetConnections="id-d90f5ccf048642e3beba7437afa18f3c">
+      <bounds
+          x="12"
+          y="36"
+          width="180"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-e28d2690356847ee85db767ccad65794.xml#id-e28d2690356847ee85db767ccad65794"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-821f301436dc4e70acbaa221eacc9b00.xml#id-821f301436dc4e70acbaa221eacc9b00"/>
   </children>
   <properties
       key="Sistema"
