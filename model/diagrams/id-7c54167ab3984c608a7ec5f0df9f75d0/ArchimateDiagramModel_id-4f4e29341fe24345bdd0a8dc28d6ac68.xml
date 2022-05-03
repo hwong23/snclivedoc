@@ -31,8 +31,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-c820b48c161b4b979703710f4a81ee21">
     <bounds
-        x="348"
-        y="48"
+        x="198"
+        y="120"
         width="120"
         height="55"/>
     <referencedModel
@@ -44,11 +44,23 @@
       id="id-000ad57796434ce1b3f7b9821801b143">
     <bounds
         x="48"
-        y="148"
+        y="120"
         width="120"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-219c6a910f7f458ab1db85537d0ce706.xml#id-219c6a910f7f458ab1db85537d0ce706"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-19f3619608484cc0a4921958c59293c0">
+    <bounds
+        x="48"
+        y="192"
+        width="120"
+        height="55"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-e1d44328954f47dbb1739794d53a1741.xml#id-e1d44328954f47dbb1739794d53a1741"/>
   </children>
 </archimate:ArchimateDiagramModel>

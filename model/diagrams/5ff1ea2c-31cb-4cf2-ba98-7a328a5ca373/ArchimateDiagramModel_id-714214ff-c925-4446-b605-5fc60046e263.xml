@@ -608,7 +608,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9ac16751-c73e-4c36-85fe-5a661e1e3d12"
       targetConnections="id-a0229148-60d0-456c-90d9-248c51bf895f"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -905,7 +904,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3d966623-95bf-49d5-97df-9bee3d57601e"
       targetConnections="id-4df65b74-9667-413c-a79d-6ea16712c32e"
-      font="1|Segoe UI|9.0|0|COCOA|1|"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#b5ffff">
@@ -944,6 +942,18 @@
     <archimateElement
         xsi:type="archimate:ApplicationFunction"
         href="ApplicationFunction_id-0e6caf76-1aff-40ad-b6be-1d6daeaf06fa.xml#id-0e6caf76-1aff-40ad-b6be-1d6daeaf06fa"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1dfc6b344d7c446381ba92bd69782a46">
+    <bounds
+        x="733"
+        y="41"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-93ef34ca-4ab3-4d52-90f3-841a15e28af0.xml#id-93ef34ca-4ab3-4d52-90f3-841a15e28af0"/>
   </children>
   <properties
       key="Sistema"
