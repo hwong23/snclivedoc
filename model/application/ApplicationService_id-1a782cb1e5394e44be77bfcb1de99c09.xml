@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sistema de seguimiento acciones políticas  adscrito al sistema gerencial"
+    name="S11. Sistema de seguimiento acciones políticas adscrito al sistema gerencial"
     id="id-1a782cb1e5394e44be77bfcb1de99c09"
     documentation="Sistema de eventos externo, ad hoc o interno del propio sistema gerencial capaz de emitir alertas a los suscritos avisándoles de los resultados de la vigilia a estos nuevos parámetros."/>

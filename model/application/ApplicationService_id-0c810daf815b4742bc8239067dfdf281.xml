@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sistema de eventos adscrito al sistema gerencial"
+    name="S10. Sistema de eventos adscrito al sistema gerencial"
     id="id-0c810daf815b4742bc8239067dfdf281"
     documentation="Sistema de eventos externo, ad hoc o interno del propio sistema gerencial capaz de emitir alertas a los suscritos avisándoles de los resultados de la vigilia a estos nuevos parámetros."/>
