@@ -6,10 +6,6 @@
   <properties
       key="Nombre de la ocupacion"/>
   <properties
-      key="Código"/>
-  <properties
-      key="Descripción de la ocupacion"/>
-  <properties
       key="Denominaciones ocupacionales"/>
   <properties
       key="Funciones de la ocupación"/>

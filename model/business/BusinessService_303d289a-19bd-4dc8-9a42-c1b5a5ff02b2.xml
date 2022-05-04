@@ -1,8 +1,4 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS13. Promover formación de calidad del talento humano"
-    id="303d289a-19bd-4dc8-9a42-c1b5a5ff02b2">
-  <properties
-      key="Fuente"
-      value="Mapa capacidades EY"/>
-</archimate:BusinessService>
+    id="303d289a-19bd-4dc8-9a42-c1b5a5ff02b2"/>

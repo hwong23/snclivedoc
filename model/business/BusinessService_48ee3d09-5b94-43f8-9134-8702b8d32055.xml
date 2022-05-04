@@ -1,8 +1,4 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS14. Análisis de entorno laboral y profesional"
-    id="48ee3d09-5b94-43f8-9134-8702b8d32055">
-  <properties
-      key="Fuente"
-      value="Mapa capacidades EY"/>
-</archimate:BusinessService>
+    id="48ee3d09-5b94-43f8-9134-8702b8d32055"/>

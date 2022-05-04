@@ -279,4 +279,7 @@
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d.xml#id-4f7ae5ff-7fff-4921-9e95-a97fd795e76d"/>
   </children>
+  <properties
+      key="Sistema"
+      value="SGE"/>
 </archimate:ArchimateDiagramModel>

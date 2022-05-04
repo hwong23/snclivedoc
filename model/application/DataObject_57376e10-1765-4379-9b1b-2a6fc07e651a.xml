@@ -11,13 +11,9 @@
       key="Licencia de funcionamiento"
       value="Número de la licencia"/>
   <properties
-      key="Fecha licencia de funcionamiento"/>
-  <properties
       key="Estado"/>
   <properties
       key="Cantidad de programas"/>
-  <properties
-      key="¿Certificada en calidad?"/>
   <properties
       key="Secretaría"/>
   <properties
@@ -25,17 +21,7 @@
   <properties
       key="Municipio"/>
   <properties
-      key="Dirección"/>
-  <properties
-      key="Barrio"/>
-  <properties
-      key="Teléfono"/>
-  <properties
-      key="Correo electrónico"/>
-  <properties
       key="Página web"/>
-  <properties
-      key="Naturaleza"/>
   <properties
       key="Personalidad jurídica"/>
   <properties

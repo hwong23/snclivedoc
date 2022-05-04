@@ -1,8 +1,4 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BS16. Proteger derechos"
-    id="19c664b4-1ca5-4ef8-aaf6-0f4b180ad4de">
-  <properties
-      key="Fuente"
-      value="Mapa capacidades EY"/>
-</archimate:BusinessService>
+    id="19c664b4-1ca5-4ef8-aaf6-0f4b180ad4de"/>

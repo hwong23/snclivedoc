@@ -32,7 +32,7 @@
     <bounds
         x="240"
         y="72"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -45,7 +45,7 @@
     <bounds
         x="240"
         y="132"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -58,7 +58,7 @@
     <bounds
         x="240"
         y="192"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -71,7 +71,7 @@
     <bounds
         x="240"
         y="252"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -84,7 +84,7 @@
     <bounds
         x="239"
         y="312"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -94,9 +94,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dbbc42e97dd347ba8d91afceb17d5a57">
     <bounds
-        x="372"
+        x="396"
         y="72"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -107,9 +107,9 @@
       id="id-e290339346084d3b9bdf311ddc50b3d0"
       targetConnections="id-e268063ddb384b1dbbe06492f6d6a7c1">
     <bounds
-        x="372"
+        x="396"
         y="132"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -120,9 +120,9 @@
       id="id-21db9fe5ea0443378de3c5c96438d4ad"
       targetConnections="id-1ccb9c5c0d82417d884d725c1e567523">
     <bounds
-        x="372"
+        x="396"
         y="192"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -133,9 +133,9 @@
       id="id-a0a7c4d468234964849aa2b92aec6aa3"
       targetConnections="id-c09a9ce029c64383a16ad7fda7d09bf2">
     <bounds
-        x="372"
+        x="396"
         y="252"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -146,9 +146,9 @@
       id="id-cb321123553c4dc5997a687c8bf28669"
       targetConnections="id-9044b2034327437aac6a817a0e187b8b">
     <bounds
-        x="372"
+        x="396"
         y="312"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
@@ -159,9 +159,9 @@
       id="id-f4b33f31e26746538632f0fa32bbfae5"
       targetConnections="id-41a420543ce64237a0c6049811c574fd">
     <bounds
-        x="372"
+        x="396"
         y="371"
-        width="120"
+        width="145"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
