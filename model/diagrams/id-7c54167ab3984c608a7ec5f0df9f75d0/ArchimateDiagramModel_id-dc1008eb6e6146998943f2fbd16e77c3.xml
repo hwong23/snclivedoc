@@ -263,14 +263,14 @@
         target="id-fe0fa5194c164314853cac73e4aa73a9">
       <bendpoints
           startX="412"
-          startY="15"
-          endX="-5"
-          endY="370"/>
+          startY="-10"
+          endX="18"
+          endY="345"/>
       <bendpoints
           startX="412"
-          startY="-190"
-          endX="-6"
-          endY="166"/>
+          startY="-202"
+          endX="18"
+          endY="153"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-4b925c6660e6493e9dd7ecd07dd93431.xml#id-4b925c6660e6493e9dd7ecd07dd93431"/>
