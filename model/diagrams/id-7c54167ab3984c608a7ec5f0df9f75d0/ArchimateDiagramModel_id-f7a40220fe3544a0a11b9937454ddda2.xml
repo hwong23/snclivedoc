@@ -608,8 +608,8 @@
         id="id-06d2acc0e9a743718b6514a85916bc63"
         targetConnections="id-134c022f2693403f9648ec6d208b14cb id-6856f3eef72f4723bb9142927a9df9ce id-eced4539648e44389ae21726d7e41618 id-20a6a78dd7e3493e935891ddc0bb65ca">
       <bounds
-          x="24"
-          y="84"
+          x="36"
+          y="216"
           width="168"
           height="55"/>
       <archimateElement
