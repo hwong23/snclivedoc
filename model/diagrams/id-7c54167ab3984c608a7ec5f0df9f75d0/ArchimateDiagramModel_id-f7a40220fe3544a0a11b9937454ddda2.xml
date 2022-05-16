@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SGE. Solucion conceptual analítica SGE (copy)"
+    name="SGE. Solucion conceptual y relación con requerimientos"
     id="id-f7a40220fe3544a0a11b9937454ddda2">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
