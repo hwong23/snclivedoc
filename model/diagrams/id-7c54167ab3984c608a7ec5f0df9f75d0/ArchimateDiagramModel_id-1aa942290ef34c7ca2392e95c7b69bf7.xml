@@ -8,9 +8,9 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-d7901e5b367a4597bcdde265aed01a6d"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Proceso general (macro) de gestión de Políticas Públicas de Empleo&#xA;Estado actual&#xA;&#xA;versión 0.6">
+      content="Sistema Gerencial de Empleo&#xD;&#xA;Ministerio del Trabajo&#xD;&#xA;&#xD;&#xA;Proceso general (macro) de gestión de Políticas Públicas de Empleo&#xD;&#xA;Estado actual&#xD;&#xA;&#xD;&#xA;versión 0.8">
     <bounds
-        x="48"
+        x="37"
         y="12"
         width="233"
         height="132"/>
@@ -20,8 +20,8 @@
       id="id-57675914a5da4908b25738215af3b2b2"
       targetConnections="id-b6ab19ebb2634474905441ee1998d5ba">
     <bounds
-        x="271"
-        y="552"
+        x="272"
+        y="672"
         width="161"
         height="55"/>
     <archimateElement
@@ -32,8 +32,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8008870b228941aca514790a68c53673">
     <bounds
-        x="839"
-        y="552"
+        x="840"
+        y="672"
         width="161"
         height="55"/>
     <archimateElement
@@ -53,8 +53,8 @@
           href="ServingRelationship_id-1f0b6c73feef40e398710cdc13420960.xml#id-1f0b6c73feef40e398710cdc13420960"/>
     </sourceConnections>
     <bounds
-        x="285"
-        y="192"
+        x="286"
+        y="312"
         width="156"
         height="55"/>
     <archimateElement
@@ -74,8 +74,8 @@
           href="ServingRelationship_id-4cf3b432eddb4a0eb1fdbc35c463d2d7.xml#id-4cf3b432eddb4a0eb1fdbc35c463d2d7"/>
     </sourceConnections>
     <bounds
-        x="472"
-        y="192"
+        x="473"
+        y="312"
         width="156"
         height="55"/>
     <archimateElement
@@ -95,8 +95,8 @@
           href="ServingRelationship_id-b7ee93bf766c43cf956ab186fdc9be1a.xml#id-b7ee93bf766c43cf956ab186fdc9be1a"/>
     </sourceConnections>
     <bounds
-        x="660"
-        y="192"
+        x="661"
+        y="312"
         width="156"
         height="55"/>
     <archimateElement
@@ -116,8 +116,8 @@
           href="ServingRelationship_id-9c150985c8bb4d95ad5f8c0ee1fa2510.xml#id-9c150985c8bb4d95ad5f8c0ee1fa2510"/>
     </sourceConnections>
     <bounds
-        x="852"
-        y="192"
+        x="853"
+        y="312"
         width="156"
         height="55"/>
     <archimateElement
@@ -137,8 +137,8 @@
           href="ServingRelationship_id-719b7232b83a416ab54c8a32098ba8a3.xml#id-719b7232b83a416ab54c8a32098ba8a3"/>
     </sourceConnections>
     <bounds
-        x="1044"
-        y="192"
+        x="1045"
+        y="312"
         width="156"
         height="55"/>
     <archimateElement
@@ -158,8 +158,8 @@
           href="ServingRelationship_id-d38febbbb0a647ba9444516700a480db.xml#id-d38febbbb0a647ba9444516700a480db"/>
     </sourceConnections>
     <bounds
-        x="1044"
-        y="120"
+        x="1045"
+        y="240"
         width="156"
         height="55"/>
     <archimateElement
@@ -171,8 +171,8 @@
       id="id-c0a3e37a7bc848efb2f4bb48f5901487"
       targetConnections="id-b8727ba062784c318cb0853f955deb2b">
     <bounds
-        x="35"
-        y="425"
+        x="36"
+        y="545"
         width="120"
         height="55"/>
     <archimateElement
@@ -181,7 +181,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-736fdc309846447b9cc4b7cb7b0c633b">
+      id="id-736fdc309846447b9cc4b7cb7b0c633b"
+      targetConnections="id-2260891e4ef04e09ad4e7239c9a80e3b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b8727ba062784c318cb0853f955deb2b"
@@ -201,8 +202,8 @@
           href="TriggeringRelationship_id-5222c53d0e54425da547c965df870097.xml#id-5222c53d0e54425da547c965df870097"/>
     </sourceConnections>
     <bounds
-        x="36"
-        y="288"
+        x="37"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -260,8 +261,8 @@
           href="CompositionRelationship_id-4f1a8bbe0e84487dbe4871ee1b46dfdf.xml#id-4f1a8bbe0e84487dbe4871ee1b46dfdf"/>
     </sourceConnections>
     <bounds
-        x="240"
-        y="288"
+        x="241"
+        y="408"
         width="1000"
         height="192"/>
     <children
@@ -310,6 +311,34 @@
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_id-42935ae78d564d5fb02444b741206346.xml#id-42935ae78d564d5fb02444b741206346"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-2260891e4ef04e09ad4e7239c9a80e3b"
+          source="id-f367c99d2c6d4df78cc345199a74c6ab"
+          target="id-736fdc309846447b9cc4b7cb7b0c633b">
+        <bendpoints
+            startX="156"
+            startY="7"
+            endX="1176"
+            endY="94"/>
+        <bendpoints
+            startX="156"
+            startY="-341"
+            endX="1176"
+            endY="-254"/>
+        <bendpoints
+            startX="-552"
+            startY="-341"
+            endX="468"
+            endY="-254"/>
+        <bendpoints
+            startX="-1020"
+            startY="-341"
+            endY="-254"/>
+        <archimateRelationship
+            xsi:type="archimate:TriggeringRelationship"
+            href="TriggeringRelationship_id-986f695018024e18925d70ca93604b0e.xml#id-986f695018024e18925d70ca93604b0e"/>
       </sourceConnections>
       <bounds
           x="792"
@@ -452,8 +481,8 @@
       id="id-9c455ca2cfba420eb08d527baf379381"
       targetConnections="id-86f080318fe74fa2976036dabe1eca79">
     <bounds
-        x="1041"
-        y="552"
+        x="1042"
+        y="672"
         width="161"
         height="55"/>
     <archimateElement
@@ -469,8 +498,8 @@
       content="Semiautomática"
       borderType="1">
     <bounds
-        x="1008"
-        y="684"
+        x="1009"
+        y="804"
         width="109"
         height="24"/>
   </children>
@@ -483,8 +512,8 @@
       content="Manual&#xA;"
       borderType="1">
     <bounds
-        x="888"
-        y="684"
+        x="889"
+        y="804"
         width="109"
         height="24"/>
   </children>
@@ -497,8 +526,8 @@
       content="Automática"
       borderType="1">
     <bounds
-        x="1128"
-        y="684"
+        x="1129"
+        y="804"
         width="109"
         height="24"/>
   </children>
