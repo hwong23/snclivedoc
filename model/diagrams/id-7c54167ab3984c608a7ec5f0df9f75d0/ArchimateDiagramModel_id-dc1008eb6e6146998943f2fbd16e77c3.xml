@@ -433,4 +433,7 @@
         width="286"
         height="132"/>
   </children>
+  <properties
+      key="Sistema"
+      value="SGE"/>
 </archimate:ArchimateDiagramModel>

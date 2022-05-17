@@ -63,4 +63,7 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_id-e1d44328954f47dbb1739794d53a1741.xml#id-e1d44328954f47dbb1739794d53a1741"/>
   </children>
+  <properties
+      key="Sistema"
+      value="SGE"/>
 </archimate:ArchimateDiagramModel>
