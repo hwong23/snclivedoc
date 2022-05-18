@@ -25,8 +25,8 @@
           href="TriggeringRelationship_id-b8a8fb551a564d9c8745cc776eb8b57c.xml#id-b8a8fb551a564d9c8745cc776eb8b57c"/>
     </sourceConnections>
     <bounds
-        x="338"
-        y="74"
+        x="336"
+        y="93"
         width="157"
         height="76"/>
     <archimateElement
@@ -56,8 +56,8 @@
           href="TriggeringRelationship_id-2f3f1f6112a546bc888c3fea9fcd026e.xml#id-2f3f1f6112a546bc888c3fea9fcd026e"/>
     </sourceConnections>
     <bounds
-        x="540"
-        y="74"
+        x="538"
+        y="93"
         width="157"
         height="76"/>
     <archimateElement
@@ -87,8 +87,8 @@
           href="InfluenceRelationship_id-3c4514e4d6bc4db38da7836d1ffb5b51.xml#id-3c4514e4d6bc4db38da7836d1ffb5b51"/>
     </sourceConnections>
     <bounds
-        x="338"
-        y="194"
+        x="336"
+        y="213"
         width="157"
         height="73"/>
     <archimateElement
@@ -142,8 +142,8 @@
           href="InfluenceRelationship_id-6edfbaeae9b644af92accce521f5224c.xml#id-6edfbaeae9b644af92accce521f5224c"/>
     </sourceConnections>
     <bounds
-        x="540"
-        y="254"
+        x="538"
+        y="273"
         width="157"
         height="79"/>
     <archimateElement
@@ -164,8 +164,8 @@
           href="RealizationRelationship_id-cf29226a53b54768b9e1f7c564371f15.xml#id-cf29226a53b54768b9e1f7c564371f15"/>
     </sourceConnections>
     <bounds
-        x="756"
-        y="74"
+        x="754"
+        y="93"
         width="157"
         height="76"/>
     <archimateElement
@@ -204,8 +204,8 @@
           href="InfluenceRelationship_id-7f3e0418beb24c50b79b2135efb78385.xml#id-7f3e0418beb24c50b79b2135efb78385"/>
     </sourceConnections>
     <bounds
-        x="744"
-        y="326"
+        x="742"
+        y="345"
         width="181"
         height="79"/>
     <archimateElement
@@ -217,8 +217,8 @@
       id="id-d8c5d62d10c4442ebdad18bb34153b77"
       targetConnections="id-f1d03e3fe18344828f354b23be8f7305">
     <bounds
-        x="327"
-        y="434"
+        x="325"
+        y="453"
         width="180"
         height="55"/>
     <archimateElement
@@ -230,8 +230,8 @@
       id="id-d0004e1370b74b6a88f8c5b64968285a"
       targetConnections="id-d2325c523a064818b84ee12b09aa0fa0">
     <bounds
-        x="529"
-        y="434"
+        x="527"
+        y="453"
         width="180"
         height="55"/>
     <archimateElement
@@ -244,8 +244,8 @@
       targetConnections="id-72a128fb0a9e424caa14b371151556f4"
       fillColor="#b5ffff">
     <bounds
-        x="745"
-        y="434"
+        x="743"
+        y="453"
         width="180"
         height="55"/>
     <archimateElement
@@ -257,8 +257,8 @@
       id="id-5b5c6ead2df04304bbc3255ae480c945"
       targetConnections="id-d88f82f0f5a844d6b4cc0dad51b0a744">
     <bounds
-        x="529"
-        y="506"
+        x="527"
+        y="525"
         width="180"
         height="55"/>
     <archimateElement
@@ -271,8 +271,8 @@
       targetConnections="id-bfb6d35988994843b736fdaafe49e8fd"
       fillColor="#b5ffff">
     <bounds
-        x="745"
-        y="506"
+        x="743"
+        y="525"
         width="180"
         height="55"/>
     <archimateElement
@@ -284,8 +284,8 @@
       id="id-02ac8e6a85d24c4fb46684cf387c2c4c"
       targetConnections="id-e31462f94ac341718c58df1c572392b2">
     <bounds
-        x="36"
-        y="278"
+        x="34"
+        y="297"
         width="181"
         height="55"/>
     <archimateElement
@@ -297,8 +297,8 @@
       id="id-ad3c5ecd95824e1aa9be55212eb4c445"
       targetConnections="id-2d0e2de1010642d989d03eeff0d67655">
     <bounds
-        x="36"
-        y="194"
+        x="34"
+        y="213"
         width="181"
         height="55"/>
     <archimateElement
@@ -310,8 +310,8 @@
       id="id-2eefe2ab31d14baca11c8f6ad095428e"
       targetConnections="id-fdf7580b837c4b7289c9d27dd5bfe711">
     <bounds
-        x="36"
-        y="360"
+        x="34"
+        y="379"
         width="181"
         height="55"/>
     <archimateElement
@@ -322,12 +322,131 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-66305801b7c64b13bbfd41bd1c24694f"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xD;&#xA;Ministerio del Trabajo&#xD;&#xA;&#xD;&#xA;Objetivos del diseño&#xD;&#xA;Alcance de la solución (objetivos 1, 2 del diseño)&#xD;&#xA;Priorización de requerimientos de visualización y de formulación de indicadores &#xD;&#xA;&#xD;&#xA;Versión 0.4">
+      content="Sistema Gerencial de Empleo&#xD;&#xA;Ministerio del Trabajo&#xD;&#xA;&#xA;Objetivos del diseño&#xA;Alcance de la solución&#xD;&#xA;Priorización de requerimientos de visualización y (analítica) de formulación de indicadores&#xD;&#xA;&#xD;&#xA;Versión 0.7">
     <bounds
         x="24"
         y="24"
         width="277"
-        height="145"/>
+        height="169"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-f04bf54cfc7c4b62bdd959b87de129ee"
+      name="Legend"
+      textAlignment="1">
+    <bounds
+        x="34"
+        y="480"
+        width="192"
+        height="192"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2b98f9391898419fa54005de549bac21">
+      <bounds
+          x="10"
+          y="30"
+          width="30"
+          height="30"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationService"
+          href="ApplicationService_id-ce6f4e1f20c0430ea73d1f57b05fd34b.xml#id-ce6f4e1f20c0430ea73d1f57b05fd34b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-5fd7630bdae948b585d6cfbbb12818ab">
+      <bounds
+          x="10"
+          y="70"
+          width="30"
+          height="30"/>
+      <archimateElement
+          xsi:type="archimate:Deliverable"
+          href="Deliverable_id-2423a24b6cab408abd209351b6fed9da.xml#id-2423a24b6cab408abd209351b6fed9da"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-643ec455cd934dca86075d7deea41c37"
+        textAlignment="1"
+        alpha="0"
+        content="deliverable">
+      <features
+          name="lineAlpha"
+          value="0"/>
+      <bounds
+          x="50"
+          y="70"
+          width="150"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-f4905f172d12483598fb850c2ce18211">
+      <bounds
+          x="10"
+          y="110"
+          width="30"
+          height="30"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-f7dcaa8205184113bb4f55d9334e52d7.xml#id-f7dcaa8205184113bb4f55d9334e52d7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-2e3fc7c49948448f8e57a4799d9b8358"
+        textAlignment="1"
+        alpha="0"
+        content="goal">
+      <features
+          name="lineAlpha"
+          value="0"/>
+      <bounds
+          x="50"
+          y="110"
+          width="80"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-a7d2a639346f4357a68a09f573b3ce28">
+      <bounds
+          x="10"
+          y="150"
+          width="30"
+          height="30"/>
+      <archimateElement
+          xsi:type="archimate:WorkPackage"
+          href="WorkPackage_id-82faef75a23141438843a5a967cc05ff.xml#id-82faef75a23141438843a5a967cc05ff"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-35f442285f4348d3bbcb6ca148844027"
+        textAlignment="1"
+        alpha="0"
+        content="work-package">
+      <features
+          name="lineAlpha"
+          value="0"/>
+      <bounds
+          x="50"
+          y="150"
+          width="160"
+          height="30"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelNote"
+        id="id-ea45f5513196435f8bd26569834390f4"
+        textAlignment="1"
+        alpha="0"
+        content="application-service">
+      <features
+          name="lineAlpha"
+          value="0"/>
+      <bounds
+          x="50"
+          y="30"
+          width="230"
+          height="30"/>
+    </children>
   </children>
   <properties
       key="Sistema"
