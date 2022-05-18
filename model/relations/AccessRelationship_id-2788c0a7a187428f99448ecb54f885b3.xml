@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="impacto: KPI"
+    id="id-2788c0a7a187428f99448ecb54f885b3"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f582057ec5b4461097c2ad0e82f279f0.xml#id-f582057ec5b4461097c2ad0e82f279f0"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-601e2a8d1f504deb890639f2bbe91cee.xml#id-601e2a8d1f504deb890639f2bbe91cee"/>
+</archimate:AccessRelationship>

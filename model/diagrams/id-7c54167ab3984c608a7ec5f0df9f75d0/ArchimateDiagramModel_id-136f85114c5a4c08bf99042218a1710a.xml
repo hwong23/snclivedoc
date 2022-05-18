@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="New ArchiMate View"
+    name="SGE. Modelo de gestión actual"
     id="id-136f85114c5a4c08bf99042218a1710a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -140,8 +140,8 @@
       name="Legend"
       textAlignment="1">
     <bounds
-        x="-107"
-        y="588"
+        x="-108"
+        y="540"
         width="200"
         height="230"/>
     <children
