@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="indicador sintético"
+    id="id-2f153fc4c46c4ebe949a8cfaa199f617"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f582057ec5b4461097c2ad0e82f279f0.xml#id-f582057ec5b4461097c2ad0e82f279f0"/>
+  <target
+      xsi:type="archimate:Contract"
+      href="Contract_id-1264732403bd490d91bfc6115be647f5.xml#id-1264732403bd490d91bfc6115be647f5"/>
+</archimate:AccessRelationship>
