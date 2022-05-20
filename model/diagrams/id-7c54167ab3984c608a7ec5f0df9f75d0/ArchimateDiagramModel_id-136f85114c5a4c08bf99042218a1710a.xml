@@ -5,7 +5,9 @@
     id="id-136f85114c5a4c08bf99042218a1710a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9274090086c34668921056cda0a7f78e">
+      id="id-9274090086c34668921056cda0a7f78e"
+      targetConnections="id-ff65db4ffabc40e9a9dc2c93d966ffab"
+      fillColor="#ff3b30">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-28241b85e7da4345b11af1513ce7eebe"
@@ -94,7 +96,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6580d838bb0d4d9d8b93042e5a0b1660">
+      id="id-6580d838bb0d4d9d8b93042e5a0b1660"
+      targetConnections="id-d639740388be4ef4b0716f1c4ff4e999"
+      fillColor="#ff3b30">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-88684e51d1794282b327d9319c6ce45f"
@@ -284,11 +288,30 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-48dbadc787ee4eddb30d7c4183eb9b28"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Estado actual&#xA;&#xA;versión 0.3">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Estado actual&#xA;&#xA;versión 0.5">
     <bounds
         x="-108"
         y="-48"
         width="253"
         height="140"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b087d035216944edab49418522457e7d"
+      textAlignment="1"
+      content="Tiende a la divergencia del proceso y los instrumentos de gestión de las políticas.">
+    <sourceConnections
+        id="id-ff65db4ffabc40e9a9dc2c93d966ffab"
+        source="id-b087d035216944edab49418522457e7d"
+        target="id-9274090086c34668921056cda0a7f78e"/>
+    <sourceConnections
+        id="id-d639740388be4ef4b0716f1c4ff4e999"
+        source="id-b087d035216944edab49418522457e7d"
+        target="id-6580d838bb0d4d9d8b93042e5a0b1660"/>
+    <bounds
+        x="288"
+        y="384"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>

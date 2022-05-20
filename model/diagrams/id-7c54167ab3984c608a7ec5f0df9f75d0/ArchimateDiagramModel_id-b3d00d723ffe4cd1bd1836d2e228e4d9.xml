@@ -69,6 +69,17 @@
         y="132"
         width="169"
         height="85"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-b56062a1f62f4740a54dad3231b09975"
+        fillColor="#28cd41">
+      <bounds
+          width="169"
+          height="85"/>
+      <archimateElement
+          xsi:type="archimate:BusinessProcess"
+          href="BusinessProcess_id-c66415dde16648bf8ca91791a8a31abb.xml#id-c66415dde16648bf8ca91791a8a31abb"/>
+    </children>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-f582057ec5b4461097c2ad0e82f279f0.xml#id-f582057ec5b4461097c2ad0e82f279f0"/>
@@ -99,7 +110,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ceefd721e94748989c581123616f4284"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Refuerzo analítico y Cadena de valor.&#xA;&#xA;versión 0.9">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Refuerzo analítico y Cadena de valor.&#xA;&#xA;versión 0.11">
     <bounds
         x="-108"
         y="-48"
@@ -109,7 +120,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a1fe3074cbcf491098d4ac36fb529291"
-      targetConnections="id-36e2f1a37de44684b6c4e21f12f3c2ae">
+      targetConnections="id-36e2f1a37de44684b6c4e21f12f3c2ae"
+      fillColor="#28cd41">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c59e8e4ed0064bc689033ad8d68bb282"
