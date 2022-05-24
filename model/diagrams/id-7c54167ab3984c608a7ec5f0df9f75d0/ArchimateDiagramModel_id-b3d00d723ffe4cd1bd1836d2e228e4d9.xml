@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SGE. Modelo de gestión analítica"
+    name="SGE. Modelo de gestión basado en datos"
     id="id-b3d00d723ffe4cd1bd1836d2e228e4d9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
