@@ -110,7 +110,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ceefd721e94748989c581123616f4284"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Refuerzo del soporte en datos y Cadena de Valor.&#xA;&#xA;versión 0.12">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Refuerzo del soporte en datos y Cadena de Valor.&#xA;&#xA;versión 0.14">
     <bounds
         x="-108"
         y="-48"
@@ -249,10 +249,10 @@
         source="id-10abd8723cf0461ebe0d686d0b6f8fc5"
         target="id-77722e1871494f16be3a5d4bd5ee8e12">
       <bendpoints
-          startX="-113"
-          startY="-2"
+          startX="-124"
+          startY="-5"
           endX="38"
-          endY="106"/>
+          endY="103"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-4e71c90ceb2a4839b968e0d1b45da7d8.xml#id-4e71c90ceb2a4839b968e0d1b45da7d8"/>
@@ -276,11 +276,6 @@
         lineColor="#ff9500"
         source="id-77722e1871494f16be3a5d4bd5ee8e12"
         target="id-01ab52b093de4a93a9fa2febd22837ca">
-      <bendpoints
-          startX="-22"
-          startY="-98"
-          endX="-36"
-          endY="115"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-70d86029b796449eb3db8caf9086da9b.xml#id-70d86029b796449eb3db8caf9086da9b"/>
