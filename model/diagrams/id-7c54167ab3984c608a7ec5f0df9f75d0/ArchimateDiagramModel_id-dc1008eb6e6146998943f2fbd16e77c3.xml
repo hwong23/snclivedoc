@@ -426,12 +426,25 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-5d741206b9ce4289aa27bad80f778fe0"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Sistematización de necesidades analíticas. &#xA;Flujo de trabajo dos: ejecutar análisis&#xA;&#xA;versión 0.08">
+      content="Ministerio del Trabajo, UAESPE&#xA;Programa de Fortalecimiento del Empleo y Formación&#xA;&#xA;Arquitectura de solución analítica&#xA;Sistematización de necesidades analíticas. &#xA;Flujo de trabajo dos: ejecutar análisis&#xA;&#xA;versión 0.12">
     <bounds
         x="-105"
         y="12"
         width="286"
         height="132"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="1f578cf6-caf5-4080-b4a6-6916c0793adc"
+      textAlignment="1"
+      fillColor="#26ccff"
+      alpha="50"
+      borderType="1">
+    <bounds
+        x="348"
+        y="286"
+        width="973"
+        height="470"/>
   </children>
   <properties
       key="Sistema"
