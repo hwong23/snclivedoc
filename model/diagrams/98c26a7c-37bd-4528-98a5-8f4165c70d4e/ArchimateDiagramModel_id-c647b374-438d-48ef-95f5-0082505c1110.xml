@@ -14,7 +14,7 @@
     <bounds
         x="12"
         y="24"
-        width="264"
+        width="383"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -28,9 +28,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="456"
+        x="492"
         y="24"
-        width="322"
+        width="383"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -55,7 +55,7 @@
           href="RealizationRelationship_id-05c782fc-4c3e-434a-9c8d-1f6eec8c5ee7.xml#id-05c782fc-4c3e-434a-9c8d-1f6eec8c5ee7"/>
     </sourceConnections>
     <bounds
-        x="672"
+        x="696"
         y="232"
         width="167"
         height="55"/>
@@ -92,7 +92,7 @@
           href="RealizationRelationship_id-426238aa-3dea-4882-b810-67f53fc94ec3.xml#id-426238aa-3dea-4882-b810-67f53fc94ec3"/>
     </sourceConnections>
     <bounds
-        x="492"
+        x="516"
         y="232"
         width="167"
         height="55"/>
@@ -119,7 +119,7 @@
           href="RealizationRelationship_id-eb92d00e-a85a-4a88-9542-ebbadccff5cd.xml#id-eb92d00e-a85a-4a88-9542-ebbadccff5cd"/>
     </sourceConnections>
     <bounds
-        x="792"
+        x="816"
         y="168"
         width="167"
         height="55"/>
@@ -146,7 +146,7 @@
           href="RealizationRelationship_id-43e40047-cbfb-4ab0-a7d5-560a3bb92891.xml#id-43e40047-cbfb-4ab0-a7d5-560a3bb92891"/>
     </sourceConnections>
     <bounds
-        x="612"
+        x="636"
         y="168"
         width="167"
         height="55"/>
@@ -173,7 +173,7 @@
           href="RealizationRelationship_id-83785e02-02fd-46fd-9e51-1c84a43378bd.xml#id-83785e02-02fd-46fd-9e51-1c84a43378bd"/>
     </sourceConnections>
     <bounds
-        x="432"
+        x="456"
         y="168"
         width="167"
         height="55"/>
@@ -189,7 +189,7 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="370"
+        x="432"
         y="408"
         width="170"
         height="55"/>
@@ -226,7 +226,7 @@
           href="AssociationRelationship_id-b0347496-eb60-4c0d-833b-a70f5cbf6e71.xml#id-b0347496-eb60-4c0d-833b-a70f5cbf6e71"/>
     </sourceConnections>
     <bounds
-        x="587"
+        x="611"
         y="408"
         width="168"
         height="55"/>
@@ -434,7 +434,7 @@
           href="AssociationRelationship_id-9675a122-a583-4cd8-bd8b-aa9dc4f4a8c5.xml#id-9675a122-a583-4cd8-bd8b-aa9dc4f4a8c5"/>
     </sourceConnections>
     <bounds
-        x="587"
+        x="611"
         y="480"
         width="168"
         height="55"/>
