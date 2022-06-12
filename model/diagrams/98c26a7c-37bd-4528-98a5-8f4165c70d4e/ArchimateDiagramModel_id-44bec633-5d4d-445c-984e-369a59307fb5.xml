@@ -227,9 +227,9 @@
             href="ServingRelationship_id-a9d4e92c-f8db-4966-afa3-472a214a85f6.xml#id-a9d4e92c-f8db-4966-afa3-472a214a85f6"/>
       </sourceConnections>
       <bounds
-          x="70"
+          x="36"
           y="36"
-          width="120"
+          width="181"
           height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -252,9 +252,9 @@
             href="ServingRelationship_id-8efeae73-f0d0-413b-ba0f-d5e5aa76784e.xml#id-8efeae73-f0d0-413b-ba0f-d5e5aa76784e"/>
       </sourceConnections>
       <bounds
-          x="218"
+          x="228"
           y="36"
-          width="130"
+          width="135"
           height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -279,7 +279,7 @@
       <bounds
           x="368"
           y="36"
-          width="120"
+          width="145"
           height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -302,9 +302,9 @@
             href="ServingRelationship_id-e8b1b0db-7663-42f9-b93b-651c21d0ab2c.xml#id-e8b1b0db-7663-42f9-b93b-651c21d0ab2c"/>
       </sourceConnections>
       <bounds
-          x="504"
+          x="516"
           y="36"
-          width="120"
+          width="145"
           height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -319,7 +319,7 @@
       <bounds
           x="368"
           y="132"
-          width="120"
+          width="145"
           height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -332,9 +332,9 @@
         lineColor="#5c5c5c"
         fillColor="#ffffb5">
       <bounds
-          x="504"
+          x="516"
           y="132"
-          width="120"
+          width="145"
           height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
@@ -351,8 +351,8 @@
       lineColor="#5c5c5c"
       fillColor="#ffffb5">
     <bounds
-        x="36"
-        y="276"
+        x="18"
+        y="264"
         width="120"
         height="373"/>
     <archimateElement
@@ -363,7 +363,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="a99f01f0-aaa1-4f26-a12b-d96dd29a66b6"
       textAlignment="1"
-      content="Composición Servicio de Negocio SNC&#xD;&#xA;&#xD;&#xA;A través del Sistema Nacional de Cualificaciones se entiende las áreas laborales que más necesitan los trabajadores y, así, se formará en programas pertinentes y con claras salidas laborales.​">
+      content="Composición Servicio de Negocio SNC&#xD;&#xA;&#xD;&#xA;A través del Sistema Nacional de Cualificaciones se entiende las áreas laborales que más necesitan los trabajadores y, así, se formará en programas pertinentes y con claras salidas laborales.​&#xD;&#xA;versión 0.4">
     <bounds
         x="18"
         y="24"

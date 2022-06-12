@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BMM. Motivaciones Retos y Objetivos"
+    name="BMM. Motivaciones Retos y Objetivos. 1"
     id="id-69bfc6a2-034a-43b7-81c8-9fc4d8029cf8"
-    documentation="Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.&#xA;&#xA;Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). &#xA;&#xA;Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.&#xA;&#xA;Una vez realizado el diagnóstico de la situación actual, se  identificaron como objetivo central del Programa&#xA;&#xA;--Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.&#xA;&#xA;Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las políticas de empleo y de formación para el trabajo a través de mejoras técnicas, tecnológicas, institucionales y de gestión.">
+    documentation="Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.&#xA;&#xA;Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). &#xA;&#xA;Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.&#xA;&#xA;Una vez realizado el diagnóstico de la situación actual, se identificaron como objetivo central del Programa&#xA;&#xA;* Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.&#xA;&#xA;Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las políticas de empleo y de formación para el trabajo a través de mejoras técnicas, tecnológicas, institucionales y de gestión.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fe25eb2c-0bfe-47f0-a753-8df02fd1cda6"
@@ -256,7 +256,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-35d80e4a-0f00-402b-8ad3-04a65c41e849"
-      targetConnections="id-e0ba118d-55df-4ea0-9f91-ac8a433b0dd0 id-d28bc690-0ade-4d6f-a740-97ec323a8aef"
+      targetConnections="id-e0ba118d-55df-4ea0-9f91-ac8a433b0dd0"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -454,7 +454,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9405d01d-d9a0-4484-befe-eae5117f7aa6"
-      targetConnections="id-be6e0ff6-e7d4-43df-926f-0574cb1472c5 id-34364447-9878-43ca-98da-eb9bc7edbe97 id-685d8329-165e-45d5-aeb1-f1c3642b44b9"
+      targetConnections="id-be6e0ff6-e7d4-43df-926f-0574cb1472c5 id-34364447-9878-43ca-98da-eb9bc7edbe97 id-685d8329-165e-45d5-aeb1-f1c3642b44b9 id-3377127bec39466799d013867da667b9 id-d28bc690-0ade-4d6f-a740-97ec323a8aef"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -475,9 +475,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="361"
+        x="336"
         y="850"
-        width="144"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
@@ -491,9 +491,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="361"
+        x="336"
         y="924"
-        width="144"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
@@ -507,9 +507,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="521"
+        x="528"
         y="850"
-        width="144"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
@@ -523,9 +523,9 @@
       lineColor="#5c5c5c"
       fillColor="#ccccff">
     <bounds
-        x="521"
+        x="528"
         y="924"
-        width="144"
+        width="169"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Outcome"
@@ -543,7 +543,7 @@
         fontColor="#000000"
         lineColor="#000000"
         source="id-881329a5-156d-4ed8-89d0-3f561b53aa23"
-        target="id-35d80e4a-0f00-402b-8ad3-04a65c41e849">
+        target="id-9405d01d-d9a0-4484-befe-eae5117f7aa6">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-8cbd8516-38e8-4bce-8a6e-a698f9f4364d.xml#id-8cbd8516-38e8-4bce-8a6e-a698f9f4364d"/>
@@ -731,9 +731,18 @@
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3377127bec39466799d013867da667b9"
+        source="id-7fa4cc20-8039-42d0-9917-fcd042672435"
+        target="id-9405d01d-d9a0-4484-befe-eae5117f7aa6">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-1aa300c821734c6db0dfc0c5f1b1404f.xml#id-1aa300c821734c6db0dfc0c5f1b1404f"/>
+    </sourceConnections>
     <bounds
         x="18"
-        y="960"
+        y="504"
         width="156"
         height="55"/>
     <archimateElement

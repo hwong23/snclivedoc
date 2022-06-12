@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SGE. Productos contractuales"
+    name="SGE. Productos Contractuales"
     id="id-5b2f892b998146fc896209216b808e91"
     documentation="a.&#x9;Modelos ontológicos navegables y ejecutables que puedan ser usados en el respectivo motor de procesamiento de ontologías&#xD;&#xA;b.&#x9;Documento que explique la forma como se construyeron y aplicaron las ontologías internacionales y la definidas dentro del entorno nacional que contenga como mínimo lo siguiente:&#xD;&#xA;i.&#x9;La relación de Ontologías acordadas entre las partes, junto con sus descripciones y condiciones para su aplicación.&#xD;&#xA;ii.&#x9;Los resultados de su aplicación en los ámbitos nacional e internacional de acuerdo con la obligación enunciada donde muestre el resultado de su ejecución&#xD;&#xA;iii.&#x9;Las trazas sobre los problemas presentados durante el proceso de aplicación&#xD;&#xA;iv.&#x9;La relación y descripción de las fuentes utilizadas&#xD;&#xA;v.&#x9;Las recomendaciones relacionadas con futuros usos de las ontologías a nivel general y particular.&#xD;&#xA;vi.&#x9;Un informe con los resultados del piloto realizado como parte de las victorias tempranas trazadas para el Programa, junto con las observaciones y recomendaciones relacionadas con los temas investigados&#xD;&#xA;">
   <children
@@ -18,7 +18,7 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="456"
+        y="475"
         width="120"
         height="55"/>
     <archimateElement
@@ -30,10 +30,10 @@
       id="id-e21446d24d744bed8665d2a5fd8a888c"
       targetConnections="id-82d3fe66611648b08ed7a951873c7e02">
     <bounds
-        x="240"
-        y="72"
-        width="145"
-        height="55"/>
+        x="241"
+        y="36"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-aa8db203f5e949d38a248d4dcb0e2f92.xml#id-aa8db203f5e949d38a248d4dcb0e2f92"/>
@@ -43,10 +43,10 @@
       id="id-86843c95418047f18a7404b0dc4cb034"
       targetConnections="id-050cd84d47c446d0adda380e7388df38">
     <bounds
-        x="240"
-        y="132"
-        width="145"
-        height="55"/>
+        x="241"
+        y="120"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-c323d07ab0fb4506a490d74abb6ff656.xml#id-c323d07ab0fb4506a490d74abb6ff656"/>
@@ -56,10 +56,10 @@
       id="id-17cb319b31104e25a323f4229d8c350c"
       targetConnections="id-a1578a7f5216481e86e71e91881b89d5">
     <bounds
-        x="240"
-        y="192"
-        width="145"
-        height="55"/>
+        x="241"
+        y="205"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-e8cf6ab7eafd4a3e86ee2f8f83def93e.xml#id-e8cf6ab7eafd4a3e86ee2f8f83def93e"/>
@@ -69,10 +69,10 @@
       id="id-01b5d4bb54de464eaf4a2833cd54e7f5"
       targetConnections="id-90c81869039845d18d6ac794582c449e">
     <bounds
-        x="240"
-        y="252"
-        width="145"
-        height="55"/>
+        x="241"
+        y="290"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-9fc26b0a537e485181d4eb35e75893ad.xml#id-9fc26b0a537e485181d4eb35e75893ad"/>
@@ -82,10 +82,10 @@
       id="id-031697021c8e473085e731bb35529f08"
       targetConnections="id-7122ee61de804abeb777bbadc5307359">
     <bounds
-        x="239"
-        y="312"
-        width="145"
-        height="55"/>
+        x="240"
+        y="373"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-0dad31e12f4d47b6ac2ea2a69da2a04b.xml#id-0dad31e12f4d47b6ac2ea2a69da2a04b"/>
@@ -94,10 +94,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dbbc42e97dd347ba8d91afceb17d5a57">
     <bounds
-        x="396"
-        y="72"
-        width="145"
-        height="55"/>
+        x="457"
+        y="36"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-6e901e1f643741b0a5e183bd2ad9f27e.xml#id-6e901e1f643741b0a5e183bd2ad9f27e"/>
@@ -107,10 +107,10 @@
       id="id-e290339346084d3b9bdf311ddc50b3d0"
       targetConnections="id-e268063ddb384b1dbbe06492f6d6a7c1">
     <bounds
-        x="396"
-        y="132"
-        width="145"
-        height="55"/>
+        x="457"
+        y="120"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-920419afd1564f6da2dc085d48c867ae.xml#id-920419afd1564f6da2dc085d48c867ae"/>
@@ -120,10 +120,10 @@
       id="id-21db9fe5ea0443378de3c5c96438d4ad"
       targetConnections="id-1ccb9c5c0d82417d884d725c1e567523">
     <bounds
-        x="396"
-        y="192"
-        width="145"
-        height="55"/>
+        x="457"
+        y="205"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-9e2946e151614f6db0f8be698830f9ef.xml#id-9e2946e151614f6db0f8be698830f9ef"/>
@@ -133,10 +133,10 @@
       id="id-a0a7c4d468234964849aa2b92aec6aa3"
       targetConnections="id-c09a9ce029c64383a16ad7fda7d09bf2">
     <bounds
-        x="396"
-        y="252"
-        width="145"
-        height="55"/>
+        x="457"
+        y="290"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-4e766d9582b64f4b9e7965726ca9e5d2.xml#id-4e766d9582b64f4b9e7965726ca9e5d2"/>
@@ -146,10 +146,10 @@
       id="id-cb321123553c4dc5997a687c8bf28669"
       targetConnections="id-9044b2034327437aac6a817a0e187b8b">
     <bounds
-        x="396"
-        y="312"
-        width="145"
-        height="55"/>
+        x="457"
+        y="373"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-c44ea6f7f8524fcd91332cc7214f66c3.xml#id-c44ea6f7f8524fcd91332cc7214f66c3"/>
@@ -159,10 +159,10 @@
       id="id-f4b33f31e26746538632f0fa32bbfae5"
       targetConnections="id-41a420543ce64237a0c6049811c574fd">
     <bounds
-        x="396"
-        y="371"
-        width="145"
-        height="55"/>
+        x="457"
+        y="456"
+        width="205"
+        height="74"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-575a922821244eb2b405fcb6bfe60af0.xml#id-575a922821244eb2b405fcb6bfe60af0"/>

@@ -8,12 +8,12 @@
       xsi:type="archimate:DiagramModelNote"
       id="009218fe-2e58-44a3-81ba-03de4015a157"
       textAlignment="1"
-      content="Principales Usuarios y Servicios de Negocio del Sistema de Información Gerencial del Empleo (SGE)&#xA;&#xA;">
+      content="Principales Usuarios y Servicios de Negocio del Sistema de Información Gerencial del Empleo (SGE)&#xD;&#xA;&#xD;&#xA;versión 0.4">
     <bounds
         x="-96"
-        y="12"
-        width="185"
-        height="80"/>
+        y="120"
+        width="229"
+        height="120"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -111,7 +111,7 @@
     <bounds
         x="168"
         y="473"
-        width="600"
+        width="888"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -211,7 +211,7 @@
     <bounds
         x="864"
         y="768"
-        width="120"
+        width="192"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
@@ -507,4 +507,7 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_8daaa162-10eb-40b2-80d8-8abb34d253c0.xml#8daaa162-10eb-40b2-80d8-8abb34d253c0"/>
   </children>
+  <properties
+      key="Versión"
+      value="0.4"/>
 </archimate:ArchimateDiagramModel>
