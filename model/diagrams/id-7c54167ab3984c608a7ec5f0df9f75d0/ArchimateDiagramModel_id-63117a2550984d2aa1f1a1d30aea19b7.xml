@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BMM. Motivaciones Retos y Objetivos."
+    name="BMM. Motivaciones Retos y Objetivos. 2"
     id="id-63117a2550984d2aa1f1a1d30aea19b7"
     documentation="Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.&#xA;&#xA;Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). &#xA;&#xA;Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.&#xA;&#xA;Una vez realizado el diagnóstico de la situación actual, se identificaron como objetivo central del Programa&#xA;&#xA;* Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.&#xA;&#xA;Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las políticas de empleo y de formación para el trabajo a través de mejoras técnicas, tecnológicas, institucionales y de gestión.">
   <children
@@ -35,7 +35,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9d546979697641208a24f197f19e6d89"
-      targetConnections="id-3e35f0aa3a8842e8bddb3c89e8e3c7b2 4b391fb8-f788-4f83-a0f9-d2de9432ea08"
+      targetConnections="id-3e35f0aa3a8842e8bddb3c89e8e3c7b2"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ccccff">
@@ -75,7 +75,7 @@
     </sourceConnections>
     <bounds
         x="492"
-        y="309"
+        y="348"
         width="216"
         height="55"/>
     <archimateElement
@@ -113,6 +113,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-abf189f97bc34074a41b0b8a26708df4"
+      targetConnections="4b391fb8-f788-4f83-a0f9-d2de9432ea08"
       fontColor="#000000"
       lineColor="#5c5c5c"
       fillColor="#ffe0e0">
@@ -128,8 +129,8 @@
           href="AssociationRelationship_id-bb54367a-abdf-4089-bc38-223041f9744a.xml#id-bb54367a-abdf-4089-bc38-223041f9744a"/>
     </sourceConnections>
     <bounds
-        x="516"
-        y="144"
+        x="504"
+        y="204"
         width="168"
         height="55"/>
     <archimateElement
@@ -302,6 +303,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0579aa78-c819-4a2f-8d24-0a9ebe4be3ef"
         targetConnections="fa5c6798-f8cf-4985-b0b6-40000ab08f23">
+      <features
+          name="labelExpression"
+          value="Sistematizar las necesidades analíticas&#xA;"/>
       <bounds
           x="24"
           y="108"
@@ -315,6 +319,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="1f757acf-d892-40c8-89a0-08f994e3cea1"
         targetConnections="e3b1f68b-2813-4d25-b9f2-63f4eaa29524">
+      <features
+          name="labelExpression"
+          value="Soporte de decisión para la gestión de políticas de empleo"/>
       <bounds
           x="24"
           y="36"
@@ -328,6 +335,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="b58f77be-59ec-4afc-bf3c-0f1692523a52"
         targetConnections="63f1d28c-cb38-443e-bfaa-30aaee69c8a1">
+      <features
+          name="labelExpression"
+          value="Disminuir el esfuerzo del tratamiento de los insumos de datos"/>
       <bounds
           x="24"
           y="168"
@@ -439,14 +449,13 @@
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="4b391fb8-f788-4f83-a0f9-d2de9432ea08"
         source="id-db9ec3300f2a44c8819cb5e06e7d38c7"
-        target="id-9d546979697641208a24f197f19e6d89">
+        target="id-abf189f97bc34074a41b0b8a26708df4">
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_5313a048-8f6e-420b-a651-eeadd2731542.xml#5313a048-8f6e-420b-a651-eeadd2731542"/>
     </sourceConnections>
     <bounds
-        x="-12"
-        y="309"
+        y="252"
         width="400"
         height="415"/>
     <children
@@ -520,7 +529,7 @@
           x="192"
           y="102"
           width="156"
-          height="55"/>
+          height="79"/>
       <archimateElement
           xsi:type="archimate:Driver"
           href="Driver_id-8a956db3-f948-478a-93e9-8dc1bdd6c238.xml#id-8a956db3-f948-478a-93e9-8dc1bdd6c238"/>
@@ -575,7 +584,7 @@
           value="Lineamientos técnicos necesarios"/>
       <bounds
           x="192"
-          y="288"
+          y="252"
           width="156"
           height="55"/>
       <archimateElement
@@ -594,7 +603,7 @@
           value="Asimetrías de información"/>
       <bounds
           x="192"
-          y="228"
+          y="192"
           width="156"
           height="55"/>
       <archimateElement
@@ -612,8 +621,8 @@
           name="labelExpression"
           value="Costos de transacción"/>
       <bounds
-          x="192"
-          y="168"
+          x="24"
+          y="312"
           width="156"
           height="55"/>
       <archimateElement
@@ -632,7 +641,7 @@
           value="Baja articulación entre oferta y demanda laboral"/>
       <bounds
           x="192"
-          y="348"
+          y="312"
           width="156"
           height="55"/>
       <archimateElement
@@ -642,5 +651,62 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-ea7c40b6e2c94020ba1f7200297ca4d7.xml#id-ea7c40b6e2c94020ba1f7200297ca4d7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5ee98111fcae4d38aa76a46dcd8a465d">
+    <features
+        name="labelExpression"
+        value="Recolectar e integrar fuentes dinámicas"/>
+    <bounds
+        x="1080"
+        y="786"
+        width="181"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-c7aa5546a64c40859e78befe9984e80a.xml#id-c7aa5546a64c40859e78befe9984e80a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d0bb312bc0e640e6ad48d17dc546910c">
+    <features
+        name="labelExpression"
+        value="Procesar información de la oferta y demanda de cualificaciones"/>
+    <bounds
+        x="888"
+        y="851"
+        width="181"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-34b9059de8414b0bba77eeb7ee8a0692.xml#id-34b9059de8414b0bba77eeb7ee8a0692"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5d5275a8ce594ed78fea9507bb6b3289">
+    <features
+        name="labelExpression"
+        value="Apoyar a la toma de decisiones en política de empleo"/>
+    <bounds
+        x="1080"
+        y="851"
+        width="181"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-4fef5012797f45ddb475d638f0bf4013.xml#id-4fef5012797f45ddb475d638f0bf4013"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b8e888124d644463a078b410a2a60d05">
+    <bounds
+        x="888"
+        y="786"
+        width="181"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-2f71933511d9441b8fd0027bb9a90c55.xml#id-2f71933511d9441b8fd0027bb9a90c55"/>
   </children>
 </archimate:ArchimateDiagramModel>
