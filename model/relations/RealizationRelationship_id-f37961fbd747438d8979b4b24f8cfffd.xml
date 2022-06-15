@@ -4,9 +4,9 @@
     name="soporta"
     id="id-f37961fbd747438d8979b4b24f8cfffd">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-de2041fab1a44665843d80dcdf0f1e04.xml#id-de2041fab1a44665843d80dcdf0f1e04"/>
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-34134eafa7e94ee58f1d24f4569012f8.xml#id-34134eafa7e94ee58f1d24f4569012f8"/>
   <target
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-d9e71e8ab2a144caa0c1433c624928bb.xml#id-d9e71e8ab2a144caa0c1433c624928bb"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-8fdbdf7c36284703b811b41b9b934b93.xml#id-8fdbdf7c36284703b811b41b9b934b93"/>
 </archimate:RealizationRelationship>

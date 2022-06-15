@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="insumo"
+    id="id-29dc79e6a18e4709860018349a8e8d5e"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e97e2a4f6cdf46a1a25fa7ae599476a7.xml#id-e97e2a4f6cdf46a1a25fa7ae599476a7"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-8f8ff6f8fe594777b05d46ea8d1ee206.xml#id-8f8ff6f8fe594777b05d46ea8d1ee206"/>
+</archimate:AccessRelationship>

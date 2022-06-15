@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="provee"
+    id="id-dbf1194fb11f4d0f901e10c7d45c4a32">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-efa9dbf4856b4239ac93c2fa76175f12.xml#id-efa9dbf4856b4239ac93c2fa76175f12"/>
+  <target
+      xsi:type="archimate:AccessRelationship"
+      href="AccessRelationship_id-4dd7630d79484523913f9ba6147b2915.xml#id-4dd7630d79484523913f9ba6147b2915"/>
+</archimate:AssociationRelationship>
