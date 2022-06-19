@@ -262,9 +262,9 @@
           value="Marco de interoperabilidad entre sistemas del Programa y los conexos"/>
       <bounds
           x="192"
-          y="336"
+          y="324"
           width="181"
-          height="61"/>
+          height="73"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-98571d033206426fbcb085225c01239f.xml#id-98571d033206426fbcb085225c01239f"/>
