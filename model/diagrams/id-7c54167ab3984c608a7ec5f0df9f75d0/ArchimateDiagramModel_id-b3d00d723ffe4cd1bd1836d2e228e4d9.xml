@@ -46,6 +46,11 @@
           endX="-348"
           endY="-78"/>
       <bendpoints
+          startX="132"
+          startY="-78"
+          endX="-264"
+          endY="-78"/>
+      <bendpoints
           startX="180"
           startY="-78"
           endX="-168"
@@ -110,7 +115,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ceefd721e94748989c581123616f4284"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Refuerzo del soporte en datos y Cadena de Valor.&#xA;&#xA;versión 0.14">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Modelo de gestión de Políticas Públicas de Empleo.&#xA;Refuerzo del soporte en datos y Cadena de Valor.&#xA;&#xA;versión 0.16">
     <bounds
         x="-108"
         y="-48"
@@ -206,10 +211,10 @@
         source="id-10abd8723cf0461ebe0d686d0b6f8fc5"
         target="id-b93ef8d913104c9eafcc349363467b87">
       <bendpoints
-          startX="-40"
-          startY="-266"
-          endX="-16"
-          endY="64"/>
+          startX="-52"
+          startY="-185"
+          endX="-60"
+          endY="160"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-dbf1194fb11f4d0f901e10c7d45c4a32.xml#id-dbf1194fb11f4d0f901e10c7d45c4a32"/>
@@ -221,9 +226,8 @@
         target="id-ac5622e8538f465bba9cfeee84688435">
       <bendpoints
           startX="44"
-          startY="-362"
-          endX="24"
-          endY="32"/>
+          startY="-221"
+          endY="188"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-fb9b8827e67c47ad85c0176aef58bf7b.xml#id-fb9b8827e67c47ad85c0176aef58bf7b"/>
@@ -235,9 +239,9 @@
         target="id-234a30b83c224962b8613078247a1050">
       <bendpoints
           startX="-4"
-          startY="-434"
-          endX="20"
-          endY="23"/>
+          startY="-270"
+          endX="-11"
+          endY="201"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-ec36f764460f478dbbf29aa95515f6a7.xml#id-ec36f764460f478dbbf29aa95515f6a7"/>
