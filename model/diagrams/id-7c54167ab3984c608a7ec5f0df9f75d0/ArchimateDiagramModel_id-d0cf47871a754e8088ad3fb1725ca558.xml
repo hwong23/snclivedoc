@@ -39,7 +39,7 @@
     <bounds
         x="252"
         y="84"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -123,7 +123,7 @@
     <bounds
         x="252"
         y="362"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -133,7 +133,7 @@
       <bounds
           x="12"
           y="36"
-          width="193"
+          width="277"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -195,7 +195,7 @@
     <bounds
         x="252"
         y="504"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -205,7 +205,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="264"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -246,7 +246,7 @@
     <bounds
         x="252"
         y="648"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -255,7 +255,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="264"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -320,7 +320,7 @@
     <bounds
         x="252"
         y="223"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -356,7 +356,7 @@
       <bounds
           x="204"
           y="36"
-          width="180"
+          width="216"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -370,7 +370,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-4eb5230f1f4b45faaeeeb8bcece6f5b8"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica y sistemas adscritos&#xA;&#xA;Vista conceptual&#xA;versión 0.12">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica y sistemas adscritos&#xA;Vista conceptual&#xA;&#xA;versión 0.15">
     <bounds
         width="241"
         height="133"/>
@@ -382,7 +382,7 @@
       content="Nivel 0 de refinamiento de los datos&#xA;Flujo ascendente"
       borderType="1">
     <bounds
-        x="660"
+        x="708"
         y="708"
         width="169"
         height="60"/>
@@ -394,7 +394,7 @@
       content="Nivel 2 de refinamiento de los datos&#xA;Flujo ascendente"
       borderType="1">
     <bounds
-        x="660"
+        x="708"
         y="564"
         width="169"
         height="60"/>
@@ -406,7 +406,7 @@
       content="Nivel 3 de refinamiento de los datos&#xA;Flujo ascendente"
       borderType="1">
     <bounds
-        x="660"
+        x="708"
         y="420"
         width="169"
         height="60"/>
@@ -418,7 +418,7 @@
       content="Nivel 4 de refinamiento de los datos&#xA;Flujo ascendente"
       borderType="1">
     <bounds
-        x="660"
+        x="708"
         y="283"
         width="169"
         height="60"/>
@@ -513,7 +513,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -549,7 +549,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="240"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"

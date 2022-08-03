@@ -216,7 +216,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -267,7 +267,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -354,7 +354,7 @@
       <bounds
           x="204"
           y="36"
-          width="180"
+          width="204"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -368,7 +368,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-fc5cc03a7bca46778a5df6a5664f5382"
       textAlignment="1"
-      content="Ministerio del Trabajo, UAESPE&#xD;&#xA;Programa de Fortalecimiento del Empleo y Formación&#xD;&#xA;&#xD;&#xA;Arquitectura de solución analítica&#xD;&#xA;Vista conceptual. Módulos tres (3) y cuatro (4)&#xD;&#xA;&#xD;&#xA;versión 0.17">
+      content="Ministerio del Trabajo, UAESPE&#xD;&#xA;Programa de Fortalecimiento del Empleo y Formación&#xD;&#xA;&#xD;&#xA;Arquitectura de solución analítica&#xD;&#xA;Vista conceptual. Módulos tres (3) y cuatro (4)&#xD;&#xA;&#xD;&#xA;versión 0.18">
     <bounds
         x="-12"
         y="-12"

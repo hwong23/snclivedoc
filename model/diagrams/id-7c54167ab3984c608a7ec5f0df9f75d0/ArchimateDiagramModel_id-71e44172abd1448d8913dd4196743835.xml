@@ -142,9 +142,9 @@
           href="InfluenceRelationship_id-6edfbaeae9b644af92accce521f5224c.xml#id-6edfbaeae9b644af92accce521f5224c"/>
     </sourceConnections>
     <bounds
-        x="538"
-        y="273"
-        width="157"
+        x="526"
+        y="287"
+        width="181"
         height="79"/>
     <archimateElement
         xsi:type="archimate:Deliverable"
@@ -205,7 +205,7 @@
     </sourceConnections>
     <bounds
         x="742"
-        y="345"
+        y="371"
         width="181"
         height="79"/>
     <archimateElement
@@ -218,9 +218,9 @@
       targetConnections="id-f1d03e3fe18344828f354b23be8f7305">
     <bounds
         x="325"
-        y="453"
+        y="479"
         width="180"
-        height="55"/>
+        height="76"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-fe6579215c404fcb96976f530a791d59.xml#id-fe6579215c404fcb96976f530a791d59"/>
@@ -231,9 +231,9 @@
       targetConnections="id-d2325c523a064818b84ee12b09aa0fa0">
     <bounds
         x="527"
-        y="453"
+        y="479"
         width="180"
-        height="55"/>
+        height="76"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-d9880166e1f64c26be6c845f1dc6b42b.xml#id-d9880166e1f64c26be6c845f1dc6b42b"/>
@@ -245,9 +245,9 @@
       fillColor="#b5ffff">
     <bounds
         x="743"
-        y="453"
+        y="479"
         width="180"
-        height="55"/>
+        height="76"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-efa9dbf4856b4239ac93c2fa76175f12.xml#id-efa9dbf4856b4239ac93c2fa76175f12"/>
@@ -258,9 +258,9 @@
       targetConnections="id-d88f82f0f5a844d6b4cc0dad51b0a744">
     <bounds
         x="527"
-        y="525"
+        y="578"
         width="180"
-        height="55"/>
+        height="76"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-162410f54f6b4eaa9a36c752679480f3.xml#id-162410f54f6b4eaa9a36c752679480f3"/>
@@ -272,9 +272,9 @@
       fillColor="#b5ffff">
     <bounds
         x="743"
-        y="525"
+        y="578"
         width="180"
-        height="55"/>
+        height="76"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-1bbcba5e013a42a2bff125f954fd2f1a.xml#id-1bbcba5e013a42a2bff125f954fd2f1a"/>
@@ -322,7 +322,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-66305801b7c64b13bbfd41bd1c24694f"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xD;&#xA;Ministerio del Trabajo&#xD;&#xA;&#xA;Objetivos del diseño&#xA;Alcance de la solución&#xD;&#xA;Priorización de requerimientos de visualización y (analítica) de formulación de indicadores&#xD;&#xA;&#xD;&#xA;Versión 0.7">
+      content="Sistema Gerencial de Empleo&#xD;&#xA;Ministerio del Trabajo&#xD;&#xA;&#xA;Objetivos del diseño&#xA;Alcance de la solución. &#xA;Priorización de requerimientos de visualización y (analítica) de formulación de indicadores&#xD;&#xA;&#xD;&#xA;Versión 0.8">
     <bounds
         x="24"
         y="24"

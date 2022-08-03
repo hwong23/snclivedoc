@@ -117,7 +117,7 @@
     <bounds
         x="312"
         y="290"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -154,7 +154,7 @@
       <bounds
           x="12"
           y="36"
-          width="193"
+          width="265"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -224,7 +224,7 @@
     <bounds
         x="312"
         y="432"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -243,7 +243,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -293,7 +293,7 @@
     <bounds
         x="312"
         y="576"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -311,7 +311,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="252"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -361,7 +361,7 @@
     <bounds
         x="312"
         y="151"
-        width="400"
+        width="444"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -397,7 +397,7 @@
       <bounds
           x="204"
           y="36"
-          width="180"
+          width="216"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -411,7 +411,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-04c95187662848a68023d6ba20bd0647"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Vista conceptual&#xA;Relación con Requerimientos&#xA;&#xA;versión 0.6">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Vista conceptual&#xA;Relación con Requerimientos&#xA;&#xA;versión 0.8">
     <bounds
         x="15"
         y="12"
@@ -552,7 +552,7 @@
         targetConnections="id-7455160757fa40de9ceb97e535ef6826 id-e0955b1f520649ecbe24192ea88f50b3">
       <bounds
           x="12"
-          y="420"
+          y="360"
           width="168"
           height="55"/>
       <archimateElement
@@ -579,7 +579,7 @@
     <bounds
         x="312"
         y="720"
-        width="400"
+        width="444"
         height="140"/>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -599,7 +599,7 @@
           href="CompositionRelationship_id-a9c267f2dd234160982158d3431e559e.xml#id-a9c267f2dd234160982158d3431e559e"/>
     </sourceConnections>
     <bounds
-        x="792"
+        x="816"
         y="252"
         width="233"
         height="608"/>
@@ -611,7 +611,7 @@
           x="36"
           y="216"
           width="168"
-          height="55"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:Outcome"
           href="Outcome_id-d071220703c746d8b6e43a4c814a5ffe.xml#id-d071220703c746d8b6e43a4c814a5ffe"/>

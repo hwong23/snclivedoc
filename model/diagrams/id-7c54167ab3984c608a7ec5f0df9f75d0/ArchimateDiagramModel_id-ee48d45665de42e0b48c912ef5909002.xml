@@ -20,7 +20,7 @@
     <bounds
         x="72"
         y="24"
-        width="400"
+        width="421"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -172,7 +172,7 @@
     <bounds
         x="72"
         y="168"
-        width="400"
+        width="421"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -191,8 +191,8 @@
       <bounds
           x="12"
           y="36"
-          width="169"
-          height="55"/>
+          width="181"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-c32547f35e344b1984dd70f2cfdfee45.xml#id-c32547f35e344b1984dd70f2cfdfee45"/>
@@ -219,8 +219,8 @@
       <bounds
           x="216"
           y="36"
-          width="168"
-          height="55"/>
+          width="181"
+          height="61"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-2a607ad7dcca4c1194e8bac39e100552.xml#id-2a607ad7dcca4c1194e8bac39e100552"/>

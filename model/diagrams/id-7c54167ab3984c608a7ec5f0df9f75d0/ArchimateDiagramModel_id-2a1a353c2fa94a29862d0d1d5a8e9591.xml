@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ca20b3e02b014a66855aaa210b679fed"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Solución para requerimientos de visualización y de formulación de indicadores (objetivo 2 del diseño)&#xA;&#xA;Versión 0.8">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Solución para requerimientos de visualización y de formulación de indicadores (objetivo 2 del diseño)&#xA;&#xA;Versión 0.9">
     <bounds
         x="48"
         y="12"
@@ -106,7 +106,7 @@
       <bounds
           x="24"
           y="456"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -128,7 +128,7 @@
       <bounds
           x="24"
           y="120"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -150,7 +150,7 @@
       <bounds
           x="24"
           y="288"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -163,7 +163,7 @@
       <bounds
           x="24"
           y="540"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -203,7 +203,7 @@
       <bounds
           x="24"
           y="372"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -236,7 +236,7 @@
       <bounds
           x="24"
           y="36"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -269,7 +269,7 @@
       <bounds
           x="24"
           y="204"
-          width="144"
+          width="192"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -483,7 +483,7 @@
         source="id-addf5eb2e31e4a7e91bb04cf76797409"
         target="id-c176d21cf56f4e7d8d244ea2b82ab7ee"/>
     <bounds
-        x="60"
+        x="48"
         y="624"
         width="169"
         height="72"/>

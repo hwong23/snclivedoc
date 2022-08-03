@@ -38,7 +38,7 @@
     <bounds
         x="24"
         y="168"
-        width="400"
+        width="432"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -108,7 +108,7 @@
     <bounds
         x="24"
         y="446"
-        width="400"
+        width="432"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -118,7 +118,7 @@
       <bounds
           x="12"
           y="36"
-          width="193"
+          width="277"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -179,7 +179,7 @@
     <bounds
         x="24"
         y="588"
-        width="400"
+        width="432"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -189,7 +189,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="264"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -230,7 +230,7 @@
     <bounds
         x="24"
         y="732"
-        width="400"
+        width="432"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -239,7 +239,7 @@
       <bounds
           x="12"
           y="36"
-          width="180"
+          width="264"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -289,7 +289,7 @@
     <bounds
         x="24"
         y="307"
-        width="400"
+        width="432"
         height="120"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -325,7 +325,7 @@
       <bounds
           x="204"
           y="36"
-          width="180"
+          width="204"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -339,7 +339,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-591cd254fb3741b0a248d0ea0a91ccfd"
       textAlignment="1"
-      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Solución para requerimientos de visualización y de formulación de indicadores (objetivo 2 del diseño)&#xA;&#xA;versión 0.17">
+      content="Sistema Gerencial de Empleo&#xA;Ministerio del Trabajo&#xA;&#xA;Arquitectura de solución analítica&#xA;Solución para requerimientos de visualización y de formulación de indicadores (objetivo 2 del diseño)&#xA;&#xA;versión 0.18">
     <bounds
         x="24"
         y="12"
