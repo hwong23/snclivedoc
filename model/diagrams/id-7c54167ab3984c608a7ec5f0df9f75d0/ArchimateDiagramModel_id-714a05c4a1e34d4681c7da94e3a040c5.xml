@@ -132,6 +132,9 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-44d85052ffba496c8457cf1f62937f75">
+    <features
+        name="labelExpression"
+        value="Sistema de información Gerencial (SIG)"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f82773cd6c79472694db4f9ba3e56703"

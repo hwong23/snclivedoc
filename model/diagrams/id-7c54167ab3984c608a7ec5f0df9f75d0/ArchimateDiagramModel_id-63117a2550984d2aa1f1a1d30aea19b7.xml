@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BMM. Motivaciones Retos y Objetivos. 3"
+    name="BMM. Motivaciones Retos y Objetivos. 2"
     id="id-63117a2550984d2aa1f1a1d30aea19b7"
     documentation="Las entidades del sector trabajo tienen un reto muy importante en el contexto colombiano actual, caracterizado por altos niveles de desempleo (10,5% en 2019) frente otros países de Latinoamérica y altas tasas de informalidad laboral (superiores al 60%), junto con los bajos niveles de acceso y permanencia en el mercado laboral formal.&#xA;&#xA;Para el cuatrienio 2019-2022 se estableció una meta de generar 1,6 millones de empleos, según el PND. Adicionalmente, para el año 2019, la tasa de desempleo total nacional continúa ubicándose en dos dígitos, alcanzando un 10,5%, mientras que para las 23 principales ciudades fue de 11,5%. (DANE, 2019). &#xA;&#xA;Existe la necesidad apremiante que desde el sector trabajo se desarrollen acciones que mitiguen el desempleo, la informalidad, la falta de competencias pertinentes para el empleo, los altos costos de transacción en la búsqueda de empleo y las asimetrías de información con estrategias tecnológicas robustas que proporcionen información útil y oportuna y lineamientos técnicos necesarios para la toma decisiones de todos los actores del ecosistema de empleabilidad. En tal sentido, el presente proyecto de inversión busca contribuir al cumplimiento de los objetivos sectoriales y las metas consignadas en el nuevo Plan Nacional de Desarrollo 2018-2022 “Pacto por Colombia, Pacto por la Equidad”, el cual plantea importantes retos para el Sector Trabajo como la reducción del desempleo hasta alcanzar niveles del 7,9% y la reducción de la pobreza a partir de la generación de ingresos, empleos y autoempleos a partir de facilitar la vinculación al mercado de trabajo, el acceso a oportunidades de trabajo formal y la eliminación de barreras a toda la población que busca emplearse.&#xA;&#xA;Una vez realizado el diagnóstico de la situación actual, se identificaron como objetivo central del Programa&#xA;&#xA;* Fortalecer la política de empleo y de formación para el trabajo nacional que permitirá contribuir a la reducción de la tasa de desempleo a nivel nacional a partir de la generación de empleo a través de la implementación de procesos de fortalecimiento de pertinencia en la educación, reducción de los costos de transacción y duración del desempleo y la puesta en funcionamiento de procesos de emparejamiento de la oferta y demanda laboral con la rigurosidad y calidad que el país requiere.&#xA;&#xA;Desde el Ministerio del Trabajo se ha priorizado el fortalecimiento de las políticas de empleo y de formación para el trabajo a través de mejoras técnicas, tecnológicas, institucionales y de gestión.">
   <children
@@ -220,36 +220,63 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b3959bf4ad1d458a8b1c027efb83996d"
+        id="id-e5321ef320e74f0195d70a571822fb6f"
         source="id-9b81316886974dc3856bf4175808e640"
         target="id-5ee98111fcae4d38aa76a46dcd8a465d">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-a7a29b76eec0434d91f15ea4554fee91.xml#id-a7a29b76eec0434d91f15ea4554fee91"/>
+          href="CompositionRelationship_id-b84e23f61c9f47de86512ec063bdeb3f.xml#id-b84e23f61c9f47de86512ec063bdeb3f"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-97618014792d4edca61480b3b10e16cd"
+        id="id-e00870058b304d4c8b685a5a5cff64c0"
+        source="id-9b81316886974dc3856bf4175808e640"
+        target="id-e333be6207d5414688d2e0ab9f2f1704">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-939e4ecf18854441ba832a7b15bdd440.xml#id-939e4ecf18854441ba832a7b15bdd440"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-38c244a46d304de09f6b589a9c9b206d"
         source="id-9b81316886974dc3856bf4175808e640"
         target="id-5d5275a8ce594ed78fea9507bb6b3289">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-ad01f6ee03d94bf0a347ec1f5fda1d68.xml#id-ad01f6ee03d94bf0a347ec1f5fda1d68"/>
+          href="CompositionRelationship_id-07b1903cdd8a4126b80670bcfcaccce6.xml#id-07b1903cdd8a4126b80670bcfcaccce6"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2260d3e5ac5b4aa48e2d22b721f5fe89"
+        id="id-94f6cf048735467c9ce2b575396e8b9f"
         source="id-9b81316886974dc3856bf4175808e640"
         target="id-d0bb312bc0e640e6ad48d17dc546910c">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-f42efe9bcac74fd1b381036c89bdc240.xml#id-f42efe9bcac74fd1b381036c89bdc240"/>
+          href="CompositionRelationship_id-1496df107fd641b69410df1cae964003.xml#id-1496df107fd641b69410df1cae964003"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-f61bee97a6184d1199fdc7101bef862e"
+        source="id-9b81316886974dc3856bf4175808e640"
+        target="id-76d590a2e71041239943ba0fa96147eb">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-90730401b66546769a66868dd799f47b.xml#id-90730401b66546769a66868dd799f47b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6730780347d4456887fd0444160d1dcb"
+        source="id-9b81316886974dc3856bf4175808e640"
+        target="id-c19fb5ba8125434dafbae3e0c2aa61a9">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-0adc10a5ed8f4baf892cc5c88519e865.xml#id-0adc10a5ed8f4baf892cc5c88519e865"/>
     </sourceConnections>
     <bounds
         x="888"
-        y="309"
+        y="204"
         width="400"
-        height="414"/>
+        height="672"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-10064382b96444ef948894aeb36db648"
@@ -262,7 +289,7 @@
           value="Facilitar acceso a oportunidades"/>
       <bounds
           x="216"
-          y="36"
+          y="48"
           width="169"
           height="55"/>
       <archimateElement
@@ -281,7 +308,7 @@
           value="Mejorar la empleabilidad de la población"/>
       <bounds
           x="216"
-          y="96"
+          y="108"
           width="169"
           height="55"/>
       <archimateElement
@@ -300,7 +327,7 @@
           value="Disminuir los costos de transacción"/>
       <bounds
           x="24"
-          y="252"
+          y="264"
           width="181"
           height="55"/>
       <archimateElement
@@ -319,7 +346,7 @@
           value="Cerrar las brechas de capital humano"/>
       <bounds
           x="24"
-          y="324"
+          y="336"
           width="181"
           height="55"/>
       <archimateElement
@@ -335,7 +362,7 @@
           value="Sistematizar las necesidades analíticas&#xA;"/>
       <bounds
           x="24"
-          y="108"
+          y="120"
           width="181"
           height="49"/>
       <archimateElement
@@ -351,7 +378,7 @@
           value="Soporte de decisión para la gestión de políticas de empleo"/>
       <bounds
           x="24"
-          y="36"
+          y="48"
           width="181"
           height="61"/>
       <archimateElement
@@ -367,7 +394,7 @@
           value="Disminuir el esfuerzo del tratamiento de los insumos de datos"/>
       <bounds
           x="24"
-          y="168"
+          y="180"
           width="181"
           height="75"/>
       <archimateElement
@@ -377,13 +404,13 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5ee98111fcae4d38aa76a46dcd8a465d"
-        targetConnections="id-b3959bf4ad1d458a8b1c027efb83996d">
+        targetConnections="id-e5321ef320e74f0195d70a571822fb6f">
       <features
           name="labelExpression"
           value="Recolectar e integrar fuentes dinámicas"/>
       <bounds
           x="210"
-          y="168"
+          y="180"
           width="181"
           height="55"/>
       <archimateElement
@@ -392,14 +419,27 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e333be6207d5414688d2e0ab9f2f1704"
+        targetConnections="id-e00870058b304d4c8b685a5a5cff64c0 id-63aef93d20094f699d080aa98b27fd23">
+      <bounds
+          x="217"
+          y="504"
+          width="168"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-24f5282ec0cf4bbdaa3bee92f05f0b4a.xml#id-24f5282ec0cf4bbdaa3bee92f05f0b4a"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5d5275a8ce594ed78fea9507bb6b3289"
-        targetConnections="id-97618014792d4edca61480b3b10e16cd">
+        targetConnections="id-38c244a46d304de09f6b589a9c9b206d">
       <features
           name="labelExpression"
           value="Apoyar a la toma de decisiones en política de empleo"/>
       <bounds
           x="210"
-          y="228"
+          y="264"
           width="181"
           height="55"/>
       <archimateElement
@@ -409,18 +449,47 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d0bb312bc0e640e6ad48d17dc546910c"
-        targetConnections="id-2260d3e5ac5b4aa48e2d22b721f5fe89">
+        targetConnections="id-94f6cf048735467c9ce2b575396e8b9f">
       <features
           name="labelExpression"
           value="Procesar información de la oferta y demanda de cualificaciones"/>
       <bounds
           x="210"
-          y="306"
+          y="336"
           width="181"
-          height="72"/>
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-34b9059de8414b0bba77eeb7ee8a0692.xml#id-34b9059de8414b0bba77eeb7ee8a0692"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-76d590a2e71041239943ba0fa96147eb"
+        targetConnections="id-f61bee97a6184d1199fdc7101bef862e id-65aa2016d82e4c6fafa0978ada215935 id-8755eb594ff3455b82c7f37d4c1fcfba">
+      <features
+          name="labelExpression"
+          value="Crear Capacidades Analíticas en entidades del Programa"/>
+      <bounds
+          x="30"
+          y="450"
+          width="181"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-f2674bcd6b314c1f84bf0c9759de2ce4.xml#id-f2674bcd6b314c1f84bf0c9759de2ce4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c19fb5ba8125434dafbae3e0c2aa61a9"
+        targetConnections="id-6730780347d4456887fd0444160d1dcb id-b3c759c74b414d1eaf8af4931f45931c">
+      <bounds
+          x="217"
+          y="564"
+          width="168"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Goal"
+          href="Goal_id-2c545a5af2114ecd86d2ca0c595965a8.xml#id-2c545a5af2114ecd86d2ca0c595965a8"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -727,4 +796,99 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-ea7c40b6e2c94020ba1f7200297ca4d7.xml#id-ea7c40b6e2c94020ba1f7200297ca4d7"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4443fb0c5d3c4faaba8cd404b2579e30"
+      targetConnections="id-9503e194b4d44dfea523ea61bf2f1e93">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8755eb594ff3455b82c7f37d4c1fcfba"
+        source="id-4443fb0c5d3c4faaba8cd404b2579e30"
+        target="id-76d590a2e71041239943ba0fa96147eb">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-5c77a31b947c48418ddc73c029f7fcf0.xml#id-5c77a31b947c48418ddc73c029f7fcf0"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b3c759c74b414d1eaf8af4931f45931c"
+        source="id-4443fb0c5d3c4faaba8cd404b2579e30"
+        target="id-c19fb5ba8125434dafbae3e0c2aa61a9">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-54d336c5d99c4113805eda513c365051.xml#id-54d336c5d99c4113805eda513c365051"/>
+    </sourceConnections>
+    <bounds
+        x="636"
+        y="984"
+        width="206"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-c4947cee0b964709ab376d41c61d43b4.xml#id-c4947cee0b964709ab376d41c61d43b4"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-ac5258d8b9fe4d8c98344bff2d66fe78">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9503e194b4d44dfea523ea61bf2f1e93"
+        source="id-ac5258d8b9fe4d8c98344bff2d66fe78"
+        target="id-4443fb0c5d3c4faaba8cd404b2579e30">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-fb5646417b1445a6b74fb92bb74e79a7.xml#id-fb5646417b1445a6b74fb92bb74e79a7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-680d3dfe6c584c7e9e0d1aa4c96e0949"
+        source="id-ac5258d8b9fe4d8c98344bff2d66fe78"
+        target="id-d4a448a6dbf04710a60f9cd81fe9c890">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-32346bd534c44e9898160aa51c05c2e4.xml#id-32346bd534c44e9898160aa51c05c2e4"/>
+    </sourceConnections>
+    <bounds
+        x="444"
+        y="948"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-ec6fa32cce124551ab855faad2f16356.xml#id-ec6fa32cce124551ab855faad2f16356"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d4a448a6dbf04710a60f9cd81fe9c890"
+      targetConnections="id-680d3dfe6c584c7e9e0d1aa4c96e0949">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-65aa2016d82e4c6fafa0978ada215935"
+        source="id-d4a448a6dbf04710a60f9cd81fe9c890"
+        target="id-76d590a2e71041239943ba0fa96147eb">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-0cc387b491034d4b90ef821856d8fec5.xml#id-0cc387b491034d4b90ef821856d8fec5"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-63aef93d20094f699d080aa98b27fd23"
+        source="id-d4a448a6dbf04710a60f9cd81fe9c890"
+        target="id-e333be6207d5414688d2e0ab9f2f1704">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-a9780a14c8d24384abb55ca0820ea680.xml#id-a9780a14c8d24384abb55ca0820ea680"/>
+    </sourceConnections>
+    <bounds
+        x="636"
+        y="911"
+        width="206"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_id-f717db73cce543f6b04268035f801a2d.xml#id-f717db73cce543f6b04268035f801a2d"/>
+  </children>
+  <properties
+      key="Sistema"
+      value="SGE"/>
 </archimate:ArchimateDiagramModel>
