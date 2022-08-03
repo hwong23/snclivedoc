@@ -399,7 +399,7 @@
           value="Apoyar a la toma de decisiones en política de empleo"/>
       <bounds
           x="210"
-          y="252"
+          y="228"
           width="181"
           height="55"/>
       <archimateElement
@@ -415,9 +415,9 @@
           value="Procesar información de la oferta y demanda de cualificaciones"/>
       <bounds
           x="210"
-          y="324"
+          y="306"
           width="181"
-          height="55"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-34b9059de8414b0bba77eeb7ee8a0692.xml#id-34b9059de8414b0bba77eeb7ee8a0692"/>
